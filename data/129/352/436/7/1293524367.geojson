@@ -1,0 +1,71 @@
+{
+  "id": 1293524367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1284,16.0443,36.1284,16.0443",
+    "geom:latitude":16.0443,
+    "geom:longitude":36.1284,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hillat Tamantashar Isa al Haq",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386365,
+    "gn:latitude":16.0443,
+    "gn:longitude":36.1284,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Tamant\u0101shar \u012asa al H\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28illat Tamant\u0101shar \u2018\u012as\u00e1 al \u1e28aqq",
+        "Hillat Tamant\u0101shar \u012asa al H\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386365
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"af7637c4de90a1c61257b6127523866c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1293524367,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293524367,
+    "wof:lastmodified":1537699605,
+    "wof:name":"Hillat Tamantashar Isa al Haq",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1284,
+    16.0443,
+    36.1284,
+    16.0443
+],
+  "geometry": {"coordinates":[36.1284,16.0443],"type":"Point"}
+}

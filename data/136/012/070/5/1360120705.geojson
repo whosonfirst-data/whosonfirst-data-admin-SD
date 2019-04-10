@@ -1,0 +1,71 @@
+{
+  "id": 1360120705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,13.55,35.83333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Abu `Urwah",
+    "gn:country_code":"SD",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380372,
+    "gn:latitude":13.55,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u2018Urwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu \u2018Irwa",
+        "Ab\u016b \u2018Urwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091710023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380372
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a46c0127c2c6df44da6984fbbc883424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710023,
+            "locality_id":1360120705,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1360120705,
+    "wof:lastmodified":1537699592,
+    "wof:name":"Abu `Urwah",
+    "wof:parent_id":1091710023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    13.55,
+    35.83333,
+    13.55
+],
+  "geometry": {"coordinates":[35.83333,13.55],"type":"Point"}
+}

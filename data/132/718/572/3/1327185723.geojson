@@ -1,0 +1,70 @@
+{
+  "id": 1327185723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4425,14.2393,33.4425,14.2393",
+    "geom:latitude":14.2393,
+    "geom:longitude":33.4425,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"As Safa",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026667,
+    "gn:latitude":14.2393,
+    "gn:longitude":33.4425,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u015f \u015eafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026667
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d44951873960114faeea3a9061c4b957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1327185723,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327185723,
+    "wof:lastmodified":1537699658,
+    "wof:name":"As Safa",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4425,
+    14.2393,
+    33.4425,
+    14.2393
+],
+  "geometry": {"coordinates":[33.4425,14.2393],"type":"Point"}
+}

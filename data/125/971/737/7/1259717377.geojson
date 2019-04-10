@@ -1,0 +1,70 @@
+{
+  "id": 1259717377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5068,15.5512,35.5068,15.5512",
+    "geom:latitude":15.5512,
+    "geom:longitude":35.5068,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Wahid",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024594,
+    "gn:latitude":15.5512,
+    "gn:longitude":35.5068,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryah W\u0101\u1e29id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryah W\u0101\u1e29id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024594
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"374ca572d6f5bf9fd56e1193ca99d23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1259717377,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1259717377,
+    "wof:lastmodified":1537699635,
+    "wof:name":"Qaryah Wahid",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5068,
+    15.5512,
+    35.5068,
+    15.5512
+],
+  "geometry": {"coordinates":[35.5068,15.5512],"type":"Point"}
+}

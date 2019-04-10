@@ -1,0 +1,71 @@
+{
+  "id": 1259715125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,13.83333,30.75,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Sumaymah",
+    "gn:country_code":"SD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364562,
+    "gn:latitude":13.83333,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Sumaymah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Simeima",
+        "Umm Sumaymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364562
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a077684ebfef6db50d10f8510cebe4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1259715125,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1259715125,
+    "wof:lastmodified":1537699416,
+    "wof:name":"Umm Sumaymah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    13.83333,
+    30.75,
+    13.83333
+],
+  "geometry": {"coordinates":[30.75,13.83333],"type":"Point"}
+}

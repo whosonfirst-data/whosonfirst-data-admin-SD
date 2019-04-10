@@ -1,0 +1,71 @@
+{
+  "id": 1310142387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97034,10.21161,33.97034,10.21161",
+    "geom:latitude":10.21161,
+    "geom:longitude":33.97034,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Abu Maugud",
+    "gn:country_code":"SD",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380685,
+    "gn:latitude":10.21161,
+    "gn:longitude":33.97034,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Abu Maugud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Muqud",
+        "Abu Maugud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380685
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1a4fa340dd6fb33f2fe59104b6c3eb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1310142387,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1310142387,
+    "wof:lastmodified":1537699596,
+    "wof:name":"Abu Maugud",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97034,
+    10.21161,
+    33.97034,
+    10.21161
+],
+  "geometry": {"coordinates":[33.97034,10.21161],"type":"Point"}
+}

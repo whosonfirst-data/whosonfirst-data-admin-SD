@@ -1,0 +1,67 @@
+{
+  "id": 1259916121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33333,13.1,27.33333,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":27.33333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Abu Kabisa",
+    "gn:country_code":"SD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380752,
+    "gn:latitude":13.1,
+    "gn:longitude":27.33333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ab\u016b Kabisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091710835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380752
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bfb405a73c29482327b4061f8e34131e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710835,
+            "locality_id":1259916121,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1259916121,
+    "wof:lastmodified":1536732323,
+    "wof:name":"Abu Kabisa",
+    "wof:parent_id":1091710835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33333,
+    13.1,
+    27.33333,
+    13.1
+],
+  "geometry": {"coordinates":[27.33333,13.1],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276694395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63333,13.5,30.63333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":30.63333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Bushah",
+    "gn:country_code":"SD",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365229,
+    "gn:latitude":13.5,
+    "gn:longitude":30.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm B\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Busha",
+        "Umm B\u016bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365229
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"177d27d69e3291af6b212bfb32bbd5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276694395,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276694395,
+    "wof:lastmodified":1537699430,
+    "wof:name":"Umm Bushah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63333,
+    13.5,
+    30.63333,
+    13.5
+],
+  "geometry": {"coordinates":[30.63333,13.5],"type":"Point"}
+}

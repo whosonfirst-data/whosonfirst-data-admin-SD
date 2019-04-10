@@ -1,0 +1,71 @@
+{
+  "id": 1343296191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33333,12.96667,30.33333,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":30.33333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Wad al Bagha",
+    "gn:country_code":"SD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364304,
+    "gn:latitude":12.96667,
+    "gn:longitude":30.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad al Bagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Bagha",
+        "Wad al Bagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364304
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"84db69cee58d348a2bf287935f92dc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1343296191,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343296191,
+    "wof:lastmodified":1537699410,
+    "wof:name":"Wad al Bagha",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33333,
+    12.96667,
+    30.33333,
+    12.96667
+],
+  "geometry": {"coordinates":[30.33333,12.96667],"type":"Point"}
+}

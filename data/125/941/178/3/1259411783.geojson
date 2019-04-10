@@ -1,0 +1,70 @@
+{
+  "id": 1259411783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8508,12.8315,32.8508,12.8315",
+    "geom:latitude":12.8315,
+    "geom:longitude":32.8508,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ash Shekh Al Mahi",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854170,
+    "gn:latitude":12.8315,
+    "gn:longitude":32.8508,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Shekh Al M\u0101hi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ash Shekh Al M\u0101hi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854170
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1c7d99fba9eb56809f77831dac5b8d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1259411783,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1259411783,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Ash Shekh Al Mahi",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8508,
+    12.8315,
+    32.8508,
+    12.8315
+],
+  "geometry": {"coordinates":[32.8508,12.8315],"type":"Point"}
+}

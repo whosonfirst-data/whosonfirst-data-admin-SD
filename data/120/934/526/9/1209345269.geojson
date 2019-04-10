@@ -1,0 +1,61 @@
+{
+  "id": 1209345269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98875,10.19611,33.98875,10.19611",
+    "geom:latitude":10.19611,
+    "geom:longitude":33.98875,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Idris",
+    "gn:country_code":"SD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373590,
+    "gn:latitude":10.19611,
+    "gn:longitude":33.98875,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Idris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373590
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0a882324dffb5aa80d75c589eacc1cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209345269
+        }
+    ],
+    "wof:id":1209345269,
+    "wof:lastmodified":1536289933,
+    "wof:name":"Idris",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98875,
+    10.19611,
+    33.98875,
+    10.19611
+],
+  "geometry": {"coordinates":[33.98875,10.19611],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360215155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1224,13.14007,22.1224,13.14007",
+    "geom:latitude":13.14007,
+    "geom:longitude":22.1224,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Keirno",
+    "gn:country_code":"SD",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372649,
+    "gn:latitude":13.14007,
+    "gn:longitude":22.1224,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Keirno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keirno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372649
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a0ec59a533e89af540384132f562eff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1360215155,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1360215155,
+    "wof:lastmodified":1537699493,
+    "wof:name":"Keirno",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1224,
+    13.14007,
+    22.1224,
+    13.14007
+],
+  "geometry": {"coordinates":[22.1224,13.14007],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277113087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,13.53333,26.93333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Burush",
+    "gn:country_code":"SD",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377029,
+    "gn:latitude":13.53333,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Burush",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377029
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"232bd4d0188f6c5b2875d35b71ccd121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709005,
+            "locality_id":1277113087,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1277113087,
+    "wof:lastmodified":1536724180,
+    "wof:name":"Burush",
+    "wof:parent_id":1091709005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    13.53333,
+    26.93333,
+    13.53333
+],
+  "geometry": {"coordinates":[26.93333,13.53333],"type":"Point"}
+}

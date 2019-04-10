@@ -1,0 +1,66 @@
+{
+  "id": 1209357503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46194,15.04361,33.46194,15.04361",
+    "geom:latitude":15.04361,
+    "geom:longitude":33.46194,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Danaqilah",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376783,
+    "gn:latitude":15.04361,
+    "gn:longitude":33.46194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dan\u0101qilah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danaqla",
+        "Dan\u0101qilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376783
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6c79a736e90e8d8da76aca61a67e7188",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209357503
+        }
+    ],
+    "wof:id":1209357503,
+    "wof:lastmodified":1537699530,
+    "wof:name":"Danaqilah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46194000000001,
+    15.04361,
+    33.46194000000001,
+    15.04361
+],
+  "geometry": {"coordinates":[33.46194000000001,15.04361],"type":"Point"}
+}

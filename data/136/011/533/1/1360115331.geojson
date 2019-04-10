@@ -1,0 +1,67 @@
+{
+  "id": 1360115331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0114,12.557,31.0114,12.557",
+    "geom:latitude":12.557,
+    "geom:longitude":31.0114,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ad Dabkar",
+    "gn:country_code":"SD",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029023,
+    "gn:latitude":12.557,
+    "gn:longitude":31.0114,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ad Dabkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029023
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bec65e8409504c0ef6b1eaf1e987b247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1360115331,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360115331,
+    "wof:lastmodified":1536902195,
+    "wof:name":"Ad Dabkar",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0114,
+    12.557,
+    31.0114,
+    12.557
+],
+  "geometry": {"coordinates":[31.0114,12.557],"type":"Point"}
+}

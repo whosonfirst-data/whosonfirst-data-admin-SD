@@ -1,0 +1,71 @@
+{
+  "id": 1243300741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,12.45,29.16667,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Tayyibah",
+    "gn:country_code":"SD",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366310,
+    "gn:latitude":12.45,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taiyiba",
+        "\u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366310
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"35c234315c8452570a2b3883d877d7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1243300741,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1243300741,
+    "wof:lastmodified":1537699437,
+    "wof:name":"Tayyibah",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    12.45,
+    29.16667,
+    12.45
+],
+  "geometry": {"coordinates":[29.16667,12.45],"type":"Point"}
+}

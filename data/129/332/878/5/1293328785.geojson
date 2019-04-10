@@ -1,0 +1,71 @@
+{
+  "id": 1293328785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98333,12.91667,35.98333,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":35.98333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Su`ayfah",
+    "gn:country_code":"SD",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366766,
+    "gn:latitude":12.91667,
+    "gn:longitude":35.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Su\u2018ayfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u2018eifa",
+        "Su\u2018ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366766
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"99b37699774c8b6456c75dce80084327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705317,
+            "locality_id":1293328785,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1293328785,
+    "wof:lastmodified":1537699443,
+    "wof:name":"Su`ayfah",
+    "wof:parent_id":1091705317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98333,
+    12.91667,
+    35.98333,
+    12.91667
+],
+  "geometry": {"coordinates":[35.98333,12.91667],"type":"Point"}
+}

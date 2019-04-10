@@ -1,0 +1,71 @@
+{
+  "id": 1259720403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18333,12.91667,29.18333,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":29.18333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Al `Umdah",
+    "gn:country_code":"SD",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378976,
+    "gn:latitude":12.91667,
+    "gn:longitude":29.18333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al \u2018Umdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Umda",
+        "Al \u2018Umdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378976
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"93587239e6403dff38eb28d221d28c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1259720403,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1259720403,
+    "wof:lastmodified":1537699559,
+    "wof:name":"Al `Umdah",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18333,
+    12.91667,
+    29.18333,
+    12.91667
+],
+  "geometry": {"coordinates":[29.18333,12.91667],"type":"Point"}
+}

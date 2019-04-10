@@ -1,0 +1,67 @@
+{
+  "id": 1276481225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11667,13.81667,32.11667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":32.11667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Abu Hamra'",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380851,
+    "gn:latitude":13.81667,
+    "gn:longitude":32.11667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ab\u016b \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380851
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f55a7d9b53e4484b5500b099506198ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1276481225,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276481225,
+    "wof:lastmodified":1537074644,
+    "wof:name":"Abu Hamra'",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11667,
+    13.81667,
+    32.11667,
+    13.81667
+],
+  "geometry": {"coordinates":[32.11667,13.81667],"type":"Point"}
+}

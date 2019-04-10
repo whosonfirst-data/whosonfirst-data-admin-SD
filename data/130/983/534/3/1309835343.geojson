@@ -1,0 +1,72 @@
+{
+  "id": 1309835343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61667,12.66667,30.61667,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":30.61667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"An Nur",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378690,
+    "gn:latitude":12.66667,
+    "gn:longitude":30.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nur",
+        "En Nur",
+        "An N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378690
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e2bb77f1e9ffd7228a6369f9495fa29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1309835343,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1309835343,
+    "wof:lastmodified":1537699554,
+    "wof:name":"An Nur",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61667000000001,
+    12.66667,
+    30.61667000000001,
+    12.66667
+],
+  "geometry": {"coordinates":[30.61667000000001,12.66667],"type":"Point"}
+}

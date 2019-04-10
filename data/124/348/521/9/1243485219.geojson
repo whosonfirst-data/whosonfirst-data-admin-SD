@@ -1,0 +1,67 @@
+{
+  "id": 1243485219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08333,11.78333,23.08333,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":23.08333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Bumbil",
+    "gn:country_code":"SD",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377135,
+    "gn:latitude":11.78333,
+    "gn:longitude":23.08333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bumbil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377135
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"224d664ebdec677011d8e137a0a398bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707841,
+            "locality_id":1243485219,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1243485219,
+    "wof:lastmodified":1536749569,
+    "wof:name":"Bumbil",
+    "wof:parent_id":1091707841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08333,
+    11.78333,
+    23.08333,
+    11.78333
+],
+  "geometry": {"coordinates":[23.08333,11.78333],"type":"Point"}
+}

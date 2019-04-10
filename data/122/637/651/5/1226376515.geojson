@@ -1,0 +1,72 @@
+{
+  "id": 1226376515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6053,15.1572,32.6053,15.1572",
+    "geom:latitude":15.1572,
+    "geom:longitude":32.6053,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hillat Umm Jim`a",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373276,
+    "gn:latitude":15.1572,
+    "gn:longitude":32.6053,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Umm Jim\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gum\u2018a",
+        "Jum\u2018ah",
+        "Hillat Umm Jim\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373276
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba3baa24a400a468d9d896ed886534b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1226376515,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226376515,
+    "wof:lastmodified":1537699498,
+    "wof:name":"Hillat Umm Jim`a",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6053,
+    15.1572,
+    32.6053,
+    15.1572
+],
+  "geometry": {"coordinates":[32.6053,15.1572],"type":"Point"}
+}

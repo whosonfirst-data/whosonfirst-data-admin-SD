@@ -1,0 +1,71 @@
+{
+  "id": 1360219649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9,16.55,30.9,16.55",
+    "geom:latitude":16.55,
+    "geom:longitude":30.9,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"`Eilai",
+    "gn:country_code":"SD",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375972,
+    "gn:latitude":16.55,
+    "gn:longitude":30.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Eilai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ilay",
+        "\u2018Eilai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091709377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375972
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"071fbd6863f2fc4f7e4d8c34f0793840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709377,
+            "locality_id":1360219649,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1360219649,
+    "wof:lastmodified":1537699523,
+    "wof:name":"`Eilai",
+    "wof:parent_id":1091709377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9,
+    16.55,
+    30.9,
+    16.55
+],
+  "geometry": {"coordinates":[30.9,16.55],"type":"Point"}
+}

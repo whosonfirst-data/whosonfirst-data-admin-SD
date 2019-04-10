@@ -1,0 +1,71 @@
+{
+  "id": 1293031311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41667,13.3,29.41667,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":29.41667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Qurad",
+    "gn:country_code":"SD",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368342,
+    "gn:latitude":13.3,
+    "gn:longitude":29.41667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Qur\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerad",
+        "Qur\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368342
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2db64beed855bf58ddd4e802d72b0607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1293031311,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1293031311,
+    "wof:lastmodified":1537699462,
+    "wof:name":"Qurad",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41667,
+    13.3,
+    29.41667,
+    13.3
+],
+  "geometry": {"coordinates":[29.41667,13.3],"type":"Point"}
+}

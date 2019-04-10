@@ -1,0 +1,71 @@
+{
+  "id": 1226174029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32512,12.6866,24.32512,12.6866",
+    "geom:latitude":12.6866,
+    "geom:longitude":24.32512,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kaag Kulli",
+    "gn:country_code":"SD",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373229,
+    "gn:latitude":12.6866,
+    "gn:longitude":24.32512,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaag Kulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaang Kulli",
+        "Kaag Kulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373229
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bb1affd8e68d86fc6ca893208006c3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1226174029,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226174029,
+    "wof:lastmodified":1537699497,
+    "wof:name":"Kaag Kulli",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32512,
+    12.6866,
+    24.32512,
+    12.6866
+],
+  "geometry": {"coordinates":[24.32512,12.6866],"type":"Point"}
+}

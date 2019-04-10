@@ -1,0 +1,72 @@
+{
+  "id": 1292961927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6261,15.5344,32.6261,15.5344",
+    "geom:latitude":15.5344,
+    "geom:longitude":32.6261,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Um Dom",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365193,
+    "gn:latitude":15.5344,
+    "gn:longitude":32.6261,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Dom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Dom",
+        "Umm Dawm",
+        "Um Dom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365193
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"19618ba4b42b7c0527417cf1f9c1fd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707383,
+            "locality_id":1292961927,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1292961927,
+    "wof:lastmodified":1537699429,
+    "wof:name":"Um Dom",
+    "wof:parent_id":1091707383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6261,
+    15.5344,
+    32.6261,
+    15.5344
+],
+  "geometry": {"coordinates":[32.6261,15.5344],"type":"Point"}
+}

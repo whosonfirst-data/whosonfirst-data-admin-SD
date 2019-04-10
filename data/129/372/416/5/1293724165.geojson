@@ -1,0 +1,67 @@
+{
+  "id": 1293724165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0124,10.69959,30.0124,10.69959",
+    "geom:latitude":10.69959,
+    "geom:longitude":30.0124,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kando",
+    "gn:country_code":"SD",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8249914,
+    "gn:latitude":10.69959,
+    "gn:longitude":30.0124,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8249914
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e9ef02b3b0958bf30add078f3f520f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710275,
+            "locality_id":1293724165,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293724165,
+    "wof:lastmodified":1536943736,
+    "wof:name":"Kando",
+    "wof:parent_id":1091710275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0124,
+    10.69959,
+    30.0124,
+    10.69959
+],
+  "geometry": {"coordinates":[30.0124,10.69959],"type":"Point"}
+}

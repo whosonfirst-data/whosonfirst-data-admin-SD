@@ -1,0 +1,71 @@
+{
+  "id": 1276905199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00425,11.50227,23.00425,11.50227",
+    "geom:latitude":11.50227,
+    "geom:longitude":23.00425,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Hagar Banga",
+    "gn:country_code":"SD",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374336,
+    "gn:latitude":11.50227,
+    "gn:longitude":23.00425,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hagar Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar Banda",
+        "\u1e28ajar Banga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374336
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5f38dde98608ed9f8b8a870fc7a8a772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1276905199,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1276905199,
+    "wof:lastmodified":1537699513,
+    "wof:name":"Hagar Banga",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00425,
+    11.50227,
+    23.00425,
+    11.50227
+],
+  "geometry": {"coordinates":[23.00425,11.50227],"type":"Point"}
+}

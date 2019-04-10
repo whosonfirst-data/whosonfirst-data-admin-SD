@@ -1,0 +1,67 @@
+{
+  "id": 1225895831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8,14.95,32.8,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":32.8,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ureik Ilbil",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364408,
+    "gn:latitude":14.95,
+    "gn:longitude":32.8,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ureik Ilbil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364408
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e5c5fcdb32b12db70f776a3eedbefafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1225895831,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225895831,
+    "wof:lastmodified":1536942180,
+    "wof:name":"Ureik Ilbil",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8,
+    14.95,
+    32.8,
+    14.95
+],
+  "geometry": {"coordinates":[32.8,14.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310136229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2,13.45,30.2,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":30.2,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Sheria",
+    "gn:country_code":"SD",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364616,
+    "gn:latitude":13.45,
+    "gn:longitude":30.2,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Umm Sheria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364616
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dcc0e818d5fa96a94dfdd4ed18b9c5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1310136229,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310136229,
+    "wof:lastmodified":1536952451,
+    "wof:name":"Umm Sheria",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2,
+    13.45,
+    30.2,
+    13.45
+],
+  "geometry": {"coordinates":[30.2,13.45],"type":"Point"}
+}

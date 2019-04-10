@@ -1,0 +1,67 @@
+{
+  "id": 1343994941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,14.38333,30.65,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":30.65,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Mungara",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369712,
+    "gn:latitude":14.38333,
+    "gn:longitude":30.65,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Mungara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369712
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c6cd2ca068adec676ad87d4b6c3a992a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1343994941,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343994941,
+    "wof:lastmodified":1536969778,
+    "wof:name":"Mungara",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    14.38333,
+    30.65,
+    14.38333
+],
+  "geometry": {"coordinates":[30.65,14.38333],"type":"Point"}
+}

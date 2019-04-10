@@ -1,0 +1,70 @@
+{
+  "id": 1243590343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3397,14.954,32.3397,14.954",
+    "geom:latitude":14.954,
+    "geom:longitude":32.3397,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ash Shekh as Sidiq",
+    "gn:country_code":"SD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026002,
+    "gn:latitude":14.954,
+    "gn:longitude":32.3397,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Sh\u0113kh as Sid\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sh\u0113kh as Sid\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026002
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"01334d72469b7705fa0493ddbb53c903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1243590343,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243590343,
+    "wof:lastmodified":1537699637,
+    "wof:name":"Ash Shekh as Sidiq",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3397,
+    14.954,
+    32.3397,
+    14.954
+],
+  "geometry": {"coordinates":[32.3397,14.954],"type":"Point"}
+}

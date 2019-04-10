@@ -1,0 +1,61 @@
+{
+  "id": 1209566801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0166,14.9439,33.0166,14.9439",
+    "geom:latitude":14.9439,
+    "geom:longitude":33.0166,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Sidera",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026203,
+    "gn:latitude":14.9439,
+    "gn:longitude":33.0166,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Sidera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026203
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7a3f842dd166d175236e2cd13e1dd287",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209566801
+        }
+    ],
+    "wof:id":1209566801,
+    "wof:lastmodified":1536283215,
+    "wof:name":"Um Sidera",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0166,
+    14.9439,
+    33.0166,
+    14.9439
+],
+  "geometry": {"coordinates":[33.0166,14.9439],"type":"Point"}
+}

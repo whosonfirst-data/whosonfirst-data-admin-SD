@@ -1,0 +1,70 @@
+{
+  "id": 1276474225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6229,12.9444,31.6229,12.9444",
+    "geom:latitude":12.9444,
+    "geom:longitude":31.6229,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al `Awatfa",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029066,
+    "gn:latitude":12.9444,
+    "gn:longitude":31.6229,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Aw\u0101\u0163fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Aw\u0101\u0163fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029066
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3c0c939b123304d5250f49279abe026d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276474225,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276474225,
+    "wof:lastmodified":1537699668,
+    "wof:name":"Al `Awatfa",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6229,
+    12.9444,
+    31.6229,
+    12.9444
+],
+  "geometry": {"coordinates":[31.6229,12.9444],"type":"Point"}
+}

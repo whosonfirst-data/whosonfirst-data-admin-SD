@@ -1,0 +1,73 @@
+{
+  "id": 1293326249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,18.41667,30.71667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Amentego",
+    "gn:country_code":"SD",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378880,
+    "gn:latitude":18.41667,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Amentego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amentogo",
+        "Amantago",
+        "Amentago",
+        "Amentego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378880
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"09bff8d0f6db0f31e2fd41554e8f372d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705739,
+            "locality_id":1293326249,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1293326249,
+    "wof:lastmodified":1537699556,
+    "wof:name":"Amentego",
+    "wof:parent_id":1091705739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    18.41667,
+    30.71667,
+    18.41667
+],
+  "geometry": {"coordinates":[30.71667,18.41667],"type":"Point"}
+}

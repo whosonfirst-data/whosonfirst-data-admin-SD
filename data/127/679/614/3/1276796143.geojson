@@ -1,0 +1,71 @@
+{
+  "id": 1276796143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,12.46667,24.1,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":24.1,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kalu",
+    "gn:country_code":"SD",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372983,
+    "gn:latitude":12.46667,
+    "gn:longitude":24.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaulu",
+        "Kalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372983
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8eb4cbc39fcfda786df52333096af326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1276796143,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276796143,
+    "wof:lastmodified":1537699495,
+    "wof:name":"Kalu",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    12.46667,
+    24.1,
+    12.46667
+],
+  "geometry": {"coordinates":[24.1,12.46667],"type":"Point"}
+}

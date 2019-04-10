@@ -1,0 +1,67 @@
+{
+  "id": 1226081495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95,17.65,33.95,17.65",
+    "geom:latitude":17.65,
+    "geom:longitude":33.95,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Umm Tuyur",
+    "gn:country_code":"SD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364507,
+    "gn:latitude":17.65,
+    "gn:longitude":33.95,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm \u0162uy\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364507
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9e81841f0cac46af99a272ad9005dbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709911,
+            "locality_id":1226081495,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226081495,
+    "wof:lastmodified":1536673519,
+    "wof:name":"Umm Tuyur",
+    "wof:parent_id":1091709911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95,
+    17.65,
+    33.95,
+    17.65
+],
+  "geometry": {"coordinates":[33.95,17.65],"type":"Point"}
+}

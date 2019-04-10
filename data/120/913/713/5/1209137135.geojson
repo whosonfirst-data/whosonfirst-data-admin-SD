@@ -1,0 +1,65 @@
+{
+  "id": 1209137135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4353,13.8072,32.4353,13.8072",
+    "geom:latitude":13.8072,
+    "geom:longitude":32.4353,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Jar Ash Shirqiyya",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365099,
+    "gn:latitude":13.8072,
+    "gn:longitude":32.4353,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Jar Ash Shirqiyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Garr East",
+        "Um Jar Ash Shirqiyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365099
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b0097d4953450bb0350fb905b4244072",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209137135
+        }
+    ],
+    "wof:id":1209137135,
+    "wof:lastmodified":1537699427,
+    "wof:name":"Um Jar Ash Shirqiyya",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4353,
+    13.8072,
+    32.4353,
+    13.8072
+],
+  "geometry": {"coordinates":[32.4353,13.8072],"type":"Point"}
+}

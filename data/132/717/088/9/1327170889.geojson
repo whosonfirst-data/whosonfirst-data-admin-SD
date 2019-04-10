@@ -1,0 +1,74 @@
+{
+  "id": 1327170889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2765,14.6331,32.2765,14.6331",
+    "geom:latitude":14.6331,
+    "geom:longitude":32.2765,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ab `Ajaj",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381032,
+    "gn:latitude":14.6331,
+    "gn:longitude":32.2765,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab \u2018Aj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab \u2018Aj\u0101j"
+    ],
+    "name:und_x_variant":[
+        "Abu \u2018Agag",
+        "Ab\u016b \u2018Aj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381032
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0352404651ebe146fa0dc4e648e97780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1327170889,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327170889,
+    "wof:lastmodified":1537699601,
+    "wof:name":"Ab `Ajaj",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2765,
+    14.6331,
+    32.2765,
+    14.6331
+],
+  "geometry": {"coordinates":[32.2765,14.6331],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326773369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.612,14.424,32.612,14.424",
+    "geom:latitude":14.424,
+    "geom:longitude":32.612,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Amara `Awad al Karim",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026501,
+    "gn:latitude":14.424,
+    "gn:longitude":32.612,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Am\u0101ra \u2018Awa\u1e11 al Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Am\u0101ra \u2018Awa\u1e11 al Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026501
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"39aab5507eb87a424ed07ce8f65822b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1326773369,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1326773369,
+    "wof:lastmodified":1537699654,
+    "wof:name":"Al `Amara `Awad al Karim",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61199999999999,
+    14.424,
+    32.61199999999999,
+    14.424
+],
+  "geometry": {"coordinates":[32.61199999999999,14.424],"type":"Point"}
+}

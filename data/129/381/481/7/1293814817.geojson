@@ -1,0 +1,67 @@
+{
+  "id": 1293814817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43333,19.55,30.43333,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":30.43333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Abu Hagar",
+    "gn:country_code":"SD",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380872,
+    "gn:latitude":19.55,
+    "gn:longitude":30.43333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Abu Hagar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380872
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d6ccab58d3f0dd060720874fba8146c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705689,
+            "locality_id":1293814817,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1293814817,
+    "wof:lastmodified":1536811809,
+    "wof:name":"Abu Hagar",
+    "wof:parent_id":1091705689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43333,
+    19.55,
+    30.43333,
+    19.55
+],
+  "geometry": {"coordinates":[30.43333,19.55],"type":"Point"}
+}

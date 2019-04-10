@@ -1,0 +1,61 @@
+{
+  "id": 1209549655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2846,13.7093,32.2846,13.7093",
+    "geom:latitude":13.7093,
+    "geom:longitude":32.2846,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"At Tonsa",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018743,
+    "gn:latitude":13.7093,
+    "gn:longitude":32.2846,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Tonsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018743
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"046231a8797c6ccd331821b14cf4b6f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549655
+        }
+    ],
+    "wof:id":1209549655,
+    "wof:lastmodified":1536283735,
+    "wof:name":"At Tonsa",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2846,
+    13.7093,
+    32.2846,
+    13.7093
+],
+  "geometry": {"coordinates":[32.2846,13.7093],"type":"Point"}
+}

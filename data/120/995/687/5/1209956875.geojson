@@ -1,0 +1,72 @@
+{
+  "id": 1209956875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11083,19.38944,37.11083,19.38944",
+    "geom:latitude":19.38944,
+    "geom:longitude":37.11083,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Salum",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443909,
+    "gn:latitude":19.38944,
+    "gn:longitude":37.11083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sal\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sallom",
+        "Sal\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443909
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b19ce604d0740d850871115162c069e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710957,
+            "locality_id":1209956875,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1209956875,
+    "wof:lastmodified":1537699606,
+    "wof:name":"Salum",
+    "wof:parent_id":1091710957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11083,
+    19.38944,
+    37.11083,
+    19.38944
+],
+  "geometry": {"coordinates":[37.11083,19.38944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344188239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3633,13.6375,32.3633,13.6375",
+    "geom:latitude":13.6375,
+    "geom:longitude":32.3633,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ar Rawda",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018760,
+    "gn:latitude":13.6375,
+    "gn:longitude":32.3633,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar Raw\u1e11a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Raw\u1e11a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018760
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8a41eaeaea70644f2999140acecf65b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1344188239,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1344188239,
+    "wof:lastmodified":1537699632,
+    "wof:name":"Ar Rawda",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3633,
+    13.6375,
+    32.3633,
+    13.6375
+],
+  "geometry": {"coordinates":[32.3633,13.6375],"type":"Point"}
+}

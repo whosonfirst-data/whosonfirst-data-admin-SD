@@ -1,0 +1,72 @@
+{
+  "id": 1260013751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63333,18.56667,30.63333,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":30.63333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Umm Karabiq",
+    "gn:country_code":"SD",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364926,
+    "gn:latitude":18.56667,
+    "gn:longitude":30.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Kar\u0101biq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Karabig",
+        "Umm Karabik",
+        "Umm Kar\u0101biq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364926
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7cec8c16477b465fe93eb2bf3e5ef76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705739,
+            "locality_id":1260013751,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1260013751,
+    "wof:lastmodified":1537699423,
+    "wof:name":"Umm Karabiq",
+    "wof:parent_id":1091705739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63333,
+    18.56667,
+    30.63333,
+    18.56667
+],
+  "geometry": {"coordinates":[30.63333,18.56667],"type":"Point"}
+}

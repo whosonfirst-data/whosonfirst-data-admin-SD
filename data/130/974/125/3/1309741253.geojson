@@ -1,0 +1,71 @@
+{
+  "id": 1309741253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28333,13.36667,30.28333,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":30.28333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Faraj Allah",
+    "gn:country_code":"SD",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375499,
+    "gn:latitude":13.36667,
+    "gn:longitude":30.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Faraj All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faragullah",
+        "Faraj All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375499
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"10596df4a8c8f2c24dec51823ec3e4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1309741253,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1309741253,
+    "wof:lastmodified":1537699520,
+    "wof:name":"Faraj Allah",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28333,
+    13.36667,
+    30.28333,
+    13.36667
+],
+  "geometry": {"coordinates":[30.28333,13.36667],"type":"Point"}
+}

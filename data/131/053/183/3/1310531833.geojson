@@ -1,0 +1,67 @@
+{
+  "id": 1310531833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34817,12.84251,23.34817,12.84251",
+    "geom:latitude":12.84251,
+    "geom:longitude":23.34817,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gumbanga",
+    "gn:country_code":"SD",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7755204,
+    "gn:latitude":12.84251,
+    "gn:longitude":23.34817,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gumbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755204
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"983329c767dd92bd545f200e6be15e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709375,
+            "locality_id":1310531833,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1310531833,
+    "wof:lastmodified":1536878235,
+    "wof:name":"Gumbanga",
+    "wof:parent_id":1091709375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34817,
+    12.84251,
+    23.34817,
+    12.84251
+],
+  "geometry": {"coordinates":[23.34817,12.84251],"type":"Point"}
+}

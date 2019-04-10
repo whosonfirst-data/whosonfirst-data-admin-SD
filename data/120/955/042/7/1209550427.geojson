@@ -1,0 +1,64 @@
+{
+  "id": 1209550427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3896,13.174,32.3896,13.174",
+    "geom:latitude":13.174,
+    "geom:longitude":32.3896,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dafuri",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376878,
+    "gn:latitude":13.174,
+    "gn:longitude":32.3896,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u0101f\u016bri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101f\u016bri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376878
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1c83d2bb754023c0b2d4a0fa608a156e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209550427
+        }
+    ],
+    "wof:id":1209550427,
+    "wof:lastmodified":1537699531,
+    "wof:name":"Dafuri",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3896,
+    13.174,
+    32.3896,
+    13.174
+],
+  "geometry": {"coordinates":[32.3896,13.174],"type":"Point"}
+}

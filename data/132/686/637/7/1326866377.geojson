@@ -1,0 +1,67 @@
+{
+  "id": 1326866377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28333,13.15,23.28333,13.15",
+    "geom:latitude":13.15,
+    "geom:longitude":23.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Dei",
+    "gn:country_code":"SD",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":376610,
+    "gn:latitude":13.15,
+    "gn:longitude":23.28333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376610
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"24a17e3cc83ccfadf123fb40d510db3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":1326866377,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1326866377,
+    "wof:lastmodified":1536998752,
+    "wof:name":"Dei",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28333,
+    13.15,
+    23.28333,
+    13.15
+],
+  "geometry": {"coordinates":[23.28333,13.15],"type":"Point"}
+}

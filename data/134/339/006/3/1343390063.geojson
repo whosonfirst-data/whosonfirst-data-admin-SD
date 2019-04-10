@@ -1,0 +1,67 @@
+{
+  "id": 1343390063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4456,15.6499,35.4456,15.6499",
+    "geom:latitude":15.6499,
+    "geom:longitude":35.4456,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hillat Rerah",
+    "gn:country_code":"SD",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024498,
+    "gn:latitude":15.6499,
+    "gn:longitude":35.4456,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Rerah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024498
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0850d9ab5f955bd266895a7b6e7e075a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1343390063,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1343390063,
+    "wof:lastmodified":1536846824,
+    "wof:name":"Hillat Rerah",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4456,
+    15.6499,
+    35.4456,
+    15.6499
+],
+  "geometry": {"coordinates":[35.4456,15.6499],"type":"Point"}
+}

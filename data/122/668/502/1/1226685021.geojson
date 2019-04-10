@@ -1,0 +1,71 @@
+{
+  "id": 1226685021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5179,14.4544,32.5179,14.4544",
+    "geom:latitude":14.4544,
+    "geom:longitude":32.5179,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Uraq al Qala`ab",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364419,
+    "gn:latitude":14.4544,
+    "gn:longitude":32.5179,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Uraq al Qala\u2018ab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Uraq",
+        "\u2018Uraq al Qala\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364419
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6e95c18aeabe07805d506d6e77c6608c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226685021,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226685021,
+    "wof:lastmodified":1537699413,
+    "wof:name":"`Uraq al Qala`ab",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5179,
+    14.4544,
+    32.5179,
+    14.4544
+],
+  "geometry": {"coordinates":[32.5179,14.4544],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293819857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57706,10.98564,30.57706,10.98564",
+    "geom:latitude":10.98564,
+    "geom:longitude":30.57706,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bugra",
+    "gn:country_code":"SD",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377180,
+    "gn:latitude":10.98564,
+    "gn:longitude":30.57706,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bugra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091707969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377180
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5c2af8145c49192f9660bb051d945316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707969,
+            "locality_id":1293819857,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293819857,
+    "wof:lastmodified":1536804826,
+    "wof:name":"Bugra",
+    "wof:parent_id":1091707969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57706,
+    10.98564,
+    30.57706,
+    10.98564
+],
+  "geometry": {"coordinates":[30.57706,10.98564],"type":"Point"}
+}

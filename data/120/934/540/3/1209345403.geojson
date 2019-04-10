@@ -1,0 +1,65 @@
+{
+  "id": 1209345403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93333,12.93333,35.93333,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":35.93333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad al Balulah",
+    "gn:country_code":"SD",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364301,
+    "gn:latitude":12.93333,
+    "gn:longitude":35.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad al Bal\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Belula",
+        "Wad al Bal\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364301
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7c2a859520b7dc56797071af5bab6867",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209345403
+        }
+    ],
+    "wof:id":1209345403,
+    "wof:lastmodified":1537699410,
+    "wof:name":"Wad al Balulah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93333,
+    12.93333,
+    35.93333,
+    12.93333
+],
+  "geometry": {"coordinates":[35.93333,12.93333],"type":"Point"}
+}

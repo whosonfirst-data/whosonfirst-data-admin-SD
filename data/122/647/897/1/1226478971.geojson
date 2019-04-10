@@ -1,0 +1,67 @@
+{
+  "id": 1226478971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7,12.61667,25.7,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":25.7,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Tebeldina",
+    "gn:country_code":"SD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366289,
+    "gn:latitude":12.61667,
+    "gn:longitude":25.7,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tebeldina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366289
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a1bae7321c1db184c2a128446c66eedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1226478971,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1226478971,
+    "wof:lastmodified":1537090930,
+    "wof:name":"Tebeldina",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7,
+    12.61667,
+    25.7,
+    12.61667
+],
+  "geometry": {"coordinates":[25.7,12.61667],"type":"Point"}
+}

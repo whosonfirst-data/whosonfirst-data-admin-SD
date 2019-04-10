@@ -1,0 +1,70 @@
+{
+  "id": 1343591959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8261,12.7131,32.8261,12.7131",
+    "geom:latitude":12.7131,
+    "geom:longitude":32.8261,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Mararid",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854196,
+    "gn:latitude":12.7131,
+    "gn:longitude":32.8261,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mar\u0101r\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101r\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854196
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7d76edcaf01c48b860ff2c64532d250e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1343591959,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343591959,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Mararid",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8261,
+    12.7131,
+    32.8261,
+    12.7131
+],
+  "geometry": {"coordinates":[32.8261,12.7131],"type":"Point"}
+}

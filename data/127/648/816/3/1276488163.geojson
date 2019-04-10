@@ -1,0 +1,73 @@
+{
+  "id": 1276488163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3073,14.7918,33.3073,14.7918",
+    "geom:latitude":14.7918,
+    "geom:longitude":33.3073,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Aj Jined",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6957938,
+    "gn:latitude":14.7918,
+    "gn:longitude":33.3073,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aj Jined",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guneid",
+        "Al Junayd",
+        "Junayd",
+        "Aj Jined"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957938
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d5b8ec7626c146224a1440812343299a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1276488163,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276488163,
+    "wof:lastmodified":1537699616,
+    "wof:name":"Aj Jined",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3073,
+    14.7918,
+    33.3073,
+    14.7918
+],
+  "geometry": {"coordinates":[33.3073,14.7918],"type":"Point"}
+}

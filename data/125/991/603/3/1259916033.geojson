@@ -1,0 +1,70 @@
+{
+  "id": 1259916033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2853,13.7809,32.2853,13.7809",
+    "geom:latitude":13.7809,
+    "geom:longitude":32.2853,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Laham",
+    "gn:country_code":"SD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018727,
+    "gn:latitude":13.7809,
+    "gn:longitude":32.2853,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um La\u1e29am",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um La\u1e29am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018727
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b398a494a0d8f6af0d067d5367ae48b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1259916033,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1259916033,
+    "wof:lastmodified":1537699631,
+    "wof:name":"Um Laham",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2853,
+    13.7809,
+    32.2853,
+    13.7809
+],
+  "geometry": {"coordinates":[32.2853,13.7809],"type":"Point"}
+}

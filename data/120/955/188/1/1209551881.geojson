@@ -1,0 +1,65 @@
+{
+  "id": 1209551881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3824,11.5663,34.3824,11.5663",
+    "geom:latitude":11.5663,
+    "geom:longitude":34.3824,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ufud",
+    "gn:country_code":"SD",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365466,
+    "gn:latitude":11.5663,
+    "gn:longitude":34.3824,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ufud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uffat",
+        "Ufud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365466
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8cdadea5e1a1406eb72dc2705146155b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209551881
+        }
+    ],
+    "wof:id":1209551881,
+    "wof:lastmodified":1537699432,
+    "wof:name":"Ufud",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3824,
+    11.5663,
+    34.3824,
+    11.5663
+],
+  "geometry": {"coordinates":[34.3824,11.5663],"type":"Point"}
+}

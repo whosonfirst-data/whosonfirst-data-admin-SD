@@ -1,0 +1,67 @@
+{
+  "id": 1293718551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7206,12.4058,32.7206,12.4058",
+    "geom:latitude":12.4058,
+    "geom:longitude":32.7206,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Hababa al Barta",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504221,
+    "gn:latitude":12.4058,
+    "gn:longitude":32.7206,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Hababa al Barta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504221
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5b62d7fd535fea6b63323bf4009db8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1293718551,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293718551,
+    "wof:lastmodified":1536951593,
+    "wof:name":"Um Hababa al Barta",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7206,
+    12.4058,
+    32.7206,
+    12.4058
+],
+  "geometry": {"coordinates":[32.7206,12.4058],"type":"Point"}
+}

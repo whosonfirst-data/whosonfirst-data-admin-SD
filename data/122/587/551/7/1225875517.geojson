@@ -1,0 +1,71 @@
+{
+  "id": 1225875517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63333,13.25,30.63333,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":30.63333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Kowil an Na`am",
+    "gn:country_code":"SD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372079,
+    "gn:latitude":13.25,
+    "gn:longitude":30.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kowil an Na\u2018\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kowil en Na\u2018am",
+        "Kowil an Na\u2018\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372079
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5c2d9e1784f1b24e7c9da3dac0145068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1225875517,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1225875517,
+    "wof:lastmodified":1537699487,
+    "wof:name":"Kowil an Na`am",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63333,
+    13.25,
+    30.63333,
+    13.25
+],
+  "geometry": {"coordinates":[30.63333,13.25],"type":"Point"}
+}

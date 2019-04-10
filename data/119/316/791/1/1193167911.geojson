@@ -1,0 +1,67 @@
+{
+  "id": 1193167911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.803,16.4895,32.803,16.4895",
+    "geom:latitude":16.4895,
+    "geom:longitude":32.803,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Wad Hamid al Qireshab",
+    "gn:country_code":"SD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444012,
+    "gn:latitude":16.4895,
+    "gn:longitude":32.803,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Wad Hamid al Qireshab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444012
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e4da8f1e07ab7ac0e41c61a21ae4a926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1193167911,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1193167911,
+    "wof:lastmodified":1536383678,
+    "wof:name":"Hillat Wad Hamid al Qireshab",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.803,
+    16.4895,
+    32.803,
+    16.4895
+],
+  "geometry": {"coordinates":[32.803,16.4895],"type":"Point"}
+}

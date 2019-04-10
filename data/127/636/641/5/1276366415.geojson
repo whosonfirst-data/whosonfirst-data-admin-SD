@@ -1,0 +1,71 @@
+{
+  "id": 1276366415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76667,10.8,25.76667,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":25.76667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Al `Aris",
+    "gn:country_code":"SD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379687,
+    "gn:latitude":10.8,
+    "gn:longitude":25.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ar\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Aris",
+        "Al \u2018Ar\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091706445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379687
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0d9e78ea5175f947e603884ba9cbbc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706445,
+            "locality_id":1276366415,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1276366415,
+    "wof:lastmodified":1537699585,
+    "wof:name":"Al `Aris",
+    "wof:parent_id":1091706445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76667,
+    10.8,
+    25.76667,
+    10.8
+],
+  "geometry": {"coordinates":[25.76667,10.8],"type":"Point"}
+}

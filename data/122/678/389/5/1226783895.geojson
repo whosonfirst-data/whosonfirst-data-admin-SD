@@ -1,0 +1,71 @@
+{
+  "id": 1226783895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86667,12.11667,30.86667,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":30.86667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Buwaydah",
+    "gn:country_code":"SD",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377010,
+    "gn:latitude":12.11667,
+    "gn:longitude":30.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buweida",
+        "Buway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377010
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"191ac689ece7551b178a3f08ca83214d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710547,
+            "locality_id":1226783895,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1226783895,
+    "wof:lastmodified":1537699532,
+    "wof:name":"Buwaydah",
+    "wof:parent_id":1091710547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86667000000001,
+    12.11667,
+    30.86667000000001,
+    12.11667
+],
+  "geometry": {"coordinates":[30.86667000000001,12.11667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293523341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0,12.33333,26.0,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":26.0,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Abu Kulaywat",
+    "gn:country_code":"SD",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380722,
+    "gn:latitude":12.33333,
+    "gn:longitude":26.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Kulayw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Kuleiwat",
+        "Ab\u016b Kulayw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380722
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"58403ab2112f83208dadfb7712404713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706673,
+            "locality_id":1293523341,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293523341,
+    "wof:lastmodified":1537699596,
+    "wof:name":"Abu Kulaywat",
+    "wof:parent_id":1091706673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0,
+    12.33333,
+    26.0,
+    12.33333
+],
+  "geometry": {"coordinates":[26.0,12.33333],"type":"Point"}
+}

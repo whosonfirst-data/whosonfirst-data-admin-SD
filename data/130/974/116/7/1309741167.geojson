@@ -1,0 +1,67 @@
+{
+  "id": 1309741167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63333,11.01667,30.63333,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":30.63333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Omuri",
+    "gn:country_code":"SD",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368756,
+    "gn:latitude":11.01667,
+    "gn:longitude":30.63333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Omuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091707969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368756
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"14473089dafa2f66fdb66417a86190af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707969,
+            "locality_id":1309741167,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1309741167,
+    "wof:lastmodified":1537023331,
+    "wof:name":"Omuri",
+    "wof:parent_id":1091707969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63333,
+    11.01667,
+    30.63333,
+    11.01667
+],
+  "geometry": {"coordinates":[30.63333,11.01667],"type":"Point"}
+}

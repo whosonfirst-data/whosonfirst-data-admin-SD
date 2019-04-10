@@ -1,0 +1,66 @@
+{
+  "id": 1209053659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8777,15.3457,32.8777,15.3457",
+    "geom:latitude":15.3457,
+    "geom:longitude":32.8777,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Al Qlabat al Hassanab",
+    "gn:country_code":"SD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379426,
+    "gn:latitude":15.3457,
+    "gn:longitude":32.8777,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qlabat al Hassanab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hasanab",
+        "Al \u1e28asan\u0101b",
+        "Al Qlabat al Hassanab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379426
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5795a6507e59ce9b5138b58d6c1b3568",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209053659
+        }
+    ],
+    "wof:id":1209053659,
+    "wof:lastmodified":1537699575,
+    "wof:name":"Al Qlabat al Hassanab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8777,
+    15.3457,
+    32.8777,
+    15.3457
+],
+  "geometry": {"coordinates":[32.8777,15.3457],"type":"Point"}
+}

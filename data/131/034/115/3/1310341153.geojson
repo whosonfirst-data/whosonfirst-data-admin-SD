@@ -1,0 +1,67 @@
+{
+  "id": 1310341153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5111,11.7548,29.5111,11.7548",
+    "geom:latitude":11.7548,
+    "geom:longitude":29.5111,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Assaraf Al Lakhadar",
+    "gn:country_code":"SD",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979576,
+    "gn:latitude":11.7548,
+    "gn:longitude":29.5111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Assaraf Al Lakhadar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979576
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"677099ee31e58cbc2b569153b1924e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706919,
+            "locality_id":1310341153,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1310341153,
+    "wof:lastmodified":1536656574,
+    "wof:name":"Assaraf Al Lakhadar",
+    "wof:parent_id":1091706919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5111,
+    11.7548,
+    29.5111,
+    11.7548
+],
+  "geometry": {"coordinates":[29.5111,11.7548],"type":"Point"}
+}

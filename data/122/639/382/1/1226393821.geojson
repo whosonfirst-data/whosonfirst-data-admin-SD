@@ -1,0 +1,70 @@
+{
+  "id": 1226393821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.185,14.7904,33.185,14.7904",
+    "geom:latitude":14.7904,
+    "geom:longitude":33.185,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Manaqaza",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026165,
+    "gn:latitude":14.7904,
+    "gn:longitude":33.185,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Man\u0101qaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u0101qaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026165
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3e4c33be499c40abb57dd5583491ad03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1226393821,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226393821,
+    "wof:lastmodified":1537699642,
+    "wof:name":"Manaqaza",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.185,
+    14.7904,
+    33.185,
+    14.7904
+],
+  "geometry": {"coordinates":[33.185,14.7904],"type":"Point"}
+}

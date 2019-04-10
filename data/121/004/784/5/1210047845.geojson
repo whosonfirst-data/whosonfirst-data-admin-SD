@@ -1,0 +1,70 @@
+{
+  "id": 1210047845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7268,12.6237,31.7268,12.6237",
+    "geom:latitude":12.6237,
+    "geom:longitude":31.7268,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sakarnaba",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029155,
+    "gn:latitude":12.6237,
+    "gn:longitude":31.7268,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sakarn\u0101ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakarn\u0101ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029155
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3779253d201d51ab37aa2728e017a924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1210047845,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1210047845,
+    "wof:lastmodified":1537699671,
+    "wof:name":"Sakarnaba",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7268,
+    12.6237,
+    31.7268,
+    12.6237
+],
+  "geometry": {"coordinates":[31.7268,12.6237],"type":"Point"}
+}

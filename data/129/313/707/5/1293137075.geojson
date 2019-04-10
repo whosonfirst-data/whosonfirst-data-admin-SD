@@ -1,0 +1,71 @@
+{
+  "id": 1293137075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09506,14.22925,36.09506,14.22925",
+    "geom:latitude":14.22925,
+    "geom:longitude":36.09506,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mukaberob",
+    "gn:country_code":"SD",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369758,
+    "gn:latitude":14.22925,
+    "gn:longitude":36.09506,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mukaberob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukaberab",
+        "Mukaberob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369758
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fe5d49273c04e0dd891ea6839c939f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709097,
+            "locality_id":1293137075,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293137075,
+    "wof:lastmodified":1537699473,
+    "wof:name":"Mukaberob",
+    "wof:parent_id":1091709097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09506,
+    14.22925,
+    36.09506,
+    14.22925
+],
+  "geometry": {"coordinates":[36.09506,14.22925],"type":"Point"}
+}

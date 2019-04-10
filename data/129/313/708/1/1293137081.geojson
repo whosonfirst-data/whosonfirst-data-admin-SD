@@ -1,0 +1,67 @@
+{
+  "id": 1293137081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1315,12.7904,33.1315,12.7904",
+    "geom:latitude":12.7904,
+    "geom:longitude":33.1315,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Shinebo",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029288,
+    "gn:latitude":12.7904,
+    "gn:longitude":33.1315,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shinebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091710099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029288
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d21065adbb6d1d6440815ec51b1044c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710099,
+            "locality_id":1293137081,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293137081,
+    "wof:lastmodified":1536795432,
+    "wof:name":"Shinebo",
+    "wof:parent_id":1091710099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1315,
+    12.7904,
+    33.1315,
+    12.7904
+],
+  "geometry": {"coordinates":[33.1315,12.7904],"type":"Point"}
+}

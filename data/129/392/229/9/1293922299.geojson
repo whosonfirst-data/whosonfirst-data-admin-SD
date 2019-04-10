@@ -1,0 +1,72 @@
+{
+  "id": 1293922299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2241,14.4619,33.2241,14.4619",
+    "geom:latitude":14.4619,
+    "geom:longitude":33.2241,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Rahama",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364073,
+    "gn:latitude":14.4619,
+    "gn:longitude":33.2241,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Ra\u1e29\u0101ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Rahma",
+        "Wad Ra\u1e29mah",
+        "Wad Ra\u1e29\u0101ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364073
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"713b45c9061115021cc976f3dd99091b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1293922299,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293922299,
+    "wof:lastmodified":1537699401,
+    "wof:name":"Wad Rahama",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2241,
+    14.4619,
+    33.2241,
+    14.4619
+],
+  "geometry": {"coordinates":[33.2241,14.4619],"type":"Point"}
+}

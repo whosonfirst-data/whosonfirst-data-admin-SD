@@ -1,0 +1,65 @@
+{
+  "id": 1209449929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33171,13.32701,22.33171,13.32701",
+    "geom:latitude":13.32701,
+    "geom:longitude":22.33171,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Wad Nyala",
+    "gn:country_code":"SD",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364085,
+    "gn:latitude":13.32701,
+    "gn:longitude":22.33171,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Wad Nyala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niala",
+        "Wad Nyala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364085
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ed9c387c70425d447272f32b69f7dbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209449929
+        }
+    ],
+    "wof:id":1209449929,
+    "wof:lastmodified":1537699402,
+    "wof:name":"Wad Nyala",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33171,
+    13.32701,
+    22.33171,
+    13.32701
+],
+  "geometry": {"coordinates":[22.33171,13.32701],"type":"Point"}
+}

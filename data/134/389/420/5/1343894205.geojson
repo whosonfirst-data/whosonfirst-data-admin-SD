@@ -1,0 +1,70 @@
+{
+  "id": 1343894205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2476,14.9654,32.2476,14.9654",
+    "geom:latitude":14.9654,
+    "geom:longitude":32.2476,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Az Zawya",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026005,
+    "gn:latitude":14.9654,
+    "gn:longitude":32.2476,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Az Z\u0101wya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Z\u0101wya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026005
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f07d49aae57ca0d5459dc244d946f47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1343894205,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343894205,
+    "wof:lastmodified":1537699637,
+    "wof:name":"Az Zawya",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2476,
+    14.9654,
+    32.2476,
+    14.9654
+],
+  "geometry": {"coordinates":[32.2476,14.9654],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293134457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4,14.61667,30.4,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":30.4,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Higeina",
+    "gn:country_code":"SD",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373847,
+    "gn:latitude":14.61667,
+    "gn:longitude":30.4,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Higeina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373847
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9731a65ef6ffdc1756f224353f77bf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709395,
+            "locality_id":1293134457,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293134457,
+    "wof:lastmodified":1536799179,
+    "wof:name":"Higeina",
+    "wof:parent_id":1091709395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4,
+    14.61667,
+    30.4,
+    14.61667
+],
+  "geometry": {"coordinates":[30.4,14.61667],"type":"Point"}
+}

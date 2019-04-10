@@ -1,0 +1,75 @@
+{
+  "id": 1309842037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1477,12.8676,31.1477,12.8676",
+    "geom:latitude":12.8676,
+    "geom:longitude":31.1477,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Qidedim",
+    "gn:country_code":"SD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368371,
+    "gn:latitude":12.8676,
+    "gn:longitude":31.1477,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qi\u1e11e\u1e11\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qi\u1e11e\u1e11\u012bm"
+    ],
+    "name:und_x_variant":[
+        "Gedeidim",
+        "Gadadim",
+        "Qudayd\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368371
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"720a25cacf71e0d6960cbc119ec54323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1309842037,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1309842037,
+    "wof:lastmodified":1537699463,
+    "wof:name":"Al Qidedim",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1477,
+    12.8676,
+    31.1477,
+    12.8676
+],
+  "geometry": {"coordinates":[31.1477,12.8676],"type":"Point"}
+}

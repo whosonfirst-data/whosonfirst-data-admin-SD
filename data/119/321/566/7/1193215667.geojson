@@ -1,0 +1,72 @@
+{
+  "id": 1193215667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1871,14.573,33.1871,14.573",
+    "geom:latitude":14.573,
+    "geom:longitude":33.1871,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Hisen",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364137,
+    "gn:latitude":14.573,
+    "gn:longitude":33.1871,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad \u1e28isen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Husein",
+        "Wad \u1e28usayn",
+        "Wad \u1e28isen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364137
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"105bd0818393484bd5b8c582aa7c5ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1193215667,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193215667,
+    "wof:lastmodified":1537699404,
+    "wof:name":"Wad Hisen",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1871,
+    14.573,
+    33.1871,
+    14.573
+],
+  "geometry": {"coordinates":[33.1871,14.573],"type":"Point"}
+}

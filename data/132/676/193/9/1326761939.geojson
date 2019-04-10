@@ -1,0 +1,67 @@
+{
+  "id": 1326761939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73333,18.31667,31.73333,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":31.73333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Korai",
+    "gn:country_code":"SD",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372178,
+    "gn:latitude":18.31667,
+    "gn:longitude":31.73333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Korai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091710471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372178
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dc7641c0f65040c542bbc76fa7532da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710471,
+            "locality_id":1326761939,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1326761939,
+    "wof:lastmodified":1536652843,
+    "wof:name":"Korai",
+    "wof:parent_id":1091710471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73333,
+    18.31667,
+    31.73333,
+    18.31667
+],
+  "geometry": {"coordinates":[31.73333,18.31667],"type":"Point"}
+}

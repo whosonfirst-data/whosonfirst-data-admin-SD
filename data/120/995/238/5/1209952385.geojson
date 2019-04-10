@@ -1,0 +1,67 @@
+{
+  "id": 1209952385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28333,11.9,24.28333,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":24.28333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Mandang",
+    "gn:country_code":"SD",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370615,
+    "gn:latitude":11.9,
+    "gn:longitude":24.28333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Mandang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370615
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d883192f02f06e07005ff5005c982151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707925,
+            "locality_id":1209952385,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1209952385,
+    "wof:lastmodified":1536382204,
+    "wof:name":"Mandang",
+    "wof:parent_id":1091707925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28333,
+    11.9,
+    24.28333,
+    11.9
+],
+  "geometry": {"coordinates":[24.28333,11.9],"type":"Point"}
+}

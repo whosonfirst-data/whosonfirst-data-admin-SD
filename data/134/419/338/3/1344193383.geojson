@@ -1,0 +1,72 @@
+{
+  "id": 1344193383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73333,13.81667,29.73333,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":29.73333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ash Shiqlah",
+    "gn:country_code":"SD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378363,
+    "gn:latitude":13.81667,
+    "gn:longitude":29.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shiqlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shigla",
+        "Esh Shigla",
+        "Ash Shiqlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378363
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5cce8f154f3336bb35ebfc722c3353e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1344193383,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1344193383,
+    "wof:lastmodified":1537699549,
+    "wof:name":"Ash Shiqlah",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73333,
+    13.81667,
+    29.73333,
+    13.81667
+],
+  "geometry": {"coordinates":[29.73333,13.81667],"type":"Point"}
+}

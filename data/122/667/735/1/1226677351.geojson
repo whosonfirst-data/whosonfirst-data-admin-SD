@@ -1,0 +1,67 @@
+{
+  "id": 1226677351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6813,11.182,33.6813,11.182",
+    "geom:latitude":11.182,
+    "geom:longitude":33.6813,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Umm Gelbi",
+    "gn:country_code":"SD",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7002205,
+    "gn:latitude":11.182,
+    "gn:longitude":33.6813,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Umm Gelbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7002205
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"44b55072b81aecd56af0b5531c95785a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709635,
+            "locality_id":1226677351,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226677351,
+    "wof:lastmodified":1536813403,
+    "wof:name":"Umm Gelbi",
+    "wof:parent_id":1091709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6813,
+    11.182,
+    33.6813,
+    11.182
+],
+  "geometry": {"coordinates":[33.6813,11.182],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209157307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,14.95,33.6,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Sadarna Abu Klua",
+    "gn:country_code":"SD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367846,
+    "gn:latitude":14.95,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Sadarna Ab\u016b Klua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367846
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"951400db4dcfcd1d79ae8bb7414d61fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209157307
+        }
+    ],
+    "wof:id":1209157307,
+    "wof:lastmodified":1536296017,
+    "wof:name":"Sadarna Abu Klua",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    14.95,
+    33.6,
+    14.95
+],
+  "geometry": {"coordinates":[33.6,14.95],"type":"Point"}
+}

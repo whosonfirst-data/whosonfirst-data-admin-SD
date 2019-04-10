@@ -1,0 +1,71 @@
+{
+  "id": 1343988709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7285,12.9542,31.7285,12.9542",
+    "geom:latitude":12.9542,
+    "geom:longitude":31.7285,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Wad Bur",
+    "gn:country_code":"SD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364188,
+    "gn:latitude":12.9542,
+    "gn:longitude":31.7285,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Bur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Burr",
+        "Wad Bur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364188
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e47209f0a54ce8673fc55b43a9a77f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1343988709,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343988709,
+    "wof:lastmodified":1537699405,
+    "wof:name":"Wad Bur",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7285,
+    12.9542,
+    31.7285,
+    12.9542
+],
+  "geometry": {"coordinates":[31.7285,12.9542],"type":"Point"}
+}

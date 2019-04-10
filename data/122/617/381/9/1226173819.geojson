@@ -1,0 +1,67 @@
+{
+  "id": 1226173819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3472,12.6018,32.3472,12.6018",
+    "geom:latitude":12.6018,
+    "geom:longitude":32.3472,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Gharaq",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029216,
+    "gn:latitude":12.6018,
+    "gn:longitude":32.3472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Gharaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029216
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d065ab9635a6613597acd0e3710ee86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1226173819,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226173819,
+    "wof:lastmodified":1537035725,
+    "wof:name":"Al Gharaq",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3472,
+    12.6018,
+    32.3472,
+    12.6018
+],
+  "geometry": {"coordinates":[32.3472,12.6018],"type":"Point"}
+}

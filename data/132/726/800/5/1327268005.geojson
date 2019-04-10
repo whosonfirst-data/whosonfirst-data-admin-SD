@@ -1,0 +1,67 @@
+{
+  "id": 1327268005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76719,10.58301,31.76719,10.58301",
+    "geom:latitude":10.58301,
+    "geom:longitude":31.76719,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Safa",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367828,
+    "gn:latitude":10.58301,
+    "gn:longitude":31.76719,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Safa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367828
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9e18235d75b5d4d4b35ad3b4e6d3cbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706897,
+            "locality_id":1327268005,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1327268005,
+    "wof:lastmodified":1536918836,
+    "wof:name":"Safa",
+    "wof:parent_id":1091706897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76719000000001,
+    10.58301,
+    31.76719000000001,
+    10.58301
+],
+  "geometry": {"coordinates":[31.76719000000001,10.58301],"type":"Point"}
+}

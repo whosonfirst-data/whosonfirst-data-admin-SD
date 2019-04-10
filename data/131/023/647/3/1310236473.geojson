@@ -1,0 +1,67 @@
+{
+  "id": 1310236473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3,11.76667,29.3,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":29.3,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bombori",
+    "gn:country_code":"SD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377256,
+    "gn:latitude":11.76667,
+    "gn:longitude":29.3,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Bombori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377256
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"913ec77b963959218891d1610aa4630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709977,
+            "locality_id":1310236473,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1310236473,
+    "wof:lastmodified":1536807291,
+    "wof:name":"Bombori",
+    "wof:parent_id":1091709977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3,
+    11.76667,
+    29.3,
+    11.76667
+],
+  "geometry": {"coordinates":[29.3,11.76667],"type":"Point"}
+}

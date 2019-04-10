@@ -1,0 +1,70 @@
+{
+  "id": 1260215025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8309,12.246,32.8309,12.246",
+    "geom:latitude":12.246,
+    "geom:longitude":32.8309,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kilu Sab`a",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504265,
+    "gn:latitude":12.246,
+    "gn:longitude":32.8309,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u012blu Sab\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u012blu Sab\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504265
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"edebd274fb434aa15688d7a8da5e971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1260215025,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1260215025,
+    "wof:lastmodified":1537699690,
+    "wof:name":"Kilu Sab`a",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8309,
+    12.246,
+    32.8309,
+    12.246
+],
+  "geometry": {"coordinates":[32.8309,12.246],"type":"Point"}
+}

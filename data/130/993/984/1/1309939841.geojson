@@ -1,0 +1,71 @@
+{
+  "id": 1309939841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27861,16.14778,36.27861,16.14778",
+    "geom:latitude":16.14778,
+    "geom:longitude":36.27861,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ilabilli",
+    "gn:country_code":"SD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373562,
+    "gn:latitude":16.14778,
+    "gn:longitude":36.27861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ilab\u012blli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Illibilli",
+        "Ilab\u012blli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373562
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"68d615fe07379f6e62bfe88f91a37520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1309939841,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1309939841,
+    "wof:lastmodified":1537699502,
+    "wof:name":"Ilabilli",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27861,
+    16.14777999999999,
+    36.27861,
+    16.14777999999999
+],
+  "geometry": {"coordinates":[36.27861,16.14777999999999],"type":"Point"}
+}

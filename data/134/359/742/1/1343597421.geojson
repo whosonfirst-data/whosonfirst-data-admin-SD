@@ -1,0 +1,71 @@
+{
+  "id": 1343597421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91667,11.83333,26.91667,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":26.91667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Salah ad Din",
+    "gn:country_code":"SD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367768,
+    "gn:latitude":11.83333,
+    "gn:longitude":26.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eal\u0101\u1e29 ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salah ed Din",
+        "\u015eal\u0101\u1e29 ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367768
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"807596c407d3b0ee60d7746b0365ba5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705641,
+            "locality_id":1343597421,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343597421,
+    "wof:lastmodified":1537699456,
+    "wof:name":"Salah ad Din",
+    "wof:parent_id":1091705641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91667,
+    11.83333,
+    26.91667,
+    11.83333
+],
+  "geometry": {"coordinates":[26.91667,11.83333],"type":"Point"}
+}

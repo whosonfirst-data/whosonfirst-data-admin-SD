@@ -1,0 +1,67 @@
+{
+  "id": 1293329821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7985,16.4077,32.7985,16.4077",
+    "geom:latitude":16.4077,
+    "geom:longitude":32.7985,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Al Mirewa",
+    "gn:country_code":"SD",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444021,
+    "gn:latitude":16.4077,
+    "gn:longitude":32.7985,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mirewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444021
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9faf1f96b6e0794777380e31e1f767e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1293329821,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293329821,
+    "wof:lastmodified":1537013562,
+    "wof:name":"Al Mirewa",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7985,
+    16.4077,
+    32.7985,
+    16.4077
+],
+  "geometry": {"coordinates":[32.7985,16.4077],"type":"Point"}
+}

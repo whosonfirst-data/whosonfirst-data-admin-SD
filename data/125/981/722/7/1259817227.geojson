@@ -1,0 +1,73 @@
+{
+  "id": 1259817227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9496,12.8155,31.9496,12.8155",
+    "geom:latitude":12.8155,
+    "geom:longitude":31.9496,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"At Tawil",
+    "gn:country_code":"SD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365521,
+    "gn:latitude":12.8155,
+    "gn:longitude":31.9496,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuwaiyil",
+        "Tawil",
+        "\u0162uwayyil",
+        "A\u0163 \u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365521
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3899fc55f3452e8fe4ad9249720986fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1259817227,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1259817227,
+    "wof:lastmodified":1537699433,
+    "wof:name":"At Tawil",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9496,
+    12.8155,
+    31.9496,
+    12.8155
+],
+  "geometry": {"coordinates":[31.9496,12.8155],"type":"Point"}
+}

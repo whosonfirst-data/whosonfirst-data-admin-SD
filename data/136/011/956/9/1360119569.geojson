@@ -1,0 +1,67 @@
+{
+  "id": 1360119569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38333,10.98333,34.38333,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":34.38333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kutukunleiri",
+    "gn:country_code":"SD",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371746,
+    "gn:latitude":10.98333,
+    "gn:longitude":34.38333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Kutukunleiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371746
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"41bef13b2207b5f062e5422c1e3e5efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1360119569,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1360119569,
+    "wof:lastmodified":1536895689,
+    "wof:name":"Kutukunleiri",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38333,
+    10.98333,
+    34.38333,
+    10.98333
+],
+  "geometry": {"coordinates":[34.38333,10.98333],"type":"Point"}
+}

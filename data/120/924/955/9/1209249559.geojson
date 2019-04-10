@@ -1,0 +1,66 @@
+{
+  "id": 1209249559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,13.11667,30.55,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Mafri",
+    "gn:country_code":"SD",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379164,
+    "gn:latitude":13.11667,
+    "gn:longitude":30.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mafr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mafri",
+        "El Mafri",
+        "Al Mafr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379164
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b1c35bae6de963bb27f00eaf1c995d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209249559
+        }
+    ],
+    "wof:id":1209249559,
+    "wof:lastmodified":1537699566,
+    "wof:name":"Al Mafri",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    13.11667,
+    30.55,
+    13.11667
+],
+  "geometry": {"coordinates":[30.55,13.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226173489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,17.48333,33.85,17.48333",
+    "geom:latitude":17.48333,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Kabbushab",
+    "gn:country_code":"SD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373203,
+    "gn:latitude":17.48333,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Kabb\u016bsh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373203
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"12d368adac4e2dc5578c15ad2cbb268b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1226173489,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226173489,
+    "wof:lastmodified":1537036198,
+    "wof:name":"Kabbushab",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    17.48333,
+    33.85,
+    17.48333
+],
+  "geometry": {"coordinates":[33.85,17.48333],"type":"Point"}
+}

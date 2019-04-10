@@ -1,0 +1,75 @@
+{
+  "id": 1343796857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55,10.95,27.55,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":27.55,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Shatt",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367212,
+    "gn:latitude":10.95,
+    "gn:longitude":27.55,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sha\u0163\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711157,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367212
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e22f411efee9e4b99b39972e683bdaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711157,
+            "locality_id":1343796857,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711157,
+            "locality_id":1343796857,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1343796857,
+    "wof:lastmodified":1536758597,
+    "wof:name":"Shatt",
+    "wof:parent_id":1091711157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55,
+    10.95,
+    27.55,
+    10.95
+],
+  "geometry": {"coordinates":[27.55,10.95],"type":"Point"}
+}

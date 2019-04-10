@@ -1,0 +1,70 @@
+{
+  "id": 1326666189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2546,12.4403,34.2546,12.4403",
+    "geom:latitude":12.4403,
+    "geom:longitude":34.2546,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hashaba",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033671,
+    "gn:latitude":12.4403,
+    "gn:longitude":34.2546,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hash\u0101ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hash\u0101ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033671
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3c0568dea2258820d7a9402f6d646f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1326666189,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1326666189,
+    "wof:lastmodified":1537699687,
+    "wof:name":"Hashaba",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2546,
+    12.4403,
+    34.2546,
+    12.4403
+],
+  "geometry": {"coordinates":[34.2546,12.4403],"type":"Point"}
+}

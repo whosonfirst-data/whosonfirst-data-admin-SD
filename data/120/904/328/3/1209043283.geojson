@@ -1,0 +1,65 @@
+{
+  "id": 1209043283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3475,12.6699,31.3475,12.6699",
+    "geom:latitude":12.6699,
+    "geom:longitude":31.3475,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"`Abalanj",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381211,
+    "gn:latitude":12.6699,
+    "gn:longitude":31.3475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abal\u0101nj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abalang",
+        "\u2018Abal\u0101nj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381211
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5597d064c6572129c3edaaa3ec2ab159",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209043283
+        }
+    ],
+    "wof:id":1209043283,
+    "wof:lastmodified":1537699604,
+    "wof:name":"`Abalanj",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3475,
+    12.6699,
+    31.3475,
+    12.6699
+],
+  "geometry": {"coordinates":[31.3475,12.6699],"type":"Point"}
+}

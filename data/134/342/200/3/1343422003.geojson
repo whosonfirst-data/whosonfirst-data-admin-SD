@@ -1,0 +1,72 @@
+{
+  "id": 1343422003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,15.48333,33.31667,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Surayriyah",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366636,
+    "gn:latitude":15.48333,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Surayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sereiriya",
+        "Surayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366636
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dd648d157482a332fa20736559d61674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1343422003,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1343422003,
+    "wof:lastmodified":1537699441,
+    "wof:name":"Surayriyah",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    15.48333,
+    33.31667,
+    15.48333
+],
+  "geometry": {"coordinates":[33.31667,15.48333],"type":"Point"}
+}

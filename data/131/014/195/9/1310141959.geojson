@@ -1,0 +1,72 @@
+{
+  "id": 1310141959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68333,18.55,33.68333,18.55",
+    "geom:latitude":18.55,
+    "geom:longitude":33.68333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Kaniset el Falah",
+    "gn:country_code":"SD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373217,
+    "gn:latitude":18.55,
+    "gn:longitude":33.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaniset el Falah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kab el Mara",
+        "Kaniset el Falah",
+        "K\u0101b al Mara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373217
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5bd502a0e6ff9eda7f11a7142f0b5511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1310141959,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1310141959,
+    "wof:lastmodified":1537699497,
+    "wof:name":"Kaniset el Falah",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68333,
+    18.55,
+    33.68333,
+    18.55
+],
+  "geometry": {"coordinates":[33.68333,18.55],"type":"Point"}
+}

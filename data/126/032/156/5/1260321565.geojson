@@ -1,0 +1,67 @@
+{
+  "id": 1260321565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,21.48333,30.95,21.48333",
+    "geom:latitude":21.48333,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Semna West",
+    "gn:country_code":"SD",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367454,
+    "gn:latitude":21.48333,
+    "gn:longitude":30.95,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Semna West",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091706973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367454
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"27ccc6c897c9bc86e7ccc916339dca42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706973,
+            "locality_id":1260321565,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1260321565,
+    "wof:lastmodified":1536660846,
+    "wof:name":"Semna West",
+    "wof:parent_id":1091706973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    21.48333,
+    30.95,
+    21.48333
+],
+  "geometry": {"coordinates":[30.95,21.48333],"type":"Point"}
+}

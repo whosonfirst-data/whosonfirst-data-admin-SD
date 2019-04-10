@@ -1,0 +1,75 @@
+{
+  "id": 1309937241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58333,12.16667,27.58333,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":27.58333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Zakfero",
+    "gn:country_code":"SD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363541,
+    "gn:latitude":12.16667,
+    "gn:longitude":27.58333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Zakfero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706783,
+        85676925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363541
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4e49c146c23b8c22c76db7020f06ecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1309937241,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1309937241,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1309937241,
+    "wof:lastmodified":1536741574,
+    "wof:name":"Zakfero",
+    "wof:parent_id":1091706783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58333,
+    12.16667,
+    27.58333,
+    12.16667
+],
+  "geometry": {"coordinates":[27.58333,12.16667],"type":"Point"}
+}

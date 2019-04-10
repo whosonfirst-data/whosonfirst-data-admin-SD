@@ -1,0 +1,72 @@
+{
+  "id": 1344087163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6793,12.6802,31.6793,12.6802",
+    "geom:latitude":12.6802,
+    "geom:longitude":31.6793,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Tab Al Diyya",
+    "gn:country_code":"SD",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378181,
+    "gn:latitude":12.6802,
+    "gn:longitude":31.6793,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tab Al Diyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et Tebeldiya",
+        "At Tabald\u012byah",
+        "Tab Al Diyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378181
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a4db331c91d02f0d756fcf094c42bbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1344087163,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1344087163,
+    "wof:lastmodified":1537699544,
+    "wof:name":"Tab Al Diyya",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6793,
+    12.6802,
+    31.6793,
+    12.6802
+],
+  "geometry": {"coordinates":[31.6793,12.6802],"type":"Point"}
+}

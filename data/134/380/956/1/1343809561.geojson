@@ -1,0 +1,70 @@
+{
+  "id": 1343809561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6463,14.5434,32.6463,14.5434",
+    "geom:latitude":14.5434,
+    "geom:longitude":32.6463,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kambu Baluma",
+    "gn:country_code":"SD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983261,
+    "gn:latitude":14.5434,
+    "gn:longitude":32.6463,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu Bal\u016bma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambu Bal\u016bma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983261
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"feddf8f873db00ad8c7d3df5b57fb55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1343809561,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343809561,
+    "wof:lastmodified":1537699621,
+    "wof:name":"Kambu Baluma",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6463,
+    14.5434,
+    32.6463,
+    14.5434
+],
+  "geometry": {"coordinates":[32.6463,14.5434],"type":"Point"}
+}

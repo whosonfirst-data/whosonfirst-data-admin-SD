@@ -1,0 +1,71 @@
+{
+  "id": 1293236861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5451,15.1571,32.5451,15.1571",
+    "geom:latitude":15.1571,
+    "geom:longitude":32.5451,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hillat Umm Monqar",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364833,
+    "gn:latitude":15.1571,
+    "gn:longitude":32.5451,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Umm Monqar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Minq\u0101r",
+        "Hillat Umm Monqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364833
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b3892b801ce2ea8e3654538281133028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293236861,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293236861,
+    "wof:lastmodified":1537699421,
+    "wof:name":"Hillat Umm Monqar",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5451,
+    15.1571,
+    32.5451,
+    15.1571
+],
+  "geometry": {"coordinates":[32.5451,15.1571],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890437769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16667,13.2,34.16667,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":34.16667,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
+    "gn:pop":15144,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ad Dindar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380151,
+        "gp:id":1431833,
+        "qs:id":124535
+    },
+    "wof:country":"SD",
+    "wof:created":1469052165,
+    "wof:geomhash":"43b9d215d0156db6407fda969ba1ce46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":890437769,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":890437769,
+    "wof:lastmodified":1505343561,
+    "wof:name":"Ad Dindar",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:population":15144,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16667,
+    13.2,
+    34.16667,
+    13.2
+],
+  "geometry": {"coordinates":[34.16667,13.2],"type":"Point"}
+}

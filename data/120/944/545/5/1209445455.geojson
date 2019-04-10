@@ -1,0 +1,65 @@
+{
+  "id": 1209445455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,13.43333,35.0,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Sharif Miskin",
+    "gn:country_code":"SD",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367243,
+    "gn:latitude":13.43333,
+    "gn:longitude":35.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shar\u012bf Misk\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sherif Miskin",
+        "Shar\u012bf Misk\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367243
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"89ad82ca350e3504cef9e0f8a7f537cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209445455
+        }
+    ],
+    "wof:id":1209445455,
+    "wof:lastmodified":1537699449,
+    "wof:name":"Sharif Miskin",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    13.43333,
+    35.0,
+    13.43333
+],
+  "geometry": {"coordinates":[35.0,13.43333],"type":"Point"}
+}

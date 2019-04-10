@@ -1,0 +1,64 @@
+{
+  "id": 1209147689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8587,14.0293,32.8587,14.0293",
+    "geom:latitude":14.0293,
+    "geom:longitude":32.8587,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ad Dishenat",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026605,
+    "gn:latitude":14.0293,
+    "gn:longitude":32.8587,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ad Dishen\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad Dishen\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026605
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2ff8cb75f9967208022c91907411b307",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209147689
+        }
+    ],
+    "wof:id":1209147689,
+    "wof:lastmodified":1537699657,
+    "wof:name":"Ad Dishenat",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8587,
+    14.0293,
+    32.8587,
+    14.0293
+],
+  "geometry": {"coordinates":[32.8587,14.0293],"type":"Point"}
+}

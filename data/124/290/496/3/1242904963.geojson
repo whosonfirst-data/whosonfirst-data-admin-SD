@@ -1,0 +1,67 @@
+{
+  "id": 1242904963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28651,10.3564,25.28651,10.3564",
+    "geom:latitude":10.3564,
+    "geom:longitude":25.28651,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ma'adat el Eida",
+    "gn:country_code":"SD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047329,
+    "gn:latitude":10.3564,
+    "gn:longitude":25.28651,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Ma\u2019adat el Eida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091711049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047329
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"58d097acb27f429af3276e7a2b567524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711049,
+            "locality_id":1242904963,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1242904963,
+    "wof:lastmodified":1537086063,
+    "wof:name":"Ma'adat el Eida",
+    "wof:parent_id":1091711049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28651,
+    10.3564,
+    25.28651,
+    10.3564
+],
+  "geometry": {"coordinates":[25.28651,10.3564],"type":"Point"}
+}

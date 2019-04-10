@@ -1,0 +1,67 @@
+{
+  "id": 1310142431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,19.5,33.31667,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Megal",
+    "gn:country_code":"SD",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370244,
+    "gn:latitude":19.5,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Megal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091705233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370244
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b734a9bf17e6f883de93683349303a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705233,
+            "locality_id":1310142431,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1310142431,
+    "wof:lastmodified":1536943707,
+    "wof:name":"Megal",
+    "wof:parent_id":1091705233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    19.5,
+    33.31667,
+    19.5
+],
+  "geometry": {"coordinates":[33.31667,19.5],"type":"Point"}
+}

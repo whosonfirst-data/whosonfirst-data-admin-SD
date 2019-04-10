@@ -1,0 +1,67 @@
+{
+  "id": 1360218201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,13.13333,34.93333,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":34.93333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad Abu Nahl",
+    "gn:country_code":"SD",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364322,
+    "gn:latitude":13.13333,
+    "gn:longitude":34.93333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Ab\u016b Na\u1e29l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364322
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3cd82694d3f024c764e2a092334e54ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709223,
+            "locality_id":1360218201,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1360218201,
+    "wof:lastmodified":1536753688,
+    "wof:name":"Wad Abu Nahl",
+    "wof:parent_id":1091709223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    13.13333,
+    34.93333,
+    13.13333
+],
+  "geometry": {"coordinates":[34.93333,13.13333],"type":"Point"}
+}

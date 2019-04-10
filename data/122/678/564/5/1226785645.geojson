@@ -1,0 +1,67 @@
+{
+  "id": 1226785645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13333,12.5,28.13333,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":28.13333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Gamal",
+    "gn:country_code":"SD",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375177,
+    "gn:latitude":12.5,
+    "gn:longitude":28.13333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gamal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375177
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"73c823483e11ea5c35c934624c121e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706541,
+            "locality_id":1226785645,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1226785645,
+    "wof:lastmodified":1536658126,
+    "wof:name":"Gamal",
+    "wof:parent_id":1091706541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13333,
+    12.5,
+    28.13333,
+    12.5
+],
+  "geometry": {"coordinates":[28.13333,12.5],"type":"Point"}
+}

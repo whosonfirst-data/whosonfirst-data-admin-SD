@@ -1,0 +1,71 @@
+{
+  "id": 1277019643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,13.41667,22.91667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mulkajji",
+    "gn:country_code":"SD",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369732,
+    "gn:latitude":13.41667,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mulkajji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moulkajj",
+        "Mulkajji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369732
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4fb7be335ff51a272c5802b1c73ca18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":1277019643,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1277019643,
+    "wof:lastmodified":1537699472,
+    "wof:name":"Mulkajji",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    13.41667,
+    22.91667,
+    13.41667
+],
+  "geometry": {"coordinates":[22.91667,13.41667],"type":"Point"}
+}

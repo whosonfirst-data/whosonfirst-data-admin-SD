@@ -1,0 +1,71 @@
+{
+  "id": 1242812861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68333,13.41667,28.68333,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":28.68333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"`Iyal Bakhit",
+    "gn:country_code":"SD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373475,
+    "gn:latitude":13.41667,
+    "gn:longitude":28.68333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Iy\u0101l Bakh\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Iy\u0101l Bakh\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373475,
+        "wk:page":"%60Iy%C4%81l_Bakh%C4%ABt"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b15a8b96355541d7a9c504feb0305301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706541,
+            "locality_id":1242812861,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1242812861,
+    "wof:lastmodified":1537699501,
+    "wof:name":"`Iyal Bakhit",
+    "wof:parent_id":1091706541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68333,
+    13.41667,
+    28.68333,
+    13.41667
+],
+  "geometry": {"coordinates":[28.68333,13.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225980821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41667,12.85,34.41667,12.85",
+    "geom:latitude":12.85,
+    "geom:longitude":34.41667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Umm Mufra`",
+    "gn:country_code":"SD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364828,
+    "gn:latitude":12.85,
+    "gn:longitude":34.41667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm Mufra\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364828
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"be9e046c25491c02369dece7b81289c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1225980821,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1225980821,
+    "wof:lastmodified":1536817786,
+    "wof:name":"Umm Mufra`",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41667,
+    12.85,
+    34.41667,
+    12.85
+],
+  "geometry": {"coordinates":[34.41667,12.85],"type":"Point"}
+}

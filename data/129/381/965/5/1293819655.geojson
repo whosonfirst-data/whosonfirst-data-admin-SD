@@ -1,0 +1,71 @@
+{
+  "id": 1293819655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18333,13.8,30.18333,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":30.18333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Bashiri",
+    "gn:country_code":"SD",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379637,
+    "gn:latitude":13.8,
+    "gn:longitude":30.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bash\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bashiri",
+        "Al Bash\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379637
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ff2d8c12308b1f97d7b0edeb9d3c8e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1293819655,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293819655,
+    "wof:lastmodified":1537699583,
+    "wof:name":"Al Bashiri",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18333,
+    13.8,
+    30.18333,
+    13.8
+],
+  "geometry": {"coordinates":[30.18333,13.8],"type":"Point"}
+}

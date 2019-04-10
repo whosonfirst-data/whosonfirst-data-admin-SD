@@ -1,0 +1,64 @@
+{
+  "id": 1209366267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9726,14.497,32.9726,14.497",
+    "geom:latitude":14.497,
+    "geom:longitude":32.9726,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad aj Jamal al Magharba",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026382,
+    "gn:latitude":14.497,
+    "gn:longitude":32.9726,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad aj Jam\u0101l al Magharba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad aj Jam\u0101l al Magharba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026382
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0d6e67dadb88a1bed5e4b233e25ac474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209366267
+        }
+    ],
+    "wof:id":1209366267,
+    "wof:lastmodified":1537699649,
+    "wof:name":"Wad aj Jamal al Magharba",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9726,
+    14.497,
+    32.9726,
+    14.497
+],
+  "geometry": {"coordinates":[32.9726,14.497],"type":"Point"}
+}

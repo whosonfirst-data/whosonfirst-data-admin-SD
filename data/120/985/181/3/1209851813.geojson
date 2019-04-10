@@ -1,0 +1,67 @@
+{
+  "id": 1209851813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68333,15.56667,33.68333,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":33.68333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Umm Zariba",
+    "gn:country_code":"SD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364471,
+    "gn:latitude":15.56667,
+    "gn:longitude":33.68333,
+    "gn:modification_date":"2009-08-17",
+    "gn:name":"Umm Zariba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091706275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364471
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfa5534bc9692d64946d66e853b0bdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706275,
+            "locality_id":1209851813,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1209851813,
+    "wof:lastmodified":1536388070,
+    "wof:name":"Umm Zariba",
+    "wof:parent_id":1091706275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68333,
+    15.56667,
+    33.68333,
+    15.56667
+],
+  "geometry": {"coordinates":[33.68333,15.56667],"type":"Point"}
+}

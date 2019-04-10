@@ -1,0 +1,67 @@
+{
+  "id": 1310251883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1417,15.6896,33.1417,15.6896",
+    "geom:latitude":15.6896,
+    "geom:longitude":33.1417,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hillat Raboub",
+    "gn:country_code":"SD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6992225,
+    "gn:latitude":15.6896,
+    "gn:longitude":33.1417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Raboub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6992225
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"67c04f3f2fd5556e7c0cdb0af2d69f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1310251883,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1310251883,
+    "wof:lastmodified":1536785808,
+    "wof:name":"Hillat Raboub",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1417,
+    15.6896,
+    33.1417,
+    15.6896
+],
+  "geometry": {"coordinates":[33.1417,15.6896],"type":"Point"}
+}

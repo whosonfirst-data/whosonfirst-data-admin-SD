@@ -1,0 +1,70 @@
+{
+  "id": 1327085795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1072,14.9318,33.1072,14.9318",
+    "geom:latitude":14.9318,
+    "geom:longitude":33.1072,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Aj Jabrab",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026197,
+    "gn:latitude":14.9318,
+    "gn:longitude":33.1072,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aj Jabr\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aj Jabr\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026197
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4b9955c748af0eefbef60c3454b8c90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1327085795,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327085795,
+    "wof:lastmodified":1537699643,
+    "wof:name":"Aj Jabrab",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1072,
+    14.9318,
+    33.1072,
+    14.9318
+],
+  "geometry": {"coordinates":[33.1072,14.9318],"type":"Point"}
+}

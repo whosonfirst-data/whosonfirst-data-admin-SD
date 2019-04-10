@@ -1,0 +1,70 @@
+{
+  "id": 1276479229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0422,13.2526,32.0422,13.2526",
+    "geom:latitude":13.2526,
+    "geom:longitude":32.0422,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Wad Ab Rakuba",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028860,
+    "gn:latitude":13.2526,
+    "gn:longitude":32.0422,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Ab R\u0101k\u016bba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Ab R\u0101k\u016bba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028860
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"630a4bdf0c84f0ab80d7e17ab09448b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1276479229,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276479229,
+    "wof:lastmodified":1537699660,
+    "wof:name":"Wad Ab Rakuba",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0422,
+    13.2526,
+    32.0422,
+    13.2526
+],
+  "geometry": {"coordinates":[32.0422,13.2526],"type":"Point"}
+}

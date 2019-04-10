@@ -1,0 +1,67 @@
+{
+  "id": 1327064305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63333,13.43333,26.63333,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":26.63333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Ereida",
+    "gn:country_code":"SD",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365126,
+    "gn:latitude":13.43333,
+    "gn:longitude":26.63333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Umm Ereida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365126
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7f473bb1cc50f74e2f0604ef5344350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709005,
+            "locality_id":1327064305,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1327064305,
+    "wof:lastmodified":1536714752,
+    "wof:name":"Umm Ereida",
+    "wof:parent_id":1091709005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63333,
+    13.43333,
+    26.63333,
+    13.43333
+],
+  "geometry": {"coordinates":[26.63333,13.43333],"type":"Point"}
+}

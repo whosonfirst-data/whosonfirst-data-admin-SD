@@ -1,0 +1,72 @@
+{
+  "id": 1276374523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5678,15.141,32.5678,15.141",
+    "geom:latitude":15.141,
+    "geom:longitude":32.5678,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hillat Umm Diweneb",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365131,
+    "gn:latitude":15.141,
+    "gn:longitude":32.5678,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Umm Diweneb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Duweinab",
+        "Umm Duweinib",
+        "Hillat Umm Diweneb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365131
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aaa690281f4aaaeab07844d7377497bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1276374523,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276374523,
+    "wof:lastmodified":1537699427,
+    "wof:name":"Hillat Umm Diweneb",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5678,
+    15.141,
+    32.5678,
+    15.141
+],
+  "geometry": {"coordinates":[32.5678,15.141],"type":"Point"}
+}

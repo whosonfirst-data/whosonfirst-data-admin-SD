@@ -1,0 +1,67 @@
+{
+  "id": 1343295995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,15.06667,23.71667,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":23.71667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Jung",
+    "gn:country_code":"SD",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373258,
+    "gn:latitude":15.06667,
+    "gn:longitude":23.71667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Jung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373258
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4a12433dd876cbbbc284dab51d0de831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709379,
+            "locality_id":1343295995,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343295995,
+    "wof:lastmodified":1536982913,
+    "wof:name":"Jung",
+    "wof:parent_id":1091709379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    15.06667,
+    23.71667,
+    15.06667
+],
+  "geometry": {"coordinates":[23.71667,15.06667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310635279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2897,17.4023,34.2897,17.4023",
+    "geom:latitude":17.4023,
+    "geom:longitude":34.2897,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat an Nikheila",
+    "gn:country_code":"SD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369088,
+    "gn:latitude":17.4023,
+    "gn:longitude":34.2897,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat an Nikheila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nukhaylah",
+        "An Nikh\u0113la",
+        "Nukheila",
+        "Hillat an Nikheila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369088
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e160d2b7191482f84bd72a2a0911c5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1310635279,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1310635279,
+    "wof:lastmodified":1537699468,
+    "wof:name":"Hillat an Nikheila",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2897,
+    17.4023,
+    34.2897,
+    17.4023
+],
+  "geometry": {"coordinates":[34.2897,17.4023],"type":"Point"}
+}

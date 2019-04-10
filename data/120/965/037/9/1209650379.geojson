@@ -1,0 +1,64 @@
+{
+  "id": 1209650379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83392,12.32312,22.83392,12.32312",
+    "geom:latitude":12.32312,
+    "geom:longitude":22.83392,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Murfatta",
+    "gn:country_code":"SD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390867,
+    "gn:latitude":12.32312,
+    "gn:longitude":22.83392,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Murfatta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Murfatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390867
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"635722a7496c099ef44ed6044cf67e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209650379
+        }
+    ],
+    "wof:id":1209650379,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Murfatta",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83392000000001,
+    12.32312,
+    22.83392000000001,
+    12.32312
+],
+  "geometry": {"coordinates":[22.83392000000001,12.32312],"type":"Point"}
+}

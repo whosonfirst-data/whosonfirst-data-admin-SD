@@ -1,0 +1,67 @@
+{
+  "id": 1260324061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85,12.71667,23.85,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":23.85,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Koringo",
+    "gn:country_code":"SD",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372146,
+    "gn:latitude":12.71667,
+    "gn:longitude":23.85,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Koringo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372146
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1d193c028d8391edec46262e6b89ccef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1260324061,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1260324061,
+    "wof:lastmodified":1536657464,
+    "wof:name":"Koringo",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85,
+    12.71667,
+    23.85,
+    12.71667
+],
+  "geometry": {"coordinates":[23.85,12.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243588457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26116,13.09022,24.26116,13.09022",
+    "geom:latitude":13.09022,
+    "geom:longitude":24.26116,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Dwo",
+    "gn:country_code":"SD",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750182,
+    "gn:latitude":13.09022,
+    "gn:longitude":24.26116,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750182
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"28bd496f1f0264a191deac1c8f106038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707999,
+            "locality_id":1243588457,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1243588457,
+    "wof:lastmodified":1537094534,
+    "wof:name":"Dwo",
+    "wof:parent_id":1091707999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26116,
+    13.09022,
+    24.26116,
+    13.09022
+],
+  "geometry": {"coordinates":[24.26116,13.09022],"type":"Point"}
+}

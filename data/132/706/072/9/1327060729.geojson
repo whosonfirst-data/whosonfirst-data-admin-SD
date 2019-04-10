@@ -1,0 +1,67 @@
+{
+  "id": 1327060729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74332,10.18348,30.74332,10.18348",
+    "geom:latitude":10.18348,
+    "geom:longitude":30.74332,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tumria",
+    "gn:country_code":"SD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365614,
+    "gn:latitude":10.18348,
+    "gn:longitude":30.74332,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tumria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365614
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d361249dc7a74bbbf46cc2773314ad44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1327060729,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1327060729,
+    "wof:lastmodified":1536720005,
+    "wof:name":"Tumria",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74332,
+    10.18348,
+    30.74332,
+    10.18348
+],
+  "geometry": {"coordinates":[30.74332,10.18348],"type":"Point"}
+}

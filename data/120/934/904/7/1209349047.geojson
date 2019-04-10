@@ -1,0 +1,64 @@
+{
+  "id": 1209349047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65818,12.20028,22.65818,12.20028",
+    "geom:latitude":12.20028,
+    "geom:longitude":22.65818,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Jeroko",
+    "gn:country_code":"SD",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390165,
+    "gn:latitude":12.20028,
+    "gn:longitude":22.65818,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Jeroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jeroko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390165
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6745d55135b05d3df826583efb7c8768",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209349047
+        }
+    ],
+    "wof:id":1209349047,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Jeroko",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65818,
+    12.20028,
+    22.65818,
+    12.20028
+],
+  "geometry": {"coordinates":[22.65818,12.20028],"type":"Point"}
+}

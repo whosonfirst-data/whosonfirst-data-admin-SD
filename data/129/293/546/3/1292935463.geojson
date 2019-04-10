@@ -1,0 +1,72 @@
+{
+  "id": 1292935463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2,13.16667,31.2,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":31.2,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Abu Qurayn",
+    "gn:country_code":"SD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380628,
+    "gn:latitude":13.16667,
+    "gn:longitude":31.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Qurayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Qurein",
+        "Abu Ourein",
+        "Ab\u016b Qurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380628
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"febe0729d4b28e41346cd5d83f45fba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1292935463,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1292935463,
+    "wof:lastmodified":1537699595,
+    "wof:name":"Abu Qurayn",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2,
+    13.16667,
+    31.2,
+    13.16667
+],
+  "geometry": {"coordinates":[31.2,13.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293440491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5574,15.8361,32.5574,15.8361",
+    "geom:latitude":15.8361,
+    "geom:longitude":32.5574,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"El Faki Hashim",
+    "gn:country_code":"SD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6992454,
+    "gn:latitude":15.8361,
+    "gn:longitude":32.5574,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"El Faki Hashim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6992454
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fed9eff1372817eb517a1d485118e797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707361,
+            "locality_id":1293440491,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1293440491,
+    "wof:lastmodified":1536853818,
+    "wof:name":"El Faki Hashim",
+    "wof:parent_id":1091707361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5574,
+    15.8361,
+    32.5574,
+    15.8361
+],
+  "geometry": {"coordinates":[32.5574,15.8361],"type":"Point"}
+}

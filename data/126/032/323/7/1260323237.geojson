@@ -1,0 +1,67 @@
+{
+  "id": 1260323237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92545,10.5108,24.92545,10.5108",
+    "geom:latitude":10.5108,
+    "geom:longitude":24.92545,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Goerin",
+    "gn:country_code":"SD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148694,
+    "gn:latitude":10.5108,
+    "gn:longitude":24.92545,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Goerin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148694
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b5ff88769df6325ef2389bad76b82f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1260323237,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1260323237,
+    "wof:lastmodified":1536658610,
+    "wof:name":"Goerin",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92545,
+    10.5108,
+    24.92545,
+    10.5108
+],
+  "geometry": {"coordinates":[24.92545,10.5108],"type":"Point"}
+}

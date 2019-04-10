@@ -1,0 +1,70 @@
+{
+  "id": 1360123211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5067,14.5196,32.5067,14.5196",
+    "geom:latitude":14.5196,
+    "geom:longitude":32.5067,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad An Nora",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983250,
+    "gn:latitude":14.5196,
+    "gn:longitude":32.5067,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad An N\u014dra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad An N\u014dra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983250
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bfff99ed057e03d753f5fde94960c813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1360123211,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360123211,
+    "wof:lastmodified":1537699620,
+    "wof:name":"Wad An Nora",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5067,
+    14.5196,
+    32.5067,
+    14.5196
+],
+  "geometry": {"coordinates":[32.5067,14.5196],"type":"Point"}
+}

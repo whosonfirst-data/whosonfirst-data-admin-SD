@@ -1,0 +1,71 @@
+{
+  "id": 1226477117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15,11.71667,27.15,11.71667",
+    "geom:latitude":11.71667,
+    "geom:longitude":27.15,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Umm Radim",
+    "gn:country_code":"SD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364751,
+    "gn:latitude":11.71667,
+    "gn:longitude":27.15,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Umm Rad\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Redim",
+        "Umm Rad\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091706757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364751
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2671741f2938fa5b658dd3b94c2b627f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706757,
+            "locality_id":1226477117,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1226477117,
+    "wof:lastmodified":1537699419,
+    "wof:name":"Umm Radim",
+    "wof:parent_id":1091706757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15,
+    11.71667,
+    27.15,
+    11.71667
+],
+  "geometry": {"coordinates":[27.15,11.71667],"type":"Point"}
+}

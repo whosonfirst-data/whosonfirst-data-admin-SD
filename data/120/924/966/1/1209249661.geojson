@@ -1,0 +1,61 @@
+{
+  "id": 1209249661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21667,12.46667,27.21667,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":27.21667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Umm Busa",
+    "gn:country_code":"SD",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365231,
+    "gn:latitude":12.46667,
+    "gn:longitude":27.21667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Umm Busa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365231
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ad3e9477cffb42ac387194f3edb59549",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209249661
+        }
+    ],
+    "wof:id":1209249661,
+    "wof:lastmodified":1536293046,
+    "wof:name":"Umm Busa",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21667,
+    12.46667,
+    27.21667,
+    12.46667
+],
+  "geometry": {"coordinates":[27.21667,12.46667],"type":"Point"}
+}

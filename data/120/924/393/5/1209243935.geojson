@@ -1,0 +1,61 @@
+{
+  "id": 1209243935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4645,17.3146,34.4645,17.3146",
+    "geom:latitude":17.3146,
+    "geom:longitude":34.4645,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"At Tileih",
+    "gn:country_code":"SD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444146,
+    "gn:latitude":17.3146,
+    "gn:longitude":34.4645,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Tileih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444146
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"29ccede05864c53b3dea6131541dd6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209243935
+        }
+    ],
+    "wof:id":1209243935,
+    "wof:lastmodified":1536293229,
+    "wof:name":"At Tileih",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4645,
+    17.3146,
+    34.4645,
+    17.3146
+],
+  "geometry": {"coordinates":[34.4645,17.3146],"type":"Point"}
+}

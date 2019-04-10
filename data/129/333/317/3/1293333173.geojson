@@ -1,0 +1,70 @@
+{
+  "id": 1293333173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0141,14.6866,33.0141,14.6866",
+    "geom:latitude":14.6866,
+    "geom:longitude":33.0141,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Takala Awlad Ahmad",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026315,
+    "gn:latitude":14.6866,
+    "gn:longitude":33.0141,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Takala Awl\u0101d A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At Takala Awl\u0101d A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026315
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ed19e96129f36bbeb228aba38926c358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293333173,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293333173,
+    "wof:lastmodified":1537699647,
+    "wof:name":"At Takala Awlad Ahmad",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0141,
+    14.6866,
+    33.0141,
+    14.6866
+],
+  "geometry": {"coordinates":[33.0141,14.6866],"type":"Point"}
+}

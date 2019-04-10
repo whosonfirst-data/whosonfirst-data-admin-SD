@@ -1,0 +1,71 @@
+{
+  "id": 1326560513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68333,17.06667,33.68333,17.06667",
+    "geom:latitude":17.06667,
+    "geom:longitude":33.68333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bagarosi",
+    "gn:country_code":"SD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377918,
+    "gn:latitude":17.06667,
+    "gn:longitude":33.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bagarosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagrosi",
+        "Bagarosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377918
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1e2ac780310c1c8ad6c39dd643a4f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1326560513,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1326560513,
+    "wof:lastmodified":1537699539,
+    "wof:name":"Bagarosi",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68333,
+    17.06667,
+    33.68333,
+    17.06667
+],
+  "geometry": {"coordinates":[33.68333,17.06667],"type":"Point"}
+}

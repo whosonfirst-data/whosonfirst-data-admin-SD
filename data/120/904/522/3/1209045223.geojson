@@ -1,0 +1,64 @@
+{
+  "id": 1209045223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7086,14.3837,32.7086,14.3837",
+    "geom:latitude":14.3837,
+    "geom:longitude":32.7086,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Sa`id",
+    "gn:country_code":"SD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364064,
+    "gn:latitude":14.3837,
+    "gn:longitude":32.7086,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364064
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"04dbe38e19dca3a31776366f785283d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209045223
+        }
+    ],
+    "wof:id":1209045223,
+    "wof:lastmodified":1537699401,
+    "wof:name":"Wad Sa`id",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7086,
+    14.3837,
+    32.7086,
+    14.3837
+],
+  "geometry": {"coordinates":[32.7086,14.3837],"type":"Point"}
+}

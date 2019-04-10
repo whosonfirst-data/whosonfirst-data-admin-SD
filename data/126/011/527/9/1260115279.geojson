@@ -1,0 +1,73 @@
+{
+  "id": 1260115279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03333,13.21667,29.03333,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":29.03333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Niblat al Hajjanah",
+    "gn:country_code":"SD",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369183,
+    "gn:latitude":13.21667,
+    "gn:longitude":29.03333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Niblat al Hajj\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabalat al \u1e28ajanah",
+        "Nebelat el Hagana",
+        "Niblat al Hajj\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369183,
+        "wk:page":"Nebelat_el_Hagana"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0cfb63194311dc7d856a9562c25f419a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1260115279,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1260115279,
+    "wof:lastmodified":1537699469,
+    "wof:name":"Niblat al Hajjanah",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03333,
+    13.21667,
+    29.03333,
+    13.21667
+],
+  "geometry": {"coordinates":[29.03333,13.21667],"type":"Point"}
+}

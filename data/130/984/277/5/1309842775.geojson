@@ -1,0 +1,70 @@
+{
+  "id": 1309842775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2884,13.40706,22.2884,13.40706",
+    "geom:latitude":13.40706,
+    "geom:longitude":22.2884,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Gararang",
+    "gn:country_code":"SD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375116,
+    "gn:latitude":13.40706,
+    "gn:longitude":22.2884,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Gararang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gararang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375116
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"57d31da3489018496fc220072acb1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1309842775,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1309842775,
+    "wof:lastmodified":1537699518,
+    "wof:name":"Gararang",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2884,
+    13.40706,
+    22.2884,
+    13.40706
+],
+  "geometry": {"coordinates":[22.2884,13.40706],"type":"Point"}
+}

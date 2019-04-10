@@ -1,0 +1,72 @@
+{
+  "id": 1293136953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73973,10.8034,23.73973,10.8034",
+    "geom:latitude":10.8034,
+    "geom:longitude":23.73973,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Gidir",
+    "gn:country_code":"SD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365076,
+    "gn:latitude":10.8034,
+    "gn:longitude":23.73973,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Gidir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Gederri",
+        "Um Gederri",
+        "Umm Gidir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091710763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365076
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cc7d0e576786f8e7d78d18fe7d8fcdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710763,
+            "locality_id":1293136953,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293136953,
+    "wof:lastmodified":1537699426,
+    "wof:name":"Umm Gidir",
+    "wof:parent_id":1091710763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73973,
+    10.8034,
+    23.73973,
+    10.8034
+],
+  "geometry": {"coordinates":[23.73973,10.8034],"type":"Point"}
+}

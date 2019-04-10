@@ -1,0 +1,67 @@
+{
+  "id": 1309924309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61666,9.31677,28.61666,9.31677",
+    "geom:latitude":9.31677,
+    "geom:longitude":28.61666,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Agok",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779128,
+    "gn:latitude":9.31677,
+    "gn:longitude":28.61666,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Agok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779128
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a4585f5aae8dceb7f53b47e2b3c0f886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914361,
+            "locality_id":1309924309,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1309924309,
+    "wof:lastmodified":1536760486,
+    "wof:name":"Agok",
+    "wof:parent_id":1091914361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61666,
+    9.31677,
+    28.61666,
+    9.31677
+],
+  "geometry": {"coordinates":[28.61666,9.31677],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276266749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9849,17.9191,33.9849,17.9191",
+    "geom:latitude":17.9191,
+    "geom:longitude":33.9849,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Gabat Mar",
+    "gn:country_code":"SD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444113,
+    "gn:latitude":17.9191,
+    "gn:longitude":33.9849,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gabat Mar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444113
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"146d24507d965e8eef1dbb64e6777f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1276266749,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1276266749,
+    "wof:lastmodified":1536866496,
+    "wof:name":"Gabat Mar",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9849,
+    17.9191,
+    33.9849,
+    17.9191
+],
+  "geometry": {"coordinates":[33.9849,17.9191],"type":"Point"}
+}

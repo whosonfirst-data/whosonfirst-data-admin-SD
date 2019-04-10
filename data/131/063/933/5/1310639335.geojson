@@ -1,0 +1,71 @@
+{
+  "id": 1310639335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76667,14.2,33.76667,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":33.76667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hara'iz an Nefeidiya",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374081,
+    "gn:latitude":14.2,
+    "gn:longitude":33.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ar\u0101\u2019iz an Nefeidiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heraiz en Nefeidiya",
+        "\u1e28ar\u0101\u2019iz an Nefeidiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374081
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7fa0dac2e87bead1aac6e66be7537c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1310639335,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310639335,
+    "wof:lastmodified":1537699510,
+    "wof:name":"Hara'iz an Nefeidiya",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76667,
+    14.2,
+    33.76667,
+    14.2
+],
+  "geometry": {"coordinates":[33.76667,14.2],"type":"Point"}
+}

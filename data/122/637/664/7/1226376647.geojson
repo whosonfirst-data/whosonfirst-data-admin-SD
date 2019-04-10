@@ -1,0 +1,70 @@
+{
+  "id": 1226376647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1117,12.7948,34.1117,12.7948",
+    "geom:latitude":12.7948,
+    "geom:longitude":34.1117,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nasir",
+    "gn:country_code":"SD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029366,
+    "gn:latitude":12.7948,
+    "gn:longitude":34.1117,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029366
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba5b98bfe77d83423c9e32b94deb8e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1226376647,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1226376647,
+    "wof:lastmodified":1537699676,
+    "wof:name":"Nasir",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1117,
+    12.7948,
+    34.1117,
+    12.7948
+],
+  "geometry": {"coordinates":[34.1117,12.7948],"type":"Point"}
+}

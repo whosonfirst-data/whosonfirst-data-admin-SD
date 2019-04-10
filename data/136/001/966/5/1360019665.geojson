@@ -1,0 +1,80 @@
+{
+  "id": 1360019665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16278,13.6196,22.16278,13.6196",
+    "geom:latitude":13.6196,
+    "geom:longitude":22.16278,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Khadiga",
+    "gn:country_code":"SD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389632,
+    "gn:latitude":13.6196,
+    "gn:longitude":22.16278,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Khadiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khadiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389632
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"07ceabc85abe652571513fcf904c12ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1360019665,
+            "region_id":85676881
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1360019665,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1360019665,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Khadiga",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16278,
+    13.6196,
+    22.16278,
+    13.6196
+],
+  "geometry": {"coordinates":[22.16278,13.6196],"type":"Point"}
+}

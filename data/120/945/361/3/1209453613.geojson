@@ -1,0 +1,61 @@
+{
+  "id": 1209453613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7765,14.9192,32.7765,14.9192",
+    "geom:latitude":14.9192,
+    "geom:longitude":32.7765,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Kimer",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983200,
+    "gn:latitude":14.9192,
+    "gn:longitude":32.7765,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Kimer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983200
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2b32e9178bf6514faa2c46dbf1c428f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209453613
+        }
+    ],
+    "wof:id":1209453613,
+    "wof:lastmodified":1536286603,
+    "wof:name":"Al Kimer",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7765,
+    14.9192,
+    32.7765,
+    14.9192
+],
+  "geometry": {"coordinates":[32.7765,14.9192],"type":"Point"}
+}

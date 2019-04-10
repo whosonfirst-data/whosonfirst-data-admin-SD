@@ -1,0 +1,67 @@
+{
+  "id": 1225979377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,12.91667,32.85,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":32.85,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Shawa",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367203,
+    "gn:latitude":12.91667,
+    "gn:longitude":32.85,
+    "gn:modification_date":"2008-10-01",
+    "gn:name":"Shawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367203
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"761fcbdb40e119fbfb3be1ef91cae683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1225979377,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1225979377,
+    "wof:lastmodified":1536819903,
+    "wof:name":"Shawa",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    12.91667,
+    32.85,
+    12.91667
+],
+  "geometry": {"coordinates":[32.85,12.91667],"type":"Point"}
+}

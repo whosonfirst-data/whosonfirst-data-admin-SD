@@ -1,0 +1,71 @@
+{
+  "id": 1259820591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30489,13.81905,22.30489,13.81905",
+    "geom:latitude":13.81905,
+    "geom:longitude":22.30489,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Murdet",
+    "gn:country_code":"SD",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369665,
+    "gn:latitude":13.81905,
+    "gn:longitude":22.30489,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Murdet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mourdet",
+        "Murdet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369665
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e22a593cd1c952e180c98f06472d1cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":1259820591,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1259820591,
+    "wof:lastmodified":1537699471,
+    "wof:name":"Murdet",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30489,
+    13.81905,
+    22.30489,
+    13.81905
+],
+  "geometry": {"coordinates":[22.30489,13.81905],"type":"Point"}
+}

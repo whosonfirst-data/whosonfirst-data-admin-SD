@@ -1,0 +1,73 @@
+{
+  "id": 1344192457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,12.61667,30.3,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"An Nuqay`ah",
+    "gn:country_code":"SD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378695,
+    "gn:latitude":12.61667,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nuqay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nugeia",
+        "En Nuqei\u2018a",
+        "En Nugei\u2018a",
+        "An Nuqay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378695
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"005e497ab25cbcc4b5933b75f4bc2d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1344192457,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1344192457,
+    "wof:lastmodified":1537699555,
+    "wof:name":"An Nuqay`ah",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    12.61667,
+    30.3,
+    12.61667
+],
+  "geometry": {"coordinates":[30.3,12.61667],"type":"Point"}
+}

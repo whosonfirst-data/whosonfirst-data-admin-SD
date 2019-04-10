@@ -1,0 +1,64 @@
+{
+  "id": 1209151045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5643,14.1653,32.5643,14.1653",
+    "geom:latitude":14.1653,
+    "geom:longitude":32.5643,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Aj `Jimayyil",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026569,
+    "gn:latitude":14.1653,
+    "gn:longitude":32.5643,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aj \u2018Jimayyil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aj \u2018Jimayyil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026569
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"064d953eee1ef52ea45861546e595d78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209151045
+        }
+    ],
+    "wof:id":1209151045,
+    "wof:lastmodified":1537699656,
+    "wof:name":"Aj `Jimayyil",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5643,
+    14.1653,
+    32.5643,
+    14.1653
+],
+  "geometry": {"coordinates":[32.5643,14.1653],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259830999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4903,14.2352,33.4903,14.2352",
+    "geom:latitude":14.2352,
+    "geom:longitude":33.4903,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Shijerat",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026666,
+    "gn:latitude":14.2352,
+    "gn:longitude":33.4903,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Shijerat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026666
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fc4fe6be93246786f403130bc714a6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1259830999,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259830999,
+    "wof:lastmodified":1536853821,
+    "wof:name":"Um Shijerat",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4903,
+    14.2352,
+    33.4903,
+    14.2352
+],
+  "geometry": {"coordinates":[33.4903,14.2352],"type":"Point"}
+}

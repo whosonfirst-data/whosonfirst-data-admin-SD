@@ -1,0 +1,70 @@
+{
+  "id": 1293235475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44737,10.99257,24.44737,10.99257",
+    "geom:latitude":10.99257,
+    "geom:longitude":24.44737,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Sakeikini",
+    "gn:country_code":"SD",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364565,
+    "gn:latitude":10.99257,
+    "gn:longitude":24.44737,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Sakeikini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Sukayk\u012bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364565
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"355d89f2e9e65e58d29a561d2ec2876e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707307,
+            "locality_id":1293235475,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293235475,
+    "wof:lastmodified":1537699416,
+    "wof:name":"Umm Sakeikini",
+    "wof:parent_id":1091707307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44737000000001,
+    10.99257,
+    24.44737000000001,
+    10.99257
+],
+  "geometry": {"coordinates":[24.44737000000001,10.99257],"type":"Point"}
+}

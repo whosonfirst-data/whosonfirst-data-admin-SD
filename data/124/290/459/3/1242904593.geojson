@@ -1,0 +1,71 @@
+{
+  "id": 1242904593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71736,14.2068,22.71736,14.2068",
+    "geom:latitude":14.2068,
+    "geom:longitude":22.71736,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Margub",
+    "gn:country_code":"SD",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370464,
+    "gn:latitude":14.2068,
+    "gn:longitude":22.71736,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Margub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Margoub",
+        "Margub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370464
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b89359b07ea42bb1a643b5263cb68f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1242904593,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1242904593,
+    "wof:lastmodified":1537699477,
+    "wof:name":"Margub",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71736,
+    14.2068,
+    22.71736,
+    14.2068
+],
+  "geometry": {"coordinates":[22.71736,14.2068],"type":"Point"}
+}

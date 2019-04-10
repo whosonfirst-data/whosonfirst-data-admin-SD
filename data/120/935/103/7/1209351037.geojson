@@ -1,0 +1,65 @@
+{
+  "id": 1209351037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11667,13.8,30.11667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":30.11667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ar Raddah",
+    "gn:country_code":"SD",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378497,
+    "gn:latitude":13.8,
+    "gn:longitude":30.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Raddah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Rudda",
+        "Ar Raddah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378497
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"569412c2e19e2adcfb234b227979021e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209351037
+        }
+    ],
+    "wof:id":1209351037,
+    "wof:lastmodified":1537699553,
+    "wof:name":"Ar Raddah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11667000000001,
+    13.8,
+    30.11667000000001,
+    13.8
+],
+  "geometry": {"coordinates":[30.11667000000001,13.8],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360021791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31598,12.76305,24.31598,12.76305",
+    "geom:latitude":12.76305,
+    "geom:longitude":24.31598,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Digiru",
+    "gn:country_code":"SD",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7036932,
+    "gn:latitude":12.76305,
+    "gn:longitude":24.31598,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Digiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diguru",
+        "Digiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7036932
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c35c9f0d2bca570830935ba746719a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1360021791,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1360021791,
+    "wof:lastmodified":1537699688,
+    "wof:name":"Digiru",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31598,
+    12.76305,
+    24.31598,
+    12.76305
+],
+  "geometry": {"coordinates":[24.31598,12.76305],"type":"Point"}
+}

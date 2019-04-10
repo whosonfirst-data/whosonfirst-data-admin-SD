@@ -1,0 +1,70 @@
+{
+  "id": 1293032013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3284,12.3761,34.3284,12.3761",
+    "geom:latitude":12.3761,
+    "geom:longitude":34.3284,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Yusif",
+    "gn:country_code":"SD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033691,
+    "gn:latitude":12.3761,
+    "gn:longitude":34.3284,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u016bsif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Y\u016bsif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033691
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e07efa2b73175ccb8084b14f334d1440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1293032013,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1293032013,
+    "wof:lastmodified":1537699687,
+    "wof:name":"Yusif",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3284,
+    12.3761,
+    34.3284,
+    12.3761
+],
+  "geometry": {"coordinates":[34.3284,12.3761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276595417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51667,14.45,33.51667,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":33.51667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Abbasiyah",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379757,
+    "gn:latitude":14.45,
+    "gn:longitude":33.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Abb\u0101s\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Abasiya",
+        "Al \u2018Abb\u0101s\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379757
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c114b44b0a1721d54d72b59781a76910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1276595417,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276595417,
+    "wof:lastmodified":1537699586,
+    "wof:name":"Al `Abbasiyah",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51667,
+    14.45,
+    33.51667,
+    14.45
+],
+  "geometry": {"coordinates":[33.51667,14.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310239969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7,18.55,33.7,18.55",
+    "geom:latitude":18.55,
+    "geom:longitude":33.7,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Al Karabah",
+    "gn:country_code":"SD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379281,
+    "gn:latitude":18.55,
+    "gn:longitude":33.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Karabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Karaba",
+        "Al Karabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379281
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ee86af9d4e924d6224f117c0c4bca389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1310239969,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1310239969,
+    "wof:lastmodified":1537699570,
+    "wof:name":"Al Karabah",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7,
+    18.55,
+    33.7,
+    18.55
+],
+  "geometry": {"coordinates":[33.7,18.55],"type":"Point"}
+}

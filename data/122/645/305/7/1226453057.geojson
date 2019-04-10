@@ -1,0 +1,72 @@
+{
+  "id": 1226453057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.715,15.2596,32.715,15.2596",
+    "geom:latitude":15.2596,
+    "geom:longitude":32.715,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Al Hideba",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374479,
+    "gn:latitude":15.2596,
+    "gn:longitude":32.715,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Hideba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habiba",
+        "\u1e28ab\u012bbah",
+        "Al Hideba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374479
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"037e3fe31a03c1a7838b8a85f29374d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1226453057,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226453057,
+    "wof:lastmodified":1537699514,
+    "wof:name":"Al Hideba",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.715,
+    15.2596,
+    32.715,
+    15.2596
+],
+  "geometry": {"coordinates":[32.715,15.2596],"type":"Point"}
+}

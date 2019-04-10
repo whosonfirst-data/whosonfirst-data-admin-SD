@@ -1,0 +1,61 @@
+{
+  "id": 1209035357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6589,16.3696,32.6589,16.3696",
+    "geom:latitude":16.3696,
+    "geom:longitude":32.6589,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el Faki Siddeq",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444009,
+    "gn:latitude":16.3696,
+    "gn:longitude":32.6589,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat el Faki Siddeq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444009
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5d04068190f9add650d6dbfee8b68901",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209035357
+        }
+    ],
+    "wof:id":1209035357,
+    "wof:lastmodified":1536299719,
+    "wof:name":"Hillat el Faki Siddeq",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6589,
+    16.3696,
+    32.6589,
+    16.3696
+],
+  "geometry": {"coordinates":[32.6589,16.3696],"type":"Point"}
+}

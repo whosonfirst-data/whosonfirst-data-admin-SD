@@ -1,0 +1,61 @@
+{
+  "id": 1209350705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9434,10.78515,29.9434,10.78515",
+    "geom:latitude":10.78515,
+    "geom:longitude":29.9434,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Topari",
+    "gn:country_code":"SD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250162,
+    "gn:latitude":10.78515,
+    "gn:longitude":29.9434,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Topari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250162
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"86730fc6754743dc4855754640866946",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209350705
+        }
+    ],
+    "wof:id":1209350705,
+    "wof:lastmodified":1536289751,
+    "wof:name":"Topari",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9434,
+    10.78515,
+    29.9434,
+    10.78515
+],
+  "geometry": {"coordinates":[29.9434,10.78515],"type":"Point"}
+}

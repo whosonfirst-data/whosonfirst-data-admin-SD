@@ -1,0 +1,71 @@
+{
+  "id": 1259819783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68333,11.93333,31.68333,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":31.68333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kaylan",
+    "gn:country_code":"SD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372690,
+    "gn:latitude":11.93333,
+    "gn:longitude":31.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kayl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keilan",
+        "Kayl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372690
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e9a3b02cbee69e7eaa8058ed1a6b8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710069,
+            "locality_id":1259819783,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1259819783,
+    "wof:lastmodified":1537699493,
+    "wof:name":"Kaylan",
+    "wof:parent_id":1091710069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68333,
+    11.93333,
+    31.68333,
+    11.93333
+],
+  "geometry": {"coordinates":[31.68333,11.93333],"type":"Point"}
+}

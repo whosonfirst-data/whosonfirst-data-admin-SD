@@ -1,0 +1,67 @@
+{
+  "id": 1309757551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7997,14.4597,32.7997,14.4597",
+    "geom:latitude":14.4597,
+    "geom:longitude":32.7997,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Kiter",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026386,
+    "gn:latitude":14.4597,
+    "gn:longitude":32.7997,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Kiter",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026386
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aa4552837cf0647494a240379b98e47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1309757551,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1309757551,
+    "wof:lastmodified":1537000025,
+    "wof:name":"Al Kiter",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7997,
+    14.4597,
+    32.7997,
+    14.4597
+],
+  "geometry": {"coordinates":[32.7997,14.4597],"type":"Point"}
+}

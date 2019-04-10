@@ -1,0 +1,70 @@
+{
+  "id": 1310339865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1185,12.9307,31.1185,12.9307",
+    "geom:latitude":12.9307,
+    "geom:longitude":31.1185,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Shambati",
+    "gn:country_code":"SD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028954,
+    "gn:latitude":12.9307,
+    "gn:longitude":31.1185,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shamb\u0101t\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamb\u0101t\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028954
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"96e181294f664e87432a55b27742842c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310339865,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310339865,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Shambati",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1185,
+    12.9307,
+    31.1185,
+    12.9307
+],
+  "geometry": {"coordinates":[31.1185,12.9307],"type":"Point"}
+}

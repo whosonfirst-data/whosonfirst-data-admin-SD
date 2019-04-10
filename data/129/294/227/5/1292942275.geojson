@@ -1,0 +1,67 @@
+{
+  "id": 1292942275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5458,15.8303,35.5458,15.8303",
+    "geom:latitude":15.8303,
+    "geom:longitude":35.5458,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hillat Abu Ushar",
+    "gn:country_code":"SD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024588,
+    "gn:latitude":15.8303,
+    "gn:longitude":35.5458,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Abu Ushar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091707385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024588
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"abcb30ee4bf9d33df80243d4c69ada1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707385,
+            "locality_id":1292942275,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1292942275,
+    "wof:lastmodified":1537072901,
+    "wof:name":"Hillat Abu Ushar",
+    "wof:parent_id":1091707385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5458,
+    15.8303,
+    35.5458,
+    15.8303
+],
+  "geometry": {"coordinates":[35.5458,15.8303],"type":"Point"}
+}

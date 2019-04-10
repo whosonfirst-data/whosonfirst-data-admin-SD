@@ -1,0 +1,72 @@
+{
+  "id": 1209749305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3667,12.815,32.3667,12.815",
+    "geom:latitude":12.815,
+    "geom:longitude":32.3667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Mekah",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370297,
+    "gn:latitude":12.815,
+    "gn:longitude":32.3667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Meka\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meika",
+        "Maykah",
+        "Meka\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370297
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"26651e3d005d5e00971138cc88a869bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1209749305,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1209749305,
+    "wof:lastmodified":1537699476,
+    "wof:name":"Mekah",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3667,
+    12.815,
+    32.3667,
+    12.815
+],
+  "geometry": {"coordinates":[32.3667,12.815],"type":"Point"}
+}

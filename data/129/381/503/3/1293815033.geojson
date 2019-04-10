@@ -1,0 +1,71 @@
+{
+  "id": 1293815033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,13.23333,26.01667,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":26.01667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ja`l",
+    "gn:country_code":"SD",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373419,
+    "gn:latitude":13.23333,
+    "gn:longitude":26.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ja\u2018l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaal",
+        "Ja\u2018l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091707249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373419
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9db09907cbc1ff9c6f323fc77f8e301c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707249,
+            "locality_id":1293815033,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293815033,
+    "wof:lastmodified":1537699500,
+    "wof:name":"Ja`l",
+    "wof:parent_id":1091707249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    13.23333,
+    26.01667,
+    13.23333
+],
+  "geometry": {"coordinates":[26.01667,13.23333],"type":"Point"}
+}

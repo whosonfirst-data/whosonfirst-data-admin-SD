@@ -1,0 +1,71 @@
+{
+  "id": 1243002343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85,14.66667,35.85,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":35.85,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Muqatta`",
+    "gn:country_code":"SD",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369691,
+    "gn:latitude":14.66667,
+    "gn:longitude":35.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muqa\u0163\u0163a\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moqatta\u2018",
+        "Muqa\u0163\u0163a\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369691
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c6769df9a5d6a5be4accd2c347cc43d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705443,
+            "locality_id":1243002343,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1243002343,
+    "wof:lastmodified":1537699472,
+    "wof:name":"Muqatta`",
+    "wof:parent_id":1091705443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85,
+    14.66667,
+    35.85,
+    14.66667
+],
+  "geometry": {"coordinates":[35.85,14.66667],"type":"Point"}
+}

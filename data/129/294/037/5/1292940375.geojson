@@ -1,0 +1,72 @@
+{
+  "id": 1292940375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,14.41667,31.13333,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Daymayn",
+    "gn:country_code":"SD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365188,
+    "gn:latitude":14.41667,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Daymayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Deimin",
+        "Umm Deimein",
+        "Umm Daymayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365188
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e992971422e2b1be89c0d5b4a7d1f0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1292940375,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1292940375,
+    "wof:lastmodified":1537699429,
+    "wof:name":"Umm Daymayn",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    14.41667,
+    31.13333,
+    14.41667
+],
+  "geometry": {"coordinates":[31.13333,14.41667],"type":"Point"}
+}

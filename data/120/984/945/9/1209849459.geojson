@@ -1,0 +1,71 @@
+{
+  "id": 1209849459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23333,13.08333,34.23333,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":34.23333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Khamisah",
+    "gn:country_code":"SD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372550,
+    "gn:latitude":13.08333,
+    "gn:longitude":34.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kham\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamisa",
+        "Kham\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372550
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0daea2e0e11ff6dc8dda830b01e01959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1209849459,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1209849459,
+    "wof:lastmodified":1537699492,
+    "wof:name":"Khamisah",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23333,
+    13.08333,
+    34.23333,
+    13.08333
+],
+  "geometry": {"coordinates":[34.23333,13.08333],"type":"Point"}
+}

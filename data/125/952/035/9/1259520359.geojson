@@ -1,0 +1,67 @@
+{
+  "id": 1259520359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,12.83333,29.16667,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Umm Gamur",
+    "gn:country_code":"SD",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365104,
+    "gn:latitude":12.83333,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Umm Gamur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365104
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2ddb6d41843ef96b888acf749937024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1259520359,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1259520359,
+    "wof:lastmodified":1536805551,
+    "wof:name":"Umm Gamur",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    12.83333,
+    29.16667,
+    12.83333
+],
+  "geometry": {"coordinates":[29.16667,12.83333],"type":"Point"}
+}

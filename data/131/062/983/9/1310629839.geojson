@@ -1,0 +1,70 @@
+{
+  "id": 1310629839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1081,16.1699,36.1081,16.1699",
+    "geom:latitude":16.1699,
+    "geom:longitude":36.1081,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hadalya",
+    "gn:country_code":"SD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024373,
+    "gn:latitude":16.1699,
+    "gn:longitude":36.1081,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Had\u0101ly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Had\u0101ly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024373
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"22cd6719d0c0fbd75a617d11b09e535c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1310629839,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1310629839,
+    "wof:lastmodified":1537699634,
+    "wof:name":"Hadalya",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1081,
+    16.1699,
+    36.1081,
+    16.1699
+],
+  "geometry": {"coordinates":[36.1081,16.1699],"type":"Point"}
+}

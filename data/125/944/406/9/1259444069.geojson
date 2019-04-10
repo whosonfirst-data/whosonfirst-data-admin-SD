@@ -1,0 +1,73 @@
+{
+  "id": 1259444069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81667,15.9,33.81667,15.9",
+    "geom:latitude":15.9,
+    "geom:longitude":33.81667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Abu Dulayq",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380948,
+    "gn:latitude":15.9,
+    "gn:longitude":33.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Dulayq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Deleiq",
+        "Abu Deleig",
+        "Ab\u016b Dulayq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380948
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"66dcb5167e3f408a2cbb8cb46c3e59ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1259444069,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1259444069,
+    "wof:lastmodified":1537699599,
+    "wof:name":"Abu Dulayq",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81667,
+    15.9,
+    33.81667,
+    15.9
+],
+  "geometry": {"coordinates":[33.81667,15.9],"type":"Point"}
+}

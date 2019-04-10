@@ -1,0 +1,65 @@
+{
+  "id": 1209057893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63333,14.55,33.63333,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":33.63333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Umm Kutayrah",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364883,
+    "gn:latitude":14.55,
+    "gn:longitude":33.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Kutayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Kuteira",
+        "Umm Kutayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364883
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba767c250c43dc53fadb0342ec897e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209057893
+        }
+    ],
+    "wof:id":1209057893,
+    "wof:lastmodified":1537699422,
+    "wof:name":"Umm Kutayrah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63333,
+    14.55,
+    33.63333,
+    14.55
+],
+  "geometry": {"coordinates":[33.63333,14.55],"type":"Point"}
+}

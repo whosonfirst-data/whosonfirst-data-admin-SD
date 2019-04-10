@@ -1,0 +1,70 @@
+{
+  "id": 1310334137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.353,13.4362,32.353,13.4362",
+    "geom:latitude":13.4362,
+    "geom:longitude":32.353,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"As Sawajir",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028938,
+    "gn:latitude":13.4362,
+    "gn:longitude":32.353,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"As Sawaj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sawaj\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028938
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"377a6ebd6680bec9e2df190422624459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1310334137,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1310334137,
+    "wof:lastmodified":1537699663,
+    "wof:name":"As Sawajir",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.353,
+    13.4362,
+    32.353,
+    13.4362
+],
+  "geometry": {"coordinates":[32.353,13.4362],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242620131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,15.18333,33.11667,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Eidag",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375995,
+    "gn:latitude":15.18333,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Eidag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375995
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aaacd5e39a9d0be1eae0766429f9518c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1242620131,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1242620131,
+    "wof:lastmodified":1537001786,
+    "wof:name":"Eidag",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    15.18333,
+    33.11667,
+    15.18333
+],
+  "geometry": {"coordinates":[33.11667,15.18333],"type":"Point"}
+}

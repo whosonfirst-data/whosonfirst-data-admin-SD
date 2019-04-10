@@ -1,0 +1,71 @@
+{
+  "id": 1327262975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,12.26667,32.65,12.26667",
+    "geom:latitude":12.26667,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ash Shush",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378351,
+    "gn:latitude":12.26667,
+    "gn:longitude":32.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sh\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh Shush",
+        "Ash Sh\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378351
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"75146363d569a34474587afb1f5433fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1327262975,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327262975,
+    "wof:lastmodified":1537699548,
+    "wof:name":"Ash Shush",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    12.26667,
+    32.65,
+    12.26667
+],
+  "geometry": {"coordinates":[32.65,12.26667],"type":"Point"}
+}

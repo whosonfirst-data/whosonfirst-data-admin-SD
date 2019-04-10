@@ -1,0 +1,99 @@
+{
+  "id": 421183243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3869,11.8659,34.3869,11.8659",
+    "geom:latitude":11.8659,
+    "geom:longitude":34.3869,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0635\u064a\u0631\u0635"
+    ],
+    "name:dut_x_preferred":[
+        "Er Roseires"
+    ],
+    "name:eng_x_preferred":[
+        "Er Roseires"
+    ],
+    "name:fre_x_preferred":[
+        "Er Roseires"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Rusajris"
+    ],
+    "name:unk_x_variant":[
+        "Ru\u1e63\u00eare\u1e63"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":378459,
+    "qs:gn_pop":28862,
+    "qs:name":"Ar Rusayris",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":99,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":969878,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1430811,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378459,
+        "gp:id":1430811,
+        "qs:id":969878,
+        "wd:id":"Q3055933",
+        "wk:page":"Er Roseires"
+    },
+    "wof:country":"SD",
+    "wof:created":1459009363,
+    "wof:geomhash":"01546a19cf4b3aed06e8637dbc865e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":421183243,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":421183243,
+    "wof:lastmodified":1514504520,
+    "wof:name":"Ar Rusayris",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:population":28862,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3869,
+    11.8659,
+    34.3869,
+    11.8659
+],
+  "geometry": {"coordinates":[34.3869,11.8659],"type":"Point"}
+}

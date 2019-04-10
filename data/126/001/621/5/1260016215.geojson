@@ -1,0 +1,75 @@
+{
+  "id": 1260016215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9866,12.7074,31.9866,12.7074",
+    "geom:latitude":12.7074,
+    "geom:longitude":31.9866,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Shikar",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366997,
+    "gn:latitude":12.7074,
+    "gn:longitude":31.9866,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u012bk\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012bk\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Shukeir",
+        "Shikeir",
+        "Shukayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366997
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a8be8d8ba8ae0ff1d00d05253d6aafa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1260016215,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1260016215,
+    "wof:lastmodified":1537699445,
+    "wof:name":"Shikar",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9866,
+    12.7074,
+    31.9866,
+    12.7074
+],
+  "geometry": {"coordinates":[31.9866,12.7074],"type":"Point"}
+}

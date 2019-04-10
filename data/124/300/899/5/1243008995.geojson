@@ -1,0 +1,73 @@
+{
+  "id": 1243008995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85,11.38333,23.85,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":23.85,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Saysaban",
+    "gn:country_code":"SD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367518,
+    "gn:latitude":11.38333,
+    "gn:longitude":23.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saysab\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seisaban",
+        "Sesban",
+        "Teirab",
+        "Saysab\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367518
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c2ee97730ec19e40a39d6a210ef5714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707885,
+            "locality_id":1243008995,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1243008995,
+    "wof:lastmodified":1537699453,
+    "wof:name":"Saysaban",
+    "wof:parent_id":1091707885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85,
+    11.38333,
+    23.85,
+    11.38333
+],
+  "geometry": {"coordinates":[23.85,11.38333],"type":"Point"}
+}

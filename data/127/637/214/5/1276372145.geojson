@@ -1,0 +1,71 @@
+{
+  "id": 1276372145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48333,14.01667,35.48333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":35.48333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Umm Shajarah",
+    "gn:country_code":"SD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364637,
+    "gn:latitude":14.01667,
+    "gn:longitude":35.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Shajarah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Shagara",
+        "Umm Shajarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364637
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7aac745426deb682c2a8d3876dc0c205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707669,
+            "locality_id":1276372145,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1276372145,
+    "wof:lastmodified":1537699417,
+    "wof:name":"Umm Shajarah",
+    "wof:parent_id":1091707669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48333,
+    14.01667,
+    35.48333,
+    14.01667
+],
+  "geometry": {"coordinates":[35.48333,14.01667],"type":"Point"}
+}

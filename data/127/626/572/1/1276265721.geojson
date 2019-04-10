@@ -1,0 +1,70 @@
+{
+  "id": 1276265721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20379,13.09746,22.20379,13.09746",
+    "geom:latitude":13.09746,
+    "geom:longitude":22.20379,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Abota",
+    "gn:country_code":"SD",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381061,
+    "gn:latitude":13.09746,
+    "gn:longitude":22.20379,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Abota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381061
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"78a57b2fe73a4e8375ef10756d4cf9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1276265721,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1276265721,
+    "wof:lastmodified":1537699601,
+    "wof:name":"Abota",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20379,
+    13.09746,
+    22.20379,
+    13.09746
+],
+  "geometry": {"coordinates":[22.20379,13.09746],"type":"Point"}
+}

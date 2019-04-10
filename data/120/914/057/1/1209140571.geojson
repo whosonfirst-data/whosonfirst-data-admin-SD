@@ -1,0 +1,64 @@
+{
+  "id": 1209140571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.548,12.7337,31.548,12.7337",
+    "geom:latitude":12.7337,
+    "geom:longitude":31.548,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Um `Ush Al Faki",
+    "gn:country_code":"SD",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029086,
+    "gn:latitude":12.7337,
+    "gn:longitude":31.548,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u2018Ush Al Faki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um \u2018Ush Al Faki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029086
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b9beee113ca09dba41d47d3d083f5ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209140571
+        }
+    ],
+    "wof:id":1209140571,
+    "wof:lastmodified":1537699669,
+    "wof:name":"Um `Ush Al Faki",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.548,
+    12.7337,
+    31.548,
+    12.7337
+],
+  "geometry": {"coordinates":[31.548,12.7337],"type":"Point"}
+}

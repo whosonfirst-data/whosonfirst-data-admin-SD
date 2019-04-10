@@ -1,0 +1,73 @@
+{
+  "id": 1360223321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22861,15.09944,33.22861,15.09944",
+    "geom:latitude":15.09944,
+    "geom:longitude":33.22861,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mahas Ruqaybah",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370872,
+    "gn:latitude":15.09944,
+    "gn:longitude":33.22861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29as Ruqaybah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahas Ruqeiba",
+        "Mahas",
+        "Ma\u1e29as Ruqaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370872
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2ad0df677e0d706cf97009e870f82e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1360223321,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360223321,
+    "wof:lastmodified":1537699480,
+    "wof:name":"Mahas Ruqaybah",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22861,
+    15.09944,
+    33.22861,
+    15.09944
+],
+  "geometry": {"coordinates":[33.22861,15.09944],"type":"Point"}
+}

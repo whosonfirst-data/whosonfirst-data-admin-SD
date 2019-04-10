@@ -1,0 +1,88 @@
+{
+  "id": 1293523427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65,9.48333,28.65,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":28.65,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Mabuk",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370982,
+    "gn:latitude":9.48333,
+    "gn:longitude":28.65,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Mabuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabok",
+        "Mabuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711067,
+        85632657,
+        85676965,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370982
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cee76a49b998f0c41bb4c1ac383d2135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1293523427,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091711067,
+            "locality_id":1293523427,
+            "region_id":85676965
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1293523427,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293523427,
+    "wof:lastmodified":1537699481,
+    "wof:name":"Mabuk",
+    "wof:parent_id":1091711067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65,
+    9.48333,
+    28.65,
+    9.48333
+],
+  "geometry": {"coordinates":[28.65,9.48333],"type":"Point"}
+}

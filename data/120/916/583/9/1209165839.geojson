@@ -1,0 +1,64 @@
+{
+  "id": 1209165839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0572,14.8182,33.0572,14.8182",
+    "geom:latitude":14.8182,
+    "geom:longitude":33.0572,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ash Shikera Al Hilewab",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026214,
+    "gn:latitude":14.8182,
+    "gn:longitude":33.0572,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Shikera Al \u1e28ilewab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Shikera Al \u1e28ilewab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026214
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9d8584fdbb2beef7179b2e1dae05bf8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209165839
+        }
+    ],
+    "wof:id":1209165839,
+    "wof:lastmodified":1537699644,
+    "wof:name":"Ash Shikera Al Hilewab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0572,
+    14.8182,
+    33.0572,
+    14.8182
+],
+  "geometry": {"coordinates":[33.0572,14.8182],"type":"Point"}
+}

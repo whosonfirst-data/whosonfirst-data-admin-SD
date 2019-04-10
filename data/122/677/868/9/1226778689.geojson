@@ -1,0 +1,67 @@
+{
+  "id": 1226778689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,18.93333,33.58333,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Abu Hashim",
+    "gn:country_code":"SD",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380823,
+    "gn:latitude":18.93333,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ab\u016b Hashim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091705233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380823
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b2da469177cc415c2877a7aca50f777f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705233,
+            "locality_id":1226778689,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226778689,
+    "wof:lastmodified":1536668206,
+    "wof:name":"Abu Hashim",
+    "wof:parent_id":1091705233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    18.93333,
+    33.58333,
+    18.93333
+],
+  "geometry": {"coordinates":[33.58333,18.93333],"type":"Point"}
+}

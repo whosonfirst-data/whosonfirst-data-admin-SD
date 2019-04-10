@@ -1,0 +1,61 @@
+{
+  "id": 1209140517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3681,16.6694,33.3681,16.6694",
+    "geom:latitude":16.6694,
+    "geom:longitude":33.3681,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Mwes",
+    "gn:country_code":"SD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443904,
+    "gn:latitude":16.6694,
+    "gn:longitude":33.3681,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mwes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443904
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"94d9f0d4ffccfafce9cd50b69fd4791c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209140517
+        }
+    ],
+    "wof:id":1209140517,
+    "wof:lastmodified":1536296519,
+    "wof:name":"Mwes",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3681,
+    16.6694,
+    33.3681,
+    16.6694
+],
+  "geometry": {"coordinates":[33.3681,16.6694],"type":"Point"}
+}

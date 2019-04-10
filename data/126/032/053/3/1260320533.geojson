@@ -1,0 +1,70 @@
+{
+  "id": 1260320533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1832,16.6258,33.1832,16.6258",
+    "geom:latitude":16.6258,
+    "geom:longitude":33.1832,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Deim esh Shab`anab",
+    "gn:country_code":"SD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443937,
+    "gn:latitude":16.6258,
+    "gn:longitude":33.1832,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Deim esh Shab\u2018anab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deim esh Shab\u2018anab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443937
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fef8e2243430bac5f0863474884e0cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1260320533,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1260320533,
+    "wof:lastmodified":1537699607,
+    "wof:name":"Deim esh Shab`anab",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1832,
+    16.6258,
+    33.1832,
+    16.6258
+],
+  "geometry": {"coordinates":[33.1832,16.6258],"type":"Point"}
+}

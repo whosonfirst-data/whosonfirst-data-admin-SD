@@ -1,0 +1,70 @@
+{
+  "id": 1343889489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.275,13.9234,32.275,13.9234",
+    "geom:latitude":13.9234,
+    "geom:longitude":32.275,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Hasabaya",
+    "gn:country_code":"SD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018698,
+    "gn:latitude":13.9234,
+    "gn:longitude":32.275,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e28a\u1e63ab\u0101ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28a\u1e63ab\u0101ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018698
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"efeeb44d9b6d34ec7dfa557e57c429e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1343889489,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343889489,
+    "wof:lastmodified":1537699630,
+    "wof:name":"Al Hasabaya",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.275,
+    13.9234,
+    32.275,
+    13.9234
+],
+  "geometry": {"coordinates":[32.275,13.9234],"type":"Point"}
+}

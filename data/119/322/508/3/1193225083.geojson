@@ -1,0 +1,67 @@
+{
+  "id": 1193225083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6968,16.3228,32.6968,16.3228",
+    "geom:latitude":16.3228,
+    "geom:longitude":32.6968,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Tabya",
+    "gn:country_code":"SD",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444027,
+    "gn:latitude":16.3228,
+    "gn:longitude":32.6968,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tabya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444027
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"43b5e89be08ea7aa742aa0d11ed44f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707361,
+            "locality_id":1193225083,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1193225083,
+    "wof:lastmodified":1536371371,
+    "wof:name":"Tabya",
+    "wof:parent_id":1091707361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6968,
+    16.3228,
+    32.6968,
+    16.3228
+],
+  "geometry": {"coordinates":[32.6968,16.3228],"type":"Point"}
+}

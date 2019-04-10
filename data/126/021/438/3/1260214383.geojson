@@ -1,0 +1,72 @@
+{
+  "id": 1260214383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,13.05,31.31667,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Burmah",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365236,
+    "gn:latitude":13.05,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Burmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Burm",
+        "Umm Burma",
+        "Umm Burmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365236
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bfcd25fcc8c1cb0763f8b1360ae1f999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1260214383,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260214383,
+    "wof:lastmodified":1537699430,
+    "wof:name":"Umm Burmah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    13.05,
+    31.31667,
+    13.05
+],
+  "geometry": {"coordinates":[31.31667,13.05],"type":"Point"}
+}

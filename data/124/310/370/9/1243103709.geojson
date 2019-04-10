@@ -1,0 +1,67 @@
+{
+  "id": 1243103709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86667,11.78333,26.86667,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":26.86667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Futaha",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375289,
+    "gn:latitude":11.78333,
+    "gn:longitude":26.86667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Futaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375289
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"83c95e050a3c141a8f66452d5835b95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705641,
+            "locality_id":1243103709,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1243103709,
+    "wof:lastmodified":1536802438,
+    "wof:name":"Futaha",
+    "wof:parent_id":1091705641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86667000000001,
+    11.78333,
+    26.86667000000001,
+    11.78333
+],
+  "geometry": {"coordinates":[26.86667000000001,11.78333],"type":"Point"}
+}

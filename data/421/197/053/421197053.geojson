@@ -1,0 +1,77 @@
+{
+  "id": 421197053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23389,19.61972,37.23389,19.61972",
+    "geom:latitude":19.61972,
+    "geom:longitude":37.23389,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":376038,
+    "qs:gn_pop":0,
+    "qs:name":"East Town",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1291362,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1432032,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1091709521,
+        85676867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376038,
+        "gp:id":1432032,
+        "qs:id":1291362
+    },
+    "wof:country":"SD",
+    "wof:created":1459009901,
+    "wof:geomhash":"207d2ed6e13319fc9b3749d5ac4fdc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709521,
+            "locality_id":-1,
+            "neighbourhood_id":421197053,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":421197053,
+    "wof:lastmodified":1531858745,
+    "wof:name":"East Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23389,
+    19.61972,
+    37.23389,
+    19.61972
+],
+  "geometry": {"coordinates":[37.23389,19.61972],"type":"Point"}
+}

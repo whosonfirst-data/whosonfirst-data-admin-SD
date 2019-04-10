@@ -1,0 +1,70 @@
+{
+  "id": 1259916987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4201,13.5849,32.4201,13.5849",
+    "geom:latitude":13.5849,
+    "geom:longitude":32.4201,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"An Nitera",
+    "gn:country_code":"SD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018764,
+    "gn:latitude":13.5849,
+    "gn:longitude":32.4201,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An Niter\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An Niter\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018764
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6f30ca767536fdf77a74925122d4adcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1259916987,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1259916987,
+    "wof:lastmodified":1537699632,
+    "wof:name":"An Nitera",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4201,
+    13.5849,
+    32.4201,
+    13.5849
+],
+  "geometry": {"coordinates":[32.4201,13.5849],"type":"Point"}
+}

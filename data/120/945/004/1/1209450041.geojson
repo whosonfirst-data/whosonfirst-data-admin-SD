@@ -1,0 +1,64 @@
+{
+  "id": 1209450041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.706,12.1876,32.706,12.1876",
+    "geom:latitude":12.1876,
+    "geom:longitude":32.706,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um `Iriq",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504269,
+    "gn:latitude":12.1876,
+    "gn:longitude":32.706,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u2018Iriq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Um \u2018Iriq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504269
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"56e32d53634582b58680a14cd0fb98db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209450041
+        }
+    ],
+    "wof:id":1209450041,
+    "wof:lastmodified":1537699690,
+    "wof:name":"Um `Iriq",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.706,
+    12.1876,
+    32.706,
+    12.1876
+],
+  "geometry": {"coordinates":[32.706,12.1876],"type":"Point"}
+}

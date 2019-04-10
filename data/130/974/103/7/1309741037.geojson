@@ -1,0 +1,70 @@
+{
+  "id": 1309741037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8165,12.7647,32.8165,12.7647",
+    "geom:latitude":12.7647,
+    "geom:longitude":32.8165,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"'Al 'Imtidad 'al Musa`dab",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854188,
+    "gn:latitude":12.7647,
+    "gn:longitude":32.8165,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2019Al \u2019Imtid\u0101d \u2019al Mus\u0101\u2018d\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Al \u2019Imtid\u0101d \u2019al Mus\u0101\u2018d\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854188
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ca64376c9f3c34e657e277f0f8195cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1309741037,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1309741037,
+    "wof:lastmodified":1537699615,
+    "wof:name":"'Al 'Imtidad 'al Musa`dab",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8165,
+    12.7647,
+    32.8165,
+    12.7647
+],
+  "geometry": {"coordinates":[32.8165,12.7647],"type":"Point"}
+}

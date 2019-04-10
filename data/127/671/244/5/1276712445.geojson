@@ -1,0 +1,71 @@
+{
+  "id": 1276712445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7,14.15,33.7,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":33.7,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ruhaymab",
+    "gn:country_code":"SD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367966,
+    "gn:latitude":14.15,
+    "gn:longitude":33.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ru\u1e29aym\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruheimab",
+        "Ru\u1e29aym\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367966
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e9befc519d9e4a036ce04399e6e564e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1276712445,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276712445,
+    "wof:lastmodified":1537699458,
+    "wof:name":"Ruhaymab",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7,
+    14.15,
+    33.7,
+    14.15
+],
+  "geometry": {"coordinates":[33.7,14.15],"type":"Point"}
+}

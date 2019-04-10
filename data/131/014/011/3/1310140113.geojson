@@ -1,0 +1,70 @@
+{
+  "id": 1310140113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17315,10.3974,31.17315,10.3974",
+    "geom:latitude":10.3974,
+    "geom:longitude":31.17315,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Werni",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363917,
+    "gn:latitude":10.3974,
+    "gn:longitude":31.17315,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Werni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Warn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363917
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a5e8cafed21c69deab4ea6968dbbbde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1310140113,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1310140113,
+    "wof:lastmodified":1537699400,
+    "wof:name":"Werni",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17315,
+    10.3974,
+    31.17315,
+    10.3974
+],
+  "geometry": {"coordinates":[31.17315,10.3974],"type":"Point"}
+}

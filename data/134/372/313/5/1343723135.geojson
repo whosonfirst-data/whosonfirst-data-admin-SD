@@ -1,0 +1,70 @@
+{
+  "id": 1343723135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8992,15.4426,32.8992,15.4426",
+    "geom:latitude":15.4426,
+    "geom:longitude":32.8992,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"`Akod",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991617,
+    "gn:latitude":15.4426,
+    "gn:longitude":32.8992,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Akod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Akod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991617
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c5fe5abec49597de7ece724abfcb08c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1343723135,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1343723135,
+    "wof:lastmodified":1537699622,
+    "wof:name":"`Akod",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8992,
+    15.4426,
+    32.8992,
+    15.4426
+],
+  "geometry": {"coordinates":[32.8992,15.4426],"type":"Point"}
+}

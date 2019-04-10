@@ -1,0 +1,67 @@
+{
+  "id": 1276911853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16667,14.38333,24.16667,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":24.16667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dingajurie",
+    "gn:country_code":"SD",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376427,
+    "gn:latitude":14.38333,
+    "gn:longitude":24.16667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Dingajurie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091707521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376427
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d3ead02c76192a7e04bb4a9b1b74420c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707521,
+            "locality_id":1276911853,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1276911853,
+    "wof:lastmodified":1536997472,
+    "wof:name":"Dingajurie",
+    "wof:parent_id":1091707521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16667,
+    14.38333,
+    24.16667,
+    14.38333
+],
+  "geometry": {"coordinates":[24.16667,14.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193194451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2217,14.806,33.2217,14.806",
+    "geom:latitude":14.806,
+    "geom:longitude":33.2217,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Timet",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026164,
+    "gn:latitude":14.806,
+    "gn:longitude":33.2217,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Timet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026164
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"76672c12a35f4a98e252e25fedd9a944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1193194451,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193194451,
+    "wof:lastmodified":1536379399,
+    "wof:name":"At Timet",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2217,
+    14.806,
+    33.2217,
+    14.806
+],
+  "geometry": {"coordinates":[33.2217,14.806],"type":"Point"}
+}

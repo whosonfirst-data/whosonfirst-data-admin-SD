@@ -1,0 +1,70 @@
+{
+  "id": 1327367793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7402,12.9027,32.7402,12.9027",
+    "geom:latitude":12.9027,
+    "geom:longitude":32.7402,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Aj Jide`at",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854110,
+    "gn:latitude":12.9027,
+    "gn:longitude":32.7402,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aj Jide\u2018at",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aj Jide\u2018at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854110
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"52a12fd77dfba7a05062bc6e8adb1b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1327367793,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327367793,
+    "wof:lastmodified":1537699613,
+    "wof:name":"Aj Jide`at",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7402,
+    12.9027,
+    32.7402,
+    12.9027
+],
+  "geometry": {"coordinates":[32.7402,12.9027],"type":"Point"}
+}

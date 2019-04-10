@@ -1,0 +1,67 @@
+{
+  "id": 1260300535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50236,12.84346,30.50236,12.84346",
+    "geom:latitude":12.84346,
+    "geom:longitude":30.50236,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lambar Rimi",
+    "gn:country_code":"SD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258407,
+    "gn:latitude":12.84346,
+    "gn:longitude":30.50236,
+    "gn:modification_date":"2016-09-30",
+    "gn:name":"Lambar Rimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258407
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"128f64bca78d6f03e4e476d830dbfb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1260300535,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260300535,
+    "wof:lastmodified":1536689008,
+    "wof:name":"Lambar Rimi",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50236,
+    12.84346,
+    30.50236,
+    12.84346
+],
+  "geometry": {"coordinates":[30.50236,12.84346],"type":"Point"}
+}

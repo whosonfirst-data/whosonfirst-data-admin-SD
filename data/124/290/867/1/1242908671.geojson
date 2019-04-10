@@ -1,0 +1,67 @@
+{
+  "id": 1242908671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85,13.13333,30.85,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":30.85,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Kol",
+    "gn:country_code":"SD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372262,
+    "gn:latitude":13.13333,
+    "gn:longitude":30.85,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Kol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372262
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9f511fd404e9c1e0138b41e4d27d905e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1242908671,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1242908671,
+    "wof:lastmodified":1537080680,
+    "wof:name":"Kol",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85,
+    13.13333,
+    30.85,
+    13.13333
+],
+  "geometry": {"coordinates":[30.85,13.13333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276159169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7512,12.9186,32.7512,12.9186",
+    "geom:latitude":12.9186,
+    "geom:longitude":32.7512,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Hayaya",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854107,
+    "gn:latitude":12.9186,
+    "gn:longitude":32.7512,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u1e28ay\u0101ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um \u1e28ay\u0101ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854107
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"597f559ce2305481c3cc44c9818a9fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1276159169,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276159169,
+    "wof:lastmodified":1537699613,
+    "wof:name":"Um Hayaya",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7512,
+    12.9186,
+    32.7512,
+    12.9186
+],
+  "geometry": {"coordinates":[32.7512,12.9186],"type":"Point"}
+}

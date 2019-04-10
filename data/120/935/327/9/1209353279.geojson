@@ -1,0 +1,66 @@
+{
+  "id": 1209353279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.34,14.6451,33.34,14.6451",
+    "geom:latitude":14.6451,
+    "geom:longitude":33.34,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Faqar",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379530,
+    "gn:latitude":14.6451,
+    "gn:longitude":33.34,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Faqar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuqara",
+        "Al Fuqar\u0101\u2019",
+        "Al Faqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379530
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f324b31636c818d6ca9171e892e1ecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209353279
+        }
+    ],
+    "wof:id":1209353279,
+    "wof:lastmodified":1537699579,
+    "wof:name":"Al Faqar",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.34,
+    14.6451,
+    33.34,
+    14.6451
+],
+  "geometry": {"coordinates":[33.34,14.6451],"type":"Point"}
+}

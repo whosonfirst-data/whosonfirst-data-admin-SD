@@ -1,0 +1,71 @@
+{
+  "id": 1293328511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2,10.95,25.2,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":25.2,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Abu Jallabiyah",
+    "gn:country_code":"SD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380773,
+    "gn:latitude":10.95,
+    "gn:longitude":25.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Jall\u0101b\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Gallabiya",
+        "Ab\u016b Jall\u0101b\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380773
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ea9f667b2385f497ed62a44d446ab654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708723,
+            "locality_id":1293328511,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293328511,
+    "wof:lastmodified":1537699597,
+    "wof:name":"Abu Jallabiyah",
+    "wof:parent_id":1091708723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2,
+    10.95,
+    25.2,
+    10.95
+],
+  "geometry": {"coordinates":[25.2,10.95],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209649929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,11.53333,25.96667,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Az Zumagi",
+    "gn:country_code":"SD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":377989,
+    "gn:latitude":11.53333,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Az Zumagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sunta ez Zumagi",
+        "Ez Zumagi",
+        "Az Zumagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377989
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dea16cf1ecb5eb2162c714eeff6201fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209649929
+        }
+    ],
+    "wof:id":1209649929,
+    "wof:lastmodified":1537699540,
+    "wof:name":"Az Zumagi",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    11.53333,
+    25.96667,
+    11.53333
+],
+  "geometry": {"coordinates":[25.96667,11.53333],"type":"Point"}
+}

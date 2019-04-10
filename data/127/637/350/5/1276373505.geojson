@@ -1,0 +1,70 @@
+{
+  "id": 1276373505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2894,12.967,31.2894,12.967",
+    "geom:latitude":12.967,
+    "geom:longitude":31.2894,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Jajera",
+    "gn:country_code":"SD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028960,
+    "gn:latitude":12.967,
+    "gn:longitude":31.2894,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"J\u0101jera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101jera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028960
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a95a839c799b41c5fd285d81538883f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276373505,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276373505,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Jajera",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2894,
+    12.967,
+    31.2894,
+    12.967
+],
+  "geometry": {"coordinates":[31.2894,12.967],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343991505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7729,12.1112,33.7729,12.1112",
+    "geom:latitude":12.1112,
+    "geom:longitude":33.7729,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Wirkit",
+    "gn:country_code":"SD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029577,
+    "gn:latitude":12.1112,
+    "gn:longitude":33.7729,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wirkit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029577
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"33d0aa111ee36976a2a23e7cc7c61a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709781,
+            "locality_id":1343991505,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1343991505,
+    "wof:lastmodified":1536974722,
+    "wof:name":"Wirkit",
+    "wof:parent_id":1091709781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7729,
+    12.1112,
+    33.7729,
+    12.1112
+],
+  "geometry": {"coordinates":[33.7729,12.1112],"type":"Point"}
+}

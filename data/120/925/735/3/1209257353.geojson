@@ -1,0 +1,65 @@
+{
+  "id": 1209257353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3904,14.2265,33.3904,14.2265",
+    "geom:latitude":14.2265,
+    "geom:longitude":33.3904,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Maqbul",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370525,
+    "gn:latitude":14.2265,
+    "gn:longitude":33.3904,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Maqbul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maqb\u016bl",
+        "Wad Maqbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370525
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"88a808f6070b70ff24a1f84cfe554e5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209257353
+        }
+    ],
+    "wof:id":1209257353,
+    "wof:lastmodified":1537699478,
+    "wof:name":"Wad Maqbul",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3904,
+    14.2265,
+    33.3904,
+    14.2265
+],
+  "geometry": {"coordinates":[33.3904,14.2265],"type":"Point"}
+}

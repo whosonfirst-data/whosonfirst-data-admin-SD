@@ -1,0 +1,70 @@
+{
+  "id": 1226688665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0413,14.0491,33.0413,14.0491",
+    "geom:latitude":14.0491,
+    "geom:longitude":33.0413,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Awlad Qaru",
+    "gn:country_code":"SD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026407,
+    "gn:latitude":14.0491,
+    "gn:longitude":33.0413,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Awl\u0101d Q\u0101ru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Awl\u0101d Q\u0101ru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026407
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d17f471d886faa4c39f587d1b58c1920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226688665,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226688665,
+    "wof:lastmodified":1537699650,
+    "wof:name":"Awlad Qaru",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0413,
+    14.0491,
+    33.0413,
+    14.0491
+],
+  "geometry": {"coordinates":[33.0413,14.0491],"type":"Point"}
+}

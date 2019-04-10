@@ -1,0 +1,67 @@
+{
+  "id": 1360316573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7533,17.3274,33.7533,17.3274",
+    "geom:latitude":17.3274,
+    "geom:longitude":33.7533,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el Karada",
+    "gn:country_code":"SD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444060,
+    "gn:latitude":17.3274,
+    "gn:longitude":33.7533,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat el Karada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444060
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f74d60d808d10a2e0eb4e4d9052713e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1360316573,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1360316573,
+    "wof:lastmodified":1536608994,
+    "wof:name":"Hillat el Karada",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7533,
+    17.3274,
+    33.7533,
+    17.3274
+],
+  "geometry": {"coordinates":[33.7533,17.3274],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209462069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58333,15.25,32.58333,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":32.58333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"`Uqud as Sayyalah",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364426,
+    "gn:latitude":15.25,
+    "gn:longitude":32.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Uq\u016bd as Sayy\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uqud es Saiyala",
+        "\u2018Uq\u016bd as Sayy\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364426
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"46b38bc6d00877e5c6b14855b80d2652",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209462069
+        }
+    ],
+    "wof:id":1209462069,
+    "wof:lastmodified":1537699413,
+    "wof:name":"`Uqud as Sayyalah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58333,
+    15.25,
+    32.58333,
+    15.25
+],
+  "geometry": {"coordinates":[32.58333,15.25],"type":"Point"}
+}

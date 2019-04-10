@@ -1,0 +1,70 @@
+{
+  "id": 1326566301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1446,12.7741,34.1446,12.7741",
+    "geom:latitude":12.7741,
+    "geom:longitude":34.1446,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Tayba",
+    "gn:country_code":"SD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029370,
+    "gn:latitude":12.7741,
+    "gn:longitude":34.1446,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162ayba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162ayba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029370
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ceb1bb4371b22aa96364ceff23a05fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1326566301,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1326566301,
+    "wof:lastmodified":1537699676,
+    "wof:name":"Tayba",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1446,
+    12.7741,
+    34.1446,
+    12.7741
+],
+  "geometry": {"coordinates":[34.1446,12.7741],"type":"Point"}
+}

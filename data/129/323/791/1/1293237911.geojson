@@ -1,0 +1,72 @@
+{
+  "id": 1293237911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58659,12.98759,24.58659,12.98759",
+    "geom:latitude":12.98759,
+    "geom:longitude":24.58659,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"`Abd Allah Bashir",
+    "gn:country_code":"SD",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381148,
+    "gn:latitude":12.98759,
+    "gn:longitude":24.58659,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abd All\u0101h Bash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abdullah Beshir",
+        "Abdalakh Beshir",
+        "\u2018Abd All\u0101h Bash\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381148
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a8f34f7a22f85a78fba56c4e8e8c3da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708337,
+            "locality_id":1293237911,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293237911,
+    "wof:lastmodified":1537699602,
+    "wof:name":"`Abd Allah Bashir",
+    "wof:parent_id":1091708337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58659,
+    12.98759,
+    24.58659,
+    12.98759
+],
+  "geometry": {"coordinates":[24.58659,12.98759],"type":"Point"}
+}

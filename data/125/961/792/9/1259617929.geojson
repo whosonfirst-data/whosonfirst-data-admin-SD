@@ -1,0 +1,67 @@
+{
+  "id": 1259617929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8528,17.4207,33.8528,17.4207",
+    "geom:latitude":17.4207,
+    "geom:longitude":33.8528,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Fareq Essooq",
+    "gn:country_code":"SD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014912,
+    "gn:latitude":17.4207,
+    "gn:longitude":33.8528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Fareq Essooq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014912
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7f939f25c4a48869611392ce00883b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1259617929,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1259617929,
+    "wof:lastmodified":1536665142,
+    "wof:name":"Fareq Essooq",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8528,
+    17.4207,
+    33.8528,
+    17.4207
+],
+  "geometry": {"coordinates":[33.8528,17.4207],"type":"Point"}
+}

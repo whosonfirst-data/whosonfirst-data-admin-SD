@@ -1,0 +1,71 @@
+{
+  "id": 1293432591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5668,14.5418,32.5668,14.5418",
+    "geom:latitude":14.5418,
+    "geom:longitude":32.5668,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Tahamid",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366525,
+    "gn:latitude":14.5418,
+    "gn:longitude":32.5668,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Ta\u1e29\u0101m\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tahamid",
+        "At Ta\u1e29\u0101m\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366525
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"93c15e64a7bc6b38932320a47af683a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1293432591,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293432591,
+    "wof:lastmodified":1537699440,
+    "wof:name":"At Tahamid",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5668,
+    14.5418,
+    32.5668,
+    14.5418
+],
+  "geometry": {"coordinates":[32.5668,14.5418],"type":"Point"}
+}

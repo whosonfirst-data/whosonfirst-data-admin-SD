@@ -1,0 +1,67 @@
+{
+  "id": 1293323777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,13.58333,30.75,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Antatai",
+    "gn:country_code":"SD",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378677,
+    "gn:latitude":13.58333,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Antatai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378677
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7974c67446146b6ff903a569b7c79808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293323777,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293323777,
+    "wof:lastmodified":1537022167,
+    "wof:name":"Antatai",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    13.58333,
+    30.75,
+    13.58333
+],
+  "geometry": {"coordinates":[30.75,13.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293235399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90333,13.44872,23.90333,13.44872",
+    "geom:latitude":13.44872,
+    "geom:longitude":23.90333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Fiabuggu",
+    "gn:country_code":"SD",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375379,
+    "gn:latitude":13.44872,
+    "gn:longitude":23.90333,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Fiabuggu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375379
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d38d38c15e037fae8680de8e2a632ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710367,
+            "locality_id":1293235399,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293235399,
+    "wof:lastmodified":1536653467,
+    "wof:name":"Fiabuggu",
+    "wof:parent_id":1091710367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90333,
+    13.44872,
+    23.90333,
+    13.44872
+],
+  "geometry": {"coordinates":[23.90333,13.44872],"type":"Point"}
+}

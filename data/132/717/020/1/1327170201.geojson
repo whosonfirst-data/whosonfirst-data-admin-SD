@@ -1,0 +1,72 @@
+{
+  "id": 1327170201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,13.7,32.95,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bunduq as Sa`d",
+    "gn:country_code":"SD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377126,
+    "gn:latitude":13.7,
+    "gn:longitude":32.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bunduq as Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bundug es Sa\u2018d",
+        "Bunduq es Sa\u2018d",
+        "Bunduq as Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377126
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c724bfabfd30681f33a8b6fce1564c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1327170201,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1327170201,
+    "wof:lastmodified":1537699533,
+    "wof:name":"Bunduq as Sa`d",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    13.7,
+    32.95,
+    13.7
+],
+  "geometry": {"coordinates":[32.95,13.7],"type":"Point"}
+}

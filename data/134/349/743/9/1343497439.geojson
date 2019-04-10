@@ -1,0 +1,71 @@
+{
+  "id": 1343497439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58333,12.81667,30.58333,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":30.58333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Sawani",
+    "gn:country_code":"SD",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367542,
+    "gn:latitude":12.81667,
+    "gn:longitude":30.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saw\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sowani",
+        "Saw\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367542
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a99563c130419fbe5d309ac7df87bf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1343497439,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343497439,
+    "wof:lastmodified":1537699454,
+    "wof:name":"Sawani",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58333,
+    12.81667,
+    30.58333,
+    12.81667
+],
+  "geometry": {"coordinates":[30.58333,12.81667],"type":"Point"}
+}

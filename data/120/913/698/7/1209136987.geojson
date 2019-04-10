@@ -1,0 +1,64 @@
+{
+  "id": 1209136987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.637,14.8301,32.637,14.8301",
+    "geom:latitude":14.8301,
+    "geom:longitude":32.637,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Hafayir Hamad",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983289,
+    "gn:latitude":14.8301,
+    "gn:longitude":32.637,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e28af\u0101yir \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28af\u0101yir \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983289
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4477707f93a1b59de497c3bddd350c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209136987
+        }
+    ],
+    "wof:id":1209136987,
+    "wof:lastmodified":1537699622,
+    "wof:name":"Al Hafayir Hamad",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.637,
+    14.8301,
+    32.637,
+    14.8301
+],
+  "geometry": {"coordinates":[32.637,14.8301],"type":"Point"}
+}

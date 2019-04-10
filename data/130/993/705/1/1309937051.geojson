@@ -1,0 +1,71 @@
+{
+  "id": 1309937051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,11.21667,25.6,11.21667",
+    "geom:latitude":11.21667,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Baturo",
+    "gn:country_code":"SD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":377566,
+    "gn:latitude":11.21667,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Baturo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Batura",
+        "Baturo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091709349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377566
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfafd4bd93e33d00421e4aba071d789a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709349,
+            "locality_id":1309937051,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1309937051,
+    "wof:lastmodified":1537699536,
+    "wof:name":"Baturo",
+    "wof:parent_id":1091709349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    11.21667,
+    25.6,
+    11.21667
+],
+  "geometry": {"coordinates":[25.6,11.21667],"type":"Point"}
+}

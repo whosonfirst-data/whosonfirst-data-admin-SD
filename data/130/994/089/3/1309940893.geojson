@@ -1,0 +1,71 @@
+{
+  "id": 1309940893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,18.75,33.56667,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"At Tarfayah",
+    "gn:country_code":"SD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378174,
+    "gn:latitude":18.75,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162arf\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et Tarfaya",
+        "A\u0163 \u0162arf\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091705233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378174
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"de296300d8286b9a9fd724c452062d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705233,
+            "locality_id":1309940893,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1309940893,
+    "wof:lastmodified":1537699544,
+    "wof:name":"At Tarfayah",
+    "wof:parent_id":1091705233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    18.75,
+    33.56667,
+    18.75
+],
+  "geometry": {"coordinates":[33.56667,18.75],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259720161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3273,12.0427,34.3273,12.0427",
+    "geom:latitude":12.0427,
+    "geom:longitude":34.3273,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ad Doha Fallata",
+    "gn:country_code":"SD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033704,
+    "gn:latitude":12.0427,
+    "gn:longitude":34.3273,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ad Do\u1e29a Fall\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Do\u1e29a Fall\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033704
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b478c32abe3224e0ee36c1e884494370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1259720161,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1259720161,
+    "wof:lastmodified":1537699688,
+    "wof:name":"Ad Doha Fallata",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3273,
+    12.0427,
+    34.3273,
+    12.0427
+],
+  "geometry": {"coordinates":[34.3273,12.0427],"type":"Point"}
+}

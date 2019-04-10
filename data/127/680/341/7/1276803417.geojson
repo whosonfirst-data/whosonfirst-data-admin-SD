@@ -1,0 +1,70 @@
+{
+  "id": 1276803417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6732,14.9398,32.6732,14.9398",
+    "geom:latitude":14.9398,
+    "geom:longitude":32.6732,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sarhan",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983198,
+    "gn:latitude":14.9398,
+    "gn:longitude":32.6732,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sar\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983198
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"08915bc44de46c8105d4936fdc6e50de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1276803417,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276803417,
+    "wof:lastmodified":1537699619,
+    "wof:name":"Sarhan",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6732,
+    14.9398,
+    32.6732,
+    14.9398
+],
+  "geometry": {"coordinates":[32.6732,14.9398],"type":"Point"}
+}

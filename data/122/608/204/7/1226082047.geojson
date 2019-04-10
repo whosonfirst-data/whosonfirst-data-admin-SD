@@ -1,0 +1,71 @@
+{
+  "id": 1226082047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41667,15.15,32.41667,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":32.41667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dubaybah",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376245,
+    "gn:latitude":15.15,
+    "gn:longitude":32.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dubaybah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubeiba",
+        "Dubaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376245
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d1e7cdc705c35181fcff4326af3cb886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1226082047,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226082047,
+    "wof:lastmodified":1537699527,
+    "wof:name":"Dubaybah",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41667,
+    15.15,
+    32.41667,
+    15.15
+],
+  "geometry": {"coordinates":[32.41667,15.15],"type":"Point"}
+}

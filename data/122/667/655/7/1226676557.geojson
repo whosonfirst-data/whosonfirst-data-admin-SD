@@ -1,0 +1,67 @@
+{
+  "id": 1226676557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30814,12.53619,23.30814,12.53619",
+    "geom:latitude":12.53619,
+    "geom:longitude":23.30814,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Dudeiri",
+    "gn:country_code":"SD",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754693,
+    "gn:latitude":12.53619,
+    "gn:longitude":23.30814,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dudeiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754693
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d886c05dcb8b7330825704d444480bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1226676557,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1226676557,
+    "wof:lastmodified":1536814525,
+    "wof:name":"Dudeiri",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30814,
+    12.53619,
+    23.30814,
+    12.53619
+],
+  "geometry": {"coordinates":[23.30814,12.53619],"type":"Point"}
+}

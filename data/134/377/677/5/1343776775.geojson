@@ -1,0 +1,67 @@
+{
+  "id": 1343776775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0473,12.9349,35.0473,12.9349",
+    "geom:latitude":12.9349,
+    "geom:longitude":35.0473,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sanqir",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029403,
+    "gn:latitude":12.9349,
+    "gn:longitude":35.0473,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanqir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029403
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f907f17457f2c1da5a25f0d1ec9a1208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709223,
+            "locality_id":1343776775,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1343776775,
+    "wof:lastmodified":1536787792,
+    "wof:name":"Sanqir",
+    "wof:parent_id":1091709223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0473,
+    12.9349,
+    35.0473,
+    12.9349
+],
+  "geometry": {"coordinates":[35.0473,12.9349],"type":"Point"}
+}

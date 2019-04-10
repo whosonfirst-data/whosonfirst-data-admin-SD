@@ -1,0 +1,67 @@
+{
+  "id": 1226571801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0763,13.0497,32.0763,13.0497",
+    "geom:latitude":13.0497,
+    "geom:longitude":32.0763,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Shambo",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028885,
+    "gn:latitude":13.0497,
+    "gn:longitude":32.0763,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Shambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028885
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7094bc88b5eee16eb5d2f7553199280f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1226571801,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226571801,
+    "wof:lastmodified":1536961558,
+    "wof:name":"Um Shambo",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0763,
+    13.0497,
+    32.0763,
+    13.0497
+],
+  "geometry": {"coordinates":[32.0763,13.0497],"type":"Point"}
+}

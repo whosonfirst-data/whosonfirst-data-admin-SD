@@ -1,0 +1,70 @@
+{
+  "id": 1326965109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1692,12.9235,32.1692,12.9235",
+    "geom:latitude":12.9235,
+    "geom:longitude":32.1692,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Waqif",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029193,
+    "gn:latitude":12.9235,
+    "gn:longitude":32.1692,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u0101qif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101qif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029193
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"df92fab55241caeae3cfae55c6aa8729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1326965109,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1326965109,
+    "wof:lastmodified":1537699672,
+    "wof:name":"Waqif",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1692,
+    12.9235,
+    32.1692,
+    12.9235
+],
+  "geometry": {"coordinates":[32.1692,12.9235],"type":"Point"}
+}

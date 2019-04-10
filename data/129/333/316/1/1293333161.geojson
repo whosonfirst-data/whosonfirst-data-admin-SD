@@ -1,0 +1,70 @@
+{
+  "id": 1293333161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4615,14.1909,33.4615,14.1909",
+    "geom:latitude":14.1909,
+    "geom:longitude":33.4615,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Imam",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026697,
+    "gn:latitude":14.1909,
+    "gn:longitude":33.4615,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Im\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Im\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026697
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7e6792f68c11229c0c34af5c0468827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1293333161,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293333161,
+    "wof:lastmodified":1537699659,
+    "wof:name":"Al Imam",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4615,
+    14.1909,
+    33.4615,
+    14.1909
+],
+  "geometry": {"coordinates":[33.4615,14.1909],"type":"Point"}
+}

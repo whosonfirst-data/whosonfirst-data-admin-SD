@@ -1,0 +1,64 @@
+{
+  "id": 1209157315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3727,14.4706,33.3727,14.4706",
+    "geom:latitude":14.4706,
+    "geom:longitude":33.3727,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tur`at as Sulemi",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026110,
+    "gn:latitude":14.4706,
+    "gn:longitude":33.3727,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tur\u2018at as Sulemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tur\u2018at as Sulemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026110
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e92239bd6e462c645d34fd0d328d3ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209157315
+        }
+    ],
+    "wof:id":1209157315,
+    "wof:lastmodified":1537699640,
+    "wof:name":"Tur`at as Sulemi",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3727,
+    14.4706,
+    33.3727,
+    14.4706
+],
+  "geometry": {"coordinates":[33.3727,14.4706],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209550657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53333,11.9,26.53333,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":26.53333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Shaqq `Abd az `Aziz",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367291,
+    "gn:latitude":11.9,
+    "gn:longitude":26.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaqq \u2018Abd az \u2018Az\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godat",
+        "Shaqq el Asad",
+        "Shaqq \u2018Abd el \u2018Az\u012bz",
+        "Shaqq \u2018Abd az \u2018Az\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367291
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7087dcc850da6f0204befc48df4e9b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209550657
+        }
+    ],
+    "wof:id":1209550657,
+    "wof:lastmodified":1537699450,
+    "wof:name":"Shaqq `Abd az `Aziz",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53333,
+    11.9,
+    26.53333,
+    11.9
+],
+  "geometry": {"coordinates":[26.53333,11.9],"type":"Point"}
+}

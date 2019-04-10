@@ -1,0 +1,70 @@
+{
+  "id": 1310535025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5379,12.2722,33.5379,12.2722",
+    "geom:latitude":12.2722,
+    "geom:longitude":33.5379,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al Mazmum",
+    "gn:country_code":"SD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029233,
+    "gn:latitude":12.2722,
+    "gn:longitude":33.5379,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mazm\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mazm\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091710099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029233
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2328a168479bd03f3ff8060a56bf755d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710099,
+            "locality_id":1310535025,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1310535025,
+    "wof:lastmodified":1537699673,
+    "wof:name":"Al Mazmum",
+    "wof:parent_id":1091710099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5379,
+    12.2722,
+    33.5379,
+    12.2722
+],
+  "geometry": {"coordinates":[33.5379,12.2722],"type":"Point"}
+}

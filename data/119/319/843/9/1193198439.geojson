@@ -1,0 +1,72 @@
+{
+  "id": 1193198439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3449,14.883,33.3449,14.883",
+    "geom:latitude":14.883,
+    "geom:longitude":33.3449,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Hijelij",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374304,
+    "gn:latitude":14.883,
+    "gn:longitude":33.3449,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Hijelij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heglig",
+        "\u1e28ajl\u012bj",
+        "Al Hijelij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374304
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5c75b74018a4c2c42544ed599e880dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1193198439,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193198439,
+    "wof:lastmodified":1537699512,
+    "wof:name":"Al Hijelij",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3449,
+    14.883,
+    33.3449,
+    14.883
+],
+  "geometry": {"coordinates":[33.3449,14.883],"type":"Point"}
+}

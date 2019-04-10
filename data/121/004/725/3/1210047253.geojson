@@ -1,0 +1,71 @@
+{
+  "id": 1210047253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71667,11.18333,24.71667,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":24.71667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Abu Salalah",
+    "gn:country_code":"SD",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380560,
+    "gn:latitude":11.18333,
+    "gn:longitude":24.71667,
+    "gn:modification_date":"2012-02-15",
+    "gn:name":"Abu Salalah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Selala",
+        "Ab\u016b Sal\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380560
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"407a9d6b70c50154383948abd87f460a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708779,
+            "locality_id":1210047253,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1210047253,
+    "wof:lastmodified":1537699594,
+    "wof:name":"Abu Salalah",
+    "wof:parent_id":1091708779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71667,
+    11.18333,
+    24.71667,
+    11.18333
+],
+  "geometry": {"coordinates":[24.71667,11.18333],"type":"Point"}
+}

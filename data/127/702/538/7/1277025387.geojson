@@ -1,0 +1,72 @@
+{
+  "id": 1277025387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8713,15.1362,32.8713,15.1362",
+    "geom:latitude":15.1362,
+    "geom:longitude":32.8713,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hillat Annakab aj Jidad",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373218,
+    "gn:latitude":15.1362,
+    "gn:longitude":32.8713,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Annakab aj Jidad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kab el Gidad",
+        "K\u0101b al Jid\u0101d",
+        "Hillat Annakab aj Jidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373218
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfdf5f9b7e60ac37f2ff23ced75042b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1277025387,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277025387,
+    "wof:lastmodified":1537699497,
+    "wof:name":"Hillat Annakab aj Jidad",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8713,
+    15.1362,
+    32.8713,
+    15.1362
+],
+  "geometry": {"coordinates":[32.8713,15.1362],"type":"Point"}
+}

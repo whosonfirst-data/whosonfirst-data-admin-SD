@@ -1,0 +1,65 @@
+{
+  "id": 1209349021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45,19.26667,30.45,19.26667",
+    "geom:latitude":19.26667,
+    "geom:longitude":30.45,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Garada",
+    "gn:country_code":"SD",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375124,
+    "gn:latitude":19.26667,
+    "gn:longitude":30.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarada",
+        "Garada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375124
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6553726b94b4a48ee6661c22cf5a2b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209349021
+        }
+    ],
+    "wof:id":1209349021,
+    "wof:lastmodified":1537699518,
+    "wof:name":"Garada",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45,
+    19.26667,
+    30.45,
+    19.26667
+],
+  "geometry": {"coordinates":[30.45,19.26667],"type":"Point"}
+}

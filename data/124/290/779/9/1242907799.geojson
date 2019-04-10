@@ -1,0 +1,70 @@
+{
+  "id": 1242907799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3191,12.8303,32.3191,12.8303",
+    "geom:latitude":12.8303,
+    "geom:longitude":32.3191,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Qudur",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029265,
+    "gn:latitude":12.8303,
+    "gn:longitude":32.3191,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Qud\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Um Qud\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029265
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"824c8cd3a29bf4461d56e9d85603b4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1242907799,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1242907799,
+    "wof:lastmodified":1537699674,
+    "wof:name":"Um Qudur",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3191,
+    12.8303,
+    32.3191,
+    12.8303
+],
+  "geometry": {"coordinates":[32.3191,12.8303],"type":"Point"}
+}

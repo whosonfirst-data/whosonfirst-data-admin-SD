@@ -1,0 +1,67 @@
+{
+  "id": 1343497417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08406,13.15904,24.08406,13.15904",
+    "geom:latitude":13.15904,
+    "geom:longitude":24.08406,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kerefeina",
+    "gn:country_code":"SD",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750465,
+    "gn:latitude":13.15904,
+    "gn:longitude":24.08406,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kerefeina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091708215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750465
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ca969436b2ab6f8d5d51cb2dfad580f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708215,
+            "locality_id":1343497417,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1343497417,
+    "wof:lastmodified":1536692972,
+    "wof:name":"Kerefeina",
+    "wof:parent_id":1091708215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08406,
+    13.15904,
+    24.08406,
+    13.15904
+],
+  "geometry": {"coordinates":[24.08406,13.15904],"type":"Point"}
+}

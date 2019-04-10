@@ -1,0 +1,70 @@
+{
+  "id": 1360021991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0399,13.966,32.0399,13.966",
+    "geom:latitude":13.966,
+    "geom:longitude":32.0399,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hamrat ash Shekh as Sufi",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018686,
+    "gn:latitude":13.966,
+    "gn:longitude":32.0399,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u1e28amrat ash Sh\u0113kh a\u1e63 \u1e62\u016bfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28amrat ash Sh\u0113kh a\u1e63 \u1e62\u016bfi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018686
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f9a17465baa2d34e0958bf0dfbb39548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1360021991,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1360021991,
+    "wof:lastmodified":1537699630,
+    "wof:name":"Hamrat ash Shekh as Sufi",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0399,
+    13.966,
+    32.0399,
+    13.966
+],
+  "geometry": {"coordinates":[32.0399,13.966],"type":"Point"}
+}

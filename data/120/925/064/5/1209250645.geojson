@@ -1,0 +1,61 @@
+{
+  "id": 1209250645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28851,10.60881,30.28851,10.60881",
+    "geom:latitude":10.60881,
+    "geom:longitude":30.28851,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Salamat",
+    "gn:country_code":"SD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367744,
+    "gn:latitude":10.60881,
+    "gn:longitude":30.28851,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sal\u0101m\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367744
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"373cebc4a408224b319ce82fc706b493",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209250645
+        }
+    ],
+    "wof:id":1209250645,
+    "wof:lastmodified":1536293016,
+    "wof:name":"Salamat",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28851,
+    10.60881,
+    30.28851,
+    10.60881
+],
+  "geometry": {"coordinates":[30.28851,10.60881],"type":"Point"}
+}

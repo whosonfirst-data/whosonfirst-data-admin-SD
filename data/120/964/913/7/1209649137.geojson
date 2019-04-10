@@ -1,0 +1,65 @@
+{
+  "id": 1209649137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08333,12.91667,30.08333,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":30.08333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Nur al Qubbah",
+    "gn:country_code":"SD",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369063,
+    "gn:latitude":12.91667,
+    "gn:longitude":30.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016br al Qubbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nur el Qubba",
+        "N\u016br al Qubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369063
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b30832fc1e36f675c641d89fb21f4a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209649137
+        }
+    ],
+    "wof:id":1209649137,
+    "wof:lastmodified":1537699468,
+    "wof:name":"Nur al Qubbah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08333,
+    12.91667,
+    30.08333,
+    12.91667
+],
+  "geometry": {"coordinates":[30.08333,12.91667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225980615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05,11.53333,35.05,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":35.05,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Menze",
+    "gn:country_code":"SD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370159,
+    "gn:latitude":11.53333,
+    "gn:longitude":35.05,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Menze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370159
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"19fdbb8844917b85a9c5cbbe5756cc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1225980615,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1225980615,
+    "wof:lastmodified":1536818070,
+    "wof:name":"Menze",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05,
+    11.53333,
+    35.05,
+    11.53333
+],
+  "geometry": {"coordinates":[35.05,11.53333],"type":"Point"}
+}

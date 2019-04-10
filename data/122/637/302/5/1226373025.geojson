@@ -1,0 +1,70 @@
+{
+  "id": 1226373025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15438,13.14154,22.15438,13.14154",
+    "geom:latitude":13.14154,
+    "geom:longitude":22.15438,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Falakta",
+    "gn:country_code":"SD",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375596,
+    "gn:latitude":13.14154,
+    "gn:longitude":22.15438,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Falakta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Falakta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375596
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"105af0ca7f95ce37820a727924d09f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1226373025,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1226373025,
+    "wof:lastmodified":1537699521,
+    "wof:name":"Falakta",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15438,
+    13.14154,
+    22.15438,
+    13.14154
+],
+  "geometry": {"coordinates":[22.15438,13.14154],"type":"Point"}
+}

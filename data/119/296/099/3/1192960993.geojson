@@ -1,0 +1,71 @@
+{
+  "id": 1192960993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4575,14.8278,33.4575,14.8278",
+    "geom:latitude":14.8278,
+    "geom:longitude":33.4575,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"As Sarofab",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367420,
+    "gn:latitude":14.8278,
+    "gn:longitude":33.4575,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sar\u014df\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serufab",
+        "As Sar\u014df\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367420
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"488b5278728a3bb3cb89d8b860083fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1192960993,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1192960993,
+    "wof:lastmodified":1537699452,
+    "wof:name":"As Sarofab",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4575,
+    14.8278,
+    33.4575,
+    14.8278
+],
+  "geometry": {"coordinates":[33.4575,14.8278],"type":"Point"}
+}

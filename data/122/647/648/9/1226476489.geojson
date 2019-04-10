@@ -1,0 +1,67 @@
+{
+  "id": 1226476489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41667,10.78333,34.41667,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":34.41667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Fanziger",
+    "gn:country_code":"SD",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375515,
+    "gn:latitude":10.78333,
+    "gn:longitude":34.41667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Fanziger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375515
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"83ac44f8f9e182cfed5f2720a366342b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1226476489,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226476489,
+    "wof:lastmodified":1537094620,
+    "wof:name":"Fanziger",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41667,
+    10.78333,
+    34.41667,
+    10.78333
+],
+  "geometry": {"coordinates":[34.41667,10.78333],"type":"Point"}
+}

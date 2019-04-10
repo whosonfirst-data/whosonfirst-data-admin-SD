@@ -1,0 +1,71 @@
+{
+  "id": 1344194461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83333,14.25,25.83333,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":25.83333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Awlad Mahmud",
+    "gn:country_code":"SD",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378073,
+    "gn:latitude":14.25,
+    "gn:longitude":25.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awl\u0101d Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aulad Mahmud",
+        "Awl\u0101d Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378073
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9ece32cf7b27750e2ce0fb0b381d1ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1344194461,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1344194461,
+    "wof:lastmodified":1537699541,
+    "wof:name":"Awlad Mahmud",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83333,
+    14.25,
+    25.83333,
+    14.25
+],
+  "geometry": {"coordinates":[25.83333,14.25],"type":"Point"}
+}

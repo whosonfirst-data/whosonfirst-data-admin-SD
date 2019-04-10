@@ -1,0 +1,70 @@
+{
+  "id": 1309741691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9774,17.6388,33.9774,17.6388",
+    "geom:latitude":17.6388,
+    "geom:longitude":33.9774,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"El `Kad",
+    "gn:country_code":"SD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444120,
+    "gn:latitude":17.6388,
+    "gn:longitude":33.9774,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"El \u2018Kad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Kad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444120
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"775f91fd0f303804508da237b50976c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1309741691,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1309741691,
+    "wof:lastmodified":1537699611,
+    "wof:name":"El `Kad",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9774,
+    17.6388,
+    33.9774,
+    17.6388
+],
+  "geometry": {"coordinates":[33.9774,17.6388],"type":"Point"}
+}

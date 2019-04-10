@@ -1,0 +1,70 @@
+{
+  "id": 1343512865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2073,14.9213,33.2073,14.9213",
+    "geom:latitude":14.9213,
+    "geom:longitude":33.2073,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu `Ushar",
+    "gn:country_code":"SD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380370,
+    "gn:latitude":14.9213,
+    "gn:longitude":33.2073,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u2018Ushar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b \u2018Ushar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380370
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d31d64c154ff9a544c71c207fba5fa61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1343512865,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343512865,
+    "wof:lastmodified":1537699592,
+    "wof:name":"Abu `Ushar",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2073,
+    14.9213,
+    33.2073,
+    14.9213
+],
+  "geometry": {"coordinates":[33.2073,14.9213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360118453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6734,11.2817,31.6734,11.2817",
+    "geom:latitude":11.2817,
+    "geom:longitude":31.6734,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Shinanab",
+    "gn:country_code":"SD",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367102,
+    "gn:latitude":11.2817,
+    "gn:longitude":31.6734,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shin\u0101n\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shin\u0101n\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Shenanab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367102
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3bda45dfd0d8293ebb17bdf5bf6b4ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706897,
+            "locality_id":1360118453,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1360118453,
+    "wof:lastmodified":1537699446,
+    "wof:name":"Shinanab",
+    "wof:parent_id":1091706897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6734,
+    11.2817,
+    31.6734,
+    11.2817
+],
+  "geometry": {"coordinates":[31.6734,11.2817],"type":"Point"}
+}

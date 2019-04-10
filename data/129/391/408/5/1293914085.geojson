@@ -1,0 +1,73 @@
+{
+  "id": 1293914085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1764,13.81927,22.1764,13.81927",
+    "geom:latitude":13.81927,
+    "geom:longitude":22.1764,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Babunus",
+    "gn:country_code":"SD",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377963,
+    "gn:latitude":13.81927,
+    "gn:longitude":22.1764,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Babunus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Babunus"
+    ],
+    "name:und_x_variant":[
+        "Baban\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377963
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cf9ba49d488c23740a6104313f23a158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":1293914085,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1293914085,
+    "wof:lastmodified":1537699540,
+    "wof:name":"Babunus",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1764,
+    13.81927,
+    22.1764,
+    13.81927
+],
+  "geometry": {"coordinates":[22.1764,13.81927],"type":"Point"}
+}

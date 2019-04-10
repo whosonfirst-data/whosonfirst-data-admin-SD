@@ -1,0 +1,67 @@
+{
+  "id": 1360321295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58333,13.55,25.58333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":25.58333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Galgi",
+    "gn:country_code":"SD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375191,
+    "gn:latitude":13.55,
+    "gn:longitude":25.58333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Galgi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375191
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3b47009c258814a12239f1745dfe53f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706361,
+            "locality_id":1360321295,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1360321295,
+    "wof:lastmodified":1536601686,
+    "wof:name":"Galgi",
+    "wof:parent_id":1091706361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58333,
+    13.55,
+    25.58333,
+    13.55
+],
+  "geometry": {"coordinates":[25.58333,13.55],"type":"Point"}
+}

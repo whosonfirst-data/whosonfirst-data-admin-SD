@@ -1,0 +1,71 @@
+{
+  "id": 1326766937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,11.41667,24.31667,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":24.31667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Mushattir",
+    "gn:country_code":"SD",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364821,
+    "gn:latitude":11.41667,
+    "gn:longitude":24.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Musha\u0163\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Meshettir",
+        "Umm Musha\u0163\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364821
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"609a7e3e0e1da0c3a8fb55148953c8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707925,
+            "locality_id":1326766937,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1326766937,
+    "wof:lastmodified":1537699421,
+    "wof:name":"Umm Mushattir",
+    "wof:parent_id":1091707925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    11.41667,
+    24.31667,
+    11.41667
+],
+  "geometry": {"coordinates":[24.31667,11.41667],"type":"Point"}
+}

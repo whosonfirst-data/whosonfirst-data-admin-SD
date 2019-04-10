@@ -1,0 +1,72 @@
+{
+  "id": 1343501329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8336,18.9533,36.8336,18.9533",
+    "geom:latitude":18.9533,
+    "geom:longitude":36.8336,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Gabet",
+    "gn:country_code":"SD",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373296,
+    "gn:latitude":18.9533,
+    "gn:longitude":36.8336,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gabet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gebeit",
+        "Jubayt",
+        "Gabet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373296
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eba594f115e91d3b443753e8671bda43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710685,
+            "locality_id":1343501329,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1343501329,
+    "wof:lastmodified":1537699499,
+    "wof:name":"Gabet",
+    "wof:parent_id":1091710685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8336,
+    18.9533,
+    36.8336,
+    18.9533
+],
+  "geometry": {"coordinates":[36.8336,18.9533],"type":"Point"}
+}

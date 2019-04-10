@@ -1,0 +1,71 @@
+{
+  "id": 1243488979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04472,17.63111,34.04472,17.63111",
+    "geom:latitude":17.63111,
+    "geom:longitude":34.04472,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ash Sheyaliya",
+    "gn:country_code":"SD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378367,
+    "gn:latitude":17.63111,
+    "gn:longitude":34.04472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sheyaliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh Sheyaliya",
+        "Ash Sheyaliya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378367
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d61e7aad3a47ce33b931b3941a1dd6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1243488979,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1243488979,
+    "wof:lastmodified":1537699549,
+    "wof:name":"Ash Sheyaliya",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04472,
+    17.63111,
+    34.04472,
+    17.63111
+],
+  "geometry": {"coordinates":[34.04472,17.63111],"type":"Point"}
+}

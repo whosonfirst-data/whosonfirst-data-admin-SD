@@ -1,0 +1,70 @@
+{
+  "id": 1276696095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27766,10.99538,24.27766,10.99538",
+    "geom:latitude":10.99538,
+    "geom:longitude":24.27766,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Taba",
+    "gn:country_code":"SD",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378187,
+    "gn:latitude":10.99538,
+    "gn:longitude":24.27766,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378187
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"66ca45d698986e7a2f03a3ea14d92776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707307,
+            "locality_id":1276696095,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276696095,
+    "wof:lastmodified":1537699544,
+    "wof:name":"Taba",
+    "wof:parent_id":1091707307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27766,
+    10.99538,
+    24.27766,
+    10.99538
+],
+  "geometry": {"coordinates":[24.27766,10.99538],"type":"Point"}
+}

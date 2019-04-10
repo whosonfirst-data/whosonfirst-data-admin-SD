@@ -1,0 +1,71 @@
+{
+  "id": 1292941901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98333,14.38333,30.98333,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":30.98333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Hamra'",
+    "gn:country_code":"SD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379438,
+    "gn:latitude":14.38333,
+    "gn:longitude":30.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hamra",
+        "Al \u1e28amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379438
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c8058dc6b60efa5721475f3d8fde6bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1292941901,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1292941901,
+    "wof:lastmodified":1537699575,
+    "wof:name":"Al Hamra'",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98333,
+    14.38333,
+    30.98333,
+    14.38333
+],
+  "geometry": {"coordinates":[30.98333,14.38333],"type":"Point"}
+}

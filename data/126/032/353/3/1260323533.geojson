@@ -1,0 +1,71 @@
+{
+  "id": 1260323533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7,15.13333,32.7,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":32.7,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Urus",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378971,
+    "gn:latitude":15.13333,
+    "gn:longitude":32.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Urus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Urus",
+        "Al Urus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378971
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f0992a18fd83adffd3fb4aa4386fb9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1260323533,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1260323533,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al Urus",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7,
+    15.13333,
+    32.7,
+    15.13333
+],
+  "geometry": {"coordinates":[32.7,15.13333],"type":"Point"}
+}

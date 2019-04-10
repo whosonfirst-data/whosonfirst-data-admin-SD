@@ -1,0 +1,93 @@
+{
+  "id": 1126085677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.51667,15.56667,32.51667,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":32.51667,
+    "gn:gn_country":"SD",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"SD",
+    "lbl:latitude":15.56667,
+    "lbl:longitude":32.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SD",
+    "qs_pg:gn_country":"SD",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":379049,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Al Qawz",
+    "qs_pg:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs_pg:name_adm1":"\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062e\u0631\u0637\u0648\u0645",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1040997,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424952,
+    "qs_pg:woe_id":1430557,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424952,
+    "woe:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "woe:name_adm1":"\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062e\u0631\u0637\u0648\u0645",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676889,
+        102191573,
+        85632751,
+        1091707383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379049,
+        "gp:id":1430557,
+        "qs_pg:id":1040997
+    },
+    "wof:country":"SD",
+    "wof:created":1497312743,
+    "wof:geomhash":"1c1ef6bd9dbffad90f99df80bb42eade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707383,
+            "locality_id":-1,
+            "neighbourhood_id":1126085677,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1126085677,
+    "wof:lastmodified":1534379459,
+    "wof:name":"Al Qawz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[
+        85902905
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.51667,
+    15.56667,
+    32.51667,
+    15.56667
+],
+  "geometry": {"coordinates":[32.51667,15.56667],"type":"Point"}
+}

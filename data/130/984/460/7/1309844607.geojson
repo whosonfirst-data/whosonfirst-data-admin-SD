@@ -1,0 +1,73 @@
+{
+  "id": 1309844607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17493,15.0998,33.17493,15.0998",
+    "geom:latitude":15.0998,
+    "geom:longitude":33.17493,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Kamlin",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379284,
+    "gn:latitude":15.0998,
+    "gn:longitude":33.17493,
+    "gn:modification_date":"2012-01-28",
+    "gn:name":"Al Kamlin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kamlin",
+        "Al Kamlin",
+        "Al K\u0101mil\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379284
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"85cbe024835e19e3cdd671aa6109f359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1309844607,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1309844607,
+    "wof:lastmodified":1537699570,
+    "wof:name":"Al Kamlin",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17493,
+    15.0998,
+    33.17493,
+    15.0998
+],
+  "geometry": {"coordinates":[33.17493,15.0998],"type":"Point"}
+}

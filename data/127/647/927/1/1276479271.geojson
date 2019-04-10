@@ -1,0 +1,72 @@
+{
+  "id": 1276479271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33333,18.01667,31.33333,18.01667",
+    "geom:latitude":18.01667,
+    "geom:longitude":31.33333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Fakrinkotti",
+    "gn:country_code":"SD",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375607,
+    "gn:latitude":18.01667,
+    "gn:longitude":31.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fakrinkotti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fagrinkotti",
+        "Faqrinkotti",
+        "Fakrinkotti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091709377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375607
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ddbf8fe64ed8ccd9a7e535f8b18237cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709377,
+            "locality_id":1276479271,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1276479271,
+    "wof:lastmodified":1537699521,
+    "wof:name":"Fakrinkotti",
+    "wof:parent_id":1091709377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33333,
+    18.01667,
+    31.33333,
+    18.01667
+],
+  "geometry": {"coordinates":[31.33333,18.01667],"type":"Point"}
+}

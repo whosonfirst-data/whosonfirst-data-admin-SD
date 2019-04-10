@@ -1,0 +1,70 @@
+{
+  "id": 1276590985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3723,14.6646,33.3723,14.6646",
+    "geom:latitude":14.6646,
+    "geom:longitude":33.3723,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hillat Al Faki",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026247,
+    "gn:latitude":14.6646,
+    "gn:longitude":33.3723,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u1e28illat Al Faki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28illat Al Faki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026247
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1017a785ff7fac7f1d3c73149c8e0216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1276590985,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276590985,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Hillat Al Faki",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3723,
+    14.6646,
+    33.3723,
+    14.6646
+],
+  "geometry": {"coordinates":[33.3723,14.6646],"type":"Point"}
+}

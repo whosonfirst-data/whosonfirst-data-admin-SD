@@ -1,0 +1,67 @@
+{
+  "id": 1310036593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78333,13.7,22.78333,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":22.78333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kafani",
+    "gn:country_code":"SD",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373137,
+    "gn:latitude":13.7,
+    "gn:longitude":22.78333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Kafan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373137
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dd75067d1b171bcb7176828df5b575b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":1310036593,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1310036593,
+    "wof:lastmodified":1537092695,
+    "wof:name":"Kafani",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78333,
+    13.7,
+    22.78333,
+    13.7
+],
+  "geometry": {"coordinates":[22.78333,13.7],"type":"Point"}
+}

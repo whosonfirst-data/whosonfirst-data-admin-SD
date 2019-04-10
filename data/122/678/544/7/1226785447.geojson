@@ -1,0 +1,67 @@
+{
+  "id": 1226785447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9,12.1,28.9,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":28.9,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Faki Hud",
+    "gn:country_code":"SD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375621,
+    "gn:latitude":12.1,
+    "gn:longitude":28.9,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Fak\u012b H\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091709737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375621
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"692c2cbba883c56dd7cc5aaefc34daf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709737,
+            "locality_id":1226785447,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1226785447,
+    "wof:lastmodified":1536658418,
+    "wof:name":"Faki Hud",
+    "wof:parent_id":1091709737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9,
+    12.1,
+    28.9,
+    12.1
+],
+  "geometry": {"coordinates":[28.9,12.1],"type":"Point"}
+}

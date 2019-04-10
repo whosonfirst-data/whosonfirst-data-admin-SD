@@ -1,0 +1,64 @@
+{
+  "id": 1209549225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3691,12.16,31.3691,12.16",
+    "geom:latitude":12.16,
+    "geom:longitude":31.3691,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Orshard",
+    "gn:country_code":"SD",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029460,
+    "gn:latitude":12.16,
+    "gn:longitude":31.3691,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Orsh\u0101rd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Orsh\u0101rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029460
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"573c57bf313ce14a70ab7e88cd1092e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549225
+        }
+    ],
+    "wof:id":1209549225,
+    "wof:lastmodified":1537699679,
+    "wof:name":"Orshard",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3691,
+    12.16,
+    31.3691,
+    12.16
+],
+  "geometry": {"coordinates":[31.3691,12.16],"type":"Point"}
+}

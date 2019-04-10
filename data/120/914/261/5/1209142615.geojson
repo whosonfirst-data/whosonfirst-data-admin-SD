@@ -1,0 +1,65 @@
+{
+  "id": 1209142615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,12.41667,31.05,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Qurdud Nyama",
+    "gn:country_code":"SD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368306,
+    "gn:latitude":12.41667,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qurd\u016bd Nyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qardud Nyama",
+        "Qurd\u016bd Nyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368306
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"004a3ddbbe497d23185953b714625e7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142615
+        }
+    ],
+    "wof:id":1209142615,
+    "wof:lastmodified":1537699461,
+    "wof:name":"Qurdud Nyama",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    12.41667,
+    31.05,
+    12.41667
+],
+  "geometry": {"coordinates":[31.05,12.41667],"type":"Point"}
+}

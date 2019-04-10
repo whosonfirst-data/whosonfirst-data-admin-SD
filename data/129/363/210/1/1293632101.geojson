@@ -1,0 +1,72 @@
+{
+  "id": 1293632101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4357,14.2934,33.4357,14.2934",
+    "geom:latitude":14.2934,
+    "geom:longitude":33.4357,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Saad ash Shafi`",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367844,
+    "gn:latitude":14.2934,
+    "gn:longitude":33.4357,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saad ash Shafi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u2018d esh Shafi\u2018",
+        "Sa\u2018d ash Shafi\u2018",
+        "Saad ash Shafi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367844
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c1f81d72d8f1cb20a77e1d9ce9ded06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1293632101,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293632101,
+    "wof:lastmodified":1537699456,
+    "wof:name":"Saad ash Shafi`",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4357,
+    14.2934,
+    33.4357,
+    14.2934
+],
+  "geometry": {"coordinates":[33.4357,14.2934],"type":"Point"}
+}

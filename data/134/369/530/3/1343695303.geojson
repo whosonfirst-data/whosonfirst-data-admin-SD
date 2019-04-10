@@ -1,0 +1,67 @@
+{
+  "id": 1343695303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8992,12.8494,31.8992,12.8494",
+    "geom:latitude":12.8494,
+    "geom:longitude":31.8992,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kalimbo",
+    "gn:country_code":"SD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029131,
+    "gn:latitude":12.8494,
+    "gn:longitude":31.8992,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kalimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029131
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"efa46b1a8a0fd7bd8a89b3b346001bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1343695303,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343695303,
+    "wof:lastmodified":1536905081,
+    "wof:name":"Kalimbo",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8992,
+    12.8494,
+    31.8992,
+    12.8494
+],
+  "geometry": {"coordinates":[31.8992,12.8494],"type":"Point"}
+}

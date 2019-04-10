@@ -1,0 +1,70 @@
+{
+  "id": 1343298103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45349,14.46781,22.45349,14.46781",
+    "geom:latitude":14.46781,
+    "geom:longitude":22.45349,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Gafala",
+    "gn:country_code":"SD",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368487,
+    "gn:latitude":14.46781,
+    "gn:longitude":22.45349,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Gafala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qafalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368487
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"402908d961b5fe2879b214a0c6913f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1343298103,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1343298103,
+    "wof:lastmodified":1537699467,
+    "wof:name":"Gafala",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45349,
+    14.46781,
+    22.45349,
+    14.46781
+],
+  "geometry": {"coordinates":[22.45349,14.46781],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327064147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77203,14.81053,22.77203,14.81053",
+    "geom:latitude":14.81053,
+    "geom:longitude":22.77203,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tundubai",
+    "gn:country_code":"SD",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366413,
+    "gn:latitude":14.81053,
+    "gn:longitude":22.77203,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Tundubai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toundoubaye",
+        "Tundubai",
+        "Tan\u1e11ub\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366413
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"860dc55af755ea9c8d69ec108c930875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1327064147,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1327064147,
+    "wof:lastmodified":1537699439,
+    "wof:name":"Tundubai",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77203,
+    14.81053,
+    22.77203,
+    14.81053
+],
+  "geometry": {"coordinates":[22.77203,14.81053],"type":"Point"}
+}

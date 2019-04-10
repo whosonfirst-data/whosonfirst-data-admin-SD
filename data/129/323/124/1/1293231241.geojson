@@ -1,0 +1,67 @@
+{
+  "id": 1293231241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11554,10.50486,31.11554,10.50486",
+    "geom:latitude":10.50486,
+    "geom:longitude":31.11554,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Umm Khameira",
+    "gn:country_code":"SD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068888,
+    "gn:latitude":10.50486,
+    "gn:longitude":31.11554,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Umm Khameira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068888
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"80b88d44046912d8baff1d2d79a53d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1293231241,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293231241,
+    "wof:lastmodified":1536659676,
+    "wof:name":"Umm Khameira",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11554000000001,
+    10.50486,
+    31.11554000000001,
+    10.50486
+],
+  "geometry": {"coordinates":[31.11554000000001,10.50486],"type":"Point"}
+}

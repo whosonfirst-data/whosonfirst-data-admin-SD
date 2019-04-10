@@ -1,0 +1,71 @@
+{
+  "id": 1193070637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3994,14.6727,33.3994,14.6727",
+    "geom:latitude":14.6727,
+    "geom:longitude":33.3994,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hibeka `Akut",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373774,
+    "gn:latitude":14.6727,
+    "gn:longitude":33.3994,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hibeka \u2018Ak\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hubeika",
+        "Hibeka \u2018Ak\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373774
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a960cff34900de86b6c1087b6ff9b7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1193070637,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193070637,
+    "wof:lastmodified":1537699506,
+    "wof:name":"Hibeka `Akut",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3994,
+    14.6727,
+    33.3994,
+    14.6727
+],
+  "geometry": {"coordinates":[33.3994,14.6727],"type":"Point"}
+}

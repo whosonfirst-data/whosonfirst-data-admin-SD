@@ -1,0 +1,61 @@
+{
+  "id": 1209549653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0625,13.01451,24.0625,13.01451",
+    "geom:latitude":13.01451,
+    "geom:longitude":24.0625,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kubr Dusa",
+    "gn:country_code":"SD",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750369,
+    "gn:latitude":13.01451,
+    "gn:longitude":24.0625,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kubr Dusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750369
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ac693093210143b1b7f0090cef197c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549653
+        }
+    ],
+    "wof:id":1209549653,
+    "wof:lastmodified":1536283735,
+    "wof:name":"Kubr Dusa",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0625,
+    13.01451,
+    24.0625,
+    13.01451
+],
+  "geometry": {"coordinates":[24.0625,13.01451],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293822641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46667,14.76667,33.46667,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":33.46667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Umm Mattola",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364841,
+    "gn:latitude":14.76667,
+    "gn:longitude":33.46667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm Mattola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364841
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4b2dccd7a573f61bd57950fe70745296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293822641,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293822641,
+    "wof:lastmodified":1536801040,
+    "wof:name":"Umm Mattola",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46667,
+    14.76667,
+    33.46667,
+    14.76667
+],
+  "geometry": {"coordinates":[33.46667,14.76667],"type":"Point"}
+}

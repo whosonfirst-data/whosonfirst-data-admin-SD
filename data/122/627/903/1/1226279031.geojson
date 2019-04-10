@@ -1,0 +1,73 @@
+{
+  "id": 1226279031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94769,18.20844,33.94769,18.20844",
+    "geom:latitude":18.20844,
+    "geom:longitude":33.94769,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"`Abidiya",
+    "gn:country_code":"SD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381089,
+    "gn:latitude":18.20844,
+    "gn:longitude":33.94769,
+    "gn:modification_date":"2018-04-29",
+    "gn:name":"\u2018Ab\u012bd\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ib\u0113diyya",
+        "\u2018Ab\u012bd\u012bya",
+        "\u2018Ab\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381089,
+        "wk:page":"Abidiya"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a3ef0bd9c05ce5b173360f9e04cac0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1226279031,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226279031,
+    "wof:lastmodified":1537699601,
+    "wof:name":"`Abidiya",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94769,
+    18.20844,
+    33.94769,
+    18.20844
+],
+  "geometry": {"coordinates":[33.94769,18.20844],"type":"Point"}
+}

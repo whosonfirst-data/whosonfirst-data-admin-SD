@@ -1,0 +1,67 @@
+{
+  "id": 1293935053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1923,14.4397,33.1923,14.4397",
+    "geom:latitude":14.4397,
+    "geom:longitude":33.1923,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Malik",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026431,
+    "gn:latitude":14.4397,
+    "gn:longitude":33.1923,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Malik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026431
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aeab01e9a802bbd2d3cd4852348fef38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1293935053,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293935053,
+    "wof:lastmodified":1536638101,
+    "wof:name":"Wad Malik",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1923,
+    14.4397,
+    33.1923,
+    14.4397
+],
+  "geometry": {"coordinates":[33.1923,14.4397],"type":"Point"}
+}

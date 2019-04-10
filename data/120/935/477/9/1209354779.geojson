@@ -1,0 +1,70 @@
+{
+  "id": 1209354779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1171,21.1076,37.1171,21.1076",
+    "geom:latitude":21.1076,
+    "geom:longitude":37.1171,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Dungunab",
+    "gn:country_code":"SD",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376114,
+    "gn:latitude":21.1076,
+    "gn:longitude":37.1171,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dungun\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dungun\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Donganab",
+        "Dunganab",
+        "Dunjun\u0101b",
+        "Dunqun\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376114
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dae6c6febb8f88b5058e790f404f4515",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209354779
+        }
+    ],
+    "wof:id":1209354779,
+    "wof:lastmodified":1537699525,
+    "wof:name":"Dungunab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1171,
+    21.1076,
+    37.1171,
+    21.1076
+],
+  "geometry": {"coordinates":[37.1171,21.1076],"type":"Point"}
+}

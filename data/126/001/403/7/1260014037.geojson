@@ -1,0 +1,67 @@
+{
+  "id": 1260014037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0456,12.8835,34.0456,12.8835",
+    "geom:latitude":12.8835,
+    "geom:longitude":34.0456,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Zumurka",
+    "gn:country_code":"SD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029355,
+    "gn:latitude":12.8835,
+    "gn:longitude":34.0456,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zumurka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029355
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ed3a93cec920ee40556941e9c69fe67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1260014037,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1260014037,
+    "wof:lastmodified":1537084809,
+    "wof:name":"Zumurka",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0456,
+    12.8835,
+    34.0456,
+    12.8835
+],
+  "geometry": {"coordinates":[34.0456,12.8835],"type":"Point"}
+}

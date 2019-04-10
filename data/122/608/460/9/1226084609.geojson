@@ -1,0 +1,70 @@
+{
+  "id": 1226084609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2999,14.761,33.2999,14.761",
+    "geom:latitude":14.761,
+    "geom:longitude":33.2999,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Masna` Nasij Al Hasahisa",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026161,
+    "gn:latitude":14.761,
+    "gn:longitude":33.2999,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ma\u015fn\u0101\u2018 Nas\u012bj Al \u1e28a\u015fa\u1e29\u012b\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u015fn\u0101\u2018 Nas\u012bj Al \u1e28a\u015fa\u1e29\u012b\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026161
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ea7c9ab6fd9e47c279bea75ee683f63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1226084609,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226084609,
+    "wof:lastmodified":1537699642,
+    "wof:name":"Masna` Nasij Al Hasahisa",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2999,
+    14.761,
+    33.2999,
+    14.761
+],
+  "geometry": {"coordinates":[33.2999,14.761],"type":"Point"}
+}

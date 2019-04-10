@@ -1,0 +1,79 @@
+{
+  "id": 1225980987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05,11.03333,28.05,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":28.05,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Al Miallug",
+    "gn:country_code":"SD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379105,
+    "gn:latitude":11.03333,
+    "gn:longitude":28.05,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Miallug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Miallug",
+        "Al Miallug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705807,
+        1108805631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379105
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3bd60bd6e5f1fb5bbae6dd9db7822c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705807,
+            "locality_id":1225980987,
+            "region_id":85676923
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705807,
+            "locality_id":1225980987,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1225980987,
+    "wof:lastmodified":1537699564,
+    "wof:name":"Al Miallug",
+    "wof:parent_id":1091705807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05,
+    11.03333,
+    28.05,
+    11.03333
+],
+  "geometry": {"coordinates":[28.05,11.03333],"type":"Point"}
+}

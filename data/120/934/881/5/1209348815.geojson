@@ -1,0 +1,64 @@
+{
+  "id": 1209348815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4195,12.1391,31.4195,12.1391",
+    "geom:latitude":12.1391,
+    "geom:longitude":31.4195,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Aj Jabal al 'Ahmar",
+    "gn:country_code":"SD",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029463,
+    "gn:latitude":12.1391,
+    "gn:longitude":31.4195,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aj Jabal al \u2019Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aj Jabal al \u2019Ahmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029463
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"14b92c792967bbb22d259e2371f60818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209348815
+        }
+    ],
+    "wof:id":1209348815,
+    "wof:lastmodified":1537699679,
+    "wof:name":"Aj Jabal al 'Ahmar",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4195,
+    12.1391,
+    31.4195,
+    12.1391
+],
+  "geometry": {"coordinates":[31.4195,12.1391],"type":"Point"}
+}

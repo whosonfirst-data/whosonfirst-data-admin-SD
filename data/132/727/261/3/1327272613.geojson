@@ -1,0 +1,67 @@
+{
+  "id": 1327272613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,14.7,33.56667,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hamd Allah",
+    "gn:country_code":"SD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374199,
+    "gn:latitude":14.7,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"\u1e28amd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374199
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"400bd0e9e659e5c6024297fb416251b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1327272613,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327272613,
+    "wof:lastmodified":1536911928,
+    "wof:name":"Hamd Allah",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    14.7,
+    33.56667,
+    14.7
+],
+  "geometry": {"coordinates":[33.56667,14.7],"type":"Point"}
+}

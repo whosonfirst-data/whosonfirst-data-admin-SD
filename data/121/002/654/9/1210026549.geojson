@@ -1,0 +1,67 @@
+{
+  "id": 1210026549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5128,14.2479,32.5128,14.2479",
+    "geom:latitude":14.2479,
+    "geom:longitude":32.5128,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Abu Mirekha",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026549,
+    "gn:latitude":14.2479,
+    "gn:longitude":32.5128,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abu Mirekha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026549
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"26ce15f04c07122612e4e5df0335339c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1210026549,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1210026549,
+    "wof:lastmodified":1536390465,
+    "wof:name":"Abu Mirekha",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5128,
+    14.2479,
+    32.5128,
+    14.2479
+],
+  "geometry": {"coordinates":[32.5128,14.2479],"type":"Point"}
+}

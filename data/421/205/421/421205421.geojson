@@ -1,0 +1,82 @@
+{
+  "id": 421205421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13972,15.16028,33.13972,15.16028",
+    "geom:latitude":15.16028,
+    "geom:longitude":33.13972,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hillet Sa\u2018id"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":364071,
+    "qs:gn_pop":10348,
+    "qs:name":"Wad Rawah",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u062c\u0632\u064a\u0631\u0629 (\u0648\u0644\u0627\u064a\u0629)",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":263084,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1437315,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364071,
+        "gp:id":1437315,
+        "qs:id":263084
+    },
+    "wof:country":"SD",
+    "wof:created":1459010224,
+    "wof:geomhash":"009d53f35515e0b92126166e609d8900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":421205421,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":421205421,
+    "wof:lastmodified":1505340794,
+    "wof:name":"Wad Rawah",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:population":10348,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13972,
+    15.16028,
+    33.13972,
+    15.16028
+],
+  "geometry": {"coordinates":[33.13972,15.16028],"type":"Point"}
+}

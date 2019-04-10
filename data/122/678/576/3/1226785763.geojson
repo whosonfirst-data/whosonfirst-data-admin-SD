@@ -1,0 +1,67 @@
+{
+  "id": 1226785763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73333,13.3,34.73333,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":34.73333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Abu Babun",
+    "gn:country_code":"SD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381001,
+    "gn:latitude":13.3,
+    "gn:longitude":34.73333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ab\u016b B\u0101b\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381001
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"48b340c42abcff39f11186385071c54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709223,
+            "locality_id":1226785763,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1226785763,
+    "wof:lastmodified":1536657944,
+    "wof:name":"Abu Babun",
+    "wof:parent_id":1091709223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73333,
+    13.3,
+    34.73333,
+    13.3
+],
+  "geometry": {"coordinates":[34.73333,13.3],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277089379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03401,11.40706,23.03401,11.40706",
+    "geom:latitude":11.40706,
+    "geom:longitude":23.03401,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Seleleh",
+    "gn:country_code":"SD",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449486,
+    "gn:latitude":11.40706,
+    "gn:longitude":23.03401,
+    "gn:modification_date":"2013-01-18",
+    "gn:name":"Seleleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_colloquial":[
+        "Salayle"
+    ],
+    "name:eng_x_preferred":[
+        "Salayle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449486
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8488d8daf43812ef3f2b8286d70e100d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1277089379,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1277089379,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Seleleh",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03401,
+    11.40706,
+    23.03401,
+    11.40706
+],
+  "geometry": {"coordinates":[23.03401,11.40706],"type":"Point"}
+}

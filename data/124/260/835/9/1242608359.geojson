@@ -1,0 +1,71 @@
+{
+  "id": 1242608359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52937,12.99081,22.52937,12.99081",
+    "geom:latitude":12.99081,
+    "geom:longitude":22.52937,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Hagar Jembuh",
+    "gn:country_code":"SD",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374375,
+    "gn:latitude":12.99081,
+    "gn:longitude":22.52937,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Hagar Jembuh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajar Jembuh",
+        "Hagar Jembuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374375
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"121808d09a112327cb63979e43f35a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":1242608359,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1242608359,
+    "wof:lastmodified":1537699513,
+    "wof:name":"Hagar Jembuh",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52937,
+    12.99081,
+    22.52937,
+    12.99081
+],
+  "geometry": {"coordinates":[22.52937,12.99081],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276373639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33515,12.54645,23.33515,12.54645",
+    "geom:latitude":12.54645,
+    "geom:longitude":23.33515,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Katul",
+    "gn:country_code":"SD",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754691,
+    "gn:latitude":12.54645,
+    "gn:longitude":23.33515,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Katul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754691
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"43fa9ab267dcb11e88c1194b3cb9a20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1276373639,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1276373639,
+    "wof:lastmodified":1536724845,
+    "wof:name":"Katul",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33515,
+    12.54645,
+    23.33515,
+    12.54645
+],
+  "geometry": {"coordinates":[23.33515,12.54645],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326566605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92967,12.4182,22.92967,12.4182",
+    "geom:latitude":12.4182,
+    "geom:longitude":22.92967,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Barsa",
+    "gn:country_code":"SD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390228,
+    "gn:latitude":12.4182,
+    "gn:longitude":22.92967,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Barsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390228
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"22f9b8bcf933368d3c0072313a56aaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1326566605,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1326566605,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Barsa",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92967,
+    12.4182,
+    22.92967,
+    12.4182
+],
+  "geometry": {"coordinates":[22.92967,12.4182],"type":"Point"}
+}

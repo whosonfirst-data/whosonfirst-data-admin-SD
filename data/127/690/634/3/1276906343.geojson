@@ -1,0 +1,67 @@
+{
+  "id": 1276906343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91667,13.78333,33.91667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":33.91667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Wad Dardab",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364181,
+    "gn:latitude":13.78333,
+    "gn:longitude":33.91667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Dardab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364181
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9facf3a1d6a37c65dfaad05db600a20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708257,
+            "locality_id":1276906343,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1276906343,
+    "wof:lastmodified":1537005128,
+    "wof:name":"Wad Dardab",
+    "wof:parent_id":1091708257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91667,
+    13.78333,
+    33.91667,
+    13.78333
+],
+  "geometry": {"coordinates":[33.91667,13.78333],"type":"Point"}
+}

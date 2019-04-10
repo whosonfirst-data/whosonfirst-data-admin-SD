@@ -1,0 +1,67 @@
+{
+  "id": 1259720655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47189,12.98326,24.47189,12.98326",
+    "geom:latitude":12.98326,
+    "geom:longitude":24.47189,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Tigintarong",
+    "gn:country_code":"SD",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7036939,
+    "gn:latitude":12.98326,
+    "gn:longitude":24.47189,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tigintarong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7036939
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a93e86f87bb67c57f29f6c70477f100f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708337,
+            "locality_id":1259720655,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1259720655,
+    "wof:lastmodified":1537012691,
+    "wof:name":"Tigintarong",
+    "wof:parent_id":1091708337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47189,
+    12.98326,
+    24.47189,
+    12.98326
+],
+  "geometry": {"coordinates":[24.47189,12.98326],"type":"Point"}
+}

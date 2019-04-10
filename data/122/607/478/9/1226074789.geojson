@@ -1,0 +1,70 @@
+{
+  "id": 1226074789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83779,10.8548,30.83779,10.8548",
+    "geom:latitude":10.8548,
+    "geom:longitude":30.83779,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tozi",
+    "gn:country_code":"SD",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365705,
+    "gn:latitude":10.8548,
+    "gn:longitude":30.83779,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365705
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0e6cd68069dfd6187e39fae6568d4e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1226074789,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1226074789,
+    "wof:lastmodified":1537699435,
+    "wof:name":"Tozi",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83779,
+    10.8548,
+    30.83779,
+    10.8548
+],
+  "geometry": {"coordinates":[30.83779,10.8548],"type":"Point"}
+}

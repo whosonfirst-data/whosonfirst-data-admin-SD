@@ -1,0 +1,67 @@
+{
+  "id": 1276151917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91116,13.35743,24.91116,13.35743",
+    "geom:latitude":13.35743,
+    "geom:longitude":24.91116,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Abdia",
+    "gn:country_code":"SD",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7751662,
+    "gn:latitude":13.35743,
+    "gn:longitude":24.91116,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Abdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7751662
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"19d957fc92dc342781283d3cb9dfcf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1276151917,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1276151917,
+    "wof:lastmodified":1537020948,
+    "wof:name":"Abdia",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91116,
+    13.35743,
+    24.91116,
+    13.35743
+],
+  "geometry": {"coordinates":[24.91116,13.35743],"type":"Point"}
+}

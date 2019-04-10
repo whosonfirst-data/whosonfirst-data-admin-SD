@@ -1,0 +1,67 @@
+{
+  "id": 1360116121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,13.01667,30.65,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":30.65,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Fangoga",
+    "gn:country_code":"SD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375555,
+    "gn:latitude":13.01667,
+    "gn:longitude":30.65,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Fangoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375555
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1b799b11f9d037e8228050134df7de2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1360116121,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360116121,
+    "wof:lastmodified":1536901000,
+    "wof:name":"Fangoga",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    13.01667,
+    30.65,
+    13.01667
+],
+  "geometry": {"coordinates":[30.65,13.01667],"type":"Point"}
+}

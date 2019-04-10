@@ -1,0 +1,71 @@
+{
+  "id": 1327470221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,13.06667,33.96667,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al Jaza'ir",
+    "gn:country_code":"SD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379330,
+    "gn:latitude":13.06667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jaz\u0101\u2019ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gezair",
+        "Al Jaz\u0101\u2019ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379330
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6082dd4c669ca866d53a59d7b4488424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1327470221,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1327470221,
+    "wof:lastmodified":1537699572,
+    "wof:name":"Al Jaza'ir",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    13.06667,
+    33.96667,
+    13.06667
+],
+  "geometry": {"coordinates":[33.96667,13.06667],"type":"Point"}
+}

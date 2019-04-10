@@ -1,0 +1,67 @@
+{
+  "id": 1242924981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78333,14.16667,33.78333,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":33.78333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nurab",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369068,
+    "gn:latitude":14.16667,
+    "gn:longitude":33.78333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"N\u016br\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369068
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d091a71a8129fc4065ac80a53f870bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1242924981,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1242924981,
+    "wof:lastmodified":1537057939,
+    "wof:name":"Nurab",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78333,
+    14.16667,
+    33.78333,
+    14.16667
+],
+  "geometry": {"coordinates":[33.78333,14.16667],"type":"Point"}
+}

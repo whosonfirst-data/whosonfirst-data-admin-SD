@@ -1,0 +1,67 @@
+{
+  "id": 1310236219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98333,12.75,23.98333,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":23.98333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Birja",
+    "gn:country_code":"SD",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":377342,
+    "gn:latitude":12.75,
+    "gn:longitude":23.98333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Birja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377342
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b0a650e2ba3333981f3b7c4fd22f4aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1310236219,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1310236219,
+    "wof:lastmodified":1536807669,
+    "wof:name":"Birja",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98333,
+    12.75,
+    23.98333,
+    12.75
+],
+  "geometry": {"coordinates":[23.98333,12.75],"type":"Point"}
+}

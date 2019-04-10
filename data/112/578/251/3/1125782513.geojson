@@ -1,0 +1,81 @@
+{
+  "id": 1125782513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31667,21.06667,36.31667,21.06667",
+    "geom:latitude":21.06667,
+    "geom:longitude":36.31667,
+    "gn:gn_country":"SD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11095,
+    "gn:population":11095,
+    "iso:country":"SD",
+    "lbl:latitude":21.06667,
+    "lbl:longitude":36.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jab\u0113t"
+    ],
+    "qs_pg:aaroncc":"SD",
+    "qs_pg:gn_country":"SD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":375046,
+    "qs_pg:gn_pop":11095,
+    "qs_pg:name":"Gebeit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":274930,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375046,
+        "qs_pg:id":274930
+    },
+    "wof:country":"SD",
+    "wof:created":1497290545,
+    "wof:geomhash":"91cb661a592490bc46ee53093ffa0e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710919,
+            "locality_id":1125782513,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1125782513,
+    "wof:lastmodified":1509391678,
+    "wof:name":"Gebeit",
+    "wof:parent_id":1091710919,
+    "wof:placetype":"locality",
+    "wof:population":11095,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31667,
+    21.06667,
+    36.31667,
+    21.06667
+],
+  "geometry": {"coordinates":[36.31667,21.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327272629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6719,15.2253,32.6719,15.2253",
+    "geom:latitude":15.2253,
+    "geom:longitude":32.6719,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Qaryat Abu Hasabo",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991699,
+    "gn:latitude":15.2253,
+    "gn:longitude":32.6719,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryat Abu Hasabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991699
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"48422538a5fe1366f2927c83dac57ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1327272629,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327272629,
+    "wof:lastmodified":1536911905,
+    "wof:name":"Qaryat Abu Hasabo",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6719,
+    15.2253,
+    32.6719,
+    15.2253
+],
+  "geometry": {"coordinates":[32.6719,15.2253],"type":"Point"}
+}

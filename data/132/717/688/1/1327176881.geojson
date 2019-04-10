@@ -1,0 +1,70 @@
+{
+  "id": 1327176881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4004,14.4151,33.4004,14.4151",
+    "geom:latitude":14.4151,
+    "geom:longitude":33.4004,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Qantarat Al Warraq",
+    "gn:country_code":"SD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026437,
+    "gn:latitude":14.4151,
+    "gn:longitude":33.4004,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qan\u0163arat Al Warr\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qan\u0163arat Al Warr\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026437
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e115927d710679b84eac572878778180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1327176881,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327176881,
+    "wof:lastmodified":1537699651,
+    "wof:name":"Qantarat Al Warraq",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4004,
+    14.4151,
+    33.4004,
+    14.4151
+],
+  "geometry": {"coordinates":[33.4004,14.4151],"type":"Point"}
+}

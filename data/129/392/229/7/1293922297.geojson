@@ -1,0 +1,70 @@
+{
+  "id": 1293922297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2226,14.8794,33.2226,14.8794",
+    "geom:latitude":14.8794,
+    "geom:longitude":33.2226,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Talbab",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366485,
+    "gn:latitude":14.8794,
+    "gn:longitude":33.2226,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Talbab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162\u0101lb\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366485
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a8b78c624f0ce32898a3ef166706d6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293922297,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293922297,
+    "wof:lastmodified":1537699439,
+    "wof:name":"Talbab",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2226,
+    14.8794,
+    33.2226,
+    14.8794
+],
+  "geometry": {"coordinates":[33.2226,14.8794],"type":"Point"}
+}

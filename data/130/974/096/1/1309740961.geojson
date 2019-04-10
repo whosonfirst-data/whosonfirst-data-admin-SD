@@ -1,0 +1,71 @@
+{
+  "id": 1309740961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05,12.93333,36.05,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":36.05,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad al Faki",
+    "gn:country_code":"SD",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364294,
+    "gn:latitude":12.93333,
+    "gn:longitude":36.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad al Fak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Faki",
+        "Wad al Fak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364294
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b789e62a80708308bed97c2f48a2860a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705317,
+            "locality_id":1309740961,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1309740961,
+    "wof:lastmodified":1537699409,
+    "wof:name":"Wad al Faki",
+    "wof:parent_id":1091705317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05,
+    12.93333,
+    36.05,
+    12.93333
+],
+  "geometry": {"coordinates":[36.05,12.93333],"type":"Point"}
+}

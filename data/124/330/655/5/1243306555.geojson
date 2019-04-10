@@ -1,0 +1,71 @@
+{
+  "id": 1243306555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,14.25,33.56667,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad an Nur",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364246,
+    "gn:latitude":14.25,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad an N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad en Nur",
+        "Wad an N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364246
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1dd8b89906280a3aa2c15070c75ba637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1243306555,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243306555,
+    "wof:lastmodified":1537699407,
+    "wof:name":"Wad an Nur",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    14.25,
+    33.56667,
+    14.25
+],
+  "geometry": {"coordinates":[33.56667,14.25],"type":"Point"}
+}

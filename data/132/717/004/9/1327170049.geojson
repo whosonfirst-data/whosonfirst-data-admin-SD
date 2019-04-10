@@ -1,0 +1,67 @@
+{
+  "id": 1327170049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03905,13.28982,24.03905,13.28982",
+    "geom:latitude":13.28982,
+    "geom:longitude":24.03905,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Turru",
+    "gn:country_code":"SD",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750474,
+    "gn:latitude":13.28982,
+    "gn:longitude":24.03905,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Turru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091708215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750474
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a1106b8bd5fc0466600d6522f5829f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708215,
+            "locality_id":1327170049,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1327170049,
+    "wof:lastmodified":1537057122,
+    "wof:name":"Turru",
+    "wof:parent_id":1091708215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03905,
+    13.28982,
+    24.03905,
+    13.28982
+],
+  "geometry": {"coordinates":[24.03905,13.28982],"type":"Point"}
+}

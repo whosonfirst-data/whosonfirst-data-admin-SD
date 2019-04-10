@@ -1,0 +1,70 @@
+{
+  "id": 1310037047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5375,12.7483,31.5375,12.7483",
+    "geom:latitude":12.7483,
+    "geom:longitude":31.5375,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"As Sirehat",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029083,
+    "gn:latitude":12.7483,
+    "gn:longitude":31.5375,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"As Sire\u1e29\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sire\u1e29\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029083
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"83d4ab60aeb8a81dc16a2c1414bc47b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310037047,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310037047,
+    "wof:lastmodified":1537699668,
+    "wof:name":"As Sirehat",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5375,
+    12.7483,
+    31.5375,
+    12.7483
+],
+  "geometry": {"coordinates":[31.5375,12.7483],"type":"Point"}
+}

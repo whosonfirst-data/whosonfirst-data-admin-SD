@@ -1,0 +1,72 @@
+{
+  "id": 1343495537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,11.55,30.75,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Fayd at Tayr",
+    "gn:country_code":"SD",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375416,
+    "gn:latitude":11.55,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fay\u1e11 a\u0163 \u0162ayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feid et Teir",
+        "Feid et Tei\u2019",
+        "Fay\u1e11 a\u0163 \u0162ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375416
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ddd57cafcdeeb7d03d3c5fdd4c4ef3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706897,
+            "locality_id":1343495537,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1343495537,
+    "wof:lastmodified":1537699520,
+    "wof:name":"Fayd at Tayr",
+    "wof:parent_id":1091706897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    11.55,
+    30.75,
+    11.55
+],
+  "geometry": {"coordinates":[30.75,11.55],"type":"Point"}
+}

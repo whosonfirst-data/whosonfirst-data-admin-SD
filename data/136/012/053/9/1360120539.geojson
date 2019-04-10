@@ -1,0 +1,73 @@
+{
+  "id": 1360120539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3733,12.8754,32.3733,12.8754",
+    "geom:latitude":12.8754,
+    "geom:longitude":32.3733,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ash Shawafa",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367186,
+    "gn:latitude":12.8754,
+    "gn:longitude":32.3733,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaw\u0101fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shawwafa",
+        "Shauwafa",
+        "Shaww\u0101fah",
+        "Ash Shaw\u0101fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367186
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eb4a7fe5dea9d800e770bc47c01cf2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1360120539,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1360120539,
+    "wof:lastmodified":1537699448,
+    "wof:name":"Ash Shawafa",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3733,
+    12.8754,
+    32.3733,
+    12.8754
+],
+  "geometry": {"coordinates":[32.3733,12.8754],"type":"Point"}
+}

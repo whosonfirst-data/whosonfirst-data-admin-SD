@@ -1,0 +1,71 @@
+{
+  "id": 1276370737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96667,12.41667,29.96667,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":29.96667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Mashishah",
+    "gn:country_code":"SD",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370379,
+    "gn:latitude":12.41667,
+    "gn:longitude":29.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mash\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meshisha",
+        "Mash\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370379
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"50ddd5f7a98c44a06e56c4f80f7d699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709677,
+            "locality_id":1276370737,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1276370737,
+    "wof:lastmodified":1537699476,
+    "wof:name":"Mashishah",
+    "wof:parent_id":1091709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96667,
+    12.41667,
+    29.96667,
+    12.41667
+],
+  "geometry": {"coordinates":[29.96667,12.41667],"type":"Point"}
+}

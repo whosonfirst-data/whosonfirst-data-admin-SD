@@ -1,0 +1,71 @@
+{
+  "id": 1360119655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05,13.16667,30.05,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":30.05,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Dawmah",
+    "gn:country_code":"SD",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365191,
+    "gn:latitude":13.16667,
+    "gn:longitude":30.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Dawmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Doma",
+        "Umm Dawmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365191
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d188fe72372d7930f18d17aacd71f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1360119655,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360119655,
+    "wof:lastmodified":1537699429,
+    "wof:name":"Umm Dawmah",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05,
+    13.16667,
+    30.05,
+    13.16667
+],
+  "geometry": {"coordinates":[30.05,13.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327468071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41678,13.46243,24.41678,13.46243",
+    "geom:latitude":13.46243,
+    "geom:longitude":24.41678,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kurrei Kerri",
+    "gn:country_code":"SD",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7746865,
+    "gn:latitude":13.46243,
+    "gn:longitude":24.41678,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Kurrei Kerri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746865
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a984cd6f8642a83516aa3ed1ec939435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710367,
+            "locality_id":1327468071,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1327468071,
+    "wof:lastmodified":1536627511,
+    "wof:name":"Kurrei Kerri",
+    "wof:parent_id":1091710367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41678,
+    13.46243,
+    24.41678,
+    13.46243
+],
+  "geometry": {"coordinates":[24.41678,13.46243],"type":"Point"}
+}

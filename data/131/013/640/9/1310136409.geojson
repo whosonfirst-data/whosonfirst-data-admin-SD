@@ -1,0 +1,71 @@
+{
+  "id": 1310136409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46667,13.51667,30.46667,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":30.46667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Baqbaqi",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377736,
+    "gn:latitude":13.51667,
+    "gn:longitude":30.46667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baqbaq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagbagi",
+        "Baqbaq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377736
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6c4bf07cbf0beefb60add9fd75a6f964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310136409,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310136409,
+    "wof:lastmodified":1537699538,
+    "wof:name":"Baqbaqi",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46667,
+    13.51667,
+    30.46667,
+    13.51667
+],
+  "geometry": {"coordinates":[30.46667,13.51667],"type":"Point"}
+}

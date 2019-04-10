@@ -1,0 +1,72 @@
+{
+  "id": 1293421217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91667,14.53333,31.91667,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":31.91667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Umm Ruqaybah",
+    "gn:country_code":"SD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364711,
+    "gn:latitude":14.53333,
+    "gn:longitude":31.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Ruqaybah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Hamid",
+        "Umm Ruqeiba",
+        "Umm Ruqaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091709051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364711
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b4147a0beffaf59ed72e52d9f7c777f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709051,
+            "locality_id":1293421217,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293421217,
+    "wof:lastmodified":1537699419,
+    "wof:name":"Umm Ruqaybah",
+    "wof:parent_id":1091709051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91667,
+    14.53333,
+    31.91667,
+    14.53333
+],
+  "geometry": {"coordinates":[31.91667,14.53333],"type":"Point"}
+}

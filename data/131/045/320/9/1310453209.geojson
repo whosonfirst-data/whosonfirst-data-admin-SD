@@ -1,0 +1,67 @@
+{
+  "id": 1310453209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3292,14.947,33.3292,14.947",
+    "geom:latitude":14.947,
+    "geom:longitude":33.3292,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kambu Al Magharba",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026167,
+    "gn:latitude":14.947,
+    "gn:longitude":33.3292,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu Al Magharba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026167
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"68132661aaa8f80f9d3f671fc04256f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1310453209,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310453209,
+    "wof:lastmodified":1536991678,
+    "wof:name":"Kambu Al Magharba",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3292,
+    14.947,
+    33.3292,
+    14.947
+],
+  "geometry": {"coordinates":[33.3292,14.947],"type":"Point"}
+}

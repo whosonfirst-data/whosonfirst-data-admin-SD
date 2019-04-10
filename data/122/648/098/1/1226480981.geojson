@@ -1,0 +1,72 @@
+{
+  "id": 1226480981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1892,14.1737,33.1892,14.1737",
+    "geom:latitude":14.1737,
+    "geom:longitude":33.1892,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Dighina",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365151,
+    "gn:latitude":14.1737,
+    "gn:longitude":33.1892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Dighina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Degheina",
+        "Umm \u1e10ughaynah",
+        "Um Dighina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365151
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"25226bc314b63c986a8152d8f00f2d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226480981,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226480981,
+    "wof:lastmodified":1537699428,
+    "wof:name":"Um Dighina",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1892,
+    14.1737,
+    33.1892,
+    14.1737
+],
+  "geometry": {"coordinates":[33.1892,14.1737],"type":"Point"}
+}

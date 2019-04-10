@@ -1,0 +1,70 @@
+{
+  "id": 1226079875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29991,13.79927,22.29991,13.79927",
+    "geom:latitude":13.79927,
+    "geom:longitude":22.29991,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Karakir",
+    "gn:country_code":"SD",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389637,
+    "gn:latitude":13.79927,
+    "gn:longitude":22.29991,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Karakir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389637
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6729e249698b7987117449078bc9a2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":1226079875,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1226079875,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Karakir",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29991,
+    13.79927,
+    22.29991,
+    13.79927
+],
+  "geometry": {"coordinates":[22.29991,13.79927],"type":"Point"}
+}

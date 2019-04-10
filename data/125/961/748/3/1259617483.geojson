@@ -1,0 +1,71 @@
+{
+  "id": 1259617483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87799,12.28674,22.87799,12.28674",
+    "geom:latitude":12.28674,
+    "geom:longitude":22.87799,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ngorra Fata",
+    "gn:country_code":"SD",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369207,
+    "gn:latitude":12.28674,
+    "gn:longitude":22.87799,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ngorra Fata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mourfatta",
+        "Ngorra Fata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369207
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"af6969dc8acdc393b992cf8a27153303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1259617483,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1259617483,
+    "wof:lastmodified":1537699469,
+    "wof:name":"Ngorra Fata",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87799,
+    12.28674,
+    22.87799,
+    12.28674
+],
+  "geometry": {"coordinates":[22.87799,12.28674],"type":"Point"}
+}

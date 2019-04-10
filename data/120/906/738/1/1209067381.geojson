@@ -1,0 +1,61 @@
+{
+  "id": 1209067381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9473,15.4313,32.9473,15.4313",
+    "geom:latitude":15.4313,
+    "geom:longitude":32.9473,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Al Hassaniya",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991613,
+    "gn:latitude":15.4313,
+    "gn:longitude":32.9473,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Hassaniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991613
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5fbf49fbd92a0b74149a567644ee2d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209067381
+        }
+    ],
+    "wof:id":1209067381,
+    "wof:lastmodified":1536298758,
+    "wof:name":"Al Hassaniya",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9473,
+    15.4313,
+    32.9473,
+    15.4313
+],
+  "geometry": {"coordinates":[32.9473,15.4313],"type":"Point"}
+}

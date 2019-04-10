@@ -1,0 +1,67 @@
+{
+  "id": 1310532743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2218,13.4447,32.2218,13.4447",
+    "geom:latitude":13.4447,
+    "geom:longitude":32.2218,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Wad Ab Daqar",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028848,
+    "gn:latitude":13.4447,
+    "gn:longitude":32.2218,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Ab Daqar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028848
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"29e1619456b10e007f160fb6762e90e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1310532743,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1310532743,
+    "wof:lastmodified":1536876837,
+    "wof:name":"Wad Ab Daqar",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2218,
+    13.4447,
+    32.2218,
+    13.4447
+],
+  "geometry": {"coordinates":[32.2218,13.4447],"type":"Point"}
+}

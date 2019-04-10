@@ -1,0 +1,70 @@
+{
+  "id": 1343992447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48544,13.49287,22.48544,13.49287",
+    "geom:latitude":13.49287,
+    "geom:longitude":22.48544,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Durti",
+    "gn:country_code":"SD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376079,
+    "gn:latitude":13.49287,
+    "gn:longitude":22.48544,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Durti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Durti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376079
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"55126e057f67b390d5a49dfe38177a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1343992447,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1343992447,
+    "wof:lastmodified":1537699524,
+    "wof:name":"Durti",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48544,
+    13.49287,
+    22.48544,
+    13.49287
+],
+  "geometry": {"coordinates":[22.48544,13.49287],"type":"Point"}
+}

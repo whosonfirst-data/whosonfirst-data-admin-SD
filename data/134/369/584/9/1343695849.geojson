@@ -1,0 +1,67 @@
+{
+  "id": 1343695849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51944,13.08091,24.51944,13.08091",
+    "geom:latitude":13.08091,
+    "geom:longitude":24.51944,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Deribat",
+    "gn:country_code":"SD",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376531,
+    "gn:latitude":13.08091,
+    "gn:longitude":24.51944,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Deribat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376531
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b0641c429848005f4b857c54dfeb8bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708337,
+            "locality_id":1343695849,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1343695849,
+    "wof:lastmodified":1536904232,
+    "wof:name":"Deribat",
+    "wof:parent_id":1091708337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51944,
+    13.08091,
+    24.51944,
+    13.08091
+],
+  "geometry": {"coordinates":[24.51944,13.08091],"type":"Point"}
+}

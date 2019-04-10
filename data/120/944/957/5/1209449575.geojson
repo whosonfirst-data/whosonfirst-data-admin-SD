@@ -1,0 +1,61 @@
+{
+  "id": 1209449575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1619,16.5612,33.1619,16.5612",
+    "geom:latitude":16.5612,
+    "geom:longitude":33.1619,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ed Deim",
+    "gn:country_code":"SD",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443873,
+    "gn:latitude":16.5612,
+    "gn:longitude":33.1619,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ed Deim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443873
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6a7141019ae56fa4b21961aab62f4af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209449575
+        }
+    ],
+    "wof:id":1209449575,
+    "wof:lastmodified":1536286713,
+    "wof:name":"Ed Deim",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1619,
+    16.5612,
+    33.1619,
+    16.5612
+],
+  "geometry": {"coordinates":[33.1619,16.5612],"type":"Point"}
+}

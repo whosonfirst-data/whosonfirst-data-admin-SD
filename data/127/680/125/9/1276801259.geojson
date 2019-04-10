@@ -1,0 +1,71 @@
+{
+  "id": 1276801259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75,14.48333,25.75,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":25.75,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Jabal Dor",
+    "gn:country_code":"SD",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373465,
+    "gn:latitude":14.48333,
+    "gn:longitude":25.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabal Dor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jebel Dor",
+        "Jabal Dor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373465
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6bdfa4ae977ba7b571f34a8ad6b892be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1276801259,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1276801259,
+    "wof:lastmodified":1537699501,
+    "wof:name":"Jabal Dor",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75,
+    14.48333,
+    25.75,
+    14.48333
+],
+  "geometry": {"coordinates":[25.75,14.48333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343706023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0801,17.541,36.0801,17.541",
+    "geom:latitude":17.541,
+    "geom:longitude":36.0801,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Mahattat Derudeb",
+    "gn:country_code":"SD",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376519,
+    "gn:latitude":17.541,
+    "gn:longitude":36.0801,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mahattat D\u0113rud\u0113b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Derudeib",
+        "Derudeb",
+        "Mahattat D\u0113rud\u0113b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091707007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376519
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7582e0323e41789faf810d19ede87a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707007,
+            "locality_id":1343706023,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1343706023,
+    "wof:lastmodified":1537699528,
+    "wof:name":"Mahattat Derudeb",
+    "wof:parent_id":1091707007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0801,
+    17.541,
+    36.0801,
+    17.541
+],
+  "geometry": {"coordinates":[36.0801,17.541],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243293017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2704,14.7705,32.2704,14.7705",
+    "geom:latitude":14.7705,
+    "geom:longitude":32.2704,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kambu Mahammad",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026048,
+    "gn:latitude":14.7705,
+    "gn:longitude":32.2704,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu Ma\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambu Ma\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026048
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c675a4407ec947e79e0cee9bc9b1d1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1243293017,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243293017,
+    "wof:lastmodified":1537699639,
+    "wof:name":"Kambu Mahammad",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2704,
+    14.7705,
+    32.2704,
+    14.7705
+],
+  "geometry": {"coordinates":[32.2704,14.7705],"type":"Point"}
+}

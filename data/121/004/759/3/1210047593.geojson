@@ -1,0 +1,74 @@
+{
+  "id": 1210047593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,11.06667,34.66667,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Qaysan",
+    "gn:country_code":"SD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368402,
+    "gn:latitude":11.06667,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qays\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdullah Qeissan",
+        "Qeissan",
+        "Abdullah",
+        "Qays\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368402,
+        "wk:page":"Qays%C4%81n%2C_Abdullah_Qeissan"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"10983db53463dc98c1752b28f72bda0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709399,
+            "locality_id":1210047593,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1210047593,
+    "wof:lastmodified":1537699463,
+    "wof:name":"Qaysan",
+    "wof:parent_id":1091709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    11.06667,
+    34.66667,
+    11.06667
+],
+  "geometry": {"coordinates":[34.66667,11.06667],"type":"Point"}
+}

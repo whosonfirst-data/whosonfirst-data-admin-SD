@@ -1,0 +1,67 @@
+{
+  "id": 1293917521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95697,18.01082,33.95697,18.01082",
+    "geom:latitude":18.01082,
+    "geom:longitude":33.95697,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Abu Haraz",
+    "gn:country_code":"SD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380841,
+    "gn:latitude":18.01082,
+    "gn:longitude":33.95697,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ab\u016b \u1e28ar\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380841
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"40d036ff0191d2d085ba327aeeddedf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1293917521,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293917521,
+    "wof:lastmodified":1536664350,
+    "wof:name":"Abu Haraz",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95697,
+    18.01082000000001,
+    33.95697,
+    18.01082000000001
+],
+  "geometry": {"coordinates":[33.95697,18.01082000000001],"type":"Point"}
+}

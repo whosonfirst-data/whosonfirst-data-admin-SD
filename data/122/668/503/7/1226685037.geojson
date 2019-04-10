@@ -1,0 +1,71 @@
+{
+  "id": 1226685037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9997,14.0641,32.9997,14.0641",
+    "geom:latitude":14.0641,
+    "geom:longitude":32.9997,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Bashayir Suleman",
+    "gn:country_code":"SD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377607,
+    "gn:latitude":14.0641,
+    "gn:longitude":32.9997,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bash\u0101yir Sulem\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bash\u0101\u2019ir",
+        "Bash\u0101yir Sulem\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377607
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f747dba021759ba9e87c581e8bf92f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226685037,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226685037,
+    "wof:lastmodified":1537699536,
+    "wof:name":"Bashayir Suleman",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9997,
+    14.0641,
+    32.9997,
+    14.0641
+],
+  "geometry": {"coordinates":[32.9997,14.0641],"type":"Point"}
+}

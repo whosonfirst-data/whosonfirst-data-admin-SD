@@ -1,0 +1,71 @@
+{
+  "id": 1243293459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2,13.8,29.2,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":29.2,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Luyunah",
+    "gn:country_code":"SD",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364865,
+    "gn:latitude":13.8,
+    "gn:longitude":29.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Luy\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Leyuna",
+        "Umm Luy\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364865
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4597730f2d18e1e6145e4556f1a368cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1243293459,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243293459,
+    "wof:lastmodified":1537699421,
+    "wof:name":"Umm Luyunah",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2,
+    13.8,
+    29.2,
+    13.8
+],
+  "geometry": {"coordinates":[29.2,13.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293429869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,18.78333,36.96667,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Carthago",
+    "gn:country_code":"SD",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376984,
+    "gn:latitude":18.78333,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2018-04-29",
+    "gn:name":"Carthago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karthaj",
+        "Carthago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376984,
+        "wk:page":"Carthago,_Sudan"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"02425dfc98e5e09e393d537380dd1957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710685,
+            "locality_id":1293429869,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1293429869,
+    "wof:lastmodified":1537699531,
+    "wof:name":"Carthago",
+    "wof:parent_id":1091710685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    18.78333,
+    36.96667,
+    18.78333
+],
+  "geometry": {"coordinates":[36.96667,18.78333],"type":"Point"}
+}

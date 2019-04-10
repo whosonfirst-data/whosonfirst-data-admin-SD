@@ -1,0 +1,67 @@
+{
+  "id": 1243274529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.68565,11.98232,34.68565,11.98232",
+    "geom:latitude":11.98232,
+    "geom:longitude":34.68565,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Al Roseires",
+    "gn:country_code":"SD",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779261,
+    "gn:latitude":11.98232,
+    "gn:longitude":34.68565,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Al Roseires",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779261
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d571931d1c52fe53d9debc4c7d6bd3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1243274529,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1243274529,
+    "wof:lastmodified":1537051125,
+    "wof:name":"Al Roseires",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.68565,
+    11.98232,
+    34.68565,
+    11.98232
+],
+  "geometry": {"coordinates":[34.68565,11.98232],"type":"Point"}
+}

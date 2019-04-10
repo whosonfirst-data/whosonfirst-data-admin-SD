@@ -1,0 +1,67 @@
+{
+  "id": 1327468787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6129,12.9566,31.6129,12.9566",
+    "geom:latitude":12.9566,
+    "geom:longitude":31.6129,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Haraniyya",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029067,
+    "gn:latitude":12.9566,
+    "gn:longitude":31.6129,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Haraniyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029067
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"df0fb649ca3cdb5433667d5014b64642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1327468787,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327468787,
+    "wof:lastmodified":1536626362,
+    "wof:name":"Al Haraniyya",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6129,
+    12.9566,
+    31.6129,
+    12.9566
+],
+  "geometry": {"coordinates":[31.6129,12.9566],"type":"Point"}
+}

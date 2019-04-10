@@ -1,0 +1,70 @@
+{
+  "id": 1293518137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2473,16.6609,33.2473,16.6609",
+    "geom:latitude":16.6609,
+    "geom:longitude":33.2473,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat es Sol`at",
+    "gn:country_code":"SD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443935,
+    "gn:latitude":16.6609,
+    "gn:longitude":33.2473,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat es Sol\u2018at",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat es Sol\u2018at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443935
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"55a750d5931a27d1960c8dbff79aaf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1293518137,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293518137,
+    "wof:lastmodified":1537699607,
+    "wof:name":"Hillat es Sol`at",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2473,
+    16.6609,
+    33.2473,
+    16.6609
+],
+  "geometry": {"coordinates":[33.2473,16.6609],"type":"Point"}
+}

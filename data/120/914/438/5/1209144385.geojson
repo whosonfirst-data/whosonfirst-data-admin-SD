@@ -1,0 +1,61 @@
+{
+  "id": 1209144385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12056,15.06806,33.12056,15.06806",
+    "geom:latitude":15.06806,
+    "geom:longitude":33.12056,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu Rus",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380574,
+    "gn:latitude":15.06806,
+    "gn:longitude":33.12056,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Abu Rus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380574
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"50ea56a09da07a165e2b125bfd892149",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209144385
+        }
+    ],
+    "wof:id":1209144385,
+    "wof:lastmodified":1536296405,
+    "wof:name":"Abu Rus",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12056,
+    15.06806,
+    33.12056,
+    15.06806
+],
+  "geometry": {"coordinates":[33.12056,15.06806],"type":"Point"}
+}

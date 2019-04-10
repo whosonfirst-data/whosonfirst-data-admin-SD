@@ -1,0 +1,67 @@
+{
+  "id": 1293329625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5,16.23333,35.5,16.23333",
+    "geom:latitude":16.23333,
+    "geom:longitude":35.5,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Masid Emani",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370369,
+    "gn:latitude":16.23333,
+    "gn:longitude":35.5,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Masid Emani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091706097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370369
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"216c930914054e5424269807b30bc42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706097,
+            "locality_id":1293329625,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293329625,
+    "wof:lastmodified":1537013852,
+    "wof:name":"Masid Emani",
+    "wof:parent_id":1091706097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5,
+    16.23333,
+    35.5,
+    16.23333
+],
+  "geometry": {"coordinates":[35.5,16.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293420165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53333,18.08333,31.53333,18.08333",
+    "geom:latitude":18.08333,
+    "geom:longitude":31.53333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Gowari",
+    "gn:country_code":"SD",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374674,
+    "gn:latitude":18.08333,
+    "gn:longitude":31.53333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Gowari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091710471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374674
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"70f38e23d2b2653201177d6a5432f18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710471,
+            "locality_id":1293420165,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1293420165,
+    "wof:lastmodified":1536883628,
+    "wof:name":"Gowari",
+    "wof:parent_id":1091710471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53333,
+    18.08333,
+    31.53333,
+    18.08333
+],
+  "geometry": {"coordinates":[31.53333,18.08333],"type":"Point"}
+}

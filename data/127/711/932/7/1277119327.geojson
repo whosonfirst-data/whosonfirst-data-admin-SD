@@ -1,0 +1,70 @@
+{
+  "id": 1277119327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3841,14.206,33.3841,14.206",
+    "geom:latitude":14.206,
+    "geom:longitude":33.3841,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Qidedima as Suq",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026692,
+    "gn:latitude":14.206,
+    "gn:longitude":33.3841,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Qi\u1e11e\u1e11\u012bma as Suq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qi\u1e11e\u1e11\u012bma as Suq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026692
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c5ddd495970c3ca3349104edf9d9607a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1277119327,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277119327,
+    "wof:lastmodified":1537699659,
+    "wof:name":"Al Qidedima as Suq",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3841,
+    14.206,
+    33.3841,
+    14.206
+],
+  "geometry": {"coordinates":[33.3841,14.206],"type":"Point"}
+}

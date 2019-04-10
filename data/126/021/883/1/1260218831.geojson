@@ -1,0 +1,72 @@
+{
+  "id": 1260218831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13333,13.08333,30.13333,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":30.13333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Muraykib",
+    "gn:country_code":"SD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379086,
+    "gn:latitude":13.08333,
+    "gn:longitude":30.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Muraykib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mureikib",
+        "El Mureikib",
+        "Al Muraykib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379086
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"086dc83239ffa8f1ed9b5daecb454f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1260218831,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260218831,
+    "wof:lastmodified":1537699563,
+    "wof:name":"Al Muraykib",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13333,
+    13.08333,
+    30.13333,
+    13.08333
+],
+  "geometry": {"coordinates":[30.13333,13.08333],"type":"Point"}
+}

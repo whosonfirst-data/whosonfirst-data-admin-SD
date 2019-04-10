@@ -1,0 +1,67 @@
+{
+  "id": 1310334249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0883,12.742,31.0883,12.742",
+    "geom:latitude":12.742,
+    "geom:longitude":31.0883,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ar Rijela",
+    "gn:country_code":"SD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028976,
+    "gn:latitude":12.742,
+    "gn:longitude":31.0883,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar Rijela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028976
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a81edf67c63485e37798629fdf90ecba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310334249,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310334249,
+    "wof:lastmodified":1536666657,
+    "wof:name":"Ar Rijela",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0883,
+    12.742,
+    31.0883,
+    12.742
+],
+  "geometry": {"coordinates":[31.0883,12.742],"type":"Point"}
+}

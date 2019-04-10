@@ -1,0 +1,75 @@
+{
+  "id": 1259817449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14533,10.93926,31.14533,10.93926",
+    "geom:latitude":10.93926,
+    "geom:longitude":31.14533,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bint Ghabat",
+    "gn:country_code":"SD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377379,
+    "gn:latitude":10.93926,
+    "gn:longitude":31.14533,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bint Ghabat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bint Ghabat"
+    ],
+    "name:und_x_variant":[
+        "Bint Hahab",
+        "Bint Habab",
+        "Bint Gh\u0101b\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377379
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1978dff1d67124a19ee7087509d6a313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1259817449,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1259817449,
+    "wof:lastmodified":1537699535,
+    "wof:name":"Bint Ghabat",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14533,
+    10.93926,
+    31.14533,
+    10.93926
+],
+  "geometry": {"coordinates":[31.14533,10.93926],"type":"Point"}
+}

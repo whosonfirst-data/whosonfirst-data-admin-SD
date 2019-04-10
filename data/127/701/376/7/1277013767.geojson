@@ -1,0 +1,67 @@
+{
+  "id": 1277013767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7921,12.7667,32.7921,12.7667",
+    "geom:latitude":12.7667,
+    "geom:longitude":32.7921,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Jimmeza",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854141,
+    "gn:latitude":12.7667,
+    "gn:longitude":32.7921,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jimmeza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854141
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"445520e7a38a83a0c8c325596dc2e2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1277013767,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1277013767,
+    "wof:lastmodified":1536860316,
+    "wof:name":"Jimmeza",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7921,
+    12.7667,
+    32.7921,
+    12.7667
+],
+  "geometry": {"coordinates":[32.7921,12.7667],"type":"Point"}
+}

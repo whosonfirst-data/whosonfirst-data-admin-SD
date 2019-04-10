@@ -1,0 +1,70 @@
+{
+  "id": 1343994117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5651,12.8814,32.5651,12.8814",
+    "geom:latitude":12.8814,
+    "geom:longitude":32.5651,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Duwabin",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854050,
+    "gn:latitude":12.8814,
+    "gn:longitude":32.5651,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u1e10uw\u0101b\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10uw\u0101b\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854050
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfc057cbe76a45018ced366069beaf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1343994117,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343994117,
+    "wof:lastmodified":1537699612,
+    "wof:name":"Duwabin",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5651,
+    12.8814,
+    32.5651,
+    12.8814
+],
+  "geometry": {"coordinates":[32.5651,12.8814],"type":"Point"}
+}

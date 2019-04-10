@@ -1,0 +1,70 @@
+{
+  "id": 1226360597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2676,12.8125,35.2676,12.8125",
+    "geom:latitude":12.8125,
+    "geom:longitude":35.2676,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"`Aradeba",
+    "gn:country_code":"SD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029431,
+    "gn:latitude":12.8125,
+    "gn:longitude":35.2676,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Aradeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Aradeba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029431
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f8399f68146a117e46bdf6e50e87b12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709177,
+            "locality_id":1226360597,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1226360597,
+    "wof:lastmodified":1537699678,
+    "wof:name":"`Aradeba",
+    "wof:parent_id":1091709177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2676,
+    12.8125,
+    35.2676,
+    12.8125
+],
+  "geometry": {"coordinates":[35.2676,12.8125],"type":"Point"}
+}

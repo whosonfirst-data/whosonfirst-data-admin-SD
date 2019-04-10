@@ -1,0 +1,74 @@
+{
+  "id": 1327343959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7,15.5,34.7,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":34.7,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"As Sufayyah",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378275,
+    "gn:latitude":15.5,
+    "gn:longitude":34.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eufayyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sufeiya ed Derishab",
+        "Es Sufeiya",
+        "A\u1e63 \u1e62ufeya",
+        "A\u015f \u015eufayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091707385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378275
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"65a5e2c74068020f1dd2038e5f6f9e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707385,
+            "locality_id":1327343959,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1327343959,
+    "wof:lastmodified":1537699546,
+    "wof:name":"As Sufayyah",
+    "wof:parent_id":1091707385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7,
+    15.5,
+    34.7,
+    15.5
+],
+  "geometry": {"coordinates":[34.7,15.5],"type":"Point"}
+}

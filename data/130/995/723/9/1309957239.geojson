@@ -1,0 +1,70 @@
+{
+  "id": 1309957239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9777,14.6913,32.9777,14.6913",
+    "geom:latitude":14.6913,
+    "geom:longitude":32.9777,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Mi`ejina Ali Mustafa",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983232,
+    "gn:latitude":14.6913,
+    "gn:longitude":32.9777,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mi\u2018ejina Ali Mu\u015f\u0163afa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mi\u2018ejina Ali Mu\u015f\u0163afa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983232
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ef973a429584c05f762849e2775198b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1309957239,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1309957239,
+    "wof:lastmodified":1537699620,
+    "wof:name":"Al Mi`ejina Ali Mustafa",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9777,
+    14.6913,
+    32.9777,
+    14.6913
+],
+  "geometry": {"coordinates":[32.9777,14.6913],"type":"Point"}
+}

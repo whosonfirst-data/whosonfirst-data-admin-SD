@@ -1,0 +1,64 @@
+{
+  "id": 1209035551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3787,13.84618,22.3787,13.84618",
+    "geom:latitude":13.84618,
+    "geom:longitude":22.3787,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Abu Sury",
+    "gn:country_code":"SD",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389636,
+    "gn:latitude":13.84618,
+    "gn:longitude":22.3787,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Abu Sury",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abu Sury"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389636
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c06cfa9f1c7fada59ebe8138bcfae5a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209035551
+        }
+    ],
+    "wof:id":1209035551,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Abu Sury",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3787,
+    13.84618,
+    22.3787,
+    13.84618
+],
+  "geometry": {"coordinates":[22.3787,13.84618],"type":"Point"}
+}

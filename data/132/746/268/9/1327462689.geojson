@@ -1,0 +1,67 @@
+{
+  "id": 1327462689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11546,10.86517,30.11546,10.86517",
+    "geom:latitude":10.86517,
+    "geom:longitude":30.11546,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Moro",
+    "gn:country_code":"SD",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313385,
+    "gn:latitude":10.86517,
+    "gn:longitude":30.11546,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Moro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091708963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313385
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"77362d1a03bd83899610441f7ac736f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708963,
+            "locality_id":1327462689,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1327462689,
+    "wof:lastmodified":1536635938,
+    "wof:name":"Moro",
+    "wof:parent_id":1091708963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11546,
+    10.86517,
+    30.11546,
+    10.86517
+],
+  "geometry": {"coordinates":[30.11546,10.86517],"type":"Point"}
+}

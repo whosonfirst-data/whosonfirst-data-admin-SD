@@ -1,0 +1,66 @@
+{
+  "id": 1209350487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9855,12.9187,31.9855,12.9187",
+    "geom:latitude":12.9187,
+    "geom:longitude":31.9855,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Abu Rukba",
+    "gn:country_code":"SD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380583,
+    "gn:latitude":12.9187,
+    "gn:longitude":31.9855,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abu Rukba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Rukha",
+        "Ab\u016b Rukbah",
+        "Abu Rukba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380583
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8997dbabeffb8f6627321c7244bd9049",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209350487
+        }
+    ],
+    "wof:id":1209350487,
+    "wof:lastmodified":1537699594,
+    "wof:name":"Abu Rukba",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9855,
+    12.9187,
+    31.9855,
+    12.9187
+],
+  "geometry": {"coordinates":[31.9855,12.9187],"type":"Point"}
+}

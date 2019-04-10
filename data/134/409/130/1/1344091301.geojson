@@ -1,0 +1,70 @@
+{
+  "id": 1344091301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0665,12.7387,33.0665,12.7387",
+    "geom:latitude":12.7387,
+    "geom:longitude":33.0665,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Faki al Mansur",
+    "gn:country_code":"SD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029291,
+    "gn:latitude":12.7387,
+    "gn:longitude":33.0665,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Faki al Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Faki al Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029291
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f12d133bd2b1adb27b59a0da67c15586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1344091301,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1344091301,
+    "wof:lastmodified":1537699674,
+    "wof:name":"Al Faki al Mansur",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0665,
+    12.7387,
+    33.0665,
+    12.7387
+],
+  "geometry": {"coordinates":[33.0665,12.7387],"type":"Point"}
+}

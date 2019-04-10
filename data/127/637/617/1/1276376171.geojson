@@ -1,0 +1,71 @@
+{
+  "id": 1276376171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3783,14.8705,33.3783,14.8705",
+    "geom:latitude":14.8705,
+    "geom:longitude":33.3783,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Ghaluba",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364153,
+    "gn:latitude":14.8705,
+    "gn:longitude":33.3783,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Ghal\u016bba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Ghalloga",
+        "Wad Ghal\u016bba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364153
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f2771e892fc4ee70d37673ba3a725d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1276376171,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276376171,
+    "wof:lastmodified":1537699404,
+    "wof:name":"Wad Ghaluba",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3783,
+    14.8705,
+    33.3783,
+    14.8705
+],
+  "geometry": {"coordinates":[33.3783,14.8705],"type":"Point"}
+}

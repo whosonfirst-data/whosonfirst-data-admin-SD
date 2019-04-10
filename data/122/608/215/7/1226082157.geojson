@@ -1,0 +1,70 @@
+{
+  "id": 1226082157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3589,11.7747,34.3589,11.7747",
+    "geom:latitude":11.7747,
+    "geom:longitude":34.3589,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Imtidad Hay Az Zihur",
+    "gn:country_code":"SD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033560,
+    "gn:latitude":11.7747,
+    "gn:longitude":34.3589,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imtid\u0101d Hay Az Zih\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imtid\u0101d Hay Az Zih\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033560
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"42c58b0956f173bd3159848d514ec31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1226082157,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226082157,
+    "wof:lastmodified":1537699686,
+    "wof:name":"Imtidad Hay Az Zihur",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3589,
+    11.7747,
+    34.3589,
+    11.7747
+],
+  "geometry": {"coordinates":[34.3589,11.7747],"type":"Point"}
+}

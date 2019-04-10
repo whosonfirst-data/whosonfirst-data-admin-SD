@@ -1,0 +1,67 @@
+{
+  "id": 1327472459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8755,14.2179,32.8755,14.2179",
+    "geom:latitude":14.2179,
+    "geom:longitude":32.8755,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"An Nimer",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026561,
+    "gn:latitude":14.2179,
+    "gn:longitude":32.8755,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An Nimer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026561
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"397774e6e089722cb8a6d83c12029462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1327472459,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327472459,
+    "wof:lastmodified":1536620809,
+    "wof:name":"An Nimer",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8755,
+    14.2179,
+    32.8755,
+    14.2179
+],
+  "geometry": {"coordinates":[32.8755,14.2179],"type":"Point"}
+}

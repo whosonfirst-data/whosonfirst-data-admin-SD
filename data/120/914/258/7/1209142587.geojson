@@ -1,0 +1,61 @@
+{
+  "id": 1209142587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2402,12.0682,31.2402,12.0682",
+    "geom:latitude":12.0682,
+    "geom:longitude":31.2402,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Az Zumul",
+    "gn:country_code":"SD",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029452,
+    "gn:latitude":12.0682,
+    "gn:longitude":31.2402,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Az Zumul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029452
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bd72eb002ac9620717ace586bf471f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142587
+        }
+    ],
+    "wof:id":1209142587,
+    "wof:lastmodified":1536296456,
+    "wof:name":"Az Zumul",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2402,
+    12.0682,
+    31.2402,
+    12.0682
+],
+  "geometry": {"coordinates":[31.2402,12.0682],"type":"Point"}
+}

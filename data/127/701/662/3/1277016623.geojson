@@ -1,0 +1,70 @@
+{
+  "id": 1277016623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2244,12.8093,35.2244,12.8093",
+    "geom:latitude":12.8093,
+    "geom:longitude":35.2244,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"'Afrush Tobak",
+    "gn:country_code":"SD",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029417,
+    "gn:latitude":12.8093,
+    "gn:longitude":35.2244,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2019Afrush Tobak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Afrush Tobak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029417
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f782e7c7209d26c5d850376b80a921dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1277016623,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1277016623,
+    "wof:lastmodified":1537699678,
+    "wof:name":"'Afrush Tobak",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2244,
+    12.8093,
+    35.2244,
+    12.8093
+],
+  "geometry": {"coordinates":[35.2244,12.8093],"type":"Point"}
+}

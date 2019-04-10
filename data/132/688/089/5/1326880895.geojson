@@ -1,0 +1,67 @@
+{
+  "id": 1326880895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5292,15.2832,32.5292,15.2832",
+    "geom:latitude":15.2832,
+    "geom:longitude":32.5292,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Wad Mokhtar",
+    "gn:country_code":"SD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991649,
+    "gn:latitude":15.2832,
+    "gn:longitude":32.5292,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Mokhtar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991649
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"92b5cf946dfe7fd00324d6d982adeb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707135,
+            "locality_id":1326880895,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1326880895,
+    "wof:lastmodified":1536978250,
+    "wof:name":"Wad Mokhtar",
+    "wof:parent_id":1091707135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5292,
+    15.2832,
+    32.5292,
+    15.2832
+],
+  "geometry": {"coordinates":[32.5292,15.2832],"type":"Point"}
+}

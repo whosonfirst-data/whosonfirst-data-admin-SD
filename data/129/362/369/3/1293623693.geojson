@@ -1,0 +1,67 @@
+{
+  "id": 1293623693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2,10.25,34.2,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":34.2,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Agoramundi",
+    "gn:country_code":"SD",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379978,
+    "gn:latitude":10.25,
+    "gn:longitude":34.2,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Agoramundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379978
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e1b070eb4f3d82a7ac8860e0d04cc4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1293623693,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1293623693,
+    "wof:lastmodified":1537084698,
+    "wof:name":"Agoramundi",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2,
+    10.25,
+    34.2,
+    10.25
+],
+  "geometry": {"coordinates":[34.2,10.25],"type":"Point"}
+}

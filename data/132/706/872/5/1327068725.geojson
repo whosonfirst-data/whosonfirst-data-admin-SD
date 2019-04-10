@@ -1,0 +1,73 @@
+{
+  "id": 1327068725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1354,14.0978,33.1354,14.0978",
+    "geom:latitude":14.0978,
+    "geom:longitude":33.1354,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Baraqna",
+    "gn:country_code":"SD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379646,
+    "gn:latitude":14.0978,
+    "gn:longitude":33.1354,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bar\u0101qna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Baragna",
+        "Baragna",
+        "Al Baragna",
+        "Al Bar\u0101qna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379646
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e7c4dd9fcd81ec2053a558781170e32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1327068725,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327068725,
+    "wof:lastmodified":1537699583,
+    "wof:name":"Al Baraqna",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1354,
+    14.0978,
+    33.1354,
+    14.0978
+],
+  "geometry": {"coordinates":[33.1354,14.0978],"type":"Point"}
+}

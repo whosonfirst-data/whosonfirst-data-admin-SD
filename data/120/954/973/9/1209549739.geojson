@@ -1,0 +1,61 @@
+{
+  "id": 1209549739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91667,13.4,30.91667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":30.91667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Sharbawiya",
+    "gn:country_code":"SD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367249,
+    "gn:latitude":13.4,
+    "gn:longitude":30.91667,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Sharbawiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367249
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a8958bac512712a83cf9a66fcd8ca216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549739
+        }
+    ],
+    "wof:id":1209549739,
+    "wof:lastmodified":1536283732,
+    "wof:name":"Sharbawiya",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91667,
+    13.4,
+    30.91667,
+    13.4
+],
+  "geometry": {"coordinates":[30.91667,13.4],"type":"Point"}
+}

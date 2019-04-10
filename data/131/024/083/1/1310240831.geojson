@@ -1,0 +1,67 @@
+{
+  "id": 1310240831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3436,14.1058,32.3436,14.1058",
+    "geom:latitude":14.1058,
+    "geom:longitude":32.3436,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ad Dibeba",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026063,
+    "gn:latitude":14.1058,
+    "gn:longitude":32.3436,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ad Dibeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026063
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0bf791723eb07c19f5889ec2621135a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1310240831,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1310240831,
+    "wof:lastmodified":1536801224,
+    "wof:name":"Ad Dibeba",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3436,
+    14.1058,
+    32.3436,
+    14.1058
+],
+  "geometry": {"coordinates":[32.3436,14.1058],"type":"Point"}
+}

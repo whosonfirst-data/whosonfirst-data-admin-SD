@@ -1,0 +1,65 @@
+{
+  "id": 1209646731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75,15.0,26.75,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":26.75,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Al Biri",
+    "gn:country_code":"SD",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379620,
+    "gn:latitude":15.0,
+    "gn:longitude":26.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Biri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Birri",
+        "Al Biri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379620
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"da98d992f140ca55647e053924e0f168",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209646731
+        }
+    ],
+    "wof:id":1209646731,
+    "wof:lastmodified":1537699582,
+    "wof:name":"Al Biri",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75,
+    15.0,
+    26.75,
+    15.0
+],
+  "geometry": {"coordinates":[26.75,15.0],"type":"Point"}
+}

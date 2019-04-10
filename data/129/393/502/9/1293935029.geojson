@@ -1,0 +1,70 @@
+{
+  "id": 1293935029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.394,14.9674,33.394,14.9674",
+    "geom:latitude":14.9674,
+    "geom:longitude":33.394,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Fatha Aj Ja`aliyyn",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026137,
+    "gn:latitude":14.9674,
+    "gn:longitude":33.394,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"F\u0101t\u1e29a Aj Ja\u2018aliyyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0101t\u1e29a Aj Ja\u2018aliyyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026137
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2202fffeccd05b9b77b3dc93ee10e029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293935029,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293935029,
+    "wof:lastmodified":1537699641,
+    "wof:name":"Fatha Aj Ja`aliyyn",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.394,
+    14.9674,
+    33.394,
+    14.9674
+],
+  "geometry": {"coordinates":[33.394,14.9674],"type":"Point"}
+}

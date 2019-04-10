@@ -1,0 +1,71 @@
+{
+  "id": 1226303831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8981,15.2911,32.8981,15.2911",
+    "geom:latitude":15.2911,
+    "geom:longitude":32.8981,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Anuba",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375812,
+    "gn:latitude":15.2911,
+    "gn:longitude":32.8981,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Anuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nuba",
+        "Anuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375812
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b3501c3ab5f8307c8adc0bcbe922cc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1226303831,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226303831,
+    "wof:lastmodified":1537699523,
+    "wof:name":"Anuba",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8981,
+    15.2911,
+    32.8981,
+    15.2911
+],
+  "geometry": {"coordinates":[32.8981,15.2911],"type":"Point"}
+}

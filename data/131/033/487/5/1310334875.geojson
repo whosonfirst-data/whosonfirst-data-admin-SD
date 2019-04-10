@@ -1,0 +1,70 @@
+{
+  "id": 1310334875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4217,12.7302,35.4217,12.7302",
+    "geom:latitude":12.7302,
+    "geom:longitude":35.4217,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hujara",
+    "gn:country_code":"SD",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029425,
+    "gn:latitude":12.7302,
+    "gn:longitude":35.4217,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Huj\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huj\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029425
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3cd838e0b1dbb730e49e0f1fe1dee0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1310334875,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1310334875,
+    "wof:lastmodified":1537699678,
+    "wof:name":"Hujara",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4217,
+    12.7302,
+    35.4217,
+    12.7302
+],
+  "geometry": {"coordinates":[35.4217,12.7302],"type":"Point"}
+}

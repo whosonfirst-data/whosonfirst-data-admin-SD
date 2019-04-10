@@ -1,0 +1,70 @@
+{
+  "id": 1259412415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1051,12.7263,31.1051,12.7263",
+    "geom:latitude":12.7263,
+    "geom:longitude":31.1051,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ar Rijela Kabbashi",
+    "gn:country_code":"SD",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028978,
+    "gn:latitude":12.7263,
+    "gn:longitude":31.1051,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar Rijela Kabb\u0101shi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Rijela Kabb\u0101shi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028978
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8ac55c8292de83304a5c75625126c3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1259412415,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1259412415,
+    "wof:lastmodified":1537699665,
+    "wof:name":"Ar Rijela Kabbashi",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1051,
+    12.7263,
+    31.1051,
+    12.7263
+],
+  "geometry": {"coordinates":[31.1051,12.7263],"type":"Point"}
+}

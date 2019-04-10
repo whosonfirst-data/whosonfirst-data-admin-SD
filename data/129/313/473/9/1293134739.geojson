@@ -1,0 +1,70 @@
+{
+  "id": 1293134739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43782,13.29027,22.43782,13.29027",
+    "geom:latitude":13.29027,
+    "geom:longitude":22.43782,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Zaghawi",
+    "gn:country_code":"SD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388158,
+    "gn:latitude":13.29027,
+    "gn:longitude":22.43782,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Zaghawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zaghawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388158
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7233f3897ddf8ce3f6e3e4d389e07a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1293134739,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1293134739,
+    "wof:lastmodified":1537699692,
+    "wof:name":"Zaghawi",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43782,
+    13.29027,
+    22.43782,
+    13.29027
+],
+  "geometry": {"coordinates":[22.43782,13.29027],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243596813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4343,14.2403,33.4343,14.2403",
+    "geom:latitude":14.2403,
+    "geom:longitude":33.4343,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Sham`a",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364055,
+    "gn:latitude":14.2403,
+    "gn:longitude":33.4343,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Sham\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Sham\u2018ah",
+        "Wad Sham\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364055
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e7cca46ea480864c350cc3c988b3ebca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1243596813,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243596813,
+    "wof:lastmodified":1537699401,
+    "wof:name":"Wad Sham`a",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4343,
+    14.2403,
+    33.4343,
+    14.2403
+],
+  "geometry": {"coordinates":[33.4343,14.2403],"type":"Point"}
+}

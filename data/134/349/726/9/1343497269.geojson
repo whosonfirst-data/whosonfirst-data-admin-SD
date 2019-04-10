@@ -1,0 +1,72 @@
+{
+  "id": 1343497269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93306,17.05917,34.93306,17.05917",
+    "geom:latitude":17.05917,
+    "geom:longitude":34.93306,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Umm Hanzal",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365030,
+    "gn:latitude":17.05917,
+    "gn:longitude":34.93306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u1e28anz\u0327al",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Handal",
+        "Umm \u1e28anz\u0327al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365030
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fb27adf1dbf44da9230f237a502c7d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1343497269,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1343497269,
+    "wof:lastmodified":1537699425,
+    "wof:name":"Umm Hanzal",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93306,
+    17.05917,
+    34.93306,
+    17.05917
+],
+  "geometry": {"coordinates":[34.93306,17.05917],"type":"Point"}
+}

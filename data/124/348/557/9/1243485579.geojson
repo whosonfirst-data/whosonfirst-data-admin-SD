@@ -1,0 +1,70 @@
+{
+  "id": 1243485579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50714,12.07275,22.50714,12.07275",
+    "geom:latitude":12.07275,
+    "geom:longitude":22.50714,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Baro",
+    "gn:country_code":"SD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390028,
+    "gn:latitude":12.07275,
+    "gn:longitude":22.50714,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Baro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390028
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fedd252b6b73f3c80543bd23bc8afc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":1243485579,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1243485579,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Baro",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50714,
+    12.07275,
+    22.50714,
+    12.07275
+],
+  "geometry": {"coordinates":[22.50714,12.07275],"type":"Point"}
+}

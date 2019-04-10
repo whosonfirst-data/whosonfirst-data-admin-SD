@@ -1,0 +1,67 @@
+{
+  "id": 1260010397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52202,15.1327,30.52202,15.1327",
+    "geom:latitude":15.1327,
+    "geom:longitude":30.52202,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Dugaga",
+    "gn:country_code":"SD",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376213,
+    "gn:latitude":15.1327,
+    "gn:longitude":30.52202,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Dugaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376213
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"23a30d2f7b9722e5f26e3eabc4bc0dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709395,
+            "locality_id":1260010397,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260010397,
+    "wof:lastmodified":1537090087,
+    "wof:name":"Dugaga",
+    "wof:parent_id":1091709395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52202,
+    15.1327,
+    30.52202,
+    15.1327
+],
+  "geometry": {"coordinates":[30.52202,15.1327],"type":"Point"}
+}

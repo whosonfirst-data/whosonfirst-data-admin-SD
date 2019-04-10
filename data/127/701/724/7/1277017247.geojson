@@ -1,0 +1,70 @@
+{
+  "id": 1277017247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36667,14.03333,35.36667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":35.36667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Sofi",
+    "gn:country_code":"SD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366736,
+    "gn:latitude":14.03333,
+    "gn:longitude":35.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sofi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u016bf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366736
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c0f54a386c891ef7f194eb1b715045b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707669,
+            "locality_id":1277017247,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1277017247,
+    "wof:lastmodified":1537699442,
+    "wof:name":"Sofi",
+    "wof:parent_id":1091707669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36667,
+    14.03333,
+    35.36667,
+    14.03333
+],
+  "geometry": {"coordinates":[35.36667,14.03333],"type":"Point"}
+}

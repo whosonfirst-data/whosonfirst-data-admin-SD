@@ -1,0 +1,70 @@
+{
+  "id": 1293625621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2509,14.0693,32.2509,14.0693",
+    "geom:latitude":14.0693,
+    "geom:longitude":32.2509,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ad Diher",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026358,
+    "gn:latitude":14.0693,
+    "gn:longitude":32.2509,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u1e11 \u1e10iher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e11 \u1e10iher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026358
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"53aa077eae6bf3567e3789c28aab328c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1293625621,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293625621,
+    "wof:lastmodified":1537699649,
+    "wof:name":"Ad Diher",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2509,
+    14.0693,
+    32.2509,
+    14.0693
+],
+  "geometry": {"coordinates":[32.2509,14.0693],"type":"Point"}
+}

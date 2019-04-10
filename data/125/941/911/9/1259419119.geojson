@@ -1,0 +1,73 @@
+{
+  "id": 1259419119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76667,11.76667,26.76667,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":26.76667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Fagagh",
+    "gn:country_code":"SD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375679,
+    "gn:latitude":11.76667,
+    "gn:longitude":26.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fagagh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fajagh",
+        "Fagak",
+        "Fagarg",
+        "Fagagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091705605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375679
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"65e665a1dea82ccd4a43d43afe3f563f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705605,
+            "locality_id":1259419119,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1259419119,
+    "wof:lastmodified":1537699521,
+    "wof:name":"Fagagh",
+    "wof:parent_id":1091705605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76667,
+    11.76667,
+    26.76667,
+    11.76667
+],
+  "geometry": {"coordinates":[26.76667,11.76667],"type":"Point"}
+}

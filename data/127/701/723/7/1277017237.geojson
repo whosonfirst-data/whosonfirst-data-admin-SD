@@ -1,0 +1,71 @@
+{
+  "id": 1277017237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,12.93333,34.66667,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Shurayk Nur",
+    "gn:country_code":"SD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366957,
+    "gn:latitude":12.93333,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shurayk N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shereik Nur",
+        "Shurayk N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366957
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"94c193add514a97becb8e348106fe827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1277017237,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1277017237,
+    "wof:lastmodified":1537699445,
+    "wof:name":"Shurayk Nur",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    12.93333,
+    34.66667,
+    12.93333
+],
+  "geometry": {"coordinates":[34.66667,12.93333],"type":"Point"}
+}

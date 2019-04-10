@@ -1,0 +1,67 @@
+{
+  "id": 1327485041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01528,15.00417,33.01528,15.00417",
+    "geom:latitude":15.00417,
+    "geom:longitude":33.01528,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Es Sa`duna",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375758,
+    "gn:latitude":15.00417,
+    "gn:longitude":33.01528,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Es Sa\u2018duna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375758
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"78f7fdbb34c8d349431aa7d20d966739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1327485041,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327485041,
+    "wof:lastmodified":1536601640,
+    "wof:name":"Es Sa`duna",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01528,
+    15.00417,
+    33.01528,
+    15.00417
+],
+  "geometry": {"coordinates":[33.01528,15.00417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360220843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95,12.25,25.95,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":25.95,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Shalkha",
+    "gn:country_code":"SD",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364633,
+    "gn:latitude":12.25,
+    "gn:longitude":25.95,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Umm Shalkha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364633
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b26b963f4e093d48dc14d0e3438c8259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1360220843,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1360220843,
+    "wof:lastmodified":1536749652,
+    "wof:name":"Umm Shalkha",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95,
+    12.25,
+    25.95,
+    12.25
+],
+  "geometry": {"coordinates":[25.95,12.25],"type":"Point"}
+}

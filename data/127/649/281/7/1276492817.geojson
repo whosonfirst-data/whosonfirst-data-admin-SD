@@ -1,0 +1,67 @@
+{
+  "id": 1276492817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58333,15.95,32.58333,15.95",
+    "geom:latitude":15.95,
+    "geom:longitude":32.58333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sururab East",
+    "gn:country_code":"SD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366611,
+    "gn:latitude":15.95,
+    "gn:longitude":32.58333,
+    "gn:modification_date":"1993-09-24",
+    "gn:name":"Sururab East",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366611
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9c67f79643d55f469d78b202df1ca48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707361,
+            "locality_id":1276492817,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1276492817,
+    "wof:lastmodified":1537059726,
+    "wof:name":"Sururab East",
+    "wof:parent_id":1091707361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58333,
+    15.95,
+    32.58333,
+    15.95
+],
+  "geometry": {"coordinates":[32.58333,15.95],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360016111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.778,12.8531,31.778,12.8531",
+    "geom:latitude":12.8531,
+    "geom:longitude":31.778,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Tawil",
+    "gn:country_code":"SD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029101,
+    "gn:latitude":12.8531,
+    "gn:longitude":31.778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029101
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"750b14893575a770e1144e6a442967d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1360016111,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1360016111,
+    "wof:lastmodified":1537699669,
+    "wof:name":"Tawil",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.778,
+    12.8531,
+    31.778,
+    12.8531
+],
+  "geometry": {"coordinates":[31.778,12.8531],"type":"Point"}
+}

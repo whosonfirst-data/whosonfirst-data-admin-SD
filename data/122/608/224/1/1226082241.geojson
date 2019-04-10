@@ -1,0 +1,67 @@
+{
+  "id": 1226082241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,11.91667,31.4,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Umm Dafsi",
+    "gn:country_code":"SD",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365213,
+    "gn:latitude":11.91667,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Umm Dafsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365213
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6edf7e855d75579c1fc1811ea9a1dd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710069,
+            "locality_id":1226082241,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1226082241,
+    "wof:lastmodified":1536672409,
+    "wof:name":"Umm Dafsi",
+    "wof:parent_id":1091710069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    11.91667,
+    31.4,
+    11.91667
+],
+  "geometry": {"coordinates":[31.4,11.91667],"type":"Point"}
+}

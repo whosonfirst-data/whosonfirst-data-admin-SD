@@ -1,0 +1,73 @@
+{
+  "id": 1327170039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51667,11.73333,33.51667,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":33.51667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Hillat al Mak",
+    "gn:country_code":"SD",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":373834,
+    "gn:latitude":11.73333,
+    "gn:longitude":33.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28illat al Mak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "El Mak",
+        "Hillet el Mek",
+        "El Mek",
+        "\u1e28illat al Mak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373834
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c16d37058c758e336d101012254b4c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709781,
+            "locality_id":1327170039,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1327170039,
+    "wof:lastmodified":1537699507,
+    "wof:name":"Hillat al Mak",
+    "wof:parent_id":1091709781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51667,
+    11.73333,
+    33.51667,
+    11.73333
+],
+  "geometry": {"coordinates":[33.51667,11.73333],"type":"Point"}
+}

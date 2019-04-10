@@ -1,0 +1,61 @@
+{
+  "id": 1209249759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,12.06667,23.2,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Agra",
+    "gn:country_code":"SD",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379970,
+    "gn:latitude":12.06667,
+    "gn:longitude":23.2,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Agra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379970
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"af1f306181f555bc332763d91c20f344",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209249759
+        }
+    ],
+    "wof:id":1209249759,
+    "wof:lastmodified":1536293043,
+    "wof:name":"Agra",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    12.06667,
+    23.2,
+    12.06667
+],
+  "geometry": {"coordinates":[23.2,12.06667],"type":"Point"}
+}

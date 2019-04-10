@@ -1,0 +1,71 @@
+{
+  "id": 1243397929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35997,12.89173,24.35997,12.89173",
+    "geom:latitude":12.89173,
+    "geom:longitude":24.35997,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Gulobei",
+    "gn:country_code":"SD",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374615,
+    "gn:latitude":12.89173,
+    "gn:longitude":24.35997,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gulobei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulobey",
+        "Gulobei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374615
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"059fe3c184de592d02b35eafb52794db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1243397929,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1243397929,
+    "wof:lastmodified":1537699515,
+    "wof:name":"Gulobei",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35997,
+    12.89173,
+    24.35997,
+    12.89173
+],
+  "geometry": {"coordinates":[24.35997,12.89173],"type":"Point"}
+}

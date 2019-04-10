@@ -1,0 +1,70 @@
+{
+  "id": 1310356871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.258,14.5976,33.258,14.5976",
+    "geom:latitude":14.5976,
+    "geom:longitude":33.258,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tmantashar Wad Nayil",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026294,
+    "gn:latitude":14.5976,
+    "gn:longitude":33.258,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tman\u0163ashar Wad N\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tman\u0163ashar Wad N\u0101yil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026294
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7ce0caa59031fd9e0ad2d59a7d227dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1310356871,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310356871,
+    "wof:lastmodified":1537699647,
+    "wof:name":"Tmantashar Wad Nayil",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.258,
+    14.5976,
+    33.258,
+    14.5976
+],
+  "geometry": {"coordinates":[33.258,14.5976],"type":"Point"}
+}

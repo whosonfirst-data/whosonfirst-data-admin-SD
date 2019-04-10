@@ -1,0 +1,65 @@
+{
+  "id": 1209142067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73333,12.85,27.73333,12.85",
+    "geom:latitude":12.85,
+    "geom:longitude":27.73333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Humayr ar Ru'us",
+    "gn:country_code":"SD",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373706,
+    "gn:latitude":12.85,
+    "gn:longitude":27.73333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u1e28umayr ar Ru\u2019\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humeir er Rus",
+        "\u1e28umayr ar Ru\u2019\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373706
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"63826c5d1603385c21b6b638f610c9b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142067
+        }
+    ],
+    "wof:id":1209142067,
+    "wof:lastmodified":1537699504,
+    "wof:name":"Humayr ar Ru'us",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73333,
+    12.85,
+    27.73333,
+    12.85
+],
+  "geometry": {"coordinates":[27.73333,12.85],"type":"Point"}
+}

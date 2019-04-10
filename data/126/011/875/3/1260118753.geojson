@@ -1,0 +1,75 @@
+{
+  "id": 1260118753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2824,14.4525,33.2824,14.4525",
+    "geom:latitude":14.4525,
+    "geom:longitude":33.2824,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Tileh",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378139,
+    "gn:latitude":14.4525,
+    "gn:longitude":33.2824,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162ile\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162ile\u1e29"
+    ],
+    "name:und_x_variant":[
+        "Et Tuleih",
+        "Et Tulein",
+        "A\u0163 \u0162ulay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378139
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4ba41ac3cd3018e13b4b3fbc5711e057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1260118753,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1260118753,
+    "wof:lastmodified":1537699542,
+    "wof:name":"At Tileh",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2824,
+    14.4525,
+    33.2824,
+    14.4525
+],
+  "geometry": {"coordinates":[33.2824,14.4525],"type":"Point"}
+}

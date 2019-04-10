@@ -1,0 +1,71 @@
+{
+  "id": 1243300489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,18.1,31.51667,18.1",
+    "geom:latitude":18.1,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"An Nafab",
+    "gn:country_code":"SD",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378716,
+    "gn:latitude":18.1,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nafab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nafab",
+        "An Nafab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091710471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378716
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0497dfcc706ca09a54ab5df5a2cc718f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710471,
+            "locality_id":1243300489,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1243300489,
+    "wof:lastmodified":1537699555,
+    "wof:name":"An Nafab",
+    "wof:parent_id":1091710471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    18.1,
+    31.51667,
+    18.1
+],
+  "geometry": {"coordinates":[31.51667,18.1],"type":"Point"}
+}

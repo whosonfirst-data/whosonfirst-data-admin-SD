@@ -1,0 +1,71 @@
+{
+  "id": 1226688667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0609,14.6303,33.0609,14.6303",
+    "geom:latitude":14.6303,
+    "geom:longitude":33.0609,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wadi Sha`ir",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364057,
+    "gn:latitude":14.6303,
+    "gn:longitude":33.0609,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u0101di Sha\u2018\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Shair",
+        "W\u0101di Sha\u2018\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364057
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6386952418996bc01fef4e161a2f09c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1226688667,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226688667,
+    "wof:lastmodified":1537699401,
+    "wof:name":"Wadi Sha`ir",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0609,
+    14.6303,
+    33.0609,
+    14.6303
+],
+  "geometry": {"coordinates":[33.0609,14.6303],"type":"Point"}
+}

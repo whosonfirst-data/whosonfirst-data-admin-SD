@@ -1,0 +1,71 @@
+{
+  "id": 1343894547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08333,13.2,30.08333,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":30.08333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Warri",
+    "gn:country_code":"SD",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363914,
+    "gn:latitude":13.2,
+    "gn:longitude":30.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Warr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Werri",
+        "Warr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363914
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d89dee82e5a0dcea202c5a0eba55d5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1343894547,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343894547,
+    "wof:lastmodified":1537699400,
+    "wof:name":"Warri",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08333,
+    13.2,
+    30.08333,
+    13.2
+],
+  "geometry": {"coordinates":[30.08333,13.2],"type":"Point"}
+}

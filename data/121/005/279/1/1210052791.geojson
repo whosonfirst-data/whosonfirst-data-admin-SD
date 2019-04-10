@@ -1,0 +1,70 @@
+{
+  "id": 1210052791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5048,14.0923,32.5048,14.0923",
+    "geom:latitude":14.0923,
+    "geom:longitude":32.5048,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al `Akara",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026590,
+    "gn:latitude":14.0923,
+    "gn:longitude":32.5048,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Akara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Akara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026590
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"98d7cea4b6e24c48af8506981a2bd75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1210052791,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1210052791,
+    "wof:lastmodified":1537699656,
+    "wof:name":"Al `Akara",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5048,
+    14.0923,
+    32.5048,
+    14.0923
+],
+  "geometry": {"coordinates":[32.5048,14.0923],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226479027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.68333,11.4,34.68333,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":34.68333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khawr al Gana",
+    "gn:country_code":"SD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372508,
+    "gn:latitude":11.4,
+    "gn:longitude":34.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khawr al Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khor el Gana",
+        "Khawr al Gana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372508
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8a47b603b16a732165d3c9b2a4b6802c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1226479027,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226479027,
+    "wof:lastmodified":1537699491,
+    "wof:name":"Khawr al Gana",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.68333,
+    11.4,
+    34.68333,
+    11.4
+],
+  "geometry": {"coordinates":[34.68333,11.4],"type":"Point"}
+}

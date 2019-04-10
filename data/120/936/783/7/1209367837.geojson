@@ -1,0 +1,64 @@
+{
+  "id": 1209367837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0887,17.3705,36.0887,17.3705",
+    "geom:latitude":17.3705,
+    "geom:longitude":36.0887,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Dilay",
+    "gn:country_code":"SD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015069,
+    "gn:latitude":17.3705,
+    "gn:longitude":36.0887,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dil\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dil\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015069
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b1924b484b22165e55fd5e73ba112b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209367837
+        }
+    ],
+    "wof:id":1209367837,
+    "wof:lastmodified":1537699630,
+    "wof:name":"Dilay",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0887,
+    17.3705,
+    36.0887,
+    17.3705
+],
+  "geometry": {"coordinates":[36.0887,17.3705],"type":"Point"}
+}

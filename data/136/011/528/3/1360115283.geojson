@@ -1,0 +1,67 @@
+{
+  "id": 1360115283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39727,12.85772,24.39727,12.85772",
+    "geom:latitude":12.85772,
+    "geom:longitude":24.39727,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Gur Lambung",
+    "gn:country_code":"SD",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7037227,
+    "gn:latitude":12.85772,
+    "gn:longitude":24.39727,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gur Lambung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7037227
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8e5623b4be93c5407702adcc97e4771b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1360115283,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1360115283,
+    "wof:lastmodified":1536902273,
+    "wof:name":"Gur Lambung",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39727,
+    12.85772,
+    24.39727,
+    12.85772
+],
+  "geometry": {"coordinates":[24.39727,12.85772],"type":"Point"}
+}

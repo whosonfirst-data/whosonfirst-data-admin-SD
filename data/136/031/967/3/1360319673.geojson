@@ -1,0 +1,70 @@
+{
+  "id": 1360319673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1337,12.69,31.1337,12.69",
+    "geom:latitude":12.69,
+    "geom:longitude":31.1337,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ambabi",
+    "gn:country_code":"SD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029038,
+    "gn:latitude":12.69,
+    "gn:longitude":31.1337,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Amb\u0101bi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Amb\u0101bi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029038
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"32a97f56123e3fd85b2e1f4b77158187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1360319673,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360319673,
+    "wof:lastmodified":1537699667,
+    "wof:name":"Ambabi",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1337,
+    12.69,
+    31.1337,
+    12.69
+],
+  "geometry": {"coordinates":[31.1337,12.69],"type":"Point"}
+}

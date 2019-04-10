@@ -1,0 +1,71 @@
+{
+  "id": 1225878485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61667,11.05,26.61667,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":26.61667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Al `Urayqat",
+    "gn:country_code":"SD",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378972,
+    "gn:latitude":11.05,
+    "gn:longitude":26.61667,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Al \u2018Urayq\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Ureigat",
+        "Al \u2018Urayq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091710883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378972
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d7dd623f47eb1d4ab528a4fd8a317dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710883,
+            "locality_id":1225878485,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1225878485,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al `Urayqat",
+    "wof:parent_id":1091710883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61667000000001,
+    11.05,
+    26.61667000000001,
+    11.05
+],
+  "geometry": {"coordinates":[26.61667000000001,11.05],"type":"Point"}
+}

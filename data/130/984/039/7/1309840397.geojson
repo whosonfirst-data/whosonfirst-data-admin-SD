@@ -1,0 +1,73 @@
+{
+  "id": 1309840397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0477,13.0094,32.0477,13.0094",
+    "geom:latitude":13.0094,
+    "geom:longitude":32.0477,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Salima",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367717,
+    "gn:latitude":13.0094,
+    "gn:longitude":32.0477,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sal\u012bma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seleima",
+        "Sel\u012bma",
+        "Sal\u012bmah",
+        "Sal\u012bma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367717
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c880609e49ef8bdbb1bdb771477fd67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1309840397,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1309840397,
+    "wof:lastmodified":1537699455,
+    "wof:name":"Salima",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0477,
+    13.0094,
+    32.0477,
+    13.0094
+],
+  "geometry": {"coordinates":[32.0477,13.0094],"type":"Point"}
+}

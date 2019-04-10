@@ -1,0 +1,67 @@
+{
+  "id": 1260013739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79672,10.19046,30.79672,10.19046",
+    "geom:latitude":10.19046,
+    "geom:longitude":30.79672,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tono",
+    "gn:country_code":"SD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365761,
+    "gn:latitude":10.19046,
+    "gn:longitude":30.79672,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365761
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b29e0bc0ea341e584e80e122bde80dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1260013739,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1260013739,
+    "wof:lastmodified":1537085234,
+    "wof:name":"Tono",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79672,
+    10.19046,
+    30.79672,
+    10.19046
+],
+  "geometry": {"coordinates":[30.79672,10.19046],"type":"Point"}
+}

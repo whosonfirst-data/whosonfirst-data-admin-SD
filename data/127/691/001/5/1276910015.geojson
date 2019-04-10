@@ -1,0 +1,70 @@
+{
+  "id": 1276910015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48799,13.19291,22.48799,13.19291",
+    "geom:latitude":13.19291,
+    "geom:longitude":22.48799,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Qoz Kadruk",
+    "gn:country_code":"SD",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388166,
+    "gn:latitude":13.19291,
+    "gn:longitude":22.48799,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Qoz Kadruk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qoz Kadruk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388166
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"463a8e6c3ec6780fce705eb125989395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1276910015,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1276910015,
+    "wof:lastmodified":1537699692,
+    "wof:name":"Qoz Kadruk",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48799,
+    13.19291,
+    22.48799,
+    13.19291
+],
+  "geometry": {"coordinates":[22.48799,13.19291],"type":"Point"}
+}

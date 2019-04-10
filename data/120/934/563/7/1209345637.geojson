@@ -1,0 +1,67 @@
+{
+  "id": 1209345637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91319,10.18959,33.91319,10.18959",
+    "geom:latitude":10.18959,
+    "geom:longitude":33.91319,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Faraj Allah Abu Kura`",
+    "gn:country_code":"SD",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375496,
+    "gn:latitude":10.18959,
+    "gn:longitude":33.91319,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Faraj All\u0101h Ab\u016b Kur\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Faragullah Abu Kura\u2018"
+    ],
+    "name:und_x_variant":[
+        "Faraj All\u0101h Ab\u016b Kur\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375496
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6c925380a69dfde392f6c9731b9356be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209345637
+        }
+    ],
+    "wof:id":1209345637,
+    "wof:lastmodified":1537699520,
+    "wof:name":"Faraj Allah Abu Kura`",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91319,
+    10.18959,
+    33.91319,
+    10.18959
+],
+  "geometry": {"coordinates":[33.91319,10.18959],"type":"Point"}
+}

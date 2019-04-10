@@ -1,0 +1,70 @@
+{
+  "id": 1293920021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1847,11.5747,34.1847,11.5747",
+    "geom:latitude":11.5747,
+    "geom:longitude":34.1847,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Baqis",
+    "gn:country_code":"SD",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033552,
+    "gn:latitude":11.5747,
+    "gn:longitude":34.1847,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baq\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baq\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033552
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"acb971c2c9998d03433850e2be64c611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709635,
+            "locality_id":1293920021,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1293920021,
+    "wof:lastmodified":1537699686,
+    "wof:name":"Baqis",
+    "wof:parent_id":1091709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1847,
+    11.5747,
+    34.1847,
+    11.5747
+],
+  "geometry": {"coordinates":[34.1847,11.5747],"type":"Point"}
+}

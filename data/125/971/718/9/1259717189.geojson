@@ -1,0 +1,70 @@
+{
+  "id": 1259717189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69416,12.3493,22.69416,12.3493",
+    "geom:latitude":12.3493,
+    "geom:longitude":22.69416,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Weigo",
+    "gn:country_code":"SD",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363862,
+    "gn:latitude":12.3493,
+    "gn:longitude":22.69416,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Weigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Weigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363862
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1bb98bb22188800dc85835db28326eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":1259717189,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1259717189,
+    "wof:lastmodified":1537699399,
+    "wof:name":"Weigo",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69416,
+    12.3493,
+    22.69416,
+    12.3493
+],
+  "geometry": {"coordinates":[22.69416,12.3493],"type":"Point"}
+}

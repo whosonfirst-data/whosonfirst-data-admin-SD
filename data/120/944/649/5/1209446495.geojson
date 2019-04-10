@@ -1,0 +1,65 @@
+{
+  "id": 1209446495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4,15.6,34.4,15.6",
+    "geom:latitude":15.6,
+    "geom:longitude":34.4,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ash Sharmah",
+    "gn:country_code":"SD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378378,
+    "gn:latitude":15.6,
+    "gn:longitude":34.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sharmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh Sharma",
+        "Ash Sharmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378378
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"863ea375835fee6b94475d60e7449e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209446495
+        }
+    ],
+    "wof:id":1209446495,
+    "wof:lastmodified":1537699550,
+    "wof:name":"Ash Sharmah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4,
+    15.6,
+    34.4,
+    15.6
+],
+  "geometry": {"coordinates":[34.4,15.6],"type":"Point"}
+}

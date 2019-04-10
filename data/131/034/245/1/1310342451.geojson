@@ -1,0 +1,72 @@
+{
+  "id": 1310342451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9,14.6,31.9,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":31.9,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Hajalij",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379464,
+    "gn:latitude":14.6,
+    "gn:longitude":31.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28aj\u0101l\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hegalig",
+        "El Hegalig",
+        "Al \u1e28aj\u0101l\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091709051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379464
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7c4245a26a3874b5931fe4e3e0777b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709051,
+            "locality_id":1310342451,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1310342451,
+    "wof:lastmodified":1537699576,
+    "wof:name":"Al Hajalij",
+    "wof:parent_id":1091709051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9,
+    14.6,
+    31.9,
+    14.6
+],
+  "geometry": {"coordinates":[31.9,14.6],"type":"Point"}
+}

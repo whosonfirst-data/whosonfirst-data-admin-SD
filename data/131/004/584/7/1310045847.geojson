@@ -1,0 +1,71 @@
+{
+  "id": 1310045847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.406,18.0327,38.406,18.0327",
+    "geom:latitude":18.0327,
+    "geom:longitude":38.406,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Aqitay",
+    "gn:country_code":"SD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983590,
+    "gn:latitude":18.0327,
+    "gn:longitude":38.406,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aqitay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agetai",
+        "Aqitay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983590
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e290b8bbe225cc3abc611bb6df04ea32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1310045847,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1310045847,
+    "wof:lastmodified":1537699622,
+    "wof:name":"Aqitay",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.406,
+    18.0327,
+    38.406,
+    18.0327
+],
+  "geometry": {"coordinates":[38.406,18.0327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260317611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,13.18333,31.13333,13.18333",
+    "geom:latitude":13.18333,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Halgarma",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374267,
+    "gn:latitude":13.18333,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Halgarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24aljarma",
+        "Halgarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374267
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b4c223d56ab20aa0f1da81e7fc39459d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1260317611,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260317611,
+    "wof:lastmodified":1537699511,
+    "wof:name":"Halgarma",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    13.18333,
+    31.13333,
+    13.18333
+],
+  "geometry": {"coordinates":[31.13333,13.18333],"type":"Point"}
+}

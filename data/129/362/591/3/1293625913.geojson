@@ -1,0 +1,71 @@
+{
+  "id": 1293625913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44942,14.25618,36.44942,14.25618",
+    "geom:latitude":14.25618,
+    "geom:longitude":36.44942,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Turab Karof",
+    "gn:country_code":"SD",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365578,
+    "gn:latitude":14.25618,
+    "gn:longitude":36.44942,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Turab Karof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turab Karuf",
+        "Turab Karof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365578
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"385274a5b020bfc6c80522dd18112934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709097,
+            "locality_id":1293625913,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293625913,
+    "wof:lastmodified":1537699434,
+    "wof:name":"Turab Karof",
+    "wof:parent_id":1091709097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44942,
+    14.25618,
+    36.44942,
+    14.25618
+],
+  "geometry": {"coordinates":[36.44942,14.25618],"type":"Point"}
+}

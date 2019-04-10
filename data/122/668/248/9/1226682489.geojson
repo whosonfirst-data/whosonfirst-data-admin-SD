@@ -1,0 +1,72 @@
+{
+  "id": 1226682489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.257,12.6321,31.257,12.6321",
+    "geom:latitude":12.6321,
+    "geom:longitude":31.257,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Wad al Hadiq",
+    "gn:country_code":"SD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364290,
+    "gn:latitude":12.6321,
+    "gn:longitude":31.257,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad al \u1e28\u0101diq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Hadig",
+        "Wad al Hadig",
+        "Wad al \u1e28\u0101diq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364290
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1e041c50cadc4cdd7b4f1bd6cdfde51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1226682489,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1226682489,
+    "wof:lastmodified":1537699409,
+    "wof:name":"Wad al Hadiq",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.257,
+    12.6321,
+    31.257,
+    12.6321
+],
+  "geometry": {"coordinates":[31.257,12.6321],"type":"Point"}
+}

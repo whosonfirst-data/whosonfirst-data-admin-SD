@@ -1,0 +1,71 @@
+{
+  "id": 1293622791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6,14.7,32.6,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":32.6,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Wad Burayqah",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364190,
+    "gn:latitude":14.7,
+    "gn:longitude":32.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Burayqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Bureiqa",
+        "Wad Burayqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364190
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e393919b5f6759382cd70fbe5f0165d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293622791,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293622791,
+    "wof:lastmodified":1537699405,
+    "wof:name":"Wad Burayqah",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6,
+    14.7,
+    32.6,
+    14.7
+],
+  "geometry": {"coordinates":[32.6,14.7],"type":"Point"}
+}

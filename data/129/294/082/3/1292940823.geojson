@@ -1,0 +1,71 @@
+{
+  "id": 1292940823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94111,16.52111,32.94111,16.52111",
+    "geom:latitude":16.52111,
+    "geom:longitude":32.94111,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Al Basabir",
+    "gn:country_code":"SD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379640,
+    "gn:latitude":16.52111,
+    "gn:longitude":32.94111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Basabir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Basabir",
+        "Al Basabir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379640
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"338868211ce806e159f98c56b3dcb5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1292940823,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1292940823,
+    "wof:lastmodified":1537699583,
+    "wof:name":"Al Basabir",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94110999999999,
+    16.52111,
+    32.94110999999999,
+    16.52111
+],
+  "geometry": {"coordinates":[32.94110999999999,16.52111],"type":"Point"}
+}

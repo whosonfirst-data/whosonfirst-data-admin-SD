@@ -1,0 +1,64 @@
+{
+  "id": 1209243819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0443,14.3411,32.0443,14.3411",
+    "geom:latitude":14.3411,
+    "geom:longitude":32.0443,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Hanabel",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026339,
+    "gn:latitude":14.3411,
+    "gn:longitude":32.0443,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u1e28an\u0101bel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um \u1e28an\u0101bel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026339
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e954ade0e4187634a4fa2ce1fb7566e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209243819
+        }
+    ],
+    "wof:id":1209243819,
+    "wof:lastmodified":1537699648,
+    "wof:name":"Um Hanabel",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0443,
+    14.3411,
+    32.0443,
+    14.3411
+],
+  "geometry": {"coordinates":[32.0443,14.3411],"type":"Point"}
+}

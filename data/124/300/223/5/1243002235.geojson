@@ -1,0 +1,71 @@
+{
+  "id": 1243002235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.816,16.4271,32.816,16.4271",
+    "geom:latitude":16.4271,
+    "geom:longitude":32.816,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat ez Zaraqna",
+    "gn:country_code":"SD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385163,
+    "gn:latitude":16.4271,
+    "gn:longitude":32.816,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat ez Zaraqna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28illat az Zaraqnah",
+        "Hillat ez Zaraqna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385163
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"133951dff9096deb652f1e408eea5d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1243002235,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1243002235,
+    "wof:lastmodified":1537699604,
+    "wof:name":"Hillat ez Zaraqna",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.816,
+    16.4271,
+    32.816,
+    16.4271
+],
+  "geometry": {"coordinates":[32.816,16.4271],"type":"Point"}
+}

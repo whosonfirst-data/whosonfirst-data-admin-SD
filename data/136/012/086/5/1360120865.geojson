@@ -1,0 +1,70 @@
+{
+  "id": 1360120865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0841,12.8257,34.0841,12.8257",
+    "geom:latitude":12.8257,
+    "geom:longitude":34.0841,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Kabsur",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029351,
+    "gn:latitude":12.8257,
+    "gn:longitude":34.0841,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kabs\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabs\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029351
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d5bd314a48c5cf68ea0f3c258da5410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1360120865,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1360120865,
+    "wof:lastmodified":1537699676,
+    "wof:name":"Kabsur",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0841,
+    12.8257,
+    34.0841,
+    12.8257
+],
+  "geometry": {"coordinates":[34.0841,12.8257],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242711961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35,12.58333,30.35,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":30.35,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"As Salamat",
+    "gn:country_code":"SD",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378314,
+    "gn:latitude":12.58333,
+    "gn:longitude":30.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Salamat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Salamat",
+        "As Salamat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378314
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2c7607b76b3e93a8ff210b1cd013eeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1242711961,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1242711961,
+    "wof:lastmodified":1537699547,
+    "wof:name":"As Salamat",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35,
+    12.58333,
+    30.35,
+    12.58333
+],
+  "geometry": {"coordinates":[30.35,12.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259814167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,18.36667,30.71667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kulunarti",
+    "gn:country_code":"SD",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371926,
+    "gn:latitude":18.36667,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Kulunarti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371926
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"25c62727f1bc65101d3cd19557b8704f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705739,
+            "locality_id":1259814167,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1259814167,
+    "wof:lastmodified":1536878383,
+    "wof:name":"Kulunarti",
+    "wof:parent_id":1091705739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    18.36667000000001,
+    30.71667,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[30.71667,18.36667000000001],"type":"Point"}
+}

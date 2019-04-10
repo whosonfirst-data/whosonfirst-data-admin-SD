@@ -1,0 +1,70 @@
+{
+  "id": 1310334141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.996,12.8798,32.996,12.8798",
+    "geom:latitude":12.8798,
+    "geom:longitude":32.996,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al `Ibed Musa Wad Haj",
+    "gn:country_code":"SD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854180,
+    "gn:latitude":12.8798,
+    "gn:longitude":32.996,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Ibed Musa Wad \u1e28\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ibed Musa Wad \u1e28\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854180
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f8a4ed74c63f5d83d1889ef10f07ed28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1310334141,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1310334141,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Al `Ibed Musa Wad Haj",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.996,
+    12.8798,
+    32.996,
+    12.8798
+],
+  "geometry": {"coordinates":[32.996,12.8798],"type":"Point"}
+}

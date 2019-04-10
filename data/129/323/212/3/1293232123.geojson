@@ -1,0 +1,70 @@
+{
+  "id": 1293232123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0919,12.6666,33.0919,12.6666",
+    "geom:latitude":12.6666,
+    "geom:longitude":33.0919,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ahmar `En",
+    "gn:country_code":"SD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029297,
+    "gn:latitude":12.6666,
+    "gn:longitude":33.0919,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ahmar \u2018En",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmar \u2018En"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091710099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029297
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5f0688b33bbaa8220945b38a8eacd511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710099,
+            "locality_id":1293232123,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293232123,
+    "wof:lastmodified":1537699675,
+    "wof:name":"Ahmar `En",
+    "wof:parent_id":1091710099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0919,
+    12.6666,
+    33.0919,
+    12.6666
+],
+  "geometry": {"coordinates":[33.0919,12.6666],"type":"Point"}
+}

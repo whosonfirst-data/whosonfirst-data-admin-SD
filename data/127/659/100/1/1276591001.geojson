@@ -1,0 +1,70 @@
+{
+  "id": 1276591001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.498,14.4556,33.498,14.4556",
+    "geom:latitude":14.4556,
+    "geom:longitude":33.498,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Atra",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026644,
+    "gn:latitude":14.4556,
+    "gn:longitude":33.498,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Atra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Atra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026644
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aa5ebb1549f45f0c2e3c2b2ab25fc3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1276591001,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276591001,
+    "wof:lastmodified":1537699657,
+    "wof:name":"`Atra",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.498,
+    14.4556,
+    33.498,
+    14.4556
+],
+  "geometry": {"coordinates":[33.498,14.4556],"type":"Point"}
+}

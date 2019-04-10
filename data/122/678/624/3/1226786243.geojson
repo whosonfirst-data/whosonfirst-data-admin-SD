@@ -1,0 +1,72 @@
+{
+  "id": 1226786243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5989,16.8378,33.5989,16.8378",
+    "geom:latitude":16.8378,
+    "geom:longitude":33.5989,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el `Aqqada",
+    "gn:country_code":"SD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379705,
+    "gn:latitude":16.8378,
+    "gn:longitude":33.5989,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat el \u2018Aqqada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Agada",
+        "Al Aqadah",
+        "Hillat el \u2018Aqqada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379705
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"23b645ed4aed747e98695eafbc96aea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1226786243,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226786243,
+    "wof:lastmodified":1537699585,
+    "wof:name":"Hillat el `Aqqada",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5989,
+    16.8378,
+    33.5989,
+    16.8378
+],
+  "geometry": {"coordinates":[33.5989,16.8378],"type":"Point"}
+}

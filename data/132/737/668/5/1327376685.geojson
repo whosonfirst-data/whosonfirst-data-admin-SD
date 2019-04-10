@@ -1,0 +1,67 @@
+{
+  "id": 1327376685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6813,14.0969,32.6813,14.0969",
+    "geom:latitude":14.0969,
+    "geom:longitude":32.6813,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Addabba",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026587,
+    "gn:latitude":14.0969,
+    "gn:longitude":32.6813,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Addabba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026587
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"323a1dc13b5f5674bd3ce3791843d4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1327376685,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327376685,
+    "wof:lastmodified":1536761550,
+    "wof:name":"Addabba",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6813,
+    14.0969,
+    32.6813,
+    14.0969
+],
+  "geometry": {"coordinates":[32.6813,14.0969],"type":"Point"}
+}

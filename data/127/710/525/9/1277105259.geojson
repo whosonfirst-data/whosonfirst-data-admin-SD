@@ -1,0 +1,71 @@
+{
+  "id": 1277105259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65,14.23333,26.65,14.23333",
+    "geom:latitude":14.23333,
+    "geom:longitude":26.65,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Hajlij",
+    "gn:country_code":"SD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365044,
+    "gn:latitude":14.23333,
+    "gn:longitude":26.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u1e28ajl\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Heglig",
+        "Umm \u1e28ajl\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365044
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"301d6edd1c23af5e4e5a32be8e338710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706397,
+            "locality_id":1277105259,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1277105259,
+    "wof:lastmodified":1537699425,
+    "wof:name":"Umm Hajlij",
+    "wof:parent_id":1091706397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65,
+    14.23333,
+    26.65,
+    14.23333
+],
+  "geometry": {"coordinates":[26.65,14.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276804327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81667,10.75,34.81667,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":34.81667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Belfodi",
+    "gn:country_code":"SD",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377487,
+    "gn:latitude":10.75,
+    "gn:longitude":34.81667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Belfodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377487
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2e596c3f46bcdd215e67e68ddaeff362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709399,
+            "locality_id":1276804327,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1276804327,
+    "wof:lastmodified":1536644071,
+    "wof:name":"Belfodi",
+    "wof:parent_id":1091709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81667,
+    10.75,
+    34.81667,
+    10.75
+],
+  "geometry": {"coordinates":[34.81667,10.75],"type":"Point"}
+}

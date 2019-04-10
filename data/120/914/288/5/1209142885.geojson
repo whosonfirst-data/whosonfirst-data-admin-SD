@@ -1,0 +1,64 @@
+{
+  "id": 1209142885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.581,11.1649,31.581,11.1649",
+    "geom:latitude":11.1649,
+    "geom:longitude":31.581,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Wad Ghannum",
+    "gn:country_code":"SD",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031604,
+    "gn:latitude":11.1649,
+    "gn:longitude":31.581,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Ghann\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Ghann\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031604
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6d970919b16958febeffc36263ea21da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142885
+        }
+    ],
+    "wof:id":1209142885,
+    "wof:lastmodified":1537699685,
+    "wof:name":"Wad Ghannum",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.581,
+    11.1649,
+    31.581,
+    11.1649
+],
+  "geometry": {"coordinates":[31.581,11.1649],"type":"Point"}
+}

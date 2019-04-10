@@ -1,0 +1,67 @@
+{
+  "id": 1293914455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6883,12.9868,31.6883,12.9868",
+    "geom:latitude":12.9868,
+    "geom:longitude":31.6883,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Qanattu",
+    "gn:country_code":"SD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029056,
+    "gn:latitude":12.9868,
+    "gn:longitude":31.6883,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qanattu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029056
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ec1ef2d01df12143b3e1fe6fd7ea76e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293914455,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293914455,
+    "wof:lastmodified":1536668780,
+    "wof:name":"Qanattu",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6883,
+    12.9868,
+    31.6883,
+    12.9868
+],
+  "geometry": {"coordinates":[31.6883,12.9868],"type":"Point"}
+}

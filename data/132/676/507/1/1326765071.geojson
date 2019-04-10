@@ -1,0 +1,72 @@
+{
+  "id": 1326765071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,13.48333,30.76667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Furay`ah",
+    "gn:country_code":"SD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379524,
+    "gn:latitude":13.48333,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Furay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Furei\u2018a",
+        "El Fure\u2018ia",
+        "Al Furay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379524
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4bb063cec67936c1a2251aa4a4d2d674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1326765071,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1326765071,
+    "wof:lastmodified":1537699579,
+    "wof:name":"Al Furay`ah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    13.48333,
+    30.76667,
+    13.48333
+],
+  "geometry": {"coordinates":[30.76667,13.48333],"type":"Point"}
+}

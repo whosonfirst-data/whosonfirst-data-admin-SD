@@ -1,0 +1,67 @@
+{
+  "id": 1310536453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13769,11.37821,23.13769,11.37821",
+    "geom:latitude":11.37821,
+    "geom:longitude":23.13769,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Sufel 'Awen",
+    "gn:country_code":"SD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384830,
+    "gn:latitude":11.37821,
+    "gn:longitude":23.13769,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Sufel \u2019Awen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384830
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1f1d342d62ec042044255744ea874a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1310536453,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1310536453,
+    "wof:lastmodified":1536871153,
+    "wof:name":"Sufel 'Awen",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13769,
+    11.37821,
+    23.13769,
+    11.37821
+],
+  "geometry": {"coordinates":[23.13769,11.37821],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209348179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5,15.2,32.5,15.2",
+    "geom:latitude":15.2,
+    "geom:longitude":32.5,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Garbur Walad",
+    "gn:country_code":"SD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375106,
+    "gn:latitude":15.2,
+    "gn:longitude":32.5,
+    "gn:modification_date":"2009-08-17",
+    "gn:name":"Garbur Walad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375106
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"30a9e12c50420cab6539f6440275896c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209348179
+        }
+    ],
+    "wof:id":1209348179,
+    "wof:lastmodified":1536289838,
+    "wof:name":"Garbur Walad",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5,
+    15.2,
+    32.5,
+    15.2
+],
+  "geometry": {"coordinates":[32.5,15.2],"type":"Point"}
+}

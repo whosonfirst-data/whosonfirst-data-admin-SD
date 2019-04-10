@@ -1,0 +1,70 @@
+{
+  "id": 1276802077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68036,9.83186,24.68036,9.83186",
+    "geom:latitude":9.83186,
+    "geom:longitude":24.68036,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Mesheitir",
+    "gn:country_code":"SD",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369597,
+    "gn:latitude":9.83186,
+    "gn:longitude":24.68036,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mesheitir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mushay\u0163\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369597
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d0332717ed02aa9135c074acef000a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1276802077,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276802077,
+    "wof:lastmodified":1537699470,
+    "wof:name":"Mesheitir",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68036,
+    9.83186,
+    24.68036,
+    9.83186
+],
+  "geometry": {"coordinates":[24.68036,9.83186],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310036997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18902,13.13697,22.18902,13.13697",
+    "geom:latitude":13.13697,
+    "geom:longitude":22.18902,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Maburikei",
+    "gn:country_code":"SD",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370981,
+    "gn:latitude":13.13697,
+    "gn:longitude":22.18902,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Maburikei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maburikei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370981
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f42b0006361ab89fb53bf1f5b01ffe5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1310036997,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1310036997,
+    "wof:lastmodified":1537699481,
+    "wof:name":"Maburikei",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18902000000001,
+    13.13697,
+    22.18902000000001,
+    13.13697
+],
+  "geometry": {"coordinates":[22.18902000000001,13.13697],"type":"Point"}
+}

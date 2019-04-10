@@ -1,0 +1,67 @@
+{
+  "id": 1209350723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1427,12.79785,22.1427,12.79785",
+    "geom:latitude":12.79785,
+    "geom:longitude":22.1427,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Wastani",
+    "gn:country_code":"SD",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363899,
+    "gn:latitude":12.79785,
+    "gn:longitude":22.1427,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Wastani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wastani"
+    ],
+    "name:und_x_variant":[
+        "Was\u0163\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363899
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c9bef5c295b56bad023e6700ae70e9a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209350723
+        }
+    ],
+    "wof:id":1209350723,
+    "wof:lastmodified":1537699399,
+    "wof:name":"Wastani",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1427,
+    12.79785,
+    22.1427,
+    12.79785
+],
+  "geometry": {"coordinates":[22.1427,12.79785],"type":"Point"}
+}

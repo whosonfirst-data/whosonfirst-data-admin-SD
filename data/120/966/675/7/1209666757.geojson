@@ -1,0 +1,64 @@
+{
+  "id": 1209666757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2364,14.1178,33.2364,14.1178",
+    "geom:latitude":14.1178,
+    "geom:longitude":33.2364,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Tileh az Ziber",
+    "gn:country_code":"SD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026689,
+    "gn:latitude":14.1178,
+    "gn:longitude":33.2364,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u0163 \u0162ile\u1e29 az Ziber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162ile\u1e29 az Ziber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026689
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5510c8dc79d73f6796c6d58c13b48a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209666757
+        }
+    ],
+    "wof:id":1209666757,
+    "wof:lastmodified":1537699659,
+    "wof:name":"At Tileh az Ziber",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2364,
+    14.1178,
+    33.2364,
+    14.1178
+],
+  "geometry": {"coordinates":[33.2364,14.1178],"type":"Point"}
+}

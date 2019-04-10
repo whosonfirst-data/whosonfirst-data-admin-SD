@@ -1,0 +1,72 @@
+{
+  "id": 1292935387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4162,14.4141,32.4162,14.4141",
+    "geom:latitude":14.4141,
+    "geom:longitude":32.4162,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Kiter al `Awamra",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371755,
+    "gn:latitude":14.4141,
+    "gn:longitude":32.4162,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kiter al \u2018Aw\u0101mra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuteir",
+        "Kutayr",
+        "Al Kiter al \u2018Aw\u0101mra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371755
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b9640583bc6cb7ec4bdc1619beeaa5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1292935387,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1292935387,
+    "wof:lastmodified":1537699484,
+    "wof:name":"Al Kiter al `Awamra",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4162,
+    14.4141,
+    32.4162,
+    14.4141
+],
+  "geometry": {"coordinates":[32.4162,14.4141],"type":"Point"}
+}

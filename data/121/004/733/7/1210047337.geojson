@@ -1,0 +1,67 @@
+{
+  "id": 1210047337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3,15.48333,36.3,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":36.3,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Wad Zumur",
+    "gn:country_code":"SD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364030,
+    "gn:latitude":15.48333,
+    "gn:longitude":36.3,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Zumur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091706097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364030
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"18b8f3db994d0d15cb7d973dccd3670d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706097,
+            "locality_id":1210047337,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1210047337,
+    "wof:lastmodified":1536377514,
+    "wof:name":"Wad Zumur",
+    "wof:parent_id":1091706097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3,
+    15.48333,
+    36.3,
+    15.48333
+],
+  "geometry": {"coordinates":[36.3,15.48333],"type":"Point"}
+}

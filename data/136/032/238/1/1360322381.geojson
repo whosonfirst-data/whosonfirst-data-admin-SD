@@ -1,0 +1,71 @@
+{
+  "id": 1360322381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,16.61667,33.25,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Abu al Hasan",
+    "gn:country_code":"SD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381022,
+    "gn:latitude":16.61667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b al \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu el Hasan",
+        "Ab\u016b al \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381022
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e0fe5fa4e7a4b8f41888c07790447046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1360322381,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1360322381,
+    "wof:lastmodified":1537699601,
+    "wof:name":"Abu al Hasan",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    16.61667000000001,
+    33.25,
+    16.61667000000001
+],
+  "geometry": {"coordinates":[33.25,16.61667000000001],"type":"Point"}
+}

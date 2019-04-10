@@ -1,0 +1,67 @@
+{
+  "id": 1343403907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8164,14.5216,32.8164,14.5216",
+    "geom:latitude":14.5216,
+    "geom:longitude":32.8164,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kambu",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983245,
+    "gn:latitude":14.5216,
+    "gn:longitude":32.8164,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983245
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bfd8928607f9a0bd9a9d80889f23671d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1343403907,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343403907,
+    "wof:lastmodified":1536826965,
+    "wof:name":"Kambu",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8164,
+    14.5216,
+    32.8164,
+    14.5216
+],
+  "geometry": {"coordinates":[32.8164,14.5216],"type":"Point"}
+}

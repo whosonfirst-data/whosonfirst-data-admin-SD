@@ -1,0 +1,74 @@
+{
+  "id": 1276796081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1622,12.5688,34.1622,12.5688",
+    "geom:latitude":12.5688,
+    "geom:longitude":34.1622,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al Kibeshab",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372054,
+    "gn:latitude":12.5688,
+    "gn:longitude":34.1622,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kibesh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kibesh\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Kubeishab",
+        "Kubaysh\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372054
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7384cd41155e8dbd4dd0f940e87e8b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1276796081,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1276796081,
+    "wof:lastmodified":1537699487,
+    "wof:name":"Al Kibeshab",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1622,
+    12.5688,
+    34.1622,
+    12.5688
+],
+  "geometry": {"coordinates":[34.1622,12.5688],"type":"Point"}
+}

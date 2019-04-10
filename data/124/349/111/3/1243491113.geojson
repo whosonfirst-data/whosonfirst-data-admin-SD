@@ -1,0 +1,71 @@
+{
+  "id": 1243491113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81667,13.56667,34.81667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":34.81667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Al `Arid",
+    "gn:country_code":"SD",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379688,
+    "gn:latitude":13.56667,
+    "gn:longitude":34.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Arid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Arid",
+        "Al \u2018Arid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379688
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"33d1966e1294ce5bc21e3ef4dc567736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707621,
+            "locality_id":1243491113,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1243491113,
+    "wof:lastmodified":1537699585,
+    "wof:name":"Al `Arid",
+    "wof:parent_id":1091707621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81667,
+    13.56667,
+    34.81667,
+    13.56667
+],
+  "geometry": {"coordinates":[34.81667,13.56667],"type":"Point"}
+}

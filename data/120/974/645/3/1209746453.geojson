@@ -1,0 +1,67 @@
+{
+  "id": 1209746453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33333,11.78333,29.33333,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":29.33333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kiddu",
+    "gn:country_code":"SD",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372435,
+    "gn:latitude":11.78333,
+    "gn:longitude":29.33333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Kiddu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372435
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cb8f9193a58e8510669ebd8be6a4387f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709977,
+            "locality_id":1209746453,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1209746453,
+    "wof:lastmodified":1536394760,
+    "wof:name":"Kiddu",
+    "wof:parent_id":1091709977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33333,
+    11.78333,
+    29.33333,
+    11.78333
+],
+  "geometry": {"coordinates":[29.33333,11.78333],"type":"Point"}
+}

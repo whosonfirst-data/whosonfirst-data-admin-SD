@@ -1,0 +1,64 @@
+{
+  "id": 1209646417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.645,12.9143,31.645,12.9143",
+    "geom:latitude":12.9143,
+    "geom:longitude":31.645,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Haraniyya",
+    "gn:country_code":"SD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029092,
+    "gn:latitude":12.9143,
+    "gn:longitude":31.645,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e24ar\u0101niyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e24ar\u0101niyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029092
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0051cb85c813158919af9c6b3198cca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209646417
+        }
+    ],
+    "wof:id":1209646417,
+    "wof:lastmodified":1537699669,
+    "wof:name":"Al Haraniyya",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.645,
+    12.9143,
+    31.645,
+    12.9143
+],
+  "geometry": {"coordinates":[31.645,12.9143],"type":"Point"}
+}

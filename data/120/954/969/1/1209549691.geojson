@@ -1,0 +1,65 @@
+{
+  "id": 1209549691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05,12.93333,35.05,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":35.05,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Disah",
+    "gn:country_code":"SD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376375,
+    "gn:latitude":12.93333,
+    "gn:longitude":35.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Disa",
+        "D\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376375
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b6926938dbc2803d5f53f06dbdf391b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549691
+        }
+    ],
+    "wof:id":1209549691,
+    "wof:lastmodified":1537699527,
+    "wof:name":"Disah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05,
+    12.93333,
+    35.05,
+    12.93333
+],
+  "geometry": {"coordinates":[35.05,12.93333],"type":"Point"}
+}

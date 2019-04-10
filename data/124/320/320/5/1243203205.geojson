@@ -1,0 +1,67 @@
+{
+  "id": 1243203205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49011,12.93439,23.49011,12.93439",
+    "geom:latitude":12.93439,
+    "geom:longitude":23.49011,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Burei",
+    "gn:country_code":"SD",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7755234,
+    "gn:latitude":12.93439,
+    "gn:longitude":23.49011,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Burei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755234
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6245d4758ed52c16c1ffac93263b3125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709375,
+            "locality_id":1243203205,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1243203205,
+    "wof:lastmodified":1536659429,
+    "wof:name":"Burei",
+    "wof:parent_id":1091709375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49011,
+    12.93439,
+    23.49011,
+    12.93439
+],
+  "geometry": {"coordinates":[23.49011,12.93439],"type":"Point"}
+}

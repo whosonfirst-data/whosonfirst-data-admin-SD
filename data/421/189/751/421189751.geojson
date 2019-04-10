@@ -1,0 +1,250 @@
+{
+  "id": 421189751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.217037,13.188223,30.217037,13.188223",
+    "geom:latitude":13.188223,
+    "geom:longitude":30.217037,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0628\u064a\u0636"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0628\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2-\u0989\u09ac\u09be\u0987\u0988\u09a6"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:chi_x_preferred":[
+        "\u6b27\u62dc\u4f0a\u5fb7"
+    ],
+    "name:dan_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:dut_x_preferred":[
+        "El Obeid"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:eng_x_variant":[
+        "El Obeid"
+    ],
+    "name:epo_x_preferred":[
+        "El Obeid"
+    ],
+    "name:est_x_preferred":[
+        "Al-Ubayyi\u1e11"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u06cc\u0636"
+    ],
+    "name:fin_x_preferred":[
+        "El Obeid"
+    ],
+    "name:fra_x_preferred":[
+        "El Obeid"
+    ],
+    "name:fre_x_preferred":[
+        "El Obeid"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u039f\u03c5\u03bc\u03c0\u03ac\u03b9\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2-\u0a89\u0aac\u0abe\u0aaf\u0abf\u0aa6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d0\u05d1\u05d9\u05d9\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "Al-\u0909\u092c\u092f\u094d\u092f\u0940\u0926"
+    ],
+    "name:hun_x_preferred":[
+        "El-Obeid"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d9\u30a4\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb2\u0ccd-\u0c89\u0cac\u0caf\u0cbf\u0ca6\u0ccd\u0ca6\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc624\ubca0\uc774\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Elobeida"
+    ],
+    "name:lit_x_preferred":[
+        "Obeidas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932-\u0909\u092c\u0947\u092f\u093f\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:nld_x_preferred":[
+        "El Obeid"
+    ],
+    "name:nob_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:nor_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u06cc\u0636"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Ubajjid"
+    ],
+    "name:por_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:ron_x_preferred":[
+        "Al Ubayyid"
+    ],
+    "name:rum_x_preferred":[
+        "Al Ubayyid"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041e\u0431\u0435\u0439\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd\u0dca \u0d8b\u0db6\u0dd9\u0dba\u0dd2\u0da9\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "El Obeid"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041e\u0431\u0435\u0438\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bcd-\u0b89\u0baa\u0bbe\u0baf\u0bbf\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c32\u0c4d-\u0c09\u0c2c\u0c2f\u0c4d\u0c2f\u0c3f\u0c26\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25 \u0e42\u0e2d\u0e40\u0e1a\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "El-Ubeyd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041e\u0431\u0435\u0439\u0434"
+    ],
+    "name:unk_x_variant":[
+        "El Ubeiyad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u06cc\u0636"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:war_x_preferred":[
+        "Al-Ubayyid"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u62dc\u4f0a\u5fb7"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Al Ubayyid",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u00a0\u0648\u0644\u0627\u064a\u0629 \u0634\u0645\u0627\u0644 \u0643\u0631\u062f\u0641\u0627\u0646",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":105,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116662,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1430580,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379003,
+        "gp:id":1430580,
+        "qs:id":1116662,
+        "qs_pg:id":124499,
+        "wd:id":"Q309475"
+    },
+    "wof:country":"SD",
+    "wof:created":1459009635,
+    "wof:geomhash":"1b4b1c02dc8e94ccfbaf97d68381f1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":421189751,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":421189751,
+    "wof:lastmodified":1527716268,
+    "wof:name":"Al Ubayyid",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.217037,
+    13.188223,
+    30.217037,
+    13.188223
+],
+  "geometry": {"coordinates":[30.217037,13.188223],"type":"Point"}
+}

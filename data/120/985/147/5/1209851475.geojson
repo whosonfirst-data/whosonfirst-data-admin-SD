@@ -1,0 +1,71 @@
+{
+  "id": 1209851475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61667,13.43333,28.61667,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":28.61667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Al Mes",
+    "gn:country_code":"SD",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379108,
+    "gn:latitude":13.43333,
+    "gn:longitude":28.61667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Mes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mes",
+        "Al Mes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379108
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3a75738a77051a16317c9fb924b93138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706541,
+            "locality_id":1209851475,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1209851475,
+    "wof:lastmodified":1537699564,
+    "wof:name":"Al Mes",
+    "wof:parent_id":1091706541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61667000000001,
+    13.43333,
+    28.61667000000001,
+    13.43333
+],
+  "geometry": {"coordinates":[28.61667000000001,13.43333],"type":"Point"}
+}

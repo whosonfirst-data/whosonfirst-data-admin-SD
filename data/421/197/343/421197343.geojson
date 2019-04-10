@@ -1,0 +1,82 @@
+{
+  "id": 421197343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2065,14.4619,32.2065,14.4619",
+    "geom:latitude":14.4619,
+    "geom:longitude":32.2065,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Wad az Z\u0101ki"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":364216,
+    "qs:gn_pop":9271,
+    "qs:name":"Wad ez Zaki",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u00a0\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0628\u064a\u0636\u200e\u00a0",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":124341,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1517360,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364216,
+        "gp:id":1517360,
+        "qs:id":124341
+    },
+    "wof:country":"SD",
+    "wof:created":1459009910,
+    "wof:geomhash":"f6b230c37341d91c021049fe5ff64f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":421197343,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":421197343,
+    "wof:lastmodified":1505340750,
+    "wof:name":"Wad ez Zaki",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:population":9271,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2065,
+    14.4619,
+    32.2065,
+    14.4619
+],
+  "geometry": {"coordinates":[32.2065,14.4619],"type":"Point"}
+}

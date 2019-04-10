@@ -1,0 +1,64 @@
+{
+  "id": 1209243577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66684,12.50055,22.66684,12.50055",
+    "geom:latitude":12.50055,
+    "geom:longitude":22.66684,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Inderabiro",
+    "gn:country_code":"SD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390082,
+    "gn:latitude":12.50055,
+    "gn:longitude":22.66684,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Inderabiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inderabiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390082
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c96cb736a4cf5b87a0f6efb505642c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209243577
+        }
+    ],
+    "wof:id":1209243577,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Inderabiro",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66684,
+    12.50055,
+    22.66684,
+    12.50055
+],
+  "geometry": {"coordinates":[22.66684,12.50055],"type":"Point"}
+}

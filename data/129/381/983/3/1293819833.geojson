@@ -1,0 +1,71 @@
+{
+  "id": 1293819833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1436,12.6121,34.1436,12.6121",
+    "geom:latitude":12.6121,
+    "geom:longitude":34.1436,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Shamiyyat `Umar",
+    "gn:country_code":"SD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367316,
+    "gn:latitude":12.6121,
+    "gn:longitude":34.1436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101miyyat \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamiya \u2018Umar",
+        "Sh\u0101miyyat \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367316
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"90c07ba68ed1ccda551ae4ee0ae98cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1293819833,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293819833,
+    "wof:lastmodified":1537699451,
+    "wof:name":"Shamiyyat `Umar",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1436,
+    12.6121,
+    34.1436,
+    12.6121
+],
+  "geometry": {"coordinates":[34.1436,12.6121],"type":"Point"}
+}

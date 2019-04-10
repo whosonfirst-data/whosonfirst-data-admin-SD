@@ -1,0 +1,72 @@
+{
+  "id": 1360123213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1471,14.4504,33.1471,14.4504",
+    "geom:latitude":14.4504,
+    "geom:longitude":33.1471,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Shalla`uha al Khawalda",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367336,
+    "gn:latitude":14.4504,
+    "gn:longitude":33.1471,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shalla\u2018\u016bh\u0101 al Khaw\u0101lda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shalla\u2018oha",
+        "Shalla\u2018\u016bh\u0101",
+        "Shalla\u2018\u016bh\u0101 al Khaw\u0101lda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367336
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a7ce378396f982dbf403711849060d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1360123213,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360123213,
+    "wof:lastmodified":1537699451,
+    "wof:name":"Shalla`uha al Khawalda",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1471,
+    14.4504,
+    33.1471,
+    14.4504
+],
+  "geometry": {"coordinates":[33.1471,14.4504],"type":"Point"}
+}

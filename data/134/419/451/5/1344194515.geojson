@@ -1,0 +1,67 @@
+{
+  "id": 1344194515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74952,10.21457,30.74952,10.21457",
+    "geom:latitude":10.21457,
+    "geom:longitude":30.74952,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Teiru",
+    "gn:country_code":"SD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366239,
+    "gn:latitude":10.21457,
+    "gn:longitude":30.74952,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Teiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366239
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"96211348ebc402ad2bf493690c3298ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1344194515,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1344194515,
+    "wof:lastmodified":1536682021,
+    "wof:name":"Teiru",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74952,
+    10.21457,
+    30.74952,
+    10.21457
+],
+  "geometry": {"coordinates":[30.74952,10.21457],"type":"Point"}
+}

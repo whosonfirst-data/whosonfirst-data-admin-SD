@@ -1,0 +1,77 @@
+{
+  "id": 890437897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13333,11.4,29.13333,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":29.13333,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
+    "gn:pop":11024,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "El Lagowa"
+    ],
+    "qs:name":"Al Lagowa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091707523,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379198,
+        "gp:id":1430489,
+        "qs:id":124509
+    },
+    "wof:country":"SD",
+    "wof:created":1469052170,
+    "wof:geomhash":"361647af9e7291c7c0ed6d92a5c70544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707523,
+            "locality_id":890437897,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707523,
+            "locality_id":890437897,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":890437897,
+    "wof:lastmodified":1505343562,
+    "wof:name":"Al Lagowa",
+    "wof:parent_id":1091707523,
+    "wof:placetype":"locality",
+    "wof:population":11024,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13333,
+    11.4,
+    29.13333,
+    11.4
+],
+  "geometry": {"coordinates":[29.13333,11.4],"type":"Point"}
+}

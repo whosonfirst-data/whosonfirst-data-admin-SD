@@ -1,0 +1,71 @@
+{
+  "id": 1242812689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0,13.9,28.0,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":28.0,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Ummat `Arifah",
+    "gn:country_code":"SD",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365335,
+    "gn:latitude":13.9,
+    "gn:longitude":28.0,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Umm\u0101t \u2018Ar\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ummat Arifa",
+        "Umm\u0101t \u2018Ar\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365335
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4705ad00a6016f6eed5633f0cd772f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706541,
+            "locality_id":1242812689,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1242812689,
+    "wof:lastmodified":1537699431,
+    "wof:name":"Ummat `Arifah",
+    "wof:parent_id":1091706541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0,
+    13.9,
+    28.0,
+    13.9
+],
+  "geometry": {"coordinates":[28.0,13.9],"type":"Point"}
+}

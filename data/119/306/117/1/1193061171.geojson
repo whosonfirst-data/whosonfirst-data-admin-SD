@@ -1,0 +1,72 @@
+{
+  "id": 1193061171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4041,14.3251,33.4041,14.3251",
+    "geom:latitude":14.3251,
+    "geom:longitude":33.4041,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Shalla`uha aj Ja`aliyyin",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367337,
+    "gn:latitude":14.3251,
+    "gn:longitude":33.4041,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shalla\u2018uha aj Ja\u2018aliyy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shalla\u2018oha",
+        "Shalla\u2018\u016bh\u0101",
+        "Shalla\u2018uha aj Ja\u2018aliyy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367337
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"469c2af101a0df38dc1387754b0f11bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1193061171,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193061171,
+    "wof:lastmodified":1537699451,
+    "wof:name":"Shalla`uha aj Ja`aliyyin",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4041,
+    14.3251,
+    33.4041,
+    14.3251
+],
+  "geometry": {"coordinates":[33.4041,14.3251],"type":"Point"}
+}

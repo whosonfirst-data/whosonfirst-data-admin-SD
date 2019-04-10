@@ -1,0 +1,67 @@
+{
+  "id": 1226173519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,12.35,25.71667,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Abu Dangal",
+    "gn:country_code":"SD",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380979,
+    "gn:latitude":12.35,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ab\u016b Dangal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380979
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cd62dae68c2ba85c727eab864857e025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1226173519,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1226173519,
+    "wof:lastmodified":1537036153,
+    "wof:name":"Abu Dangal",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    12.35,
+    25.71667,
+    12.35
+],
+  "geometry": {"coordinates":[25.71667,12.35],"type":"Point"}
+}

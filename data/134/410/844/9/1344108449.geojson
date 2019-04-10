@@ -1,0 +1,71 @@
+{
+  "id": 1344108449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9577,14.1811,32.9577,14.1811",
+    "geom:latitude":14.1811,
+    "geom:longitude":32.9577,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Dar Nayil",
+    "gn:country_code":"SD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376708,
+    "gn:latitude":14.1811,
+    "gn:longitude":32.9577,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dar N\u0101y\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Nail",
+        "Dar N\u0101y\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376708
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9dc88479bda7f3f424a6887497d09ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1344108449,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1344108449,
+    "wof:lastmodified":1537699529,
+    "wof:name":"Dar Nayil",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9577,
+    14.1811,
+    32.9577,
+    14.1811
+],
+  "geometry": {"coordinates":[32.9577,14.1811],"type":"Point"}
+}

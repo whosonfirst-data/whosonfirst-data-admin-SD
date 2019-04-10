@@ -1,0 +1,72 @@
+{
+  "id": 1310629919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58333,13.95,30.58333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":30.58333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Jannah",
+    "gn:country_code":"SD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364951,
+    "gn:latitude":13.95,
+    "gn:longitude":30.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Jann\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gannah",
+        "Umm Gannah",
+        "Umm Jann\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364951
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cbec76ce62dd34a1bf4017bf259c4129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310629919,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310629919,
+    "wof:lastmodified":1537699423,
+    "wof:name":"Umm Jannah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58333,
+    13.95,
+    30.58333,
+    13.95
+],
+  "geometry": {"coordinates":[30.58333,13.95],"type":"Point"}
+}

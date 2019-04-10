@@ -1,0 +1,61 @@
+{
+  "id": 1209649057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59857,13.24441,24.59857,13.24441",
+    "geom:latitude":13.24441,
+    "geom:longitude":24.59857,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kusi",
+    "gn:country_code":"SD",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750966,
+    "gn:latitude":13.24441,
+    "gn:longitude":24.59857,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kusi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750966
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4ba3685b1e16d84e389654983227d7ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209649057
+        }
+    ],
+    "wof:id":1209649057,
+    "wof:lastmodified":1536280639,
+    "wof:name":"Kusi",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59857,
+    13.24441,
+    24.59857,
+    13.24441
+],
+  "geometry": {"coordinates":[24.59857,13.24441],"type":"Point"}
+}

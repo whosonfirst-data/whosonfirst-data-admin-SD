@@ -1,0 +1,70 @@
+{
+  "id": 1243297567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0108,13.0293,32.0108,13.0293",
+    "geom:latitude":13.0293,
+    "geom:longitude":32.0108,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kabos",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028892,
+    "gn:latitude":13.0293,
+    "gn:longitude":32.0108,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0101b\u014ds",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101b\u014ds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028892
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9a94878669f58b60ae4c6d54f4b1cbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1243297567,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243297567,
+    "wof:lastmodified":1537699662,
+    "wof:name":"Kabos",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0108,
+    13.0293,
+    32.0108,
+    13.0293
+],
+  "geometry": {"coordinates":[32.0108,13.0293],"type":"Point"}
+}

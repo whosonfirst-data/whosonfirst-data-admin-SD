@@ -1,0 +1,66 @@
+{
+  "id": 1209157301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9596,14.0995,32.9596,14.0995",
+    "geom:latitude":14.0995,
+    "geom:longitude":32.9596,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Talha aj Jadida",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364538,
+    "gn:latitude":14.0995,
+    "gn:longitude":32.9596,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um \u0162al\u1e29a aj Jad\u012bda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Talha",
+        "Umm \u0162al\u1e29ah",
+        "Um \u0162al\u1e29a aj Jad\u012bda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364538
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3de963dfa9c1ca7589ba09c250558b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209157301
+        }
+    ],
+    "wof:id":1209157301,
+    "wof:lastmodified":1537699415,
+    "wof:name":"Um Talha aj Jadida",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9596,
+    14.0995,
+    32.9596,
+    14.0995
+],
+  "geometry": {"coordinates":[32.9596,14.0995],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343490217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5107,11.7354,33.5107,11.7354",
+    "geom:latitude":11.7354,
+    "geom:longitude":33.5107,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Quli",
+    "gn:country_code":"SD",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029753,
+    "gn:latitude":11.7354,
+    "gn:longitude":33.5107,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Quli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029753
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"643cc1e71b21aa975374c34f51e4f7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709781,
+            "locality_id":1343490217,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1343490217,
+    "wof:lastmodified":1536703618,
+    "wof:name":"Quli",
+    "wof:parent_id":1091709781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5107,
+    11.7354,
+    33.5107,
+    11.7354
+],
+  "geometry": {"coordinates":[33.5107,11.7354],"type":"Point"}
+}

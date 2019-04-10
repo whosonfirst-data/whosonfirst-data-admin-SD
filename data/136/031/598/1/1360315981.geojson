@@ -1,0 +1,67 @@
+{
+  "id": 1360315981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3183,17.39,34.3183,17.39",
+    "geom:latitude":17.39,
+    "geom:longitude":34.3183,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat al Kiweib",
+    "gn:country_code":"SD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444138,
+    "gn:latitude":17.39,
+    "gn:longitude":34.3183,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat al Kiweib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444138
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"85c0d44c2cb3644ac3c4c6157c0df989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1360315981,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1360315981,
+    "wof:lastmodified":1536609979,
+    "wof:name":"Hillat al Kiweib",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3183,
+    17.39,
+    34.3183,
+    17.39
+],
+  "geometry": {"coordinates":[34.3183,17.39],"type":"Point"}
+}

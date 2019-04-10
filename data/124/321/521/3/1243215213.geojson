@@ -1,0 +1,70 @@
+{
+  "id": 1243215213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2383,14.5281,33.2383,14.5281",
+    "geom:latitude":14.5281,
+    "geom:longitude":33.2383,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Julud Barqu",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026297,
+    "gn:latitude":14.5281,
+    "gn:longitude":33.2383,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Jul\u016bd Barqu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um Jul\u016bd Barqu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026297
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ee65921f7bbce9fab20337f23dc7ca5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1243215213,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243215213,
+    "wof:lastmodified":1537699647,
+    "wof:name":"Um Julud Barqu",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2383,
+    14.5281,
+    33.2383,
+    14.5281
+],
+  "geometry": {"coordinates":[33.2383,14.5281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226081777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6703,16.2795,36.6703,16.2795",
+    "geom:latitude":16.2795,
+    "geom:longitude":36.6703,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Masgid Qaryat Maman",
+    "gn:country_code":"SD",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386601,
+    "gn:latitude":16.2795,
+    "gn:longitude":36.6703,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Masgid Qaryat M\u0101m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masgid Qaryat M\u0101m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386601
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"603e7b0773e8a7b41575a346373bff7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709133,
+            "locality_id":1226081777,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1226081777,
+    "wof:lastmodified":1537699605,
+    "wof:name":"Masgid Qaryat Maman",
+    "wof:parent_id":1091709133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6703,
+    16.2795,
+    36.6703,
+    16.2795
+],
+  "geometry": {"coordinates":[36.6703,16.2795],"type":"Point"}
+}

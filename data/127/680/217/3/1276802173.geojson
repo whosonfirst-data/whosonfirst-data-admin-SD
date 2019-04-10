@@ -1,0 +1,71 @@
+{
+  "id": 1276802173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73333,14.63333,24.73333,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":24.73333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Yunus",
+    "gn:country_code":"SD",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363565,
+    "gn:latitude":14.63333,
+    "gn:longitude":24.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u016bnus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yunis",
+        "Y\u016bnus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091707521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363565
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfa10c87b1a34476648f86c3680009aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707521,
+            "locality_id":1276802173,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1276802173,
+    "wof:lastmodified":1537699399,
+    "wof:name":"Yunus",
+    "wof:parent_id":1091707521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73333,
+    14.63333,
+    24.73333,
+    14.63333
+],
+  "geometry": {"coordinates":[24.73333,14.63333],"type":"Point"}
+}

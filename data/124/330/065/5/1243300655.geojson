@@ -1,0 +1,67 @@
+{
+  "id": 1243300655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0709,13.16572,24.0709,13.16572",
+    "geom:latitude":13.16572,
+    "geom:longitude":24.0709,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Mudu",
+    "gn:country_code":"SD",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750466,
+    "gn:latitude":13.16572,
+    "gn:longitude":24.0709,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091708215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750466
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d21b274fc2ea5c3b4500bc44a2ca17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708215,
+            "locality_id":1243300655,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1243300655,
+    "wof:lastmodified":1537014864,
+    "wof:name":"Mudu",
+    "wof:parent_id":1091708215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0709,
+    13.16572,
+    24.0709,
+    13.16572
+],
+  "geometry": {"coordinates":[24.0709,13.16572],"type":"Point"}
+}

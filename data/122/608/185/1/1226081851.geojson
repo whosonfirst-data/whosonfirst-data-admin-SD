@@ -1,0 +1,67 @@
+{
+  "id": 1226081851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15,10.76667,25.15,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":25.15,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Baba",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377966,
+    "gn:latitude":10.76667,
+    "gn:longitude":25.15,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091711049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377966
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e351ce9d68c08b63becb7257710cf043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711049,
+            "locality_id":1226081851,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226081851,
+    "wof:lastmodified":1536672986,
+    "wof:name":"Baba",
+    "wof:parent_id":1091711049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15,
+    10.76667,
+    25.15,
+    10.76667
+],
+  "geometry": {"coordinates":[25.15,10.76667],"type":"Point"}
+}

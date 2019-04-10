@@ -1,0 +1,71 @@
+{
+  "id": 1310341837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5,13.28333,24.5,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":24.5,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kurrah",
+    "gn:country_code":"SD",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371811,
+    "gn:latitude":13.28333,
+    "gn:longitude":24.5,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kurrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurra",
+        "Kurrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371811
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7960fa4e81b11cd981235854c1c14402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707999,
+            "locality_id":1310341837,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1310341837,
+    "wof:lastmodified":1537699484,
+    "wof:name":"Kurrah",
+    "wof:parent_id":1091707999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5,
+    13.28333,
+    24.5,
+    13.28333
+],
+  "geometry": {"coordinates":[24.5,13.28333],"type":"Point"}
+}

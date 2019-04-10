@@ -1,0 +1,67 @@
+{
+  "id": 1327170355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85338,13.32671,24.85338,13.32671",
+    "geom:latitude":13.32671,
+    "geom:longitude":24.85338,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dabanga",
+    "gn:country_code":"SD",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7751656,
+    "gn:latitude":13.32671,
+    "gn:longitude":24.85338,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Dabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7751656
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"409354bc6a9a82ea3192cfdc9179979d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1327170355,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1327170355,
+    "wof:lastmodified":1537056670,
+    "wof:name":"Dabanga",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85338,
+    13.32671,
+    24.85338,
+    13.32671
+],
+  "geometry": {"coordinates":[24.85338,13.32671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327170147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,14.1,31.05,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Hagagia",
+    "gn:country_code":"SD",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379468,
+    "gn:latitude":14.1,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Hagagia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hagagia",
+        "Al Hagagia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379468
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b7ee7994ebf7cfb4eb526a1e15f55259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1327170147,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327170147,
+    "wof:lastmodified":1537699576,
+    "wof:name":"Al Hagagia",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    14.1,
+    31.05,
+    14.1
+],
+  "geometry": {"coordinates":[31.05,14.1],"type":"Point"}
+}

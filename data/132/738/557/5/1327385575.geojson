@@ -1,0 +1,70 @@
+{
+  "id": 1327385575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8994,14.0528,32.8994,14.0528",
+    "geom:latitude":14.0528,
+    "geom:longitude":32.8994,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Talha",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026600,
+    "gn:latitude":14.0528,
+    "gn:longitude":32.8994,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u0162al\u1e29a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um \u0162al\u1e29a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026600
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cfd05159f5d74dac8530f1221322d009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1327385575,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327385575,
+    "wof:lastmodified":1537699657,
+    "wof:name":"Um Talha",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8994,
+    14.0528,
+    32.8994,
+    14.0528
+],
+  "geometry": {"coordinates":[32.8994,14.0528],"type":"Point"}
+}

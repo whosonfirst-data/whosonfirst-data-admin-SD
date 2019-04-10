@@ -1,0 +1,70 @@
+{
+  "id": 1226792239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,14.63333,33.65,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tebeib Abu Kreiz",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366291,
+    "gn:latitude":14.63333,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tebeib Abu Kreiz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tebeib Ab\u016b Kurayz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366291
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ebe509de411795b1e0f396dca1dc62a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1226792239,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226792239,
+    "wof:lastmodified":1537699436,
+    "wof:name":"Tebeib Abu Kreiz",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    14.63333,
+    33.65,
+    14.63333
+],
+  "geometry": {"coordinates":[33.65,14.63333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209243691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,18.68333,30.55,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Suri",
+    "gn:country_code":"SD",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366631,
+    "gn:latitude":18.68333,
+    "gn:longitude":30.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Suri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sori",
+        "Suri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366631
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bab874c19722a706e8578241d59e18bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209243691
+        }
+    ],
+    "wof:id":1209243691,
+    "wof:lastmodified":1537699441,
+    "wof:name":"Suri",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    18.68333,
+    30.55,
+    18.68333
+],
+  "geometry": {"coordinates":[30.55,18.68333],"type":"Point"}
+}

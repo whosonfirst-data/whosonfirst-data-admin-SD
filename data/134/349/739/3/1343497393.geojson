@@ -1,0 +1,71 @@
+{
+  "id": 1343497393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48333,13.63333,32.48333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":32.48333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Hajj Rabih",
+    "gn:country_code":"SD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379455,
+    "gn:latitude":13.63333,
+    "gn:longitude":32.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28\u0101jj R\u0101bi\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hag Rabih",
+        "Al \u1e28\u0101jj R\u0101bi\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379455
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9919c58a336b608b3d993d08e5f0491f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1343497393,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343497393,
+    "wof:lastmodified":1537699576,
+    "wof:name":"Al Hajj Rabih",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48333,
+    13.63333,
+    32.48333,
+    13.63333
+],
+  "geometry": {"coordinates":[32.48333,13.63333],"type":"Point"}
+}

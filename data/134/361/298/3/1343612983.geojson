@@ -1,0 +1,71 @@
+{
+  "id": 1343612983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71667,14.41667,33.71667,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":33.71667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Awadiyah",
+    "gn:country_code":"SD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378107,
+    "gn:latitude":14.41667,
+    "gn:longitude":33.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Awa\u1e11\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awadiya",
+        "\u2018Awa\u1e11\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378107
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"755c7735c4400a222ef1b2b50f780843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1343612983,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343612983,
+    "wof:lastmodified":1537699542,
+    "wof:name":"`Awadiyah",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71667,
+    14.41667,
+    33.71667,
+    14.41667
+],
+  "geometry": {"coordinates":[33.71667,14.41667],"type":"Point"}
+}

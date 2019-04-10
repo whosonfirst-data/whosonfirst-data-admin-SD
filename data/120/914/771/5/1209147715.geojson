@@ -1,0 +1,64 @@
+{
+  "id": 1209147715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9876,14.0738,32.9876,14.0738",
+    "geom:latitude":14.0738,
+    "geom:longitude":32.9876,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Bashayir Izeriq",
+    "gn:country_code":"SD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026603,
+    "gn:latitude":14.0738,
+    "gn:longitude":32.9876,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bash\u0101yir Izeriq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bash\u0101yir Izeriq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026603
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e0317c54668c65b5dcf222780a919107",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209147715
+        }
+    ],
+    "wof:id":1209147715,
+    "wof:lastmodified":1537699657,
+    "wof:name":"Bashayir Izeriq",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9876,
+    14.0738,
+    32.9876,
+    14.0738
+],
+  "geometry": {"coordinates":[32.9876,14.0738],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344193153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,11.75,26.85,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":26.85,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Wad Hassib",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364143,
+    "gn:latitude":11.75,
+    "gn:longitude":26.85,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Wad Hassib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091706757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364143
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f03fea3e964bc886d8de7fbc97546cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706757,
+            "locality_id":1344193153,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1344193153,
+    "wof:lastmodified":1536684075,
+    "wof:name":"Wad Hassib",
+    "wof:parent_id":1091706757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    11.75,
+    26.85,
+    11.75
+],
+  "geometry": {"coordinates":[26.85,11.75],"type":"Point"}
+}

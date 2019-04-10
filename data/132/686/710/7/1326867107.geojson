@@ -1,0 +1,67 @@
+{
+  "id": 1326867107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0191,12.69516,23.0191,12.69516",
+    "geom:latitude":12.69516,
+    "geom:longitude":23.0191,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Balla Furash",
+    "gn:country_code":"SD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7753560,
+    "gn:latitude":12.69516,
+    "gn:longitude":23.0191,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Balla Furash",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753560
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"87c088b6c46e9ffbd9233694b04590b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":1326867107,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1326867107,
+    "wof:lastmodified":1536997666,
+    "wof:name":"Balla Furash",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0191,
+    12.69516,
+    23.0191,
+    12.69516
+],
+  "geometry": {"coordinates":[23.0191,12.69516],"type":"Point"}
+}

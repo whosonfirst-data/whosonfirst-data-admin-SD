@@ -1,0 +1,71 @@
+{
+  "id": 1242813833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,12.05,23.25,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":23.25,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Karkulli",
+    "gn:country_code":"SD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372808,
+    "gn:latitude":12.05,
+    "gn:longitude":23.25,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Karkulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karkouli",
+        "Karkulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372808
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7cf6f6c9364580fdce3c2f263922a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707841,
+            "locality_id":1242813833,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1242813833,
+    "wof:lastmodified":1537699494,
+    "wof:name":"Karkulli",
+    "wof:parent_id":1091707841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    12.05,
+    23.25,
+    12.05
+],
+  "geometry": {"coordinates":[23.25,12.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276151343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14715,11.54265,23.14715,11.54265",
+    "geom:latitude":11.54265,
+    "geom:longitude":23.14715,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Nubuia",
+    "gn:country_code":"SD",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385124,
+    "gn:latitude":11.54265,
+    "gn:longitude":23.14715,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Nubuia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385124
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f127030299433e08989d5eadcda97af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1276151343,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1276151343,
+    "wof:lastmodified":1537021717,
+    "wof:name":"Nubuia",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14715,
+    11.54265,
+    23.14715,
+    11.54265
+],
+  "geometry": {"coordinates":[23.14715,11.54265],"type":"Point"}
+}

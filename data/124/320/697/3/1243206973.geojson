@@ -1,0 +1,71 @@
+{
+  "id": 1243206973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88333,11.85,26.88333,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":26.88333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm `Ishrin",
+    "gn:country_code":"SD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364960,
+    "gn:latitude":11.85,
+    "gn:longitude":26.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u2018Ishr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Irshrein",
+        "Umm \u2018Ishr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364960
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7d19869b7b38fea5e9854d5466b514e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705641,
+            "locality_id":1243206973,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1243206973,
+    "wof:lastmodified":1537699423,
+    "wof:name":"Umm `Ishrin",
+    "wof:parent_id":1091705641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88333,
+    11.85,
+    26.88333,
+    11.85
+],
+  "geometry": {"coordinates":[26.88333,11.85],"type":"Point"}
+}

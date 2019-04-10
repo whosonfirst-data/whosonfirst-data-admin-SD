@@ -1,0 +1,70 @@
+{
+  "id": 1226586727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7291,14.4388,32.7291,14.4388",
+    "geom:latitude":14.4388,
+    "geom:longitude":32.7291,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Aj Jadida",
+    "gn:country_code":"SD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026490,
+    "gn:latitude":14.4388,
+    "gn:longitude":32.7291,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aj Jad\u012bda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aj Jad\u012bda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026490
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a0f60cf0e8a5df0c5b8f348ce36e41c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226586727,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226586727,
+    "wof:lastmodified":1537699653,
+    "wof:name":"Aj Jadida",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7291,
+    14.4388,
+    32.7291,
+    14.4388
+],
+  "geometry": {"coordinates":[32.7291,14.4388],"type":"Point"}
+}

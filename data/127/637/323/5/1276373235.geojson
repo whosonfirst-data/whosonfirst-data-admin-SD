@@ -1,0 +1,67 @@
+{
+  "id": 1276373235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31667,15.83333,36.31667,15.83333",
+    "geom:latitude":15.83333,
+    "geom:longitude":36.31667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Magauda",
+    "gn:country_code":"SD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370911,
+    "gn:latitude":15.83333,
+    "gn:longitude":36.31667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Magauda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370911
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a92f6343bbbbd5d123b195b8ac98360a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1276373235,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1276373235,
+    "wof:lastmodified":1536725441,
+    "wof:name":"Magauda",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31667,
+    15.83333,
+    36.31667,
+    15.83333
+],
+  "geometry": {"coordinates":[36.31667,15.83333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326666427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.827,11.2595,29.827,11.2595",
+    "geom:latitude":11.2595,
+    "geom:longitude":29.827,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Hillat Attash",
+    "gn:country_code":"SD",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001933,
+    "gn:latitude":11.2595,
+    "gn:longitude":29.827,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Att\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat Att\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091707995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001933
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7ddb2e200bfce692997a0f8fd9e998d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707995,
+            "locality_id":1326666427,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1326666427,
+    "wof:lastmodified":1537699627,
+    "wof:name":"Hillat Attash",
+    "wof:parent_id":1091707995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.827,
+    11.2595,
+    29.827,
+    11.2595
+],
+  "geometry": {"coordinates":[29.827,11.2595],"type":"Point"}
+}

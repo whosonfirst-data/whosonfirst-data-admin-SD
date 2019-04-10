@@ -1,0 +1,70 @@
+{
+  "id": 1310341265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.223,12.976,31.223,12.976",
+    "geom:latitude":12.976,
+    "geom:longitude":31.223,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Naziha",
+    "gn:country_code":"SD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028958,
+    "gn:latitude":12.976,
+    "gn:longitude":31.223,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Naz\u012bha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naz\u012bha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028958
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1bcc9223a9e03c6b12b704dd59d09781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310341265,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310341265,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Naziha",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22300000000001,
+    12.976,
+    31.22300000000001,
+    12.976
+],
+  "geometry": {"coordinates":[31.22300000000001,12.976],"type":"Point"}
+}

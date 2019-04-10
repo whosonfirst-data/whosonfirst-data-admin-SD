@@ -1,0 +1,71 @@
+{
+  "id": 1293034811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50614,14.27046,36.50614,14.27046",
+    "geom:latitude":14.27046,
+    "geom:longitude":36.50614,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad Muzammil",
+    "gn:country_code":"SD",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364094,
+    "gn:latitude":14.27046,
+    "gn:longitude":36.50614,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Muzammil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vad Muzammil",
+        "Wad Muzammil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364094
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c0768218034abf60d2808ceb9406e4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709097,
+            "locality_id":1293034811,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293034811,
+    "wof:lastmodified":1537699402,
+    "wof:name":"Wad Muzammil",
+    "wof:parent_id":1091709097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50614,
+    14.27046,
+    36.50614,
+    14.27046
+],
+  "geometry": {"coordinates":[36.50614,14.27046],"type":"Point"}
+}

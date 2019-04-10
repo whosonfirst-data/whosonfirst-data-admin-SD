@@ -1,0 +1,67 @@
+{
+  "id": 1276911535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53333,12.6,23.53333,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":23.53333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Selenyi",
+    "gn:country_code":"SD",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367464,
+    "gn:latitude":12.6,
+    "gn:longitude":23.53333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Selenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367464
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dfb60b554f192fdb7541d6b3fb064578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709375,
+            "locality_id":1276911535,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1276911535,
+    "wof:lastmodified":1536997933,
+    "wof:name":"Selenyi",
+    "wof:parent_id":1091709375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53333,
+    12.6,
+    23.53333,
+    12.6
+],
+  "geometry": {"coordinates":[23.53333,12.6],"type":"Point"}
+}

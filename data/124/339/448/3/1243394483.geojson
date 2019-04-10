@@ -1,0 +1,70 @@
+{
+  "id": 1243394483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4642,15.8117,35.4642,15.8117",
+    "geom:latitude":15.8117,
+    "geom:longitude":35.4642,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hillat Salamah Sorobh",
+    "gn:country_code":"SD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024489,
+    "gn:latitude":15.8117,
+    "gn:longitude":35.4642,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Salamah Sor\u014dbh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat Salamah Sor\u014dbh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024489
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5397aadc6e846772785fbf99766ba4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1243394483,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1243394483,
+    "wof:lastmodified":1537699634,
+    "wof:name":"Hillat Salamah Sorobh",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4642,
+    15.8117,
+    35.4642,
+    15.8117
+],
+  "geometry": {"coordinates":[35.4642,15.8117],"type":"Point"}
+}

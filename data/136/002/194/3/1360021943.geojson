@@ -1,0 +1,67 @@
+{
+  "id": 1360021943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,13.13333,30.68333,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Erig",
+    "gn:country_code":"SD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365125,
+    "gn:latitude":13.13333,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Umm Erig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365125
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"96d7a9af0795ab38008734ef61507629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1360021943,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360021943,
+    "wof:lastmodified":1537035112,
+    "wof:name":"Umm Erig",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    13.13333,
+    30.68333,
+    13.13333
+],
+  "geometry": {"coordinates":[30.68333,13.13333],"type":"Point"}
+}

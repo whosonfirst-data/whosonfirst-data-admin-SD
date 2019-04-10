@@ -1,0 +1,67 @@
+{
+  "id": 1343394631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9952,17.8637,33.9952,17.8637",
+    "geom:latitude":17.8637,
+    "geom:longitude":33.9952,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Shahadabya",
+    "gn:country_code":"SD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011058,
+    "gn:latitude":17.8637,
+    "gn:longitude":33.9952,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shahadabya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011058
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d69d7964de9fd3ef33dd9ed93dbf1176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709863,
+            "locality_id":1343394631,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1343394631,
+    "wof:lastmodified":1536840242,
+    "wof:name":"Shahadabya",
+    "wof:parent_id":1091709863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9952,
+    17.8637,
+    33.9952,
+    17.8637
+],
+  "geometry": {"coordinates":[33.9952,17.8637],"type":"Point"}
+}

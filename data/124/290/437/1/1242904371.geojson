@@ -1,0 +1,67 @@
+{
+  "id": 1242904371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7728,17.2059,33.7728,17.2059",
+    "geom:latitude":17.2059,
+    "geom:longitude":33.7728,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Omar Ennashe",
+    "gn:country_code":"SD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014980,
+    "gn:latitude":17.2059,
+    "gn:longitude":33.7728,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Omar Ennashe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014980
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"75afccf6099f0260dd599b9cc64cb85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1242904371,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1242904371,
+    "wof:lastmodified":1537086923,
+    "wof:name":"Omar Ennashe",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7728,
+    17.2059,
+    33.7728,
+    17.2059
+],
+  "geometry": {"coordinates":[33.7728,17.2059],"type":"Point"}
+}

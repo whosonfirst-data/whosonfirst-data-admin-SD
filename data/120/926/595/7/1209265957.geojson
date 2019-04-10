@@ -1,0 +1,64 @@
+{
+  "id": 1209265957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4806,14.1495,33.4806,14.1495",
+    "geom:latitude":14.1495,
+    "geom:longitude":33.4806,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Awayda `Izezat",
+    "gn:country_code":"SD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026675,
+    "gn:latitude":14.1495,
+    "gn:longitude":33.4806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Awayda \u2018Izezat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Awayda \u2018Izezat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026675
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a5cf3d08b5860d27f1b6c65b77dcbc87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209265957
+        }
+    ],
+    "wof:id":1209265957,
+    "wof:lastmodified":1537699658,
+    "wof:name":"Al `Awayda `Izezat",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4806,
+    14.1495,
+    33.4806,
+    14.1495
+],
+  "geometry": {"coordinates":[33.4806,14.1495],"type":"Point"}
+}

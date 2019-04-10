@@ -1,0 +1,67 @@
+{
+  "id": 1360121165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78333,14.01667,35.78333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":35.78333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Gabub",
+    "gn:country_code":"SD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375240,
+    "gn:latitude":14.01667,
+    "gn:longitude":35.78333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Gabub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375240
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"77235e2fec98485fb15bee7612c90c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705443,
+            "locality_id":1360121165,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1360121165,
+    "wof:lastmodified":1536893234,
+    "wof:name":"Gabub",
+    "wof:parent_id":1091705443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78333,
+    14.01667,
+    35.78333,
+    14.01667
+],
+  "geometry": {"coordinates":[35.78333,14.01667],"type":"Point"}
+}

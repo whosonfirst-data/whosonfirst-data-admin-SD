@@ -1,0 +1,67 @@
+{
+  "id": 1225980521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0395,15.8788,36.0395,15.8788",
+    "geom:latitude":15.8788,
+    "geom:longitude":36.0395,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryat Abar Tambay",
+    "gn:country_code":"SD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024624,
+    "gn:latitude":15.8788,
+    "gn:longitude":36.0395,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryat Abar Tambay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024624
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ddbb4ad6fde352a40550651c1ae63d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1225980521,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1225980521,
+    "wof:lastmodified":1536818215,
+    "wof:name":"Qaryat Abar Tambay",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0395,
+    15.8788,
+    36.0395,
+    15.8788
+],
+  "geometry": {"coordinates":[36.0395,15.8788],"type":"Point"}
+}

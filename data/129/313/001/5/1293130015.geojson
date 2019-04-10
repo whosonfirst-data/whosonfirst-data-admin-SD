@@ -1,0 +1,67 @@
+{
+  "id": 1293130015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7448,17.2988,33.7448,17.2988",
+    "geom:latitude":17.2988,
+    "geom:longitude":33.7448,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Wad Bakhet",
+    "gn:country_code":"SD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444076,
+    "gn:latitude":17.2988,
+    "gn:longitude":33.7448,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Bakhet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444076
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"89fd8dccbf39be24e61b425271d48706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1293130015,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293130015,
+    "wof:lastmodified":1536805372,
+    "wof:name":"Wad Bakhet",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7448,
+    17.2988,
+    33.7448,
+    17.2988
+],
+  "geometry": {"coordinates":[33.7448,17.2988],"type":"Point"}
+}

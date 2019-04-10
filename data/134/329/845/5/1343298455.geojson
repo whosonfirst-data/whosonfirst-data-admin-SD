@@ -1,0 +1,71 @@
+{
+  "id": 1343298455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81667,13.06667,30.81667,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":30.81667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Kadadah",
+    "gn:country_code":"SD",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373170,
+    "gn:latitude":13.06667,
+    "gn:longitude":30.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kad\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadada",
+        "Kad\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373170
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"551267c32a5fe9a6410ea1916f2f863e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1343298455,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343298455,
+    "wof:lastmodified":1537699497,
+    "wof:name":"Kadadah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81667,
+    13.06667,
+    30.81667,
+    13.06667
+],
+  "geometry": {"coordinates":[30.81667,13.06667],"type":"Point"}
+}

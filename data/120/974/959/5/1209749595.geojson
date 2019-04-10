@@ -1,0 +1,71 @@
+{
+  "id": 1209749595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76667,18.33333,31.76667,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":31.76667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Al `Uryan",
+    "gn:country_code":"SD",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378970,
+    "gn:latitude":18.33333,
+    "gn:longitude":31.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ury\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Arian",
+        "Al \u2018Ury\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091710471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378970
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1f64e793176042b8a1c841f6c29f5808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710471,
+            "locality_id":1209749595,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1209749595,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al `Uryan",
+    "wof:parent_id":1091710471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76667,
+    18.33333,
+    31.76667,
+    18.33333
+],
+  "geometry": {"coordinates":[31.76667,18.33333],"type":"Point"}
+}

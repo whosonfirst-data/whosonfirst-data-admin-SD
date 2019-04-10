@@ -1,0 +1,71 @@
+{
+  "id": 1226787967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68333,14.15,33.68333,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":33.68333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Rayyah",
+    "gn:country_code":"SD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368123,
+    "gn:latitude":14.15,
+    "gn:longitude":33.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rayy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raiyah",
+        "Rayy\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368123
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"500d2f4e1a02c9e96af441ff6a23fd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1226787967,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226787967,
+    "wof:lastmodified":1537699459,
+    "wof:name":"Rayyah",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68333,
+    14.15,
+    33.68333,
+    14.15
+],
+  "geometry": {"coordinates":[33.68333,14.15],"type":"Point"}
+}

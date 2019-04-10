@@ -1,0 +1,64 @@
+{
+  "id": 1209350595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1825,14.1961,32.1825,14.1961",
+    "geom:latitude":14.1961,
+    "geom:longitude":32.1825,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Maqtu` Qalbu",
+    "gn:country_code":"SD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026349,
+    "gn:latitude":14.1961,
+    "gn:longitude":32.1825,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maq\u0163u\u2018 Qalb\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maq\u0163u\u2018 Qalb\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026349
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"799ac202af9f696127b4579a1282901b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209350595
+        }
+    ],
+    "wof:id":1209350595,
+    "wof:lastmodified":1537699648,
+    "wof:name":"Maqtu` Qalbu",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1825,
+    14.1961,
+    32.1825,
+    14.1961
+],
+  "geometry": {"coordinates":[32.1825,14.1961],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277013449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43333,13.3,29.43333,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":29.43333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Kul `Abd al `Al",
+    "gn:country_code":"SD",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371989,
+    "gn:latitude":13.3,
+    "gn:longitude":29.43333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kul \u2018Abd al \u2018Al",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul \u2018Abd el \u2018Al",
+        "Kul",
+        "Kul Abd el Ali",
+        "Kul \u2018Abd al \u2018Al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371989
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3380c646c5e698458f8d3b2996e9e836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1277013449,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1277013449,
+    "wof:lastmodified":1537699486,
+    "wof:name":"Kul `Abd al `Al",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43333,
+    13.3,
+    29.43333,
+    13.3
+],
+  "geometry": {"coordinates":[29.43333,13.3],"type":"Point"}
+}

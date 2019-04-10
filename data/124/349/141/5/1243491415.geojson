@@ -1,0 +1,70 @@
+{
+  "id": 1243491415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9883,12.8316,32.9883,12.8316",
+    "geom:latitude":12.8316,
+    "geom:longitude":32.9883,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Faki Hammad",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854178,
+    "gn:latitude":12.8316,
+    "gn:longitude":32.9883,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Faki Hamm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Faki Hamm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854178
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dcff4ca29db4cd97bfee1f1adcf2a0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1243491415,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243491415,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Al Faki Hammad",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9883,
+    12.8316,
+    32.9883,
+    12.8316
+],
+  "geometry": {"coordinates":[32.9883,12.8316],"type":"Point"}
+}

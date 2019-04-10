@@ -1,0 +1,72 @@
+{
+  "id": 1343495973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06667,12.4,33.06667,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":33.06667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sahlat al Waykah",
+    "gn:country_code":"SD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367795,
+    "gn:latitude":12.4,
+    "gn:longitude":33.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sahlat al Waykah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahlat el Weika",
+        "Sahalat el Weika",
+        "Sahlat al Waykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367795
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d3083585c82a3538b4b765e0d44cdf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1343495973,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343495973,
+    "wof:lastmodified":1537699456,
+    "wof:name":"Sahlat al Waykah",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06667,
+    12.4,
+    33.06667,
+    12.4
+],
+  "geometry": {"coordinates":[33.06667,12.4],"type":"Point"}
+}

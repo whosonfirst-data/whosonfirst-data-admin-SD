@@ -1,0 +1,71 @@
+{
+  "id": 1360118593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,18.16667,30.75,18.16667",
+    "geom:latitude":18.16667,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Al Ghabah",
+    "gn:country_code":"SD",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379508,
+    "gn:latitude":18.16667,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Gh\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ghaba",
+        "Al Gh\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091709377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379508
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2e4e81e19a5694e99b7f7106bb5b4a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709377,
+            "locality_id":1360118593,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1360118593,
+    "wof:lastmodified":1537699578,
+    "wof:name":"Al Ghabah",
+    "wof:parent_id":1091709377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    18.16667,
+    30.75,
+    18.16667
+],
+  "geometry": {"coordinates":[30.75,18.16667],"type":"Point"}
+}

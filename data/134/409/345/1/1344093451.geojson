@@ -1,0 +1,70 @@
+{
+  "id": 1344093451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3614,13.27577,22.3614,13.27577",
+    "geom:latitude":13.27577,
+    "geom:longitude":22.3614,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Hegliga",
+    "gn:country_code":"SD",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373880,
+    "gn:latitude":13.27577,
+    "gn:longitude":22.3614,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Hegliga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hegliga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373880
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"28f444219f498642de4f04db567bd98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1344093451,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1344093451,
+    "wof:lastmodified":1537699507,
+    "wof:name":"Hegliga",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3614,
+    13.27577,
+    22.3614,
+    13.27577
+],
+  "geometry": {"coordinates":[22.3614,13.27577],"type":"Point"}
+}

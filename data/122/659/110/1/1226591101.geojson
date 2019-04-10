@@ -1,0 +1,71 @@
+{
+  "id": 1226591101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58333,15.31667,32.58333,15.31667",
+    "geom:latitude":15.31667,
+    "geom:longitude":32.58333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Al `Usharah",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378968,
+    "gn:latitude":15.31667,
+    "gn:longitude":32.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Usharah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Ushara",
+        "Al \u2018Usharah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378968
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cd64dc2604f850662313c112d1218cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707135,
+            "locality_id":1226591101,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1226591101,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al `Usharah",
+    "wof:parent_id":1091707135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58333,
+    15.31667,
+    32.58333,
+    15.31667
+],
+  "geometry": {"coordinates":[32.58333,15.31667],"type":"Point"}
+}

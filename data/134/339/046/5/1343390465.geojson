@@ -1,0 +1,67 @@
+{
+  "id": 1343390465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01624,11.52328,23.01624,11.52328",
+    "geom:latitude":11.52328,
+    "geom:longitude":23.01624,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Danga",
+    "gn:country_code":"SD",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384928,
+    "gn:latitude":11.52328,
+    "gn:longitude":23.01624,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Danga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384928
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9b1ff23d7168b3e52ed4b1cbe57f851f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1343390465,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1343390465,
+    "wof:lastmodified":1536846198,
+    "wof:name":"Danga",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01624,
+    11.52328,
+    23.01624,
+    11.52328
+],
+  "geometry": {"coordinates":[23.01624,11.52328],"type":"Point"}
+}

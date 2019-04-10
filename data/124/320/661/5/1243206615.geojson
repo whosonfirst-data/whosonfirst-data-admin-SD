@@ -1,0 +1,72 @@
+{
+  "id": 1243206615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81667,11.51667,23.81667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":23.81667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Malamm",
+    "gn:country_code":"SD",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370731,
+    "gn:latitude":11.51667,
+    "gn:longitude":23.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malamm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melemm",
+        "Malumm",
+        "Malamm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370731
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e017c277df1beb13e84630b8d382983a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708471,
+            "locality_id":1243206615,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1243206615,
+    "wof:lastmodified":1537699479,
+    "wof:name":"Malamm",
+    "wof:parent_id":1091708471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81667,
+    11.51667,
+    23.81667,
+    11.51667
+],
+  "geometry": {"coordinates":[23.81667,11.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259916961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3874,12.7554,31.3874,12.7554",
+    "geom:latitude":12.7554,
+    "geom:longitude":31.3874,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Musa",
+    "gn:country_code":"SD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028997,
+    "gn:latitude":12.7554,
+    "gn:longitude":31.3874,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028997
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"84ae74e2fa62d14e49e933254742acc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1259916961,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1259916961,
+    "wof:lastmodified":1536731153,
+    "wof:name":"Musa",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3874,
+    12.7554,
+    31.3874,
+    12.7554
+],
+  "geometry": {"coordinates":[31.3874,12.7554],"type":"Point"}
+}

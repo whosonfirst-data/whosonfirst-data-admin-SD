@@ -1,0 +1,304 @@
+{
+  "id": 421171883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3116,14.0012,32.3116,14.0012",
+    "geom:latitude":14.0012,
+    "geom:longitude":32.3116,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0648\u064a\u0645 (\u0645\u062f\u064a\u0646\u0629)"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a1 \u09a1\u09c1\u0987\u09ae"
+    ],
+    "name:dan_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:dut_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:eng_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:eng_x_variant":[
+        "Ad Douiem",
+        "Al Dewaym",
+        "Dewaim",
+        "Ad Duwaym"
+    ],
+    "name:epo_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:fra_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:fre_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bd\u03c4 \u039d\u03c4\u03bf\u03c5\u03ad\u03b9\u03bc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa1 \u0aa1\u0acd\u0aaf\u0ac1\u0a87\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0921  \u0921\u094d\u092f\u0942\u090f\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:ita_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30c7\u30a2\u30a4\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0ca1\u0ccd \u0ca1\u0ccd\u0caf\u0cc1\u0caf\u0cc6\u0cae\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub4dc \ub4a4\uc784"
+    ],
+    "name:lav_x_preferred":[
+        "Eddueima"
+    ],
+    "name:lit_x_preferred":[
+        "El Dejimas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0921 \u0921\u094d\u092f\u0942\u0908\u092e"
+    ],
+    "name:may_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:nob_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u06cc\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Ad-Duwajm"
+    ],
+    "name:por_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:ron_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:rum_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434-\u0414\u0443\u044d\u0439\u043c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0da9\u0dca \u0da9\u0dd4\u0dba\u0dd2\u0db8\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:swe_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0b9f\u0bcd  \u0b9f\u0bc1\u0baf\u0bbf\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c21\u0c4d \u0c21\u0c4d\u0c2f\u0c42\u0c2f\u0c3f\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e14 \u0e14\u0e39\u0e40\u0e2d\u0e35\u0e22\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Ed Dueim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434-\u0414\u0443\u0435\u0439\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Dueim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Ed Dueim"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Sudan",
+    "ne:ADM0_A3":"SDN",
+    "ne:ADM1NAME":"White Nile",
+    "ne:ADMIN1_COD":27,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":380129,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Ad Duwaym",
+    "ne:GN_POP":87068,
+    "ne:GTOPO30":377.0,
+    "ne:ISO_A2":"SD",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":13.990398,
+    "ne:LONGITUDE":32.299982,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ed Dueim",
+    "ne:MAX_AREAKM":19.0,
+    "ne:MAX_AREAMI":7.0,
+    "ne:MAX_BBXMAX":32.325,
+    "ne:MAX_BBXMIN":32.283333,
+    "ne:MAX_BBYMAX":14.033333,
+    "ne:MAX_BBYMIN":13.975,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":24.0,
+    "ne:MAX_PERMI":15.0,
+    "ne:MAX_POP10":22583,
+    "ne:MAX_POP20":22583,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":32.305978,
+    "ne:MEAN_BBYC":14.001993,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":19.0,
+    "ne:MIN_AREAMI":7.0,
+    "ne:MIN_BBXMAX":32.325,
+    "ne:MIN_BBXMIN":32.283333,
+    "ne:MIN_BBYMAX":14.033333,
+    "ne:MIN_BBYMIN":13.975,
+    "ne:MIN_PERKM":24.0,
+    "ne:MIN_PERMI":15.0,
+    "ne:NAME":"Ed Dueim",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ed Dueim",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":87068,
+    "ne:POP_MIN":22583,
+    "ne:POP_OTHER":22583,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Sudan",
+    "ne:SOV_A3":"SDN",
+    "ne:TIMEZONE":"Africa/Khartoum",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":380129,
+    "qs:gn_pop":87068,
+    "qs:name":"Ad Duwem",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u00a0\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0628\u064a\u0636\u200e\u00a0",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":124521,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1430014,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380129,
+        "gp:id":1430014,
+        "qs:id":124521,
+        "wd:id":"Q2501279",
+        "wk:page":"Ed Dueim"
+    },
+    "wof:country":"SD",
+    "wof:created":1459008910,
+    "wof:geomhash":"db2cd2866e9478e5e4fb48269fd739c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":421171883,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":421171883,
+    "wof:lastmodified":1527726494,
+    "wof:name":"Ad Duwem",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:population":87068,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3116,
+    14.0012,
+    32.3116,
+    14.0012
+],
+  "geometry": {"coordinates":[32.3116,14.0012],"type":"Point"}
+}

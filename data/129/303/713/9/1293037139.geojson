@@ -1,0 +1,70 @@
+{
+  "id": 1293037139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5172,12.8311,31.5172,12.8311",
+    "geom:latitude":12.8311,
+    "geom:longitude":31.5172,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Masa`id",
+    "gn:country_code":"SD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029077,
+    "gn:latitude":12.8311,
+    "gn:longitude":31.5172,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mas\u0101\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mas\u0101\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029077
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0c660e19b74e5641e5e8f50dfedb2963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293037139,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293037139,
+    "wof:lastmodified":1537699668,
+    "wof:name":"Al Masa`id",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5172,
+    12.8311,
+    31.5172,
+    12.8311
+],
+  "geometry": {"coordinates":[31.5172,12.8311],"type":"Point"}
+}

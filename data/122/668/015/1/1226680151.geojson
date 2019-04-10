@@ -1,0 +1,70 @@
+{
+  "id": 1226680151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44397,12.72531,23.44397,12.72531",
+    "geom:latitude":12.72531,
+    "geom:longitude":23.44397,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gallabat",
+    "gn:country_code":"SD",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368470,
+    "gn:latitude":12.72531,
+    "gn:longitude":23.44397,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gallabat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qall\u0101b\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368470
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c160bfb1955f93b5abdf917bf4e0e946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709375,
+            "locality_id":1226680151,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1226680151,
+    "wof:lastmodified":1537699466,
+    "wof:name":"Gallabat",
+    "wof:parent_id":1091709375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44397,
+    12.72531,
+    23.44397,
+    12.72531
+],
+  "geometry": {"coordinates":[23.44397,12.72531],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260214391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56667,12.66667,22.56667,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":22.56667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Surmungu",
+    "gn:country_code":"SD",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366624,
+    "gn:latitude":12.66667,
+    "gn:longitude":22.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Surmungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sourmangou",
+        "Surmungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366624
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ee82da557f0883e4be1e78e4be168a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":1260214391,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1260214391,
+    "wof:lastmodified":1537699440,
+    "wof:name":"Surmungu",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56667,
+    12.66667,
+    22.56667,
+    12.66667
+],
+  "geometry": {"coordinates":[22.56667,12.66667],"type":"Point"}
+}

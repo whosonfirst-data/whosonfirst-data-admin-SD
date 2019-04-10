@@ -1,0 +1,67 @@
+{
+  "id": 1260116167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98845,10.73247,29.98845,10.73247",
+    "geom:latitude":10.73247,
+    "geom:longitude":29.98845,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tendila",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366176,
+    "gn:latitude":10.73247,
+    "gn:longitude":29.98845,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tendila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366176
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8bccafb57c2e562e099ec95d5234a882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710275,
+            "locality_id":1260116167,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1260116167,
+    "wof:lastmodified":1536941582,
+    "wof:name":"Tendila",
+    "wof:parent_id":1091710275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98845,
+    10.73247,
+    29.98845,
+    10.73247
+],
+  "geometry": {"coordinates":[29.98845,10.73247],"type":"Point"}
+}

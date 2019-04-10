@@ -1,0 +1,65 @@
+{
+  "id": 1209142203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6,19.15,32.6,19.15",
+    "geom:latitude":19.15,
+    "geom:longitude":32.6,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"At Talab",
+    "gn:country_code":"SD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378177,
+    "gn:latitude":19.15,
+    "gn:longitude":32.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Talab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et Talab",
+        "At Talab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378177
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d51a415b1148f91d1d67d18b43ad2f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142203
+        }
+    ],
+    "wof:id":1209142203,
+    "wof:lastmodified":1537699544,
+    "wof:name":"At Talab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6,
+    19.15,
+    32.6,
+    19.15
+],
+  "geometry": {"coordinates":[32.6,19.15],"type":"Point"}
+}

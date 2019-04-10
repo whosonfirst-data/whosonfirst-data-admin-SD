@@ -1,0 +1,70 @@
+{
+  "id": 1343809563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9673,14.3655,32.9673,14.3655",
+    "geom:latitude":14.3655,
+    "geom:longitude":32.9673,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Zariba",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026517,
+    "gn:latitude":14.3655,
+    "gn:longitude":32.9673,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Zar\u012bba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Zar\u012bba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026517
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7b82d031f3aed95f7f41b0e940fc3b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1343809563,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343809563,
+    "wof:lastmodified":1537699654,
+    "wof:name":"Al Zariba",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9673,
+    14.3655,
+    32.9673,
+    14.3655
+],
+  "geometry": {"coordinates":[32.9673,14.3655],"type":"Point"}
+}

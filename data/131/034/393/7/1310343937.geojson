@@ -1,0 +1,70 @@
+{
+  "id": 1310343937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2991,14.3936,33.2991,14.3936",
+    "geom:latitude":14.3936,
+    "geom:longitude":33.2991,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Saraya Tamantashar",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026443,
+    "gn:latitude":14.3936,
+    "gn:longitude":33.2991,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u015ear\u0101ya Taman\u0163ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015ear\u0101ya Taman\u0163ashar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026443
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4c9ac5207dc5f6fd55932f9ac1d83088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1310343937,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310343937,
+    "wof:lastmodified":1537699652,
+    "wof:name":"Saraya Tamantashar",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2991,
+    14.3936,
+    33.2991,
+    14.3936
+],
+  "geometry": {"coordinates":[33.2991,14.3936],"type":"Point"}
+}

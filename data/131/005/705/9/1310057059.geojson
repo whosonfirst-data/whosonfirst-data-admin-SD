@@ -1,0 +1,71 @@
+{
+  "id": 1310057059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3668,14.9934,33.3668,14.9934",
+    "geom:latitude":14.9934,
+    "geom:longitude":33.3668,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Alfadul",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364169,
+    "gn:latitude":14.9934,
+    "gn:longitude":33.3668,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Alfa\u1e11ul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Fadl",
+        "Wad Alfa\u1e11ul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364169
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6661e1cb0e1b9454d796dd48b11ecbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1310057059,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310057059,
+    "wof:lastmodified":1537699404,
+    "wof:name":"Wad Alfadul",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3668,
+    14.9934,
+    33.3668,
+    14.9934
+],
+  "geometry": {"coordinates":[33.3668,14.9934],"type":"Point"}
+}

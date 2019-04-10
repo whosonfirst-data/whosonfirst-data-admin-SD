@@ -1,0 +1,71 @@
+{
+  "id": 1226783933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23333,12.98333,30.23333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":30.23333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"`Amarah",
+    "gn:country_code":"SD",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378929,
+    "gn:latitude":12.98333,
+    "gn:longitude":30.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Am\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Amara",
+        "\u2018Am\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378929
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"04e0a86867cbdf2382a1e85b7cda9531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1226783933,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1226783933,
+    "wof:lastmodified":1537699557,
+    "wof:name":"`Amarah",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23333,
+    12.98333,
+    30.23333,
+    12.98333
+],
+  "geometry": {"coordinates":[30.23333,12.98333],"type":"Point"}
+}

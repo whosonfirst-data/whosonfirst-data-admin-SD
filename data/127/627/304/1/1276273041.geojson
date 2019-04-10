@@ -1,0 +1,67 @@
+{
+  "id": 1276273041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1972,14.1863,33.1972,14.1863",
+    "geom:latitude":14.1863,
+    "geom:longitude":33.1972,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Dighenat",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026682,
+    "gn:latitude":14.1863,
+    "gn:longitude":33.1972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Dighenat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026682
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"83fa974babf7e0c64cc8a7c0db0d3612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1276273041,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276273041,
+    "wof:lastmodified":1536858220,
+    "wof:name":"Um Dighenat",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1972,
+    14.1863,
+    33.1972,
+    14.1863
+],
+  "geometry": {"coordinates":[33.1972,14.1863],"type":"Point"}
+}

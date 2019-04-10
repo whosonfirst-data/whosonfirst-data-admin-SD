@@ -1,0 +1,71 @@
+{
+  "id": 1243009435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,12.21667,31.06667,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Indasseina",
+    "gn:country_code":"SD",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373547,
+    "gn:latitude":12.21667,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Indasseina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Undesseina",
+        "Indasseina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373547
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"73dfd68b25a42d8d4e1a60237a4568fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710547,
+            "locality_id":1243009435,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1243009435,
+    "wof:lastmodified":1537699502,
+    "wof:name":"Indasseina",
+    "wof:parent_id":1091710547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    12.21667,
+    31.06667,
+    12.21667
+],
+  "geometry": {"coordinates":[31.06667,12.21667],"type":"Point"}
+}

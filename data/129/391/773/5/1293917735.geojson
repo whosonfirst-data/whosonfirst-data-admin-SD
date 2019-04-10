@@ -1,0 +1,70 @@
+{
+  "id": 1293917735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0854,12.7988,33.0854,12.7988",
+    "geom:latitude":12.7988,
+    "geom:longitude":33.0854,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Hattab",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029286,
+    "gn:latitude":12.7988,
+    "gn:longitude":33.0854,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e28a\u0163\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28a\u0163\u0163\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029286
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"56e2715e8817b6bb35f4202e811a2031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1293917735,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293917735,
+    "wof:lastmodified":1537699674,
+    "wof:name":"Al Hattab",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0854,
+    12.7988,
+    33.0854,
+    12.7988
+],
+  "geometry": {"coordinates":[33.0854,12.7988],"type":"Point"}
+}

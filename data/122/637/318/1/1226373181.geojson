@@ -1,0 +1,67 @@
+{
+  "id": 1226373181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70478,10.945,24.70478,10.945",
+    "geom:latitude":10.945,
+    "geom:longitude":24.70478,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Qanatir",
+    "gn:country_code":"SD",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147395,
+    "gn:latitude":10.945,
+    "gn:longitude":24.70478,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Umm Qanatir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147395
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6ae7d1e326033f183fb09f2a0e5560bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706009,
+            "locality_id":1226373181,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226373181,
+    "wof:lastmodified":1536750052,
+    "wof:name":"Umm Qanatir",
+    "wof:parent_id":1091706009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70478,
+    10.945,
+    24.70478,
+    10.945
+],
+  "geometry": {"coordinates":[24.70478,10.945],"type":"Point"}
+}

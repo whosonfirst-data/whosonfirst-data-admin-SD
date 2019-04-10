@@ -1,0 +1,67 @@
+{
+  "id": 1260114799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69485,14.14011,22.69485,14.14011",
+    "geom:latitude":14.14011,
+    "geom:longitude":22.69485,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Nukuna",
+    "gn:country_code":"SD",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385277,
+    "gn:latitude":14.14011,
+    "gn:longitude":22.69485,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Nukuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385277
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ec2f5784c18c2b474a623f4c3c6c90d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1260114799,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1260114799,
+    "wof:lastmodified":1536943528,
+    "wof:name":"Nukuna",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69485,
+    14.14011,
+    22.69485,
+    14.14011
+],
+  "geometry": {"coordinates":[22.69485,14.14011],"type":"Point"}
+}

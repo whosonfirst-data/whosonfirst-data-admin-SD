@@ -1,0 +1,71 @@
+{
+  "id": 1226472731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84238,14.49816,22.84238,14.49816",
+    "geom:latitude":14.49816,
+    "geom:longitude":22.84238,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"`Idd es Semi",
+    "gn:country_code":"SD",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373613,
+    "gn:latitude":14.49816,
+    "gn:longitude":22.84238,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u2018Idd es Semi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Idd es Semi",
+        "\u2018Idd as Sami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373613
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2cc451590a4aaa4c6d6ac7dcc91b4cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1226472731,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1226472731,
+    "wof:lastmodified":1537699502,
+    "wof:name":"`Idd es Semi",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84238,
+    14.49816,
+    22.84238,
+    14.49816
+],
+  "geometry": {"coordinates":[22.84238,14.49816],"type":"Point"}
+}

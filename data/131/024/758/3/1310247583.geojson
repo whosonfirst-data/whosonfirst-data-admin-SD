@@ -1,0 +1,71 @@
+{
+  "id": 1310247583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18333,14.11667,33.18333,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":33.18333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Burghul",
+    "gn:country_code":"SD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377077,
+    "gn:latitude":14.11667,
+    "gn:longitude":33.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Burgh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barghul",
+        "Burgh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377077
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ccc0d5fa3894097c9373b807cc06b9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1310247583,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310247583,
+    "wof:lastmodified":1537699532,
+    "wof:name":"Burghul",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18333,
+    14.11667,
+    33.18333,
+    14.11667
+],
+  "geometry": {"coordinates":[33.18333,14.11667],"type":"Point"}
+}

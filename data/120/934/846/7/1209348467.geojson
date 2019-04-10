@@ -1,0 +1,61 @@
+{
+  "id": 1209348467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,15.15,35.76667,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Faras East",
+    "gn:country_code":"SD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375488,
+    "gn:latitude":15.15,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Faras East",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375488
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b686649108a6c630fcb7a71520be0f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209348467
+        }
+    ],
+    "wof:id":1209348467,
+    "wof:lastmodified":1536289829,
+    "wof:name":"Faras East",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    15.15,
+    35.76667,
+    15.15
+],
+  "geometry": {"coordinates":[35.76667,15.15],"type":"Point"}
+}

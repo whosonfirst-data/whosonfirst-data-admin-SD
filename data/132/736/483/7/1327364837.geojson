@@ -1,0 +1,70 @@
+{
+  "id": 1327364837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99197,9.78856,26.99197,9.78856",
+    "geom:latitude":9.78856,
+    "geom:longitude":26.99197,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ajuwok",
+    "gn:country_code":"SD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613035,
+    "gn:latitude":9.78856,
+    "gn:longitude":26.99197,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ajuwok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ajuwok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091710883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613035
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ea173f2983c24e661438ade155bf9970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710883,
+            "locality_id":1327364837,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1327364837,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Ajuwok",
+    "wof:parent_id":1091710883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99197,
+    9.78856,
+    26.99197,
+    9.78856
+],
+  "geometry": {"coordinates":[26.99197,9.78856],"type":"Point"}
+}

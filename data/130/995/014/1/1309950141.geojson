@@ -1,0 +1,73 @@
+{
+  "id": 1309950141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6324,18.2194,35.6324,18.2194",
+    "geom:latitude":18.2194,
+    "geom:longitude":35.6324,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Musmar",
+    "gn:country_code":"SD",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369992,
+    "gn:latitude":18.2194,
+    "gn:longitude":35.6324,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Musm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Musm\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Mism\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091707095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369992
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"18ed1b2c987c2998c051728e420ee701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707095,
+            "locality_id":1309950141,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1309950141,
+    "wof:lastmodified":1537699474,
+    "wof:name":"Musmar",
+    "wof:parent_id":1091707095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6324,
+    18.2194,
+    35.6324,
+    18.2194
+],
+  "geometry": {"coordinates":[35.6324,18.2194],"type":"Point"}
+}

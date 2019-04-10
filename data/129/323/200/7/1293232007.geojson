@@ -1,0 +1,89 @@
+{
+  "id": 1293232007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9137,9.82483,27.9137,9.82483",
+    "geom:latitude":9.82483,
+    "geom:longitude":27.9137,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Adama Umm Qurein",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380269,
+    "gn:latitude":9.82483,
+    "gn:longitude":27.9137,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Adama Umm Qurein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "War Yurt",
+        "Adama Umm Qurein",
+        "Adama Umm Qurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711067,
+        85632657,
+        85676965,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380269
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"98d0daa113e30be0bf8fa9f86e0f8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1293232007,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091711067,
+            "locality_id":1293232007,
+            "region_id":85676965
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1293232007,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293232007,
+    "wof:lastmodified":1537699592,
+    "wof:name":"Adama Umm Qurein",
+    "wof:parent_id":1091711067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9137,
+    9.82483,
+    27.9137,
+    9.82483
+],
+  "geometry": {"coordinates":[27.9137,9.82483],"type":"Point"}
+}

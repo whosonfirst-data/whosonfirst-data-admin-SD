@@ -1,0 +1,67 @@
+{
+  "id": 1293424635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55,12.65,25.55,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":25.55,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Arid",
+    "gn:country_code":"SD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378533,
+    "gn:latitude":12.65,
+    "gn:longitude":25.55,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Arid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378533
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7a182216e326faaadcc1312ead50dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1293424635,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1293424635,
+    "wof:lastmodified":1536876795,
+    "wof:name":"Arid",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55,
+    12.65,
+    25.55,
+    12.65
+],
+  "geometry": {"coordinates":[25.55,12.65],"type":"Point"}
+}

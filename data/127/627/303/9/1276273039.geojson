@@ -1,0 +1,70 @@
+{
+  "id": 1276273039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.075,14.3539,33.075,14.3539",
+    "geom:latitude":14.3539,
+    "geom:longitude":33.075,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hakkab",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026414,
+    "gn:latitude":14.3539,
+    "gn:longitude":33.075,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hakk\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hakk\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026414
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2d607a60de63941832df35ec20d252e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1276273039,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276273039,
+    "wof:lastmodified":1537699651,
+    "wof:name":"Hakkab",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.075,
+    14.3539,
+    33.075,
+    14.3539
+],
+  "geometry": {"coordinates":[33.075,14.3539],"type":"Point"}
+}

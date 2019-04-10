@@ -1,0 +1,71 @@
+{
+  "id": 1243009019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,14.48333,31.1,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Humayrah",
+    "gn:country_code":"SD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364978,
+    "gn:latitude":14.48333,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u1e28umayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Humeira",
+        "Umm \u1e28umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364978
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"958261b6ce370111df233fab0e823be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1243009019,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243009019,
+    "wof:lastmodified":1537699424,
+    "wof:name":"Umm Humayrah",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    14.48333,
+    31.1,
+    14.48333
+],
+  "geometry": {"coordinates":[31.1,14.48333],"type":"Point"}
+}

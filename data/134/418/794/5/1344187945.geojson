@@ -1,0 +1,70 @@
+{
+  "id": 1344187945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.687,12.8789,31.687,12.8789",
+    "geom:latitude":12.8789,
+    "geom:longitude":31.687,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Takkal 'Ajbar",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029095,
+    "gn:latitude":12.8789,
+    "gn:longitude":31.687,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Takk\u0101l \u2019Ajbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takk\u0101l \u2019Ajbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029095
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"50f5560c955e87feb1453c055a6e7a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1344187945,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1344187945,
+    "wof:lastmodified":1537699669,
+    "wof:name":"Takkal 'Ajbar",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.687,
+    12.8789,
+    31.687,
+    12.8789
+],
+  "geometry": {"coordinates":[31.687,12.8789],"type":"Point"}
+}

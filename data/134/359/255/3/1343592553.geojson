@@ -1,0 +1,71 @@
+{
+  "id": 1343592553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63333,11.61667,26.63333,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":26.63333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"`Iyal an Naji",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373477,
+    "gn:latitude":11.61667,
+    "gn:longitude":26.63333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"\u2018Iy\u0101l an N\u0101j\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Iyal en Nagi",
+        "\u2018Iy\u0101l an N\u0101j\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091705605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373477
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"719ddf1418b1404fa880842c99315890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705605,
+            "locality_id":1343592553,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1343592553,
+    "wof:lastmodified":1537699502,
+    "wof:name":"`Iyal an Naji",
+    "wof:parent_id":1091705605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63333,
+    11.61667,
+    26.63333,
+    11.61667
+],
+  "geometry": {"coordinates":[26.63333,11.61667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360016967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.10031,11.5571,23.10031,11.5571",
+    "geom:latitude":11.5571,
+    "geom:longitude":23.10031,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kabar",
+    "gn:country_code":"SD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373213,
+    "gn:latitude":11.5571,
+    "gn:longitude":23.10031,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kabar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubur",
+        "Kubar",
+        "Kabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373213
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"72f5a22bebb4e3a1076b2e57fa5f8f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1360016967,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1360016967,
+    "wof:lastmodified":1537699497,
+    "wof:name":"Kabar",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10031,
+    11.5571,
+    23.10031,
+    11.5571
+],
+  "geometry": {"coordinates":[23.10031,11.5571],"type":"Point"}
+}

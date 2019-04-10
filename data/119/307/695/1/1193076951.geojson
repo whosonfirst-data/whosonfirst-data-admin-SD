@@ -1,0 +1,67 @@
+{
+  "id": 1193076951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9093,18.3343,37.9093,18.3343",
+    "geom:latitude":18.3343,
+    "geom:longitude":37.9093,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hillat Noh",
+    "gn:country_code":"SD",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010918,
+    "gn:latitude":18.3343,
+    "gn:longitude":37.9093,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Noh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091708733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010918
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e39c7903328fc0089489ecbc04f12217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708733,
+            "locality_id":1193076951,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1193076951,
+    "wof:lastmodified":1536363633,
+    "wof:name":"Hillat Noh",
+    "wof:parent_id":1091708733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9093,
+    18.3343,
+    37.9093,
+    18.3343
+],
+  "geometry": {"coordinates":[37.9093,18.3343],"type":"Point"}
+}

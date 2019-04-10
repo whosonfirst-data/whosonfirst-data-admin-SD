@@ -1,0 +1,67 @@
+{
+  "id": 1209348191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25626,13.77183,22.25626,13.77183",
+    "geom:latitude":13.77183,
+    "geom:longitude":22.25626,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Abu Shugeira",
+    "gn:country_code":"SD",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380486,
+    "gn:latitude":13.77183,
+    "gn:longitude":22.25626,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Abu Shugeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abu Shugeira"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Shugeira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380486
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8e717744ad77c25fca5021e4df663d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209348191
+        }
+    ],
+    "wof:id":1209348191,
+    "wof:lastmodified":1537699593,
+    "wof:name":"Abu Shugeira",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25626,
+    13.77183,
+    22.25626,
+    13.77183
+],
+  "geometry": {"coordinates":[22.25626,13.77183],"type":"Point"}
+}

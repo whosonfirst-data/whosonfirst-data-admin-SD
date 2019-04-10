@@ -1,0 +1,80 @@
+{
+  "id": 1243009067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45,12.36667,27.45,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":27.45,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Al Ait",
+    "gn:country_code":"SD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379736,
+    "gn:latitude":12.36667,
+    "gn:longitude":27.45,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Ait",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ait",
+        "Al Ait"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706783,
+        85676925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379736,
+        "wk:page":"El_Ait"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d22e39e6ecbdbac8422beb66605cdaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1243009067,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1243009067,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243009067,
+    "wof:lastmodified":1537699586,
+    "wof:name":"Al Ait",
+    "wof:parent_id":1091706783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45,
+    12.36667,
+    27.45,
+    12.36667
+],
+  "geometry": {"coordinates":[27.45,12.36667],"type":"Point"}
+}

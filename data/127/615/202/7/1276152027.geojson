@@ -1,0 +1,67 @@
+{
+  "id": 1276152027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68333,12.16667,25.68333,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":25.68333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Beringil",
+    "gn:country_code":"SD",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377457,
+    "gn:latitude":12.16667,
+    "gn:longitude":25.68333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Beringil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377457
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"de911f3f5d1eda3cf2f9ddabcd45cbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1276152027,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1276152027,
+    "wof:lastmodified":1537020804,
+    "wof:name":"Beringil",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68333,
+    12.16667,
+    25.68333,
+    12.16667
+],
+  "geometry": {"coordinates":[25.68333,12.16667],"type":"Point"}
+}

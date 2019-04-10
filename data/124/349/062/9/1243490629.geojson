@@ -1,0 +1,70 @@
+{
+  "id": 1243490629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3731,13.9641,32.3731,13.9641",
+    "geom:latitude":13.9641,
+    "geom:longitude":32.3731,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Taqra`",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018692,
+    "gn:latitude":13.9641,
+    "gn:longitude":32.3731,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taqra\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taqra\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018692
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e725fddfb631c9ac762cf0e1ea9c975a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1243490629,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243490629,
+    "wof:lastmodified":1537699630,
+    "wof:name":"Taqra`",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3731,
+    13.9641,
+    32.3731,
+    13.9641
+],
+  "geometry": {"coordinates":[32.3731,13.9641],"type":"Point"}
+}

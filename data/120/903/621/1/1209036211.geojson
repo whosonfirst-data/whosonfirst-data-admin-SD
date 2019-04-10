@@ -1,0 +1,64 @@
+{
+  "id": 1209036211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15627,13.1358,22.15627,13.1358",
+    "geom:latitude":13.1358,
+    "geom:longitude":22.15627,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ndokoru",
+    "gn:country_code":"SD",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369289,
+    "gn:latitude":13.1358,
+    "gn:longitude":22.15627,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ndokoru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndokoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369289
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"195438d82ec19cc57e64599d68cdbbc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209036211
+        }
+    ],
+    "wof:id":1209036211,
+    "wof:lastmodified":1537699469,
+    "wof:name":"Ndokoru",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15627000000001,
+    13.1358,
+    22.15627000000001,
+    13.1358
+],
+  "geometry": {"coordinates":[22.15627000000001,13.1358],"type":"Point"}
+}

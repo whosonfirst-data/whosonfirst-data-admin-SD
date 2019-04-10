@@ -1,0 +1,64 @@
+{
+  "id": 1209651711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44,15.7052,35.44,15.7052",
+    "geom:latitude":15.7052,
+    "geom:longitude":35.44,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Maktab al Sab`at",
+    "gn:country_code":"SD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024495,
+    "gn:latitude":15.7052,
+    "gn:longitude":35.44,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maktab al Sab\u2018at",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maktab al Sab\u2018at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024495
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6dd402e3fbeee21e72375e30723a5268",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209651711
+        }
+    ],
+    "wof:id":1209651711,
+    "wof:lastmodified":1537699634,
+    "wof:name":"Maktab al Sab`at",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44,
+    15.7052,
+    35.44,
+    15.7052
+],
+  "geometry": {"coordinates":[35.44,15.7052],"type":"Point"}
+}

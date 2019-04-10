@@ -1,0 +1,75 @@
+{
+  "id": 1276157783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8008,12.5904,32.8008,12.5904",
+    "geom:latitude":12.5904,
+    "geom:longitude":32.8008,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Aj Jabalen",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379343,
+    "gn:latitude":12.5904,
+    "gn:longitude":32.8008,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Aj Jabalen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jebelein",
+        "El Jebelein",
+        "Al Jabalayn",
+        "Aj Jabalen",
+        "\u0627\u0644\u062c\u0628\u0644\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379343,
+        "wk:page":"Al_Jabalayn"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1863b47f84e72f0de8f0dd5cda1f0c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1276157783,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276157783,
+    "wof:lastmodified":1537699573,
+    "wof:name":"Aj Jabalen",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8008,
+    12.5904,
+    32.8008,
+    12.5904
+],
+  "geometry": {"coordinates":[32.8008,12.5904],"type":"Point"}
+}

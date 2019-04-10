@@ -1,0 +1,71 @@
+{
+  "id": 1193055123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33184,11.90674,23.33184,11.90674",
+    "geom:latitude":11.90674,
+    "geom:longitude":23.33184,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Merli",
+    "gn:country_code":"SD",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":370134,
+    "gn:latitude":11.90674,
+    "gn:longitude":23.33184,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Merli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Menli",
+        "Merli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370134
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f21a976c83d957f68a8117fd9f6459ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707841,
+            "locality_id":1193055123,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1193055123,
+    "wof:lastmodified":1537699475,
+    "wof:name":"Merli",
+    "wof:parent_id":1091707841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33184,
+    11.90674,
+    23.33184,
+    11.90674
+],
+  "geometry": {"coordinates":[23.33184,11.90674],"type":"Point"}
+}

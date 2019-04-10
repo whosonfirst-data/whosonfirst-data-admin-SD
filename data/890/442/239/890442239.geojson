@@ -1,0 +1,93 @@
+{
+  "id": 890442239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65,12.05,29.65,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":29.65,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
+    "gn:pop":37113,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0644\u0646\u062c"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043b\u0438\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Dalang"
+    ],
+    "name:eng_x_preferred":[
+        "Dalang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30ea\u30f3\u30b0"
+    ],
+    "name:pol_x_preferred":[
+        "Ad-Dillind\u017c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u043b\u0438\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Ad Dalanj"
+    ],
+    "qs:name":"Dilling",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376450,
+        "gp:id":1431823,
+        "qs:id":274940,
+        "wd:id":"Q5210211",
+        "wk:page":"Dilling"
+    },
+    "wof:country":"SD",
+    "wof:created":1469052355,
+    "wof:geomhash":"c0c19e1208ca4ffd71d5604dbdbd5a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709977,
+            "locality_id":890442239,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":890442239,
+    "wof:lastmodified":1527792858,
+    "wof:name":"Dilling",
+    "wof:parent_id":1091709977,
+    "wof:placetype":"locality",
+    "wof:population":37113,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65,
+    12.05,
+    29.65,
+    12.05
+],
+  "geometry": {"coordinates":[29.65,12.05],"type":"Point"}
+}

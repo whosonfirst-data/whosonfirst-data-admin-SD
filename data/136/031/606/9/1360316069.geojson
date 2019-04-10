@@ -1,0 +1,67 @@
+{
+  "id": 1360316069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23333,13.7,32.23333,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":32.23333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Umm Inderaba",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364968,
+    "gn:latitude":13.7,
+    "gn:longitude":32.23333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm Inderaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364968
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"03840357a60b8be7199eb913f9a6c3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1360316069,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1360316069,
+    "wof:lastmodified":1536609833,
+    "wof:name":"Umm Inderaba",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23333,
+    13.7,
+    32.23333,
+    13.7
+],
+  "geometry": {"coordinates":[32.23333,13.7],"type":"Point"}
+}

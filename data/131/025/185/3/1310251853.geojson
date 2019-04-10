@@ -1,0 +1,67 @@
+{
+  "id": 1310251853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83333,15.4,32.83333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":32.83333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hawila",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373918,
+    "gn:latitude":15.4,
+    "gn:longitude":32.83333,
+    "gn:modification_date":"1993-09-24",
+    "gn:name":"Hawila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373918
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"47d2e8ad96e9bf8dc2080d0f01d6a181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1310251853,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1310251853,
+    "wof:lastmodified":1536785852,
+    "wof:name":"Hawila",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83333,
+    15.4,
+    32.83333,
+    15.4
+],
+  "geometry": {"coordinates":[32.83333,15.4],"type":"Point"}
+}

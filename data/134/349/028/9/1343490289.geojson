@@ -1,0 +1,67 @@
+{
+  "id": 1343490289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7323,14.7453,32.7323,14.7453",
+    "geom:latitude":14.7453,
+    "geom:longitude":32.7323,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Khilef",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983286,
+    "gn:latitude":14.7453,
+    "gn:longitude":32.7323,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Khilef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983286
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6a81bd9c0dd0fccf1c485e1aefea8286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1343490289,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343490289,
+    "wof:lastmodified":1536703508,
+    "wof:name":"Khilef",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7323,
+    14.7453,
+    32.7323,
+    14.7453
+],
+  "geometry": {"coordinates":[32.7323,14.7453],"type":"Point"}
+}

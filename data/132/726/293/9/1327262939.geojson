@@ -1,0 +1,73 @@
+{
+  "id": 1327262939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0074,14.04278,36.0074,14.04278",
+    "geom:latitude":14.04278,
+    "geom:longitude":36.0074,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad al Ammas",
+    "gn:country_code":"SD",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364306,
+    "gn:latitude":14.04278,
+    "gn:longitude":36.0074,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad al Ammas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad el Ammas",
+        "Vad el Ammas",
+        "El Gezair",
+        "Wad al Ammas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364306
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"34957d55521eedf3e411d8372453ad1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705443,
+            "locality_id":1327262939,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1327262939,
+    "wof:lastmodified":1537699410,
+    "wof:name":"Wad al Ammas",
+    "wof:parent_id":1091705443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0074,
+    14.04278,
+    36.0074,
+    14.04278
+],
+  "geometry": {"coordinates":[36.0074,14.04278],"type":"Point"}
+}

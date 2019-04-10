@@ -1,0 +1,72 @@
+{
+  "id": 1327169209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1008,12.8737,31.1008,12.8737",
+    "geom:latitude":12.8737,
+    "geom:longitude":31.1008,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ku` Namusa",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372061,
+    "gn:latitude":12.8737,
+    "gn:longitude":31.1008,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016b\u2018 N\u0101musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koanamusa",
+        "K\u016b\u2018 an N\u0101m\u016bsah",
+        "K\u016b\u2018 N\u0101musa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372061
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cd514cdfc15afcc09a08403caa196532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1327169209,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327169209,
+    "wof:lastmodified":1537699487,
+    "wof:name":"Ku` Namusa",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1008,
+    12.8737,
+    31.1008,
+    12.8737
+],
+  "geometry": {"coordinates":[31.1008,12.8737],"type":"Point"}
+}

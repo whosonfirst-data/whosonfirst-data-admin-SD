@@ -1,0 +1,67 @@
+{
+  "id": 1277119351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0081,14.3912,33.0081,14.3912",
+    "geom:latitude":14.3912,
+    "geom:longitude":33.0081,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abraq",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381057,
+    "gn:latitude":14.3912,
+    "gn:longitude":33.0081,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381057
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"09ad78717a2b34b4ad68406327f9102a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1277119351,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277119351,
+    "wof:lastmodified":1536715222,
+    "wof:name":"Abraq",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0081,
+    14.3912,
+    33.0081,
+    14.3912
+],
+  "geometry": {"coordinates":[33.0081,14.3912],"type":"Point"}
+}

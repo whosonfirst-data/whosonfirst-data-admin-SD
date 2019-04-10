@@ -1,0 +1,64 @@
+{
+  "id": 1209646591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77137,11.00502,31.77137,11.00502",
+    "geom:latitude":11.00502,
+    "geom:longitude":31.77137,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Gedeid",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373293,
+    "gn:latitude":11.00502,
+    "gn:longitude":31.77137,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gedeid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Judayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373293
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"022dc46c997e18c4edf77874a6ccbcd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209646591
+        }
+    ],
+    "wof:id":1209646591,
+    "wof:lastmodified":1537699499,
+    "wof:name":"Gedeid",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77137,
+    11.00502,
+    31.77137,
+    11.00502
+],
+  "geometry": {"coordinates":[31.77137,11.00502],"type":"Point"}
+}

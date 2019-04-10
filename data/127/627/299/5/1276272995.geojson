@@ -1,0 +1,67 @@
+{
+  "id": 1276272995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2425,15.06556,33.2425,15.06556",
+    "geom:latitude":15.06556,
+    "geom:longitude":33.2425,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tabi",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366571,
+    "gn:latitude":15.06556,
+    "gn:longitude":33.2425,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Tabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366571
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5821ec24115956e277ba5c4addfda655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1276272995,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276272995,
+    "wof:lastmodified":1536858281,
+    "wof:name":"Tabi",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2425,
+    15.06556,
+    33.2425,
+    15.06556
+],
+  "geometry": {"coordinates":[33.2425,15.06556],"type":"Point"}
+}

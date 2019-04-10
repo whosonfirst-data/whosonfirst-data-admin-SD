@@ -1,0 +1,66 @@
+{
+  "id": 1209251675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4109,12.7966,31.4109,12.7966",
+    "geom:latitude":12.7966,
+    "geom:longitude":31.4109,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Shurkela",
+    "gn:country_code":"SD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367239,
+    "gn:latitude":12.7966,
+    "gn:longitude":31.4109,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shurkela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sherkeila",
+        "Sharkaylah",
+        "Shurkela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367239
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f1ec6b412f9646de0c2595a449a86eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209251675
+        }
+    ],
+    "wof:id":1209251675,
+    "wof:lastmodified":1537699449,
+    "wof:name":"Shurkela",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4109,
+    12.7966,
+    31.4109,
+    12.7966
+],
+  "geometry": {"coordinates":[31.4109,12.7966],"type":"Point"}
+}

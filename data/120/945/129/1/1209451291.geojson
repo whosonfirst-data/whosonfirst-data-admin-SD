@@ -1,0 +1,65 @@
+{
+  "id": 1209451291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,12.08333,31.25,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Qunburayah",
+    "gn:country_code":"SD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368348,
+    "gn:latitude":12.08333,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qunbur\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumberaia",
+        "Qunbur\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368348
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0816a135eb33bd1e7b70afc97ad01bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209451291
+        }
+    ],
+    "wof:id":1209451291,
+    "wof:lastmodified":1537699462,
+    "wof:name":"Qunburayah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    12.08333,
+    31.25,
+    12.08333
+],
+  "geometry": {"coordinates":[31.25,12.08333],"type":"Point"}
+}

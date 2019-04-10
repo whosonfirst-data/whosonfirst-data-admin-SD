@@ -1,0 +1,61 @@
+{
+  "id": 1209348251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5099,14.7861,32.5099,14.7861",
+    "geom:latitude":14.7861,
+    "geom:longitude":32.5099,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Midests",
+    "gn:country_code":"SD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983290,
+    "gn:latitude":14.7861,
+    "gn:longitude":32.5099,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Midests",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983290
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3e0b7dfc509ee0ec898ba4b241c3413c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209348251
+        }
+    ],
+    "wof:id":1209348251,
+    "wof:lastmodified":1536289836,
+    "wof:name":"Midests",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5099,
+    14.7861,
+    32.5099,
+    14.7861
+],
+  "geometry": {"coordinates":[32.5099,14.7861],"type":"Point"}
+}

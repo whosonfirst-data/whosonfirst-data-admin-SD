@@ -1,0 +1,64 @@
+{
+  "id": 1209349055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36995,12.88356,23.36995,12.88356",
+    "geom:latitude":12.88356,
+    "geom:longitude":23.36995,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Leili",
+    "gn:country_code":"SD",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371503,
+    "gn:latitude":12.88356,
+    "gn:longitude":23.36995,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Leili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Layl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371503
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4f95410d0317da53fbfe86f31c421e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209349055
+        }
+    ],
+    "wof:id":1209349055,
+    "wof:lastmodified":1537699482,
+    "wof:name":"Leili",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36995,
+    12.88356,
+    23.36995,
+    12.88356
+],
+  "geometry": {"coordinates":[23.36995,12.88356],"type":"Point"}
+}

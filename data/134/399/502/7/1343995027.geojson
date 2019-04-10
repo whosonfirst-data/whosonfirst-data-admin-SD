@@ -1,0 +1,80 @@
+{
+  "id": 1343995027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12822,13.72635,22.12822,13.72635",
+    "geom:latitude":13.72635,
+    "geom:longitude":22.12822,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tieri",
+    "gn:country_code":"SD",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366038,
+    "gn:latitude":13.72635,
+    "gn:longitude":22.12822,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Tieri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tieri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366038
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5b65788a935bfbf39bc291f27f766acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1343995027,
+            "region_id":85676881
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1343995027,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343995027,
+    "wof:lastmodified":1537699436,
+    "wof:name":"Tieri",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12822,
+    13.72635,
+    22.12822,
+    13.72635
+],
+  "geometry": {"coordinates":[22.12822,13.72635],"type":"Point"}
+}

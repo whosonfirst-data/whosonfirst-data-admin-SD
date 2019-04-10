@@ -1,0 +1,72 @@
+{
+  "id": 1293620069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46172,14.36468,22.46172,14.36468",
+    "geom:latitude":14.36468,
+    "geom:longitude":22.46172,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Koulbous",
+    "gn:cc2":"TD",
+    "gn:country_code":"SD",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243097,
+    "gn:latitude":14.36468,
+    "gn:longitude":22.46172,
+    "gn:modification_date":"2012-02-11",
+    "gn:name":"Koulbous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulbus",
+        "Koulbous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243097
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c20a4e48b7b138cbb6a707c2da293d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1293620069,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1293620069,
+    "wof:lastmodified":1537699397,
+    "wof:name":"Koulbous",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46172,
+    14.36468,
+    22.46172,
+    14.36468
+],
+  "geometry": {"coordinates":[22.46172,14.36468],"type":"Point"}
+}

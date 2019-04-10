@@ -1,0 +1,67 @@
+{
+  "id": 1310148545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,14.21667,33.31667,14.21667",
+    "geom:latitude":14.21667,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Umm Kamadu",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364927,
+    "gn:latitude":14.21667,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm Kamadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364927
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7d524063151e73980f88c37b8fbb5537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1310148545,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310148545,
+    "wof:lastmodified":1536935290,
+    "wof:name":"Umm Kamadu",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    14.21667,
+    33.31667,
+    14.21667
+],
+  "geometry": {"coordinates":[33.31667,14.21667],"type":"Point"}
+}

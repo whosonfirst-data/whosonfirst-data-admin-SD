@@ -1,0 +1,115 @@
+{
+  "id": 421198573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28333,10.55,34.28333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":34.28333,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0645\u0643"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0440\u043c\u0443\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:dut_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:eng_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:fra_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:fre_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05de\u05d5\u05e7"
+    ],
+    "name:ita_x_preferred":[
+        "Kurmuk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30e0\u30af"
+    ],
+    "name:unk_x_variant":[
+        "Kurmul"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":371827,
+    "qs:gn_pop":10375,
+    "qs:name":"Kurmuk",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":183626,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1433873,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":413,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371827,
+        "gp:id":1433873,
+        "qs:id":183626,
+        "wd:id":"Q2329622",
+        "wk:page":"Kurmuk"
+    },
+    "wof:country":"SD",
+    "wof:created":1459009953,
+    "wof:geomhash":"62634974aa452a955490627cbade1338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":421198573,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":421198573,
+    "wof:lastmodified":1527716353,
+    "wof:name":"Kurmuk",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:population":10375,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28333,
+    10.55,
+    34.28333,
+    10.55
+],
+  "geometry": {"coordinates":[34.28333,10.55],"type":"Point"}
+}

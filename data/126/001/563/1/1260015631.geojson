@@ -1,0 +1,70 @@
+{
+  "id": 1260015631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8259,12.9356,32.8259,12.9356",
+    "geom:latitude":12.9356,
+    "geom:longitude":32.8259,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Az Zi`ef Sibeq",
+    "gn:country_code":"SD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854159,
+    "gn:latitude":12.9356,
+    "gn:longitude":32.8259,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Az Zi\u2018ef Sibeq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az Zi\u2018ef Sibeq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854159
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"29aaa43c1a17a376bf73d340c33e748c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1260015631,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1260015631,
+    "wof:lastmodified":1537699614,
+    "wof:name":"Az Zi`ef Sibeq",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8259,
+    12.9356,
+    32.8259,
+    12.9356
+],
+  "geometry": {"coordinates":[32.8259,12.9356],"type":"Point"}
+}

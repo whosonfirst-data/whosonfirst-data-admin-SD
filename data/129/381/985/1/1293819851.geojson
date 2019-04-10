@@ -1,0 +1,70 @@
+{
+  "id": 1293819851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21,12.4643,34.21,12.4643",
+    "geom:latitude":12.4643,
+    "geom:longitude":34.21,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ab Nura",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033669,
+    "gn:latitude":12.4643,
+    "gn:longitude":34.21,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ab N\u016bra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab N\u016bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033669
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6d3ab3ff659368cce39c6c12ee01abb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1293819851,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293819851,
+    "wof:lastmodified":1537699686,
+    "wof:name":"Ab Nura",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21,
+    12.4643,
+    34.21,
+    12.4643
+],
+  "geometry": {"coordinates":[34.21,12.4643],"type":"Point"}
+}

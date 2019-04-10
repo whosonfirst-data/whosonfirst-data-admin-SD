@@ -1,0 +1,71 @@
+{
+  "id": 1276796159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78333,13.85,30.78333,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":30.78333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Wad Abu Sulayman",
+    "gn:country_code":"SD",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364320,
+    "gn:latitude":13.85,
+    "gn:longitude":30.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Ab\u016b Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Abu Suleiman",
+        "Wad Ab\u016b Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364320
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2960b9f589d731088447431c8c96c713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276796159,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276796159,
+    "wof:lastmodified":1537699411,
+    "wof:name":"Wad Abu Sulayman",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78333,
+    13.85,
+    30.78333,
+    13.85
+],
+  "geometry": {"coordinates":[30.78333,13.85],"type":"Point"}
+}

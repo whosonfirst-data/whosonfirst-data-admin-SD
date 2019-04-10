@@ -1,0 +1,67 @@
+{
+  "id": 1310532463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,12.41667,30.6,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":30.6,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Gurgur",
+    "gn:country_code":"SD",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374559,
+    "gn:latitude":12.41667,
+    "gn:longitude":30.6,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Gurgur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374559
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aca5f52e1df75672f6937c256e9d01b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1310532463,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1310532463,
+    "wof:lastmodified":1536877272,
+    "wof:name":"Gurgur",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    12.41667,
+    30.6,
+    12.41667
+],
+  "geometry": {"coordinates":[30.6,12.41667],"type":"Point"}
+}

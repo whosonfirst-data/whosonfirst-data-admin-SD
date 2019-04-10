@@ -1,0 +1,67 @@
+{
+  "id": 1292939587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23491,10.90731,29.23491,10.90731",
+    "geom:latitude":10.90731,
+    "geom:longitude":29.23491,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Abu Umm Gagga",
+    "gn:country_code":"SD",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250066,
+    "gn:latitude":10.90731,
+    "gn:longitude":29.23491,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Abu Umm Gagga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250066
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"424f2b148d12863826fdaa740ae7ca17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711111,
+            "locality_id":1292939587,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1292939587,
+    "wof:lastmodified":1537076887,
+    "wof:name":"Abu Umm Gagga",
+    "wof:parent_id":1091711111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23491,
+    10.90731,
+    29.23491,
+    10.90731
+],
+  "geometry": {"coordinates":[29.23491,10.90731],"type":"Point"}
+}

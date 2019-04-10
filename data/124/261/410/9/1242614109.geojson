@@ -1,0 +1,70 @@
+{
+  "id": 1242614109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0459,12.9077,33.0459,12.9077",
+    "geom:latitude":12.9077,
+    "geom:longitude":33.0459,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Sanqur al Lahamda",
+    "gn:country_code":"SD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029278,
+    "gn:latitude":12.9077,
+    "gn:longitude":33.0459,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u015eanq\u016br al La\u1e29\u0101mda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um \u015eanq\u016br al La\u1e29\u0101mda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029278
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d06799c0ccecedb8ffee50ff5c840ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1242614109,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1242614109,
+    "wof:lastmodified":1537699674,
+    "wof:name":"Um Sanqur al Lahamda",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0459,
+    12.9077,
+    33.0459,
+    12.9077
+],
+  "geometry": {"coordinates":[33.0459,12.9077],"type":"Point"}
+}

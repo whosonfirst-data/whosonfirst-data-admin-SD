@@ -1,0 +1,74 @@
+{
+  "id": 1225979275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.57139,17.27278,34.57139,17.27278",
+    "geom:latitude":17.27278,
+    "geom:longitude":34.57139,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Jummayzah",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373266,
+    "gn:latitude":17.27278,
+    "gn:longitude":34.57139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jummayzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gemeiza",
+        "Jimm\u0113za",
+        "Gemmeiza",
+        "Jummayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373266
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d500ede951d45253d125c8dc656d84c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1225979275,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1225979275,
+    "wof:lastmodified":1537699498,
+    "wof:name":"Jummayzah",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.57139,
+    17.27277999999999,
+    34.57139,
+    17.27277999999999
+],
+  "geometry": {"coordinates":[34.57139,17.27277999999999],"type":"Point"}
+}

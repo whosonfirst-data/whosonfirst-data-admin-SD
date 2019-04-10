@@ -1,0 +1,72 @@
+{
+  "id": 1243207351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3484,16.6638,33.3484,16.6638",
+    "geom:latitude":16.6638,
+    "geom:longitude":33.3484,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hosh Wad Banaqa",
+    "gn:country_code":"SD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379411,
+    "gn:latitude":16.6638,
+    "gn:longitude":33.3484,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hosh Wad Banaqa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28awsh",
+        "El Hosh",
+        "Hosh Wad Banaqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379411
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"098a337731cd17e55f45e15b3c22b588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1243207351,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1243207351,
+    "wof:lastmodified":1537699574,
+    "wof:name":"Hosh Wad Banaqa",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3484,
+    16.6638,
+    33.3484,
+    16.6638
+],
+  "geometry": {"coordinates":[33.3484,16.6638],"type":"Point"}
+}

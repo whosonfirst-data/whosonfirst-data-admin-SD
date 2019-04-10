@@ -1,0 +1,67 @@
+{
+  "id": 1193171671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51667,13.96667,25.51667,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":25.51667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Fazi",
+    "gn:country_code":"SD",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375410,
+    "gn:latitude":13.96667,
+    "gn:longitude":25.51667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Fazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375410
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e9e48240cdb0856a13b8609b7cb3ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1193171671,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1193171671,
+    "wof:lastmodified":1536379757,
+    "wof:name":"Fazi",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51667,
+    13.96667,
+    25.51667,
+    13.96667
+],
+  "geometry": {"coordinates":[25.51667,13.96667],"type":"Point"}
+}

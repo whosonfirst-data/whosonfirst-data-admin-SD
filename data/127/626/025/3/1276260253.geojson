@@ -1,0 +1,72 @@
+{
+  "id": 1276260253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1239,13.9816,32.1239,13.9816",
+    "geom:latitude":13.9816,
+    "geom:longitude":32.1239,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Wad Kher",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364113,
+    "gn:latitude":13.9816,
+    "gn:longitude":32.1239,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad Kh\u0113r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Kheir",
+        "Wad Khayr",
+        "Wad Kh\u0113r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364113
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dc0ebaf82370528575a74f7bdfa46a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1276260253,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276260253,
+    "wof:lastmodified":1537699403,
+    "wof:name":"Wad Kher",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1239,
+    13.9816,
+    32.1239,
+    13.9816
+],
+  "geometry": {"coordinates":[32.1239,13.9816],"type":"Point"}
+}

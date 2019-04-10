@@ -1,0 +1,71 @@
+{
+  "id": 1260016457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21667,15.06667,24.21667,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":24.21667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Orori",
+    "gn:country_code":"SD",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368720,
+    "gn:latitude":15.06667,
+    "gn:longitude":24.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Orori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ali Terrig",
+        "Orori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368720
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d2f86ed4572ed0edfa5a529b569327aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709379,
+            "locality_id":1260016457,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1260016457,
+    "wof:lastmodified":1537699467,
+    "wof:name":"Orori",
+    "wof:parent_id":1091709379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21667,
+    15.06667,
+    24.21667,
+    15.06667
+],
+  "geometry": {"coordinates":[24.21667,15.06667],"type":"Point"}
+}

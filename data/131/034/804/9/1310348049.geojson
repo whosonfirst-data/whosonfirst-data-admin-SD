@@ -1,0 +1,70 @@
+{
+  "id": 1310348049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.483,14.4896,33.483,14.4896",
+    "geom:latitude":14.4896,
+    "geom:longitude":33.483,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu Haraz Gharb",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026118,
+    "gn:latitude":14.4896,
+    "gn:longitude":33.483,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abu \u1e28araz Gharb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu \u1e28araz Gharb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026118
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6353609dfd3404bdff815704d0350f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1310348049,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310348049,
+    "wof:lastmodified":1537699640,
+    "wof:name":"Abu Haraz Gharb",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.483,
+    14.4896,
+    33.483,
+    14.4896
+],
+  "geometry": {"coordinates":[33.483,14.4896],"type":"Point"}
+}

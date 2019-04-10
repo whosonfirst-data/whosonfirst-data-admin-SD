@@ -1,0 +1,71 @@
+{
+  "id": 1310235631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11667,14.06667,34.11667,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":34.11667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Hajj as Sid",
+    "gn:country_code":"SD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374317,
+    "gn:latitude":14.06667,
+    "gn:longitude":34.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101jj as S\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hag es Sid",
+        "\u1e28\u0101jj as S\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091706297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374317
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3e60b43ec90f7dd66a163b6910176ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706297,
+            "locality_id":1310235631,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1310235631,
+    "wof:lastmodified":1537699513,
+    "wof:name":"Hajj as Sid",
+    "wof:parent_id":1091706297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11667,
+    14.06667,
+    34.11667,
+    14.06667
+],
+  "geometry": {"coordinates":[34.11667,14.06667],"type":"Point"}
+}

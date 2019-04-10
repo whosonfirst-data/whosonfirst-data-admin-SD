@@ -1,0 +1,64 @@
+{
+  "id": 1209653881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2296,14.6993,33.2296,14.6993",
+    "geom:latitude":14.6993,
+    "geom:longitude":33.2296,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu Juweli",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026241,
+    "gn:latitude":14.6993,
+    "gn:longitude":33.2296,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abu Juw\u0113l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Abu Juw\u0113l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026241
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"70a05dea64a0ba26dd52483366ad47b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209653881
+        }
+    ],
+    "wof:id":1209653881,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Abu Juweli",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2296,
+    14.6993,
+    33.2296,
+    14.6993
+],
+  "geometry": {"coordinates":[33.2296,14.6993],"type":"Point"}
+}

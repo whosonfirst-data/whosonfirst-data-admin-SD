@@ -1,0 +1,71 @@
+{
+  "id": 1360022545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45,13.73333,33.45,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":33.45,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al `Uwaysab Ibrahim",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378964,
+    "gn:latitude":13.73333,
+    "gn:longitude":33.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Uways\u0101b Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Uwe\u012bsab Ibrahim",
+        "Al \u2018Uways\u0101b Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378964
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3c312aac87b131759f596edc2820e90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1360022545,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1360022545,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al `Uwaysab Ibrahim",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45,
+    13.73333,
+    33.45,
+    13.73333
+],
+  "geometry": {"coordinates":[33.45,13.73333],"type":"Point"}
+}

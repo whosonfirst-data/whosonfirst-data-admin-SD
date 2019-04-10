@@ -1,0 +1,71 @@
+{
+  "id": 1242909907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03333,9.81667,34.03333,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":34.03333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Wad at Tays",
+    "gn:country_code":"SD",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364225,
+    "gn:latitude":9.81667,
+    "gn:longitude":34.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad at Tays",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad et Teis",
+        "Wad at Tays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364225
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ab58cef8ea16497ca7fa88b811703c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1242909907,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1242909907,
+    "wof:lastmodified":1537699406,
+    "wof:name":"Wad at Tays",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03333,
+    9.81667,
+    34.03333,
+    9.81667
+],
+  "geometry": {"coordinates":[34.03333,9.81667],"type":"Point"}
+}

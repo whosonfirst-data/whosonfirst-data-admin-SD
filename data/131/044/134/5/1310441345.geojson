@@ -1,0 +1,67 @@
+{
+  "id": 1310441345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68333,10.9,25.68333,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":25.68333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Nessia",
+    "gn:country_code":"SD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369260,
+    "gn:latitude":10.9,
+    "gn:longitude":25.68333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Nessia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369260
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a69b8df3509227a80c34d72b2730a26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708723,
+            "locality_id":1310441345,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1310441345,
+    "wof:lastmodified":1537008770,
+    "wof:name":"Nessia",
+    "wof:parent_id":1091708723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68333,
+    10.9,
+    25.68333,
+    10.9
+],
+  "geometry": {"coordinates":[25.68333,10.9],"type":"Point"}
+}

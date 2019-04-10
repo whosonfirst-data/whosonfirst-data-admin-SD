@@ -1,0 +1,67 @@
+{
+  "id": 1259714911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5813,16.7569,33.5813,16.7569",
+    "geom:latitude":16.7569,
+    "geom:longitude":33.5813,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el Doshen",
+    "gn:country_code":"SD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443950,
+    "gn:latitude":16.7569,
+    "gn:longitude":33.5813,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat el Doshen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443950
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"db2b2af7b9129aede62f71e0ccd4a890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1259714911,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1259714911,
+    "wof:lastmodified":1537020969,
+    "wof:name":"Hillat el Doshen",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5813,
+    16.7569,
+    33.5813,
+    16.7569
+],
+  "geometry": {"coordinates":[33.5813,16.7569],"type":"Point"}
+}

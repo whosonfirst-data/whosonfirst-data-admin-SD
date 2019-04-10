@@ -1,0 +1,67 @@
+{
+  "id": 1343296211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11667,9.7,34.11667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":34.11667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Fangu",
+    "gn:country_code":"SD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375554,
+    "gn:latitude":9.7,
+    "gn:longitude":34.11667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Fangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375554
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fe6b558c403cbb31288449dee96679c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1343296211,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1343296211,
+    "wof:lastmodified":1536982592,
+    "wof:name":"Fangu",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11667,
+    9.7,
+    34.11667,
+    9.7
+],
+  "geometry": {"coordinates":[34.11667,9.7],"type":"Point"}
+}

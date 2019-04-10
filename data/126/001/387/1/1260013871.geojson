@@ -1,0 +1,70 @@
+{
+  "id": 1260013871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9339,12.969,33.9339,12.969",
+    "geom:latitude":12.969,
+    "geom:longitude":33.9339,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dar `Aqil",
+    "gn:country_code":"SD",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376745,
+    "gn:latitude":12.969,
+    "gn:longitude":33.9339,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u0101r \u2018Aq\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101r \u2018Aq\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376745
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"afe4e782ad444db47a5dcea9e64f68ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1260013871,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1260013871,
+    "wof:lastmodified":1537699529,
+    "wof:name":"Dar `Aqil",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9339,
+    12.969,
+    33.9339,
+    12.969
+],
+  "geometry": {"coordinates":[33.9339,12.969],"type":"Point"}
+}

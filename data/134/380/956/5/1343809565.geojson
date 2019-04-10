@@ -1,0 +1,67 @@
+{
+  "id": 1343809565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2292,14.9862,33.2292,14.9862",
+    "geom:latitude":14.9862,
+    "geom:longitude":33.2292,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Daqarsi",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026130,
+    "gn:latitude":14.9862,
+    "gn:longitude":33.2292,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Daqarsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026130
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"59697e47847610ee51634535eaea39ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1343809565,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343809565,
+    "wof:lastmodified":1536740050,
+    "wof:name":"Um Daqarsi",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2292,
+    14.9862,
+    33.2292,
+    14.9862
+],
+  "geometry": {"coordinates":[33.2292,14.9862],"type":"Point"}
+}

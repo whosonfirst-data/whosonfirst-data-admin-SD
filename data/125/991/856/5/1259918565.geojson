@@ -1,0 +1,70 @@
+{
+  "id": 1259918565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8594,14.7335,32.8594,14.7335",
+    "geom:latitude":14.7335,
+    "geom:longitude":32.8594,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kitrat Ad Daqala",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983271,
+    "gn:latitude":14.7335,
+    "gn:longitude":32.8594,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kitrat A\u1e11 \u1e10aq\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitrat A\u1e11 \u1e10aq\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983271
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5de4a62a3425fe35c7435f1695a4c0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1259918565,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259918565,
+    "wof:lastmodified":1537699621,
+    "wof:name":"Kitrat Ad Daqala",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8594,
+    14.7335,
+    32.8594,
+    14.7335
+],
+  "geometry": {"coordinates":[32.8594,14.7335],"type":"Point"}
+}

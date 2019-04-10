@@ -1,0 +1,67 @@
+{
+  "id": 1276483751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,14.46667,33.25,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Naqaza",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369388,
+    "gn:latitude":14.46667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Naqaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369388
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"783c7a40e047ee30be8ee0c1be9224c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1276483751,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276483751,
+    "wof:lastmodified":1537071313,
+    "wof:name":"Naqaza",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    14.46667,
+    33.25,
+    14.46667
+],
+  "geometry": {"coordinates":[33.25,14.46667],"type":"Point"}
+}

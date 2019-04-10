@@ -1,0 +1,67 @@
+{
+  "id": 1293048085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25083,15.64639,33.25083,15.64639",
+    "geom:latitude":15.64639,
+    "geom:longitude":33.25083,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Umm Gawad",
+    "gn:country_code":"SD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365096,
+    "gn:latitude":15.64639,
+    "gn:longitude":33.25083,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Umm Gawad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365096
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b6e696644fb614df55fa13cf64eae3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708425,
+            "locality_id":1293048085,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1293048085,
+    "wof:lastmodified":1536924385,
+    "wof:name":"Umm Gawad",
+    "wof:parent_id":1091708425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25083,
+    15.64639,
+    33.25083,
+    15.64639
+],
+  "geometry": {"coordinates":[33.25083,15.64639],"type":"Point"}
+}

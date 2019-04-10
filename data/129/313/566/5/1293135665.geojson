@@ -1,0 +1,67 @@
+{
+  "id": 1293135665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41667,14.15,35.41667,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":35.41667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Hagokat",
+    "gn:country_code":"SD",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374368,
+    "gn:latitude":14.15,
+    "gn:longitude":35.41667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Hagokat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374368
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4886f7b662768db03bd28598889a0dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707669,
+            "locality_id":1293135665,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1293135665,
+    "wof:lastmodified":1536797431,
+    "wof:name":"Hagokat",
+    "wof:parent_id":1091707669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41667,
+    14.15,
+    35.41667,
+    14.15
+],
+  "geometry": {"coordinates":[35.41667,14.15],"type":"Point"}
+}

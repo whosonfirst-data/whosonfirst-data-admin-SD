@@ -1,0 +1,61 @@
+{
+  "id": 1209035599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8837,17.4201,33.8837,17.4201",
+    "geom:latitude":17.4201,
+    "geom:longitude":33.8837,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Khalefa",
+    "gn:country_code":"SD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444071,
+    "gn:latitude":17.4201,
+    "gn:longitude":33.8837,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Khalefa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444071
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8f9235161a433a7cb346081e85de1ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209035599
+        }
+    ],
+    "wof:id":1209035599,
+    "wof:lastmodified":1536299711,
+    "wof:name":"Hillat Khalefa",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8837,
+    17.4201,
+    33.8837,
+    17.4201
+],
+  "geometry": {"coordinates":[33.8837,17.4201],"type":"Point"}
+}

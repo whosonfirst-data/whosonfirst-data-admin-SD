@@ -1,0 +1,70 @@
+{
+  "id": 1360029727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3209,17.8956,38.3209,17.8956",
+    "geom:latitude":17.8956,
+    "geom:longitude":38.3209,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hillat `Aaytarba",
+    "gn:country_code":"SD",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974583,
+    "gn:latitude":17.8956,
+    "gn:longitude":38.3209,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat \u2018Aaytarb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat \u2018Aaytarb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974583
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"059fe2143d8567f31683e960d965e956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1360029727,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1360029727,
+    "wof:lastmodified":1537699616,
+    "wof:name":"Hillat `Aaytarba",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3209,
+    17.8956,
+    38.3209,
+    17.8956
+],
+  "geometry": {"coordinates":[38.3209,17.8956],"type":"Point"}
+}

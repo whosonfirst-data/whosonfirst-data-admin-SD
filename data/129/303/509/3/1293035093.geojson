@@ -1,0 +1,67 @@
+{
+  "id": 1293035093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3461,10.83016,29.3461,10.83016",
+    "geom:latitude":10.83016,
+    "geom:longitude":29.3461,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Keilak",
+    "gn:country_code":"SD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372655,
+    "gn:latitude":10.83016,
+    "gn:longitude":29.3461,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Keilak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372655
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ac80badfc5f2784eb0d3b9e570eea6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711111,
+            "locality_id":1293035093,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1293035093,
+    "wof:lastmodified":1536942899,
+    "wof:name":"Keilak",
+    "wof:parent_id":1091711111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3461,
+    10.83016,
+    29.3461,
+    10.83016
+],
+  "geometry": {"coordinates":[29.3461,10.83016],"type":"Point"}
+}

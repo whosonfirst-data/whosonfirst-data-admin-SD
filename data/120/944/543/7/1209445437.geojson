@@ -1,0 +1,65 @@
+{
+  "id": 1209445437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38333,14.41667,32.38333,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":32.38333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"As Senaga",
+    "gn:country_code":"SD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378297,
+    "gn:latitude":14.41667,
+    "gn:longitude":32.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Senaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Senaga",
+        "As Senaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378297
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6dbd57952a83a39c639e1b0fc9a7e7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209445437
+        }
+    ],
+    "wof:id":1209445437,
+    "wof:lastmodified":1537699546,
+    "wof:name":"As Senaga",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38333,
+    14.41667,
+    32.38333,
+    14.41667
+],
+  "geometry": {"coordinates":[32.38333,14.41667],"type":"Point"}
+}

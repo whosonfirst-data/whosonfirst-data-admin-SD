@@ -1,0 +1,70 @@
+{
+  "id": 1309850147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2628,19.2708,36.2628,19.2708",
+    "geom:latitude":19.2708,
+    "geom:longitude":36.2628,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Qubbat Omhay",
+    "gn:country_code":"SD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7008712,
+    "gn:latitude":19.2708,
+    "gn:longitude":36.2628,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qubbat \u014cmhay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qubbat \u014cmhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7008712
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"18f68f3d9303859cc0e02aec8f6a8bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710957,
+            "locality_id":1309850147,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1309850147,
+    "wof:lastmodified":1537699629,
+    "wof:name":"Qubbat Omhay",
+    "wof:parent_id":1091710957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2628,
+    19.2708,
+    36.2628,
+    19.2708
+],
+  "geometry": {"coordinates":[36.2628,19.2708],"type":"Point"}
+}

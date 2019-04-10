@@ -1,0 +1,70 @@
+{
+  "id": 1276374295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93691,12.0161,22.93691,12.0161",
+    "geom:latitude":12.0161,
+    "geom:longitude":22.93691,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gwimana",
+    "gn:country_code":"SD",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390185,
+    "gn:latitude":12.0161,
+    "gn:longitude":22.93691,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Gwimana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gwimana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390185
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dc73da49845276d76efeded45bc62eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705395,
+            "locality_id":1276374295,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1276374295,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Gwimana",
+    "wof:parent_id":1091705395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93691,
+    12.0161,
+    22.93691,
+    12.0161
+],
+  "geometry": {"coordinates":[22.93691,12.0161],"type":"Point"}
+}

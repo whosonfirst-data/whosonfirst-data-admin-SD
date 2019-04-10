@@ -1,0 +1,70 @@
+{
+  "id": 1343600097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1686,14.7324,33.1686,14.7324",
+    "geom:latitude":14.7324,
+    "geom:longitude":33.1686,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Kamil",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026234,
+    "gn:latitude":14.7324,
+    "gn:longitude":33.1686,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad K\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad K\u0101mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026234
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e01400c3c95282e7727fcef90979160e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1343600097,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343600097,
+    "wof:lastmodified":1537699644,
+    "wof:name":"Wad Kamil",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1686,
+    14.7324,
+    33.1686,
+    14.7324
+],
+  "geometry": {"coordinates":[33.1686,14.7324],"type":"Point"}
+}

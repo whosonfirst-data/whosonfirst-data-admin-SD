@@ -1,0 +1,67 @@
+{
+  "id": 1343697683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4963,16.784,33.4963,16.784",
+    "geom:latitude":16.784,
+    "geom:longitude":33.4963,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Essamra",
+    "gn:country_code":"SD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443918,
+    "gn:latitude":16.784,
+    "gn:longitude":33.4963,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Essamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443918
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a60c7379737973d9bdbd6e24704c5c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1343697683,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1343697683,
+    "wof:lastmodified":1536901441,
+    "wof:name":"Essamra",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4963,
+    16.784,
+    33.4963,
+    16.784
+],
+  "geometry": {"coordinates":[33.4963,16.784],"type":"Point"}
+}

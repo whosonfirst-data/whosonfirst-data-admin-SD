@@ -1,0 +1,67 @@
+{
+  "id": 1276796005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6839,12.8508,31.6839,12.8508",
+    "geom:latitude":12.8508,
+    "geom:longitude":31.6839,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Kiweka",
+    "gn:country_code":"SD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029098,
+    "gn:latitude":12.8508,
+    "gn:longitude":31.6839,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Kiweka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029098
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d12dfd969ffe56d090534f8679eef7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276796005,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276796005,
+    "wof:lastmodified":1536656136,
+    "wof:name":"Um Kiweka",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6839,
+    12.8508,
+    31.6839,
+    12.8508
+],
+  "geometry": {"coordinates":[31.6839,12.8508],"type":"Point"}
+}

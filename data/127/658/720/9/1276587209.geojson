@@ -1,0 +1,72 @@
+{
+  "id": 1276587209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10978,10.31758,25.10978,10.31758",
+    "geom:latitude":10.31758,
+    "geom:longitude":25.10978,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ma'ad Ras el Marfain",
+    "gn:country_code":"SD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368165,
+    "gn:latitude":10.31758,
+    "gn:longitude":25.10978,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u2019ad Ras el Marfa\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ras el Marfa\u2018in",
+        "Ra\u2019s al Marfa\u2018\u012bn",
+        "Ma\u2019ad Ras el Marfa\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368165
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9500ba0f065be80e9518b285a5861cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1276587209,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276587209,
+    "wof:lastmodified":1537699459,
+    "wof:name":"Ma'ad Ras el Marfain",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10978,
+    10.31758,
+    25.10978,
+    10.31758
+],
+  "geometry": {"coordinates":[25.10978,10.31758],"type":"Point"}
+}

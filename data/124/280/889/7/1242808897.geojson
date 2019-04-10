@@ -1,0 +1,70 @@
+{
+  "id": 1242808897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0866,11.6078,31.0866,11.6078",
+    "geom:latitude":11.6078,
+    "geom:longitude":31.0866,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ab Disebi`",
+    "gn:country_code":"SD",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6977078,
+    "gn:latitude":11.6078,
+    "gn:longitude":31.0866,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ab Disebi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab Disebi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6977078
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"af256b01c47aa1ae00c7746a5c4b9623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710547,
+            "locality_id":1242808897,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1242808897,
+    "wof:lastmodified":1537699617,
+    "wof:name":"Ab Disebi`",
+    "wof:parent_id":1091710547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0866,
+    11.6078,
+    31.0866,
+    11.6078
+],
+  "geometry": {"coordinates":[31.0866,11.6078],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260221127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2972,12.4172,34.2972,12.4172",
+    "geom:latitude":12.4172,
+    "geom:longitude":34.2972,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Um Durman Fallata",
+    "gn:country_code":"SD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365138,
+    "gn:latitude":12.4172,
+    "gn:longitude":34.2972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Durm\u0101n Fall\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omdurman",
+        "Umm Durm\u0101n",
+        "Um Durm\u0101n Fall\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365138
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f5d78035c684f4492a3bee71f2e04dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1260221127,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1260221127,
+    "wof:lastmodified":1537699427,
+    "wof:name":"Um Durman Fallata",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2972,
+    12.4172,
+    34.2972,
+    12.4172
+],
+  "geometry": {"coordinates":[34.2972,12.4172],"type":"Point"}
+}

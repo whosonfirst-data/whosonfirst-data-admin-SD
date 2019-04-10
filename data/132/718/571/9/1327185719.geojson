@@ -1,0 +1,70 @@
+{
+  "id": 1327185719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3852,14.3391,33.3852,14.3391",
+    "geom:latitude":14.3391,
+    "geom:longitude":33.3852,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Qasab Barqu",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026467,
+    "gn:latitude":14.3391,
+    "gn:longitude":33.3852,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qa\u015fab Barqu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fab Barqu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026467
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"861423da6589bd23c3829fbd0dce3bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1327185719,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327185719,
+    "wof:lastmodified":1537699652,
+    "wof:name":"Qasab Barqu",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3852,
+    14.3391,
+    33.3852,
+    14.3391
+],
+  "geometry": {"coordinates":[33.3852,14.3391],"type":"Point"}
+}

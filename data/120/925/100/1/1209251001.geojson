@@ -1,0 +1,61 @@
+{
+  "id": 1209251001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24371,11.77142,23.24371,11.77142",
+    "geom:latitude":11.77142,
+    "geom:longitude":23.24371,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kure",
+    "gn:country_code":"SD",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371848,
+    "gn:latitude":11.77142,
+    "gn:longitude":23.24371,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371848
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1d6cb75383767ceba36d04ad76cb77ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209251001
+        }
+    ],
+    "wof:id":1209251001,
+    "wof:lastmodified":1536293005,
+    "wof:name":"Kure",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24371,
+    11.77142,
+    23.24371,
+    11.77142
+],
+  "geometry": {"coordinates":[23.24371,11.77142],"type":"Point"}
+}

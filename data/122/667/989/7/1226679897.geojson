@@ -1,0 +1,71 @@
+{
+  "id": 1226679897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26667,13.51667,29.26667,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":29.26667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al `Arqan",
+    "gn:country_code":"SD",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379685,
+    "gn:latitude":13.51667,
+    "gn:longitude":29.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Arq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Arqan",
+        "Al \u2018Arq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379685
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"97f61d684391b1cc91ae7cedde032748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706583,
+            "locality_id":1226679897,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1226679897,
+    "wof:lastmodified":1537699585,
+    "wof:name":"Al `Arqan",
+    "wof:parent_id":1091706583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26667,
+    13.51667,
+    29.26667,
+    13.51667
+],
+  "geometry": {"coordinates":[29.26667,13.51667],"type":"Point"}
+}

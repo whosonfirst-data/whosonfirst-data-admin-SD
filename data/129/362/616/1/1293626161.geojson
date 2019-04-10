@@ -1,0 +1,67 @@
+{
+  "id": 1293626161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90078,13.35537,24.90078,13.35537",
+    "geom:latitude":13.35537,
+    "geom:longitude":24.90078,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Karama",
+    "gn:country_code":"SD",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7751660,
+    "gn:latitude":13.35537,
+    "gn:longitude":24.90078,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Karama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7751660
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"96142778904d453bb85cef1b6b64a023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1293626161,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293626161,
+    "wof:lastmodified":1537081035,
+    "wof:name":"Karama",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90078,
+    13.35537,
+    24.90078,
+    13.35537
+],
+  "geometry": {"coordinates":[24.90078,13.35537],"type":"Point"}
+}

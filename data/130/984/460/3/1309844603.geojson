@@ -1,0 +1,67 @@
+{
+  "id": 1309844603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2261,14.9714,33.2261,14.9714",
+    "geom:latitude":14.9714,
+    "geom:longitude":33.2261,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Al Majdi",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026131,
+    "gn:latitude":14.9714,
+    "gn:longitude":33.2261,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Al Majdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026131
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cb2e3a53c3bd2789e9f70939ac765ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1309844603,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1309844603,
+    "wof:lastmodified":1536874193,
+    "wof:name":"Wad Al Majdi",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2261,
+    14.9714,
+    33.2261,
+    14.9714
+],
+  "geometry": {"coordinates":[33.2261,14.9714],"type":"Point"}
+}

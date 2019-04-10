@@ -1,0 +1,76 @@
+{
+  "id": 1209849297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14848,12.05825,31.14848,12.05825",
+    "geom:latitude":12.05825,
+    "geom:longitude":31.14848,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Toris",
+    "gn:country_code":"SD",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029451,
+    "gn:latitude":12.05825,
+    "gn:longitude":31.14848,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"\u0162\u014dris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u014dris"
+    ],
+    "name:eng_x_preferred":[
+        "Gardud el Badry"
+    ],
+    "name:und_x_variant":[
+        "Gardud al Badry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029451
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bf4b1ee57e5e3c939b8de70ea845fc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710547,
+            "locality_id":1209849297,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1209849297,
+    "wof:lastmodified":1537699679,
+    "wof:name":"Toris",
+    "wof:parent_id":1091710547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14848,
+    12.05825,
+    31.14848,
+    12.05825
+],
+  "geometry": {"coordinates":[31.14848,12.05825],"type":"Point"}
+}

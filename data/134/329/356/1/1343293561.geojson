@@ -1,0 +1,70 @@
+{
+  "id": 1343293561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1514,12.6094,34.1514,12.6094",
+    "geom:latitude":12.6094,
+    "geom:longitude":34.1514,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Tayba al Qur`an",
+    "gn:country_code":"SD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029383,
+    "gn:latitude":12.6094,
+    "gn:longitude":34.1514,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162ayba al Qur\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162ayba al Qur\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029383
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a6db17175bc49d21abababae2190487d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1343293561,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1343293561,
+    "wof:lastmodified":1537699677,
+    "wof:name":"Tayba al Qur`an",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1514,
+    12.6094,
+    34.1514,
+    12.6094
+],
+  "geometry": {"coordinates":[34.1514,12.6094],"type":"Point"}
+}

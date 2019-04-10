@@ -1,0 +1,72 @@
+{
+  "id": 1360136101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23056,15.15028,33.23056,15.15028",
+    "geom:latitude":15.15028,
+    "geom:longitude":33.23056,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Er Rekeib",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378464,
+    "gn:latitude":15.15028,
+    "gn:longitude":33.23056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Er Rekeib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Rukayb",
+        "Er Rekeib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378464
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5bcff4111c9b4279f4e87787c65dc8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1360136101,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360136101,
+    "wof:lastmodified":1537699551,
+    "wof:name":"Er Rekeib",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23056,
+    15.15028,
+    33.23056,
+    15.15028
+],
+  "geometry": {"coordinates":[33.23056,15.15028],"type":"Point"}
+}

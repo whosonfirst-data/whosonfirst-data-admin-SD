@@ -1,0 +1,71 @@
+{
+  "id": 1260214287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95,13.1,23.95,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":23.95,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kurni",
+    "gn:country_code":"SD",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371819,
+    "gn:latitude":13.1,
+    "gn:longitude":23.95,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kurni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kourni",
+        "Kurni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091708215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371819
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4eb650bf6f72d3e8904a45b57a8fc783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708215,
+            "locality_id":1260214287,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1260214287,
+    "wof:lastmodified":1537699484,
+    "wof:name":"Kurni",
+    "wof:parent_id":1091708215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95,
+    13.1,
+    23.95,
+    13.1
+],
+  "geometry": {"coordinates":[23.95,13.1],"type":"Point"}
+}

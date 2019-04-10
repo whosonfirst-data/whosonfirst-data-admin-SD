@@ -1,0 +1,71 @@
+{
+  "id": 1293037239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53333,15.13333,32.53333,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":32.53333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Habib Allah",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374477,
+    "gn:latitude":15.13333,
+    "gn:longitude":32.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ab\u012bb All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habibullah",
+        "\u1e28ab\u012bb All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374477
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"49f2d0bac996b9ec7f10f2d1f404bc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293037239,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293037239,
+    "wof:lastmodified":1537699514,
+    "wof:name":"Habib Allah",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53333,
+    15.13333,
+    32.53333,
+    15.13333
+],
+  "geometry": {"coordinates":[32.53333,15.13333],"type":"Point"}
+}

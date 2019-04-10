@@ -1,0 +1,71 @@
+{
+  "id": 1344194549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50136,10.72166,23.50136,10.72166",
+    "geom:latitude":10.72166,
+    "geom:longitude":23.50136,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Mirandi",
+    "gn:country_code":"SD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370034,
+    "gn:latitude":10.72166,
+    "gn:longitude":23.50136,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Mirandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirmandi",
+        "Mirandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091710763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370034
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"980395d2817acec4c715dfd0248d9085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710763,
+            "locality_id":1344194549,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1344194549,
+    "wof:lastmodified":1537699475,
+    "wof:name":"Mirandi",
+    "wof:parent_id":1091710763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50136,
+    10.72166,
+    23.50136,
+    10.72166
+],
+  "geometry": {"coordinates":[23.50136,10.72166],"type":"Point"}
+}

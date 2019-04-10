@@ -1,0 +1,71 @@
+{
+  "id": 1226393785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55,14.63333,33.55,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":33.55,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hajj Ibrahim",
+    "gn:country_code":"SD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374314,
+    "gn:latitude":14.63333,
+    "gn:longitude":33.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101jj Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hag Ibrahim",
+        "\u1e28\u0101jj Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374314
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"30ff2cdae43e7e485ca72980ed665001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1226393785,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226393785,
+    "wof:lastmodified":1537699512,
+    "wof:name":"Hajj Ibrahim",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55,
+    14.63333,
+    33.55,
+    14.63333
+],
+  "geometry": {"coordinates":[33.55,14.63333],"type":"Point"}
+}

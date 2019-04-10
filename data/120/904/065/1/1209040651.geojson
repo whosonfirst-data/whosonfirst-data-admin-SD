@@ -1,0 +1,61 @@
+{
+  "id": 1209040651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9646,10.3601,25.9646,10.3601",
+    "geom:latitude":10.3601,
+    "geom:longitude":25.9646,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Zaheili",
+    "gn:country_code":"SD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047381,
+    "gn:latitude":10.3601,
+    "gn:longitude":25.9646,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Zaheili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047381
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f1a51605361c438c18ed8d4d2049121d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209040651
+        }
+    ],
+    "wof:id":1209040651,
+    "wof:lastmodified":1536299556,
+    "wof:name":"Zaheili",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9646,
+    10.3601,
+    25.9646,
+    10.3601
+],
+  "geometry": {"coordinates":[25.9646,10.3601],"type":"Point"}
+}

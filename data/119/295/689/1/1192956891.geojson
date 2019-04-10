@@ -1,0 +1,70 @@
+{
+  "id": 1192956891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4296,14.6127,33.4296,14.6127",
+    "geom:latitude":14.6127,
+    "geom:longitude":33.4296,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ar Rufa`iyyin",
+    "gn:country_code":"SD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026255,
+    "gn:latitude":14.6127,
+    "gn:longitude":33.4296,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar Rufa\u2018iyy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Rufa\u2018iyy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026255
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d8f3b35da1702f5796b6f1f6ef49704f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1192956891,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1192956891,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Ar Rufa`iyyin",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4296,
+    14.6127,
+    33.4296,
+    14.6127
+],
+  "geometry": {"coordinates":[33.4296,14.6127],"type":"Point"}
+}

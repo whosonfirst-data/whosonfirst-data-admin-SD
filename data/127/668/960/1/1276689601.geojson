@@ -1,0 +1,71 @@
+{
+  "id": 1276689601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,13.96667,35.28333,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Harun",
+    "gn:country_code":"SD",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374029,
+    "gn:latitude":13.96667,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u0101r\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harum",
+        "H\u0101r\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374029
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e1c69562e8ae448e6d9cf0fa16b8355f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707715,
+            "locality_id":1276689601,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1276689601,
+    "wof:lastmodified":1537699509,
+    "wof:name":"Harun",
+    "wof:parent_id":1091707715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    13.96667,
+    35.28333,
+    13.96667
+],
+  "geometry": {"coordinates":[35.28333,13.96667],"type":"Point"}
+}

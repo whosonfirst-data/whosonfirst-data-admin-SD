@@ -1,0 +1,70 @@
+{
+  "id": 1293327785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4485,15.8467,35.4485,15.8467",
+    "geom:latitude":15.8467,
+    "geom:longitude":35.4485,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hillat ab Harira",
+    "gn:country_code":"SD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024484,
+    "gn:latitude":15.8467,
+    "gn:longitude":35.4485,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat ab Har\u012bra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat ab Har\u012bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024484
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6ae78edff0dd9f3283ef9525cc537530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1293327785,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1293327785,
+    "wof:lastmodified":1537699634,
+    "wof:name":"Hillat ab Harira",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4485,
+    15.8467,
+    35.4485,
+    15.8467
+],
+  "geometry": {"coordinates":[35.4485,15.8467],"type":"Point"}
+}

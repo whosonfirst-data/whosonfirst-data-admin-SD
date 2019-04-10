@@ -1,0 +1,70 @@
+{
+  "id": 1277014049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5624,11.2743,29.5624,11.2743",
+    "geom:latitude":11.2743,
+    "geom:longitude":29.5624,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Hillat Awlad Tibeg",
+    "gn:country_code":"SD",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001937,
+    "gn:latitude":11.2743,
+    "gn:longitude":29.5624,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Awl\u0101d Tib\u0113g",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat Awl\u0101d Tib\u0113g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091707995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001937
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fceb7d5b93e02231b05b88a4468088fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707995,
+            "locality_id":1277014049,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1277014049,
+    "wof:lastmodified":1537699628,
+    "wof:name":"Hillat Awlad Tibeg",
+    "wof:parent_id":1091707995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5624,
+    11.2743,
+    29.5624,
+    11.2743
+],
+  "geometry": {"coordinates":[29.5624,11.2743],"type":"Point"}
+}

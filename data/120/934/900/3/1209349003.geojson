@@ -1,0 +1,61 @@
+{
+  "id": 1209349003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1441,10.82843,30.1441,10.82843",
+    "geom:latitude":10.82843,
+    "geom:longitude":30.1441,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kororak",
+    "gn:country_code":"SD",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":372125,
+    "gn:latitude":10.82843,
+    "gn:longitude":30.1441,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kororak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372125
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"81406e454f99a9419753477d3b715074",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209349003
+        }
+    ],
+    "wof:id":1209349003,
+    "wof:lastmodified":1536289811,
+    "wof:name":"Kororak",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1441,
+    10.82843,
+    30.1441,
+    10.82843
+],
+  "geometry": {"coordinates":[30.1441,10.82843],"type":"Point"}
+}

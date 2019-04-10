@@ -1,0 +1,68 @@
+{
+  "id": 1343991569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36667,14.28333,31.36667,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":31.36667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Qantur",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364798,
+    "gn:latitude":14.28333,
+    "gn:longitude":31.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Qantur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364798,
+        "wk:page":"Umm_Qantur"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d4c4c95f383cdf3fbd8e73b6c9a9e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1343991569,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343991569,
+    "wof:lastmodified":1537573278,
+    "wof:name":"Umm Qantur",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36667000000001,
+    14.28333,
+    31.36667000000001,
+    14.28333
+],
+  "geometry": {"coordinates":[31.36667000000001,14.28333],"type":"Point"}
+}

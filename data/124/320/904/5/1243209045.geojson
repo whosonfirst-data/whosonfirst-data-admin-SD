@@ -1,0 +1,70 @@
+{
+  "id": 1243209045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2703,12.9,32.2703,12.9",
+    "geom:latitude":12.9,
+    "geom:longitude":32.2703,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Miqeti",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029259,
+    "gn:latitude":12.9,
+    "gn:longitude":32.2703,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Miqe\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Miqe\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029259
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"26d60e02aa93c4c9e9e493616fc76a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1243209045,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243209045,
+    "wof:lastmodified":1537699674,
+    "wof:name":"Miqeti",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2703,
+    12.9,
+    32.2703,
+    12.9
+],
+  "geometry": {"coordinates":[32.2703,12.9],"type":"Point"}
+}

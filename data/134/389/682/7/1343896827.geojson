@@ -1,0 +1,67 @@
+{
+  "id": 1343896827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09611,15.05639,33.09611,15.05639",
+    "geom:latitude":15.05639,
+    "geom:longitude":33.09611,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hamad",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374252,
+    "gn:latitude":15.05639,
+    "gn:longitude":33.09611,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Hamad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374252
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c8300382b275105bc96f17448e009a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1343896827,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343896827,
+    "wof:lastmodified":1536611553,
+    "wof:name":"Hamad",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09611,
+    15.05639,
+    33.09611,
+    15.05639
+],
+  "geometry": {"coordinates":[33.09611,15.05639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293726001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28333,12.81667,26.28333,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":26.28333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tulu",
+    "gn:country_code":"SD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365640,
+    "gn:latitude":12.81667,
+    "gn:longitude":26.28333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Tulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365640
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"73b48fc6bac780e7fa8b31f64d509347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706673,
+            "locality_id":1293726001,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293726001,
+    "wof:lastmodified":1536941099,
+    "wof:name":"Tulu",
+    "wof:parent_id":1091706673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28333,
+    12.81667,
+    26.28333,
+    12.81667
+],
+  "geometry": {"coordinates":[26.28333,12.81667],"type":"Point"}
+}

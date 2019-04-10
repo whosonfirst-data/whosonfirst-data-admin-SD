@@ -1,0 +1,70 @@
+{
+  "id": 1343390007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6791,12.3506,32.6791,12.3506",
+    "geom:latitude":12.3506,
+    "geom:longitude":32.6791,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Qaranik",
+    "gn:country_code":"SD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504241,
+    "gn:latitude":12.3506,
+    "gn:longitude":32.6791,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaran\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaran\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504241
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8223bfb5613b17f3fec7e54eb47be50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1343390007,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343390007,
+    "wof:lastmodified":1537699689,
+    "wof:name":"Qaranik",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6791,
+    12.3506,
+    32.6791,
+    12.3506
+],
+  "geometry": {"coordinates":[32.6791,12.3506],"type":"Point"}
+}

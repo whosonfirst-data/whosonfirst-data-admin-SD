@@ -1,0 +1,74 @@
+{
+  "id": 1243202835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47431,12.71421,22.47431,12.71421",
+    "geom:latitude":12.71421,
+    "geom:longitude":22.47431,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Abu Deiyuta",
+    "gn:country_code":"SD",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380961,
+    "gn:latitude":12.71421,
+    "gn:longitude":22.47431,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Abu Deiyuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abu Deiyuta"
+    ],
+    "name:und_x_variant":[
+        "Abdu Deiyata",
+        "Ab\u016b Deiyata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380961
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"88ffc6459e2e36a3fc928960c71e626f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":1243202835,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1243202835,
+    "wof:lastmodified":1537699599,
+    "wof:name":"Abu Deiyuta",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47431,
+    12.71421,
+    22.47431,
+    12.71421
+],
+  "geometry": {"coordinates":[22.47431,12.71421],"type":"Point"}
+}

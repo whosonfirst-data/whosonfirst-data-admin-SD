@@ -1,0 +1,73 @@
+{
+  "id": 1327474009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1591,20.9047,37.1591,20.9047",
+    "geom:latitude":20.9047,
+    "geom:longitude":37.1591,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Muhammad Qol",
+    "gn:country_code":"SD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369773,
+    "gn:latitude":20.9047,
+    "gn:longitude":37.1591,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u1e29ammad Qol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u1e29ammad Q\u016bl",
+        "Mohammed Gul",
+        "Mu\u1e29ammad Qawl",
+        "Mu\u1e29ammad Qol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369773
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"59eb8afd5d61f533a25f90e5cd54c4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710919,
+            "locality_id":1327474009,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1327474009,
+    "wof:lastmodified":1537699473,
+    "wof:name":"Muhammad Qol",
+    "wof:parent_id":1091710919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1591,
+    20.9047,
+    37.1591,
+    20.9047
+],
+  "geometry": {"coordinates":[37.1591,20.9047],"type":"Point"}
+}

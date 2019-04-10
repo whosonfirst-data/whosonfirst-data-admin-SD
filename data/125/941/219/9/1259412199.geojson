@@ -1,0 +1,73 @@
+{
+  "id": 1259412199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.555,16.0672,35.555,16.0672",
+    "geom:latitude":16.0672,
+    "geom:longitude":35.555,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryat Qoz Rajab",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368407,
+    "gn:latitude":16.0672,
+    "gn:longitude":35.555,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat Q\u014dz Rajab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goz Regeb",
+        "Qoz Rajab",
+        "Qawz Rajab",
+        "Qaryat Q\u014dz Rajab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091706097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368407
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8a183c6ee5d94f3e99508919c1768876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706097,
+            "locality_id":1259412199,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1259412199,
+    "wof:lastmodified":1537699464,
+    "wof:name":"Qaryat Qoz Rajab",
+    "wof:parent_id":1091706097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.555,
+    16.0672,
+    35.555,
+    16.0672
+],
+  "geometry": {"coordinates":[35.555,16.0672],"type":"Point"}
+}

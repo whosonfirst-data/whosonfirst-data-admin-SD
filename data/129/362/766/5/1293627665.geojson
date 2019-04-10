@@ -1,0 +1,70 @@
+{
+  "id": 1293627665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3537,14.9459,33.3537,14.9459",
+    "geom:latitude":14.9459,
+    "geom:longitude":33.3537,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Hisen",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026166,
+    "gn:latitude":14.9459,
+    "gn:longitude":33.3537,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e28isen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28isen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026166
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"edd6e0679691926d952de439c082a939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293627665,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293627665,
+    "wof:lastmodified":1537699642,
+    "wof:name":"Al Hisen",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3537,
+    14.9459,
+    33.3537,
+    14.9459
+],
+  "geometry": {"coordinates":[33.3537,14.9459],"type":"Point"}
+}

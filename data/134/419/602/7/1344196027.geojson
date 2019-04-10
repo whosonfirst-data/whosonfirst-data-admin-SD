@@ -1,0 +1,70 @@
+{
+  "id": 1344196027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1575,14.4976,33.1575,14.4976",
+    "geom:latitude":14.4976,
+    "geom:longitude":33.1575,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kambu an Nadyana",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026096,
+    "gn:latitude":14.4976,
+    "gn:longitude":33.1575,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu an Nady\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambu an Nady\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026096
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"72e009dbc14d2eacfa0ce516c6e5ae60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1344196027,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1344196027,
+    "wof:lastmodified":1537699640,
+    "wof:name":"Kambu an Nadyana",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1575,
+    14.4976,
+    33.1575,
+    14.4976
+],
+  "geometry": {"coordinates":[33.1575,14.4976],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276166363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0743,14.6178,33.0743,14.6178",
+    "geom:latitude":14.6178,
+    "geom:longitude":33.0743,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Qisim Wadi Sha`ir",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026318,
+    "gn:latitude":14.6178,
+    "gn:longitude":33.0743,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qisim W\u0101d\u012b Sha\u2018ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qisim W\u0101d\u012b Sha\u2018ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026318
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3624e8aea910b38279ba3cf31510bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1276166363,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276166363,
+    "wof:lastmodified":1537699647,
+    "wof:name":"Qisim Wadi Sha`ir",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0743,
+    14.6178,
+    33.0743,
+    14.6178
+],
+  "geometry": {"coordinates":[33.0743,14.6178],"type":"Point"}
+}

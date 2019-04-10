@@ -1,0 +1,67 @@
+{
+  "id": 1259822157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49889,15.06917,33.49889,15.06917",
+    "geom:latitude":15.06917,
+    "geom:longitude":33.49889,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu Sham",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380510,
+    "gn:latitude":15.06917,
+    "gn:longitude":33.49889,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Ab\u016b Sh\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380510
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"30ee43c37d9d9770f6cd6562c338e335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1259822157,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259822157,
+    "wof:lastmodified":1536866298,
+    "wof:name":"Abu Sham",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49889,
+    15.06917,
+    33.49889,
+    15.06917
+],
+  "geometry": {"coordinates":[33.49889,15.06917],"type":"Point"}
+}

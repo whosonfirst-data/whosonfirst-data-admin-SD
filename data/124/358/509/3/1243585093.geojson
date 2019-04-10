@@ -1,0 +1,70 @@
+{
+  "id": 1243585093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48061,12.92004,22.48061,12.92004",
+    "geom:latitude":12.92004,
+    "geom:longitude":22.48061,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kajalangi",
+    "gn:country_code":"SD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385529,
+    "gn:latitude":12.92004,
+    "gn:longitude":22.48061,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kajalangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kajalangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385529
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d5ebfbc054164d8a4ea81e906bd6a7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":1243585093,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1243585093,
+    "wof:lastmodified":1537699691,
+    "wof:name":"Kajalangi",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48061,
+    12.92004,
+    22.48061,
+    12.92004
+],
+  "geometry": {"coordinates":[22.48061,12.92004],"type":"Point"}
+}

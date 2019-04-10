@@ -1,0 +1,70 @@
+{
+  "id": 1360123207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4843,14.5824,33.4843,14.5824",
+    "geom:latitude":14.5824,
+    "geom:longitude":33.4843,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ash Sharafa Al Foq",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026257,
+    "gn:latitude":14.5824,
+    "gn:longitude":33.4843,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Sharafa Al F\u014dq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sharafa Al F\u014dq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026257
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a2425c6a32c47c6e9688e80ff2f1922c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1360123207,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360123207,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Ash Sharafa Al Foq",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4843,
+    14.5824,
+    33.4843,
+    14.5824
+],
+  "geometry": {"coordinates":[33.4843,14.5824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327171259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2,13.56667,31.2,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":31.2,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Bagera",
+    "gn:country_code":"SD",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377910,
+    "gn:latitude":13.56667,
+    "gn:longitude":31.2,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Bagera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377910
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d644b5829ad2e195ccbd8c0e3506527a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1327171259,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327171259,
+    "wof:lastmodified":1537055397,
+    "wof:name":"Bagera",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2,
+    13.56667,
+    31.2,
+    13.56667
+],
+  "geometry": {"coordinates":[31.2,13.56667],"type":"Point"}
+}

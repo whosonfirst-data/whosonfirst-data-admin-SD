@@ -1,0 +1,82 @@
+{
+  "id": 421167095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88333,13.31667,33.88333,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":33.88333,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Es Suki"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":378271,
+    "qs:gn_pop":33524,
+    "qs:name":"As Suki",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u0633\u0646\u0627\u0631\u200e",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":124481,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1430905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378271,
+        "gp:id":1430905,
+        "qs:id":124481
+    },
+    "wof:country":"SD",
+    "wof:created":1459008719,
+    "wof:geomhash":"d3b690366ff918984acdab8120a02cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":421167095,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":421167095,
+    "wof:lastmodified":1505340583,
+    "wof:name":"As Suki",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:population":33524,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88333,
+    13.31667,
+    33.88333,
+    13.31667
+],
+  "geometry": {"coordinates":[33.88333,13.31667],"type":"Point"}
+}

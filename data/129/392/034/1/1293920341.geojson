@@ -1,0 +1,71 @@
+{
+  "id": 1293920341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28333,13.9,33.28333,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":33.28333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Mahalah",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370887,
+    "gn:latitude":13.9,
+    "gn:longitude":33.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahala",
+        "Ma\u1e29\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370887
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"869110c6e3a5840cfd9ea5872401d01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1293920341,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293920341,
+    "wof:lastmodified":1537699480,
+    "wof:name":"Mahalah",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28333,
+    13.9,
+    33.28333,
+    13.9
+],
+  "geometry": {"coordinates":[33.28333,13.9],"type":"Point"}
+}

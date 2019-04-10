@@ -1,0 +1,67 @@
+{
+  "id": 1293627669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7803,14.1605,32.7803,14.1605",
+    "geom:latitude":14.1605,
+    "geom:longitude":32.7803,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Taqalab",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026574,
+    "gn:latitude":14.1605,
+    "gn:longitude":32.7803,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Taqalab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026574
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"53b5b095ec2909e23c14d3f810f1ec8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1293627669,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293627669,
+    "wof:lastmodified":1537078965,
+    "wof:name":"At Taqalab",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7803,
+    14.1605,
+    32.7803,
+    14.1605
+],
+  "geometry": {"coordinates":[32.7803,14.1605],"type":"Point"}
+}

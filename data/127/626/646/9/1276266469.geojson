@@ -1,0 +1,67 @@
+{
+  "id": 1276266469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,11.78333,31.25,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Zolein",
+    "gn:country_code":"SD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363452,
+    "gn:latitude":11.78333,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Zolein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363452
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"06eb860c4032f66541fda024f5aa406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710547,
+            "locality_id":1276266469,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1276266469,
+    "wof:lastmodified":1536866911,
+    "wof:name":"Zolein",
+    "wof:parent_id":1091710547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    11.78333,
+    31.25,
+    11.78333
+],
+  "geometry": {"coordinates":[31.25,11.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360021505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54194,20.83056,30.54194,20.83056",
+    "geom:latitude":20.83056,
+    "geom:longitude":30.54194,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kosha",
+    "gn:country_code":"SD",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372106,
+    "gn:latitude":20.83056,
+    "gn:longitude":30.54194,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Kosha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091706973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372106
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0fae4f0cd592ac59534e5aac93ed81f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706973,
+            "locality_id":1360021505,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1360021505,
+    "wof:lastmodified":1537035746,
+    "wof:name":"Kosha",
+    "wof:parent_id":1091706973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54194,
+    20.83056,
+    30.54194,
+    20.83056
+],
+  "geometry": {"coordinates":[30.54194,20.83056],"type":"Point"}
+}

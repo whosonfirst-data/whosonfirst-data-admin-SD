@@ -1,0 +1,67 @@
+{
+  "id": 1226571655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92225,12.90041,35.92225,12.90041",
+    "geom:latitude":12.90041,
+    "geom:longitude":35.92225,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad al `Ajuz",
+    "gn:country_code":"SD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7002042,
+    "gn:latitude":12.90041,
+    "gn:longitude":35.92225,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Wad al \u2018Aj\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7002042
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bb8fc41f31fb31cc6d5d969b8dbdf98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705317,
+            "locality_id":1226571655,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1226571655,
+    "wof:lastmodified":1536961774,
+    "wof:name":"Wad al `Ajuz",
+    "wof:parent_id":1091705317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92225,
+    12.90041,
+    35.92225,
+    12.90041
+],
+  "geometry": {"coordinates":[35.92225,12.90041],"type":"Point"}
+}

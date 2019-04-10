@@ -1,0 +1,71 @@
+{
+  "id": 1344188273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6,15.25,23.6,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":23.6,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Hajar Gwira",
+    "gn:country_code":"SD",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374334,
+    "gn:latitude":15.25,
+    "gn:longitude":23.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ajar Gwira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hagar Gwira",
+        "\u1e28ajar Gwira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374334
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"04b9601a77f136e2a3bd64db968c2bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705507,
+            "locality_id":1344188273,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1344188273,
+    "wof:lastmodified":1537699513,
+    "wof:name":"Hajar Gwira",
+    "wof:parent_id":1091705507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6,
+    15.25,
+    23.6,
+    15.25
+],
+  "geometry": {"coordinates":[23.6,15.25],"type":"Point"}
+}

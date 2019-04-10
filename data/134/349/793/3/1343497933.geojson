@@ -1,0 +1,71 @@
+{
+  "id": 1343497933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6652,11.8269,29.6652,11.8269",
+    "geom:latitude":11.8269,
+    "geom:longitude":29.6652,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Duleba",
+    "gn:country_code":"SD",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434463,
+    "gn:latitude":11.8269,
+    "gn:longitude":29.6652,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Duleba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daleba",
+        "Duleba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434463
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3cf6928bb50c8864d828dac33638f6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706919,
+            "locality_id":1343497933,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1343497933,
+    "wof:lastmodified":1537699605,
+    "wof:name":"Duleba",
+    "wof:parent_id":1091706919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6652,
+    11.8269,
+    29.6652,
+    11.8269
+],
+  "geometry": {"coordinates":[29.6652,11.8269],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360215969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63333,15.2,32.63333,15.2",
+    "geom:latitude":15.2,
+    "geom:longitude":32.63333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Farajab",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379558,
+    "gn:latitude":15.2,
+    "gn:longitude":32.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Faraj\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Faragab",
+        "Al Faraj\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379558
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d93156811296fa2f34f76c6d598b197d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707135,
+            "locality_id":1360215969,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1360215969,
+    "wof:lastmodified":1537699580,
+    "wof:name":"Al Farajab",
+    "wof:parent_id":1091707135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63333,
+    15.2,
+    32.63333,
+    15.2
+],
+  "geometry": {"coordinates":[32.63333,15.2],"type":"Point"}
+}

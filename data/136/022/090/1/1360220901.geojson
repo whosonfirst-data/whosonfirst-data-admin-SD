@@ -1,0 +1,71 @@
+{
+  "id": 1360220901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63333,12.71667,27.63333,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":27.63333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Butah",
+    "gn:country_code":"SD",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377018,
+    "gn:latitude":12.71667,
+    "gn:longitude":27.63333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"B\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buta",
+        "B\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091710835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377018
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"64ef4698b7e7358a6617ae4a7bd1b266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710835,
+            "locality_id":1360220901,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1360220901,
+    "wof:lastmodified":1537699532,
+    "wof:name":"Butah",
+    "wof:parent_id":1091710835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63333,
+    12.71667,
+    27.63333,
+    12.71667
+],
+  "geometry": {"coordinates":[27.63333,12.71667],"type":"Point"}
+}

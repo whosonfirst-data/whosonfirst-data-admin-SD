@@ -1,0 +1,67 @@
+{
+  "id": 1360021519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75,11.36667,29.75,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":29.75,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kega Timero",
+    "gn:country_code":"SD",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434471,
+    "gn:latitude":11.36667,
+    "gn:longitude":29.75,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"K\u0113g\u0101 Tim\u0113ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091707995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434471
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"52308e4c37b4b138b5b319bf794a71a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707995,
+            "locality_id":1360021519,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1360021519,
+    "wof:lastmodified":1537035726,
+    "wof:name":"Kega Timero",
+    "wof:parent_id":1091707995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75,
+    11.36667,
+    29.75,
+    11.36667
+],
+  "geometry": {"coordinates":[29.75,11.36667],"type":"Point"}
+}

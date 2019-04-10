@@ -1,0 +1,61 @@
+{
+  "id": 1209646047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8697,11.8079,29.8697,11.8079",
+    "geom:latitude":11.8079,
+    "geom:longitude":29.8697,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Gardud Abu Addakir",
+    "gn:country_code":"SD",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979558,
+    "gn:latitude":11.8079,
+    "gn:longitude":29.8697,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gardud Abu Addakir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979558
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"00ecb42eb0eac2b50fa74617aaf9621e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209646047
+        }
+    ],
+    "wof:id":1209646047,
+    "wof:lastmodified":1536280733,
+    "wof:name":"Gardud Abu Addakir",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8697,
+    11.8079,
+    29.8697,
+    11.8079
+],
+  "geometry": {"coordinates":[29.8697,11.8079],"type":"Point"}
+}

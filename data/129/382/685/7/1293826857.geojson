@@ -1,0 +1,70 @@
+{
+  "id": 1293826857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4237,14.9438,33.4237,14.9438",
+    "geom:latitude":14.9438,
+    "geom:longitude":33.4237,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Mantiqa",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026139,
+    "gn:latitude":14.9438,
+    "gn:longitude":33.4237,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Man\u0163iqa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Man\u0163iqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026139
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"46a6c7c474b5aa8f3e91706de3f1469f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293826857,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293826857,
+    "wof:lastmodified":1537699641,
+    "wof:name":"Al Mantiqa",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4237,
+    14.9438,
+    33.4237,
+    14.9438
+],
+  "geometry": {"coordinates":[33.4237,14.9438],"type":"Point"}
+}

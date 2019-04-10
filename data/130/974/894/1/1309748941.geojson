@@ -1,0 +1,72 @@
+{
+  "id": 1309748941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13333,11.61667,29.13333,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":29.13333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"As Sultan",
+    "gn:country_code":"SD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378267,
+    "gn:latitude":11.61667,
+    "gn:longitude":29.13333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"As Sul\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sultan",
+        "Es Sultan",
+        "As Sul\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091709737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378267
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"512e25423112aa9c328b0f8ef642c770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709737,
+            "locality_id":1309748941,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1309748941,
+    "wof:lastmodified":1537699545,
+    "wof:name":"As Sultan",
+    "wof:parent_id":1091709737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13333,
+    11.61667,
+    29.13333,
+    11.61667
+],
+  "geometry": {"coordinates":[29.13333,11.61667],"type":"Point"}
+}

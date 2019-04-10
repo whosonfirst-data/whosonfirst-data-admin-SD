@@ -1,0 +1,71 @@
+{
+  "id": 1343988669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2,14.13333,28.2,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":28.2,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Khawr as Sant",
+    "gn:country_code":"SD",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372505,
+    "gn:latitude":14.13333,
+    "gn:longitude":28.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khawr as San\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khor es Sunt",
+        "Khawr as San\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372505
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"528156a922695ee548ec17fd930ca471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708975,
+            "locality_id":1343988669,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343988669,
+    "wof:lastmodified":1537699491,
+    "wof:name":"Khawr as Sant",
+    "wof:parent_id":1091708975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2,
+    14.13333,
+    28.2,
+    14.13333
+],
+  "geometry": {"coordinates":[28.2,14.13333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293137301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2621,12.1222,31.2621,12.1222",
+    "geom:latitude":12.1222,
+    "geom:longitude":31.2621,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"As Subagh",
+    "gn:country_code":"SD",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029458,
+    "gn:latitude":12.1222,
+    "gn:longitude":31.2621,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u015f \u015eub\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f \u015eub\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029458
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f03ed279cb38549815faf42fcecef0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710069,
+            "locality_id":1293137301,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293137301,
+    "wof:lastmodified":1537699679,
+    "wof:name":"As Subagh",
+    "wof:parent_id":1091710069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2621,
+    12.1222,
+    31.2621,
+    12.1222
+],
+  "geometry": {"coordinates":[31.2621,12.1222],"type":"Point"}
+}

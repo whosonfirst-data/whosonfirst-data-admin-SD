@@ -1,0 +1,73 @@
+{
+  "id": 1293426409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16667,14.41667,31.16667,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":31.16667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Sayyalah",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364660,
+    "gn:latitude":14.41667,
+    "gn:longitude":31.16667,
+    "gn:modification_date":"2018-04-28",
+    "gn:name":"Umm Sayy\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Saiyala",
+        "Um Sayyala",
+        "Umm Sayy\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364660,
+        "wk:page":"Umm_Saiyala"
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1423dfd7a78fc81fea897796122c52d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1293426409,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293426409,
+    "wof:lastmodified":1537699418,
+    "wof:name":"Umm Sayyalah",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16667,
+    14.41667,
+    31.16667,
+    14.41667
+],
+  "geometry": {"coordinates":[31.16667,14.41667],"type":"Point"}
+}

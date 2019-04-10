@@ -1,0 +1,67 @@
+{
+  "id": 1344000751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9995,14.6522,32.9995,14.6522",
+    "geom:latitude":14.6522,
+    "geom:longitude":32.9995,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ghireqana",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983235,
+    "gn:latitude":14.6522,
+    "gn:longitude":32.9995,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ghireqana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983235
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"167df313ff7b0f40e6a63940b907495d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1344000751,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1344000751,
+    "wof:lastmodified":1536961740,
+    "wof:name":"Ghireqana",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9995,
+    14.6522,
+    32.9995,
+    14.6522
+],
+  "geometry": {"coordinates":[32.9995,14.6522],"type":"Point"}
+}

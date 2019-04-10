@@ -1,0 +1,67 @@
+{
+  "id": 1309936181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8417,16.4699,32.8417,16.4699",
+    "geom:latitude":16.4699,
+    "geom:longitude":32.8417,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Wadi el Abed",
+    "gn:country_code":"SD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444017,
+    "gn:latitude":16.4699,
+    "gn:longitude":32.8417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Wadi el Abed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444017
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"60d73d259178bd57bd1290c19d11cef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1309936181,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1309936181,
+    "wof:lastmodified":1536743077,
+    "wof:name":"Hillat Wadi el Abed",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8417,
+    16.4699,
+    32.8417,
+    16.4699
+],
+  "geometry": {"coordinates":[32.8417,16.4699],"type":"Point"}
+}

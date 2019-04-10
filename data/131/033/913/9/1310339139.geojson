@@ -1,0 +1,67 @@
+{
+  "id": 1310339139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35,10.96667,26.35,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":26.35,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Sibdu",
+    "gn:country_code":"SD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366919,
+    "gn:latitude":10.96667,
+    "gn:longitude":26.35,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sibdu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091705275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366919
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a6b8b3a383008d50d8b9c7e6bbdbabe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705275,
+            "locality_id":1310339139,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1310339139,
+    "wof:lastmodified":1536659529,
+    "wof:name":"Sibdu",
+    "wof:parent_id":1091705275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35,
+    10.96667,
+    26.35,
+    10.96667
+],
+  "geometry": {"coordinates":[26.35,10.96667],"type":"Point"}
+}

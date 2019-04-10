@@ -1,0 +1,70 @@
+{
+  "id": 1293532271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4612,14.5682,33.4612,14.5682",
+    "geom:latitude":14.5682,
+    "geom:longitude":33.4612,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ash Shanabla",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026259,
+    "gn:latitude":14.5682,
+    "gn:longitude":33.4612,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Shan\u0101bla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Shan\u0101bla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026259
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9f915d6fcf65cdae056e80a9b5505671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293532271,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293532271,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Ash Shanabla",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4612,
+    14.5682,
+    33.4612,
+    14.5682
+],
+  "geometry": {"coordinates":[33.4612,14.5682],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327263353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19851,12.70314,24.19851,12.70314",
+    "geom:latitude":12.70314,
+    "geom:longitude":24.19851,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Tiringo",
+    "gn:country_code":"SD",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7041518,
+    "gn:latitude":12.70314,
+    "gn:longitude":24.19851,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tiringo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7041518
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f66db6c3462a431de9a83fe830272423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1327263353,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1327263353,
+    "wof:lastmodified":1536925677,
+    "wof:name":"Tiringo",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19851,
+    12.70314,
+    24.19851,
+    12.70314
+],
+  "geometry": {"coordinates":[24.19851,12.70314],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260010153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79664,10.43115,25.79664,10.43115",
+    "geom:latitude":10.43115,
+    "geom:longitude":25.79664,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Turab Mafi",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047369,
+    "gn:latitude":10.43115,
+    "gn:longitude":25.79664,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Turab Mafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047369
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e189d08c277dc01b775b57905605f6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708723,
+            "locality_id":1260010153,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1260010153,
+    "wof:lastmodified":1537090441,
+    "wof:name":"Turab Mafi",
+    "wof:parent_id":1091708723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79664,
+    10.43115,
+    25.79664,
+    10.43115
+],
+  "geometry": {"coordinates":[25.79664,10.43115],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226074497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23333,12.33333,32.23333,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":32.23333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Qulay`ah",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368365,
+    "gn:latitude":12.33333,
+    "gn:longitude":32.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qulay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qulei\u2018a",
+        "Qulay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368365
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"417dd5266b7a882ab02b7cd1601e9737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1226074497,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226074497,
+    "wof:lastmodified":1537699463,
+    "wof:name":"Qulay`ah",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23333,
+    12.33333,
+    32.23333,
+    12.33333
+],
+  "geometry": {"coordinates":[32.23333,12.33333],"type":"Point"}
+}

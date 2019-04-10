@@ -1,0 +1,70 @@
+{
+  "id": 1276909255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46113,13.26251,22.46113,13.26251",
+    "geom:latitude":13.26251,
+    "geom:longitude":22.46113,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Gukor",
+    "gn:country_code":"SD",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374631,
+    "gn:latitude":13.26251,
+    "gn:longitude":22.46113,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Gukor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gukor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374631
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3a1a7c5795a0bb1b630d3656ae6cd960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1276909255,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1276909255,
+    "wof:lastmodified":1537699515,
+    "wof:name":"Gukor",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46113,
+    13.26251,
+    22.46113,
+    13.26251
+],
+  "geometry": {"coordinates":[22.46113,13.26251],"type":"Point"}
+}

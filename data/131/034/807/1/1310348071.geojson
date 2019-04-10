@@ -1,0 +1,67 @@
+{
+  "id": 1310348071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6747,15.2479,32.6747,15.2479",
+    "geom:latitude":15.2479,
+    "geom:longitude":32.6747,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mahala al Hasanab",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991657,
+    "gn:latitude":15.2479,
+    "gn:longitude":32.6747,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mahala al Hasanab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991657
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ece4d65159a885e3382c33dea8fb250d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1310348071,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310348071,
+    "wof:lastmodified":1536646180,
+    "wof:name":"Mahala al Hasanab",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6747,
+    15.2479,
+    32.6747,
+    15.2479
+],
+  "geometry": {"coordinates":[32.6747,15.2479],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293518113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55,12.93333,34.55,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":34.55,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Wad Abakr",
+    "gn:country_code":"SD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364336,
+    "gn:latitude":12.93333,
+    "gn:longitude":34.55,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Abakr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364336
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2c233282a19a5411c0a3a694305c3115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1293518113,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1293518113,
+    "wof:lastmodified":1536742759,
+    "wof:name":"Wad Abakr",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55,
+    12.93333,
+    34.55,
+    12.93333
+],
+  "geometry": {"coordinates":[34.55,12.93333],"type":"Point"}
+}

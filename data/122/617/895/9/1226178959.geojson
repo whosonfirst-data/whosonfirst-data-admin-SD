@@ -1,0 +1,67 @@
+{
+  "id": 1226178959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,11.43333,34.93333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":34.93333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Amiri",
+    "gn:country_code":"SD",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378859,
+    "gn:latitude":11.43333,
+    "gn:longitude":34.93333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Amiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378859
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5c2765ce7b830301ad2c5f4b25641a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1226178959,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226178959,
+    "wof:lastmodified":1537028528,
+    "wof:name":"Amiri",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    11.43333,
+    34.93333,
+    11.43333
+],
+  "geometry": {"coordinates":[34.93333,11.43333],"type":"Point"}
+}

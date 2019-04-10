@@ -1,0 +1,70 @@
+{
+  "id": 1260317607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.255,14.0132,33.255,14.0132",
+    "geom:latitude":14.0132,
+    "geom:longitude":33.255,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Baniyyat ash Shekh Musa Aba Qussa",
+    "gn:country_code":"SD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026402,
+    "gn:latitude":14.0132,
+    "gn:longitude":33.255,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baniyyat ash Shekh M\u016bsa Aba Qu\u015f\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baniyyat ash Shekh M\u016bsa Aba Qu\u015f\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026402
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"19745d23cf2860a6c7c04109e099d57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1260317607,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1260317607,
+    "wof:lastmodified":1537699650,
+    "wof:name":"Baniyyat ash Shekh Musa Aba Qussa",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.255,
+    14.0132,
+    33.255,
+    14.0132
+],
+  "geometry": {"coordinates":[33.255,14.0132],"type":"Point"}
+}

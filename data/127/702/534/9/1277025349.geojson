@@ -1,0 +1,72 @@
+{
+  "id": 1277025349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2266,14.5196,33.2266,14.5196",
+    "geom:latitude":14.5196,
+    "geom:longitude":33.2266,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Julud `Arab",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364779,
+    "gn:latitude":14.5196,
+    "gn:longitude":33.2266,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Jul\u016bd \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Gulud",
+        "Umm Qul\u016bd",
+        "Um Jul\u016bd \u2018Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364779
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9d55898a4069a55f0a223f7e1cdee9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1277025349,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277025349,
+    "wof:lastmodified":1537699420,
+    "wof:name":"Um Julud `Arab",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2266,
+    14.5196,
+    33.2266,
+    14.5196
+],
+  "geometry": {"coordinates":[33.2266,14.5196],"type":"Point"}
+}

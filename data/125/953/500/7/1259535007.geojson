@@ -1,0 +1,71 @@
+{
+  "id": 1259535007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8593,15.0375,32.8593,15.0375",
+    "geom:latitude":15.0375,
+    "geom:longitude":32.8593,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hillat al Qwez",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368280,
+    "gn:latitude":15.0375,
+    "gn:longitude":32.8593,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat al Qwez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quweia",
+        "Hillat al Qwez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368280
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4a10b38784574e80cbbc58aeaa960c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1259535007,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259535007,
+    "wof:lastmodified":1537699460,
+    "wof:name":"Hillat al Qwez",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8593,
+    15.0375,
+    32.8593,
+    15.0375
+],
+  "geometry": {"coordinates":[32.8593,15.0375],"type":"Point"}
+}

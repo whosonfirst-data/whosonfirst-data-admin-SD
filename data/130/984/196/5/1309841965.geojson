@@ -1,0 +1,70 @@
+{
+  "id": 1309841965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2317,16.0382,36.2317,16.0382",
+    "geom:latitude":16.0382,
+    "geom:longitude":36.2317,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Matamir",
+    "gn:country_code":"SD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386420,
+    "gn:latitude":16.0382,
+    "gn:longitude":36.2317,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mat\u0101m\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mat\u0101m\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386420
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8d7b9422a94fdb4bb6ae0b532f42d945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":1309841965,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1309841965,
+    "wof:lastmodified":1537699605,
+    "wof:name":"Matamir",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2317,
+    16.0382,
+    36.2317,
+    16.0382
+],
+  "geometry": {"coordinates":[36.2317,16.0382],"type":"Point"}
+}

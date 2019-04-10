@@ -1,0 +1,67 @@
+{
+  "id": 1276803745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3905,12.687,31.3905,12.687",
+    "geom:latitude":12.687,
+    "geom:longitude":31.3905,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Qoz",
+    "gn:country_code":"SD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029026,
+    "gn:latitude":12.687,
+    "gn:longitude":31.3905,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Qoz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029026
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b7b021f6d010c2192fdeecfbdcf788f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1276803745,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276803745,
+    "wof:lastmodified":1536644981,
+    "wof:name":"Al Qoz",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3905,
+    12.687,
+    31.3905,
+    12.687
+],
+  "geometry": {"coordinates":[31.3905,12.687],"type":"Point"}
+}

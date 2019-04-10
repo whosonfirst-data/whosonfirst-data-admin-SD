@@ -1,0 +1,71 @@
+{
+  "id": 1343394867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9,12.76667,25.9,12.76667",
+    "geom:latitude":12.76667,
+    "geom:longitude":25.9,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Turuq",
+    "gn:country_code":"SD",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365539,
+    "gn:latitude":12.76667,
+    "gn:longitude":25.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162uruq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turug",
+        "\u0162uruq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091707249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365539
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6d44c6ab3352906d1c1123416f9743ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707249,
+            "locality_id":1343394867,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343394867,
+    "wof:lastmodified":1537699433,
+    "wof:name":"Turuq",
+    "wof:parent_id":1091707249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9,
+    12.76667,
+    25.9,
+    12.76667
+],
+  "geometry": {"coordinates":[25.9,12.76667],"type":"Point"}
+}

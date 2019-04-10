@@ -1,0 +1,71 @@
+{
+  "id": 1343798723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8141,12.8533,32.8141,12.8533",
+    "geom:latitude":12.8533,
+    "geom:longitude":32.8141,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Babanusa",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377964,
+    "gn:latitude":12.8533,
+    "gn:longitude":32.8141,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u0101ban\u016bsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baban\u016bs",
+        "B\u0101ban\u016bsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377964
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"32c6703307c520f8d048ba37bd56a158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1343798723,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343798723,
+    "wof:lastmodified":1537699540,
+    "wof:name":"Babanusa",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8141,
+    12.8533,
+    32.8141,
+    12.8533
+],
+  "geometry": {"coordinates":[32.8141,12.8533],"type":"Point"}
+}

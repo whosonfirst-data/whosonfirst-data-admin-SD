@@ -1,0 +1,67 @@
+{
+  "id": 1226571707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33333,10.68333,34.33333,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":34.33333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Onsa",
+    "gn:country_code":"SD",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368744,
+    "gn:latitude":10.68333,
+    "gn:longitude":34.33333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Onsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368744
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b1be97e52caf809efa86c94a437575da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1226571707,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1226571707,
+    "wof:lastmodified":1536961699,
+    "wof:name":"Onsa",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33333,
+    10.68333,
+    34.33333,
+    10.68333
+],
+  "geometry": {"coordinates":[34.33333,10.68333],"type":"Point"}
+}

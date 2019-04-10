@@ -1,0 +1,70 @@
+{
+  "id": 1343292573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8011,12.6133,32.8011,12.6133",
+    "geom:latitude":12.6133,
+    "geom:longitude":32.8011,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"`Aradib",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854137,
+    "gn:latitude":12.6133,
+    "gn:longitude":32.8011,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Ar\u0101d\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ar\u0101d\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854137
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"70ae1d8ed39a304c824b14b2f0517758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1343292573,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343292573,
+    "wof:lastmodified":1537699614,
+    "wof:name":"`Aradib",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8011,
+    12.6133,
+    32.8011,
+    12.6133
+],
+  "geometry": {"coordinates":[32.8011,12.6133],"type":"Point"}
+}

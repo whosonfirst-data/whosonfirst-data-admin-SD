@@ -1,0 +1,70 @@
+{
+  "id": 1226081127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.808,12.8442,32.808,12.8442",
+    "geom:latitude":12.8442,
+    "geom:longitude":32.808,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Tabat 'Abu ad Dakhira",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854169,
+    "gn:latitude":12.8442,
+    "gn:longitude":32.808,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162\u0101bat \u2019Abu ad Dakh\u012bra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162\u0101bat \u2019Abu ad Dakh\u012bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854169
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c4b25e46a1e5f186cf7bf7736f2463a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1226081127,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226081127,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Tabat 'Abu ad Dakhira",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.808,
+    12.8442,
+    32.808,
+    12.8442
+],
+  "geometry": {"coordinates":[32.808,12.8442],"type":"Point"}
+}

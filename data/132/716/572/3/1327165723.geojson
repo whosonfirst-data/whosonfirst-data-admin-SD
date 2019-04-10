@@ -1,0 +1,72 @@
+{
+  "id": 1327165723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,13.03333,31.51667,13.03333",
+    "geom:latitude":13.03333,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Abu Shutayr",
+    "gn:country_code":"SD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380479,
+    "gn:latitude":13.03333,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Shu\u0163ayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Shuteir",
+        "Abu Shateir",
+        "Ab\u016b Shu\u0163ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380479
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c564654c502740a2972e3067d627ddbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1327165723,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327165723,
+    "wof:lastmodified":1537699593,
+    "wof:name":"Abu Shutayr",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    13.03333,
+    31.51667,
+    13.03333
+],
+  "geometry": {"coordinates":[31.51667,13.03333],"type":"Point"}
+}

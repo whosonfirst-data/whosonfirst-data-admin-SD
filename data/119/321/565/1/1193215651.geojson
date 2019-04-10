@@ -1,0 +1,70 @@
+{
+  "id": 1193215651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.355,14.6223,33.355,14.6223",
+    "geom:latitude":14.6223,
+    "geom:longitude":33.355,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Amara Taha",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026268,
+    "gn:latitude":14.6223,
+    "gn:longitude":33.355,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Am\u0101ra \u0162aha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Am\u0101ra \u0162aha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026268
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bfcc9501faf7af2eb969746c26b8feae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1193215651,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193215651,
+    "wof:lastmodified":1537699646,
+    "wof:name":"Al `Amara Taha",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.355,
+    14.6223,
+    33.355,
+    14.6223
+],
+  "geometry": {"coordinates":[33.355,14.6223],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259823669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1567,18.2073,38.1567,18.2073",
+    "geom:latitude":18.2073,
+    "geom:longitude":38.1567,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hillat Dirheb al Kasta",
+    "gn:country_code":"SD",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983511,
+    "gn:latitude":18.2073,
+    "gn:longitude":38.1567,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Dirheb al Kasta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983511
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2036113347e2e9b87a8193e4e354a6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1259823669,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1259823669,
+    "wof:lastmodified":1536864074,
+    "wof:name":"Hillat Dirheb al Kasta",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1567,
+    18.2073,
+    38.1567,
+    18.2073
+],
+  "geometry": {"coordinates":[38.1567,18.2073],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343692893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11667,15.51667,30.11667,15.51667",
+    "geom:latitude":15.51667,
+    "geom:longitude":30.11667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"As Safiyah",
+    "gn:country_code":"SD",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378318,
+    "gn:latitude":15.51667,
+    "gn:longitude":30.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015e\u0101fiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Safiya",
+        "Es Safiya",
+        "A\u1e63 \u1e62afya",
+        "A\u015f \u015e\u0101fiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378318
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"647fca53c1b3825d3a8f5260f2bf2ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709395,
+            "locality_id":1343692893,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343692893,
+    "wof:lastmodified":1537699547,
+    "wof:name":"As Safiyah",
+    "wof:parent_id":1091709395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11667000000001,
+    15.51667,
+    30.11667000000001,
+    15.51667
+],
+  "geometry": {"coordinates":[30.11667000000001,15.51667],"type":"Point"}
+}

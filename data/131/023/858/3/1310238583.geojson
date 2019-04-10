@@ -1,0 +1,71 @@
+{
+  "id": 1310238583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93333,13.56667,28.93333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":28.93333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Fag al Qash",
+    "gn:country_code":"SD",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375677,
+    "gn:latitude":13.56667,
+    "gn:longitude":28.93333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Fag al Qash",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fag el Qash",
+        "Fag al Qash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375677
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"90733daed43e1bb1eabf44a317a76363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706541,
+            "locality_id":1310238583,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1310238583,
+    "wof:lastmodified":1537699521,
+    "wof:name":"Fag al Qash",
+    "wof:parent_id":1091706541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93333,
+    13.56667,
+    28.93333,
+    13.56667
+],
+  "geometry": {"coordinates":[28.93333,13.56667],"type":"Point"}
+}

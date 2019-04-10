@@ -1,0 +1,71 @@
+{
+  "id": 1360118851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,18.71667,33.58333,18.71667",
+    "geom:latitude":18.71667,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Al Arak",
+    "gn:country_code":"SD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379691,
+    "gn:latitude":18.71667,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ar\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Arak",
+        "Al Ar\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091705233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379691
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7175d2571afe520d4f5888d998186143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705233,
+            "locality_id":1360118851,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1360118851,
+    "wof:lastmodified":1537699585,
+    "wof:name":"Al Arak",
+    "wof:parent_id":1091705233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    18.71667,
+    33.58333,
+    18.71667
+],
+  "geometry": {"coordinates":[33.58333,18.71667],"type":"Point"}
+}

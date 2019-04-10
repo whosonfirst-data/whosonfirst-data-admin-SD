@@ -1,0 +1,71 @@
+{
+  "id": 1243596817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4878,14.7848,33.4878,14.7848",
+    "geom:latitude":14.7848,
+    "geom:longitude":33.4878,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Qarfa",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375103,
+    "gn:latitude":14.7848,
+    "gn:longitude":33.4878,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qarfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garfa",
+        "Qarfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375103
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6dde766b38a0631cdc46dc29c83fb547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1243596817,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243596817,
+    "wof:lastmodified":1537699518,
+    "wof:name":"Qarfa",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4878,
+    14.7848,
+    33.4878,
+    14.7848
+],
+  "geometry": {"coordinates":[33.4878,14.7848],"type":"Point"}
+}

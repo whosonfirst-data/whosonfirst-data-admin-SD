@@ -1,0 +1,64 @@
+{
+  "id": 1209666769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4017,14.554,33.4017,14.554",
+    "geom:latitude":14.554,
+    "geom:longitude":33.4017,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Azaza",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026264,
+    "gn:latitude":14.554,
+    "gn:longitude":33.4017,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Azaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Azaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026264
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6f27d0344e609ebf3dc7be6568cad183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209666769
+        }
+    ],
+    "wof:id":1209666769,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Al `Azaza",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4017,
+    14.554,
+    33.4017,
+    14.554
+],
+  "geometry": {"coordinates":[33.4017,14.554],"type":"Point"}
+}

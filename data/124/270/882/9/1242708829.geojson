@@ -1,0 +1,70 @@
+{
+  "id": 1242708829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21073,12.72343,23.21073,12.72343",
+    "geom:latitude":12.72343,
+    "geom:longitude":23.21073,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kolei",
+    "gn:country_code":"SD",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754564,
+    "gn:latitude":12.72343,
+    "gn:longitude":23.21073,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kolei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yulyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754564
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a396fb73a05517080578ca3b1da68a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":1242708829,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1242708829,
+    "wof:lastmodified":1537699690,
+    "wof:name":"Kolei",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21073,
+    12.72343,
+    23.21073,
+    12.72343
+],
+  "geometry": {"coordinates":[23.21073,12.72343],"type":"Point"}
+}

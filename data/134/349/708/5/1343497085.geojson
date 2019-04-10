@@ -1,0 +1,67 @@
+{
+  "id": 1343497085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.02182,10.97312,24.02182,10.97312",
+    "geom:latitude":10.97312,
+    "geom:longitude":24.02182,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Soreino",
+    "gn:country_code":"SD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146007,
+    "gn:latitude":10.97312,
+    "gn:longitude":24.02182,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Soreino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146007
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"650fb2e7b0ceaad7d37cceb3e5fd814b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707885,
+            "locality_id":1343497085,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1343497085,
+    "wof:lastmodified":1536693489,
+    "wof:name":"Soreino",
+    "wof:parent_id":1091707885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.02182,
+    10.97312,
+    24.02182,
+    10.97312
+],
+  "geometry": {"coordinates":[24.02182,10.97312],"type":"Point"}
+}

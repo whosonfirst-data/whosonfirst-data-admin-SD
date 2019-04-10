@@ -1,0 +1,67 @@
+{
+  "id": 1277105899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54466,14.01643,22.54466,14.01643",
+    "geom:latitude":14.01643,
+    "geom:longitude":22.54466,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Farida",
+    "gn:country_code":"SD",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385480,
+    "gn:latitude":14.01643,
+    "gn:longitude":22.54466,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Farida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385480
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d42cf74384c7da4cacfab907b0edc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1277105899,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1277105899,
+    "wof:lastmodified":1536734496,
+    "wof:name":"Farida",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54466,
+    14.01643,
+    22.54466,
+    14.01643
+],
+  "geometry": {"coordinates":[22.54466,14.01643],"type":"Point"}
+}

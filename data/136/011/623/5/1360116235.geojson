@@ -1,0 +1,79 @@
+{
+  "id": 1360116235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05,11.83333,28.05,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":28.05,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"An Nur Musa",
+    "gn:country_code":"SD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378687,
+    "gn:latitude":11.83333,
+    "gn:longitude":28.05,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"An N\u016br M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nur Musa",
+        "An N\u016br M\u016bs\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706565,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378687
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8456a7bdc06094e6eea6e03cdaefd805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1360116235,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1360116235,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1360116235,
+    "wof:lastmodified":1537699554,
+    "wof:name":"An Nur Musa",
+    "wof:parent_id":1091706565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05,
+    11.83333,
+    28.05,
+    11.83333
+],
+  "geometry": {"coordinates":[28.05,11.83333],"type":"Point"}
+}

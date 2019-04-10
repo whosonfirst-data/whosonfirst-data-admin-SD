@@ -1,0 +1,71 @@
+{
+  "id": 1326466885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,12.65,22.61667,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Duju",
+    "gn:country_code":"SD",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376192,
+    "gn:latitude":12.65,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Duju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doujou",
+        "Duju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376192
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ae443fc81d8e5da106e3b9e8338e311c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":1326466885,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1326466885,
+    "wof:lastmodified":1537699526,
+    "wof:name":"Duju",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61667000000001,
+    12.65,
+    22.61667000000001,
+    12.65
+],
+  "geometry": {"coordinates":[22.61667000000001,12.65],"type":"Point"}
+}

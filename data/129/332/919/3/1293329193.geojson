@@ -1,0 +1,72 @@
+{
+  "id": 1293329193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3601,12.2925,34.3601,12.2925",
+    "geom:latitude":12.2925,
+    "geom:longitude":34.3601,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Sawlil al Ashraf",
+    "gn:country_code":"SD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367638,
+    "gn:latitude":12.2925,
+    "gn:longitude":34.3601,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0101wl\u012bl al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saoleil",
+        "Saoleil Ashraf",
+        "S\u0101wl\u012bl al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367638
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1ff865e8ee0c00e84bf90cead36b5106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1293329193,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1293329193,
+    "wof:lastmodified":1537699455,
+    "wof:name":"Sawlil al Ashraf",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3601,
+    12.2925,
+    34.3601,
+    12.2925
+],
+  "geometry": {"coordinates":[34.3601,12.2925],"type":"Point"}
+}

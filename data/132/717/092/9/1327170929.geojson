@@ -1,0 +1,72 @@
+{
+  "id": 1327170929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75,12.3466,32.75,12.3466",
+    "geom:latitude":12.3466,
+    "geom:longitude":32.75,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kirekirra",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372598,
+    "gn:latitude":12.3466,
+    "gn:longitude":32.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kirekirra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiri Kera",
+        "Kirekirra",
+        "Keri Kera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372598
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0de0cc874abe8c83e89bfdeadc826ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1327170929,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327170929,
+    "wof:lastmodified":1537699493,
+    "wof:name":"Kirekirra",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75,
+    12.3466,
+    32.75,
+    12.3466
+],
+  "geometry": {"coordinates":[32.75,12.3466],"type":"Point"}
+}

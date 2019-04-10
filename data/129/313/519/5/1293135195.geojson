@@ -1,0 +1,70 @@
+{
+  "id": 1293135195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49486,13.65664,22.49486,13.65664",
+    "geom:latitude":13.65664,
+    "geom:longitude":22.49486,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kondobei",
+    "gn:country_code":"SD",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372211,
+    "gn:latitude":13.65664,
+    "gn:longitude":22.49486,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kondobei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kondobei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372211
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"77598211f653ab6559d9dae712801f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":1293135195,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1293135195,
+    "wof:lastmodified":1537699488,
+    "wof:name":"Kondobei",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49486,
+    13.65664,
+    22.49486,
+    13.65664
+],
+  "geometry": {"coordinates":[22.49486,13.65664],"type":"Point"}
+}

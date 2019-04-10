@@ -1,0 +1,67 @@
+{
+  "id": 1344009619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0132,14.9316,33.0132,14.9316",
+    "geom:latitude":14.9316,
+    "geom:longitude":33.0132,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Fiqeda",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026204,
+    "gn:latitude":14.9316,
+    "gn:longitude":33.0132,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Fiqeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026204
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9a7e748bb561be0e1d7c9ad33712d56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1344009619,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1344009619,
+    "wof:lastmodified":1536949456,
+    "wof:name":"Al Fiqeda",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0132,
+    14.9316,
+    33.0132,
+    14.9316
+],
+  "geometry": {"coordinates":[33.0132,14.9316],"type":"Point"}
+}

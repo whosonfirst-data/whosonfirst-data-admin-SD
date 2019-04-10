@@ -1,0 +1,67 @@
+{
+  "id": 1276371187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59356,12.71946,35.59356,12.71946",
+    "geom:latitude":12.71946,
+    "geom:longitude":35.59356,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Al Fazra",
+    "gn:country_code":"SD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7002054,
+    "gn:latitude":12.71946,
+    "gn:longitude":35.59356,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Al Fazra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091705317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7002054
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e759fbadf5c6623a877fc2aa6dbfe100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705317,
+            "locality_id":1276371187,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1276371187,
+    "wof:lastmodified":1536728265,
+    "wof:name":"Al Fazra",
+    "wof:parent_id":1091705317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59356,
+    12.71946,
+    35.59356,
+    12.71946
+],
+  "geometry": {"coordinates":[35.59356,12.71946],"type":"Point"}
+}

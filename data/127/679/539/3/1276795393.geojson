@@ -1,0 +1,70 @@
+{
+  "id": 1276795393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42267,13.28056,22.42267,13.28056",
+    "geom:latitude":13.28056,
+    "geom:longitude":22.42267,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kondola Jeisa",
+    "gn:country_code":"SD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372210,
+    "gn:latitude":13.28056,
+    "gn:longitude":22.42267,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kondola Jeisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kondola Jeisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372210
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b0615fa9b00a04cb7d75251c29639c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1276795393,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1276795393,
+    "wof:lastmodified":1537699488,
+    "wof:name":"Kondola Jeisa",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42267,
+    13.28056,
+    22.42267,
+    13.28056
+],
+  "geometry": {"coordinates":[22.42267,13.28056],"type":"Point"}
+}

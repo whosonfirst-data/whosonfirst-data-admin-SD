@@ -1,0 +1,72 @@
+{
+  "id": 1259434253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2257,14.0989,33.2257,14.0989",
+    "geom:latitude":14.0989,
+    "geom:longitude":33.2257,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Hajer",
+    "gn:country_code":"SD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364980,
+    "gn:latitude":14.0989,
+    "gn:longitude":33.2257,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ajer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Hugeir",
+        "Umm \u1e28ujayr",
+        "Al \u1e28ajer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364980
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1d25465058dc71daf34b58e2db35af82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1259434253,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259434253,
+    "wof:lastmodified":1537699424,
+    "wof:name":"Al Hajer",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2257,
+    14.0989,
+    33.2257,
+    14.0989
+],
+  "geometry": {"coordinates":[33.2257,14.0989],"type":"Point"}
+}

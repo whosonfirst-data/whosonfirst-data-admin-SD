@@ -1,0 +1,67 @@
+{
+  "id": 1309748835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48703,12.8831,24.48703,12.8831",
+    "geom:latitude":12.8831,
+    "geom:longitude":24.48703,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Feina",
+    "gn:country_code":"SD",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7036938,
+    "gn:latitude":12.8831,
+    "gn:longitude":24.48703,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Feina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7036938
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"02a6ecd8c1aa69feb950e174b20d621a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708337,
+            "locality_id":1309748835,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1309748835,
+    "wof:lastmodified":1537012465,
+    "wof:name":"Feina",
+    "wof:parent_id":1091708337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48703,
+    12.8831,
+    24.48703,
+    12.8831
+],
+  "geometry": {"coordinates":[24.48703,12.8831],"type":"Point"}
+}

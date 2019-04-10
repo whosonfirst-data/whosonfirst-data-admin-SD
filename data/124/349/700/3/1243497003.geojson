@@ -1,0 +1,71 @@
+{
+  "id": 1243497003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,13.96667,32.95,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Umm Mulayhah",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364825,
+    "gn:latitude":13.96667,
+    "gn:longitude":32.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Mulay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Muleiha",
+        "Umm Mulay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364825
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba15bbe7be695c7be2a78bfd96edc52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1243497003,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243497003,
+    "wof:lastmodified":1537699421,
+    "wof:name":"Umm Mulayhah",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    13.96667,
+    32.95,
+    13.96667
+],
+  "geometry": {"coordinates":[32.95,13.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277128033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4715,14.1828,33.4715,14.1828",
+    "geom:latitude":14.1828,
+    "geom:longitude":33.4715,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abbakar",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026672,
+    "gn:latitude":14.1828,
+    "gn:longitude":33.4715,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abbakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026672
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6af2fd0a856a757a9490b6434b9deda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1277128033,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277128033,
+    "wof:lastmodified":1536702778,
+    "wof:name":"Abbakar",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4715,
+    14.1828,
+    33.4715,
+    14.1828
+],
+  "geometry": {"coordinates":[33.4715,14.1828],"type":"Point"}
+}

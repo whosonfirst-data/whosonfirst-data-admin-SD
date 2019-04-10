@@ -1,0 +1,67 @@
+{
+  "id": 1343394637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95454,9.83492,26.95454,9.83492",
+    "geom:latitude":9.83492,
+    "geom:longitude":26.95454,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Umm Keddula",
+    "gn:country_code":"SD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613028,
+    "gn:latitude":9.83492,
+    "gn:longitude":26.95454,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Umm Keddula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091710883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613028
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"52b005999d0de7d546a23b190f623e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710883,
+            "locality_id":1343394637,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1343394637,
+    "wof:lastmodified":1536840232,
+    "wof:name":"Umm Keddula",
+    "wof:parent_id":1091710883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95454,
+    9.83492,
+    26.95454,
+    9.83492
+],
+  "geometry": {"coordinates":[26.95454,9.83492],"type":"Point"}
+}

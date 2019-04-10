@@ -1,0 +1,73 @@
+{
+  "id": 1259817295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7706,17.3469,33.7706,17.3469",
+    "geom:latitude":17.3469,
+    "geom:longitude":33.7706,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el `Alyabegbai",
+    "gn:country_code":"SD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379344,
+    "gn:latitude":17.3469,
+    "gn:longitude":33.7706,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat el \u2018Alyabegbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Aliab West",
+        "\u2018Al\u012by\u0101b West",
+        "Hillat el \u2018Ayabegbai",
+        "Hillat el \u2018Alyabegbai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379344
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"02bc1ba4adf1f8464c01d9c7a5daa51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1259817295,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1259817295,
+    "wof:lastmodified":1537699573,
+    "wof:name":"Hillat el `Alyabegbai",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7706,
+    17.3469,
+    33.7706,
+    17.3469
+],
+  "geometry": {"coordinates":[33.7706,17.3469],"type":"Point"}
+}

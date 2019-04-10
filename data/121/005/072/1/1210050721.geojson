@@ -1,0 +1,67 @@
+{
+  "id": 1210050721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08333,14.5,24.08333,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":24.08333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Gabera",
+    "gn:country_code":"SD",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375254,
+    "gn:latitude":14.5,
+    "gn:longitude":24.08333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Gabera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375254
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fe5b74e0541206c8904219d2cf25491f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709379,
+            "locality_id":1210050721,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1210050721,
+    "wof:lastmodified":1536373950,
+    "wof:name":"Gabera",
+    "wof:parent_id":1091709379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08333,
+    14.5,
+    24.08333,
+    14.5
+],
+  "geometry": {"coordinates":[24.08333,14.5],"type":"Point"}
+}

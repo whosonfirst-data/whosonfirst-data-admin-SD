@@ -1,0 +1,84 @@
+{
+  "id": 421200579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5319,15.6636,32.5319,15.6636",
+    "geom:latitude":15.6636,
+    "geom:longitude":32.5319,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Shambat"
+    ],
+    "name:eng_x_preferred":[
+        "Shambat"
+    ],
+    "qs:gn_country":"SD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":367327,
+    "qs:gn_pop":0,
+    "qs:name":"Shambat",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name_adm1":"\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062e\u0631\u0637\u0648\u0645",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887897,
+    "qs:woe_adm0":23424952,
+    "qs:woe_id":1436000,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367327,
+        "gp:id":1436000,
+        "qs:id":887897,
+        "wd:id":"Q7487450"
+    },
+    "wof:country":"SD",
+    "wof:created":1459010030,
+    "wof:geomhash":"414e58f9a9917304e59a7c370521c207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707361,
+            "locality_id":421200579,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":421200579,
+    "wof:lastmodified":1527716430,
+    "wof:name":"Shambat",
+    "wof:parent_id":1091707361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5319,
+    15.6636,
+    32.5319,
+    15.6636
+],
+  "geometry": {"coordinates":[32.5319,15.6636],"type":"Point"}
+}

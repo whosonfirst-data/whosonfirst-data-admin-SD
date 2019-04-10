@@ -1,0 +1,67 @@
+{
+  "id": 1226453065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63626,11.82914,24.63626,11.82914",
+    "geom:latitude":11.82914,
+    "geom:longitude":24.63626,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bulbul",
+    "gn:country_code":"SD",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8468628,
+    "gn:latitude":11.82914,
+    "gn:longitude":24.63626,
+    "gn:modification_date":"2013-02-12",
+    "gn:name":"Bulbul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8468628
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1223d28c275004407aa5790341421e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707279,
+            "locality_id":1226453065,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226453065,
+    "wof:lastmodified":1536633459,
+    "wof:name":"Bulbul",
+    "wof:parent_id":1091707279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63626,
+    11.82914,
+    24.63626,
+    11.82914
+],
+  "geometry": {"coordinates":[24.63626,11.82914],"type":"Point"}
+}

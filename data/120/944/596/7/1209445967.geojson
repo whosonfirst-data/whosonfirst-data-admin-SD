@@ -1,0 +1,65 @@
+{
+  "id": 1209445967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.264,12.50551,23.264,12.50551",
+    "geom:latitude":12.50551,
+    "geom:longitude":23.264,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Dulgo",
+    "gn:country_code":"SD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376147,
+    "gn:latitude":12.50551,
+    "gn:longitude":23.264,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dulgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dulga",
+        "Dulgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376147
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9313d51034c947f8de8fffe737e93494",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209445967
+        }
+    ],
+    "wof:id":1209445967,
+    "wof:lastmodified":1537699525,
+    "wof:name":"Dulgo",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.264,
+    12.50551,
+    23.264,
+    12.50551
+],
+  "geometry": {"coordinates":[23.264,12.50551],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292942505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21667,13.71667,34.21667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":34.21667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Abu `Uruq",
+    "gn:country_code":"SD",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380378,
+    "gn:latitude":13.71667,
+    "gn:longitude":34.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u2018Ur\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu \u2018Urug",
+        "Ab\u016b \u2018Ur\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380378
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b8f63d619171b59651882a6e3f9d846a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708257,
+            "locality_id":1292942505,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1292942505,
+    "wof:lastmodified":1537699592,
+    "wof:name":"Abu `Uruq",
+    "wof:parent_id":1091708257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21667,
+    13.71667,
+    34.21667,
+    13.71667
+],
+  "geometry": {"coordinates":[34.21667,13.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309939919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8352,16.5162,32.8352,16.5162",
+    "geom:latitude":16.5162,
+    "geom:longitude":32.8352,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Wad el Habashi",
+    "gn:country_code":"SD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7022974,
+    "gn:latitude":16.5162,
+    "gn:longitude":32.8352,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad el Habashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022974
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e3aa092b6e4c856084c1cfd7494415c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1309939919,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1309939919,
+    "wof:lastmodified":1536737837,
+    "wof:name":"Wad el Habashi",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8352,
+    16.5162,
+    32.8352,
+    16.5162
+],
+  "geometry": {"coordinates":[32.8352,16.5162],"type":"Point"}
+}

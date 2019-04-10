@@ -1,0 +1,70 @@
+{
+  "id": 1259421517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9325,14.7729,32.9325,14.7729",
+    "geom:latitude":14.7729,
+    "geom:longitude":32.9325,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mi'enja Khojali",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983228,
+    "gn:latitude":14.7729,
+    "gn:longitude":32.9325,
+    "gn:modification_date":"2011-10-14",
+    "gn:name":"Mi\u2018enja Kh\u014djali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi\u2018enja Kh\u014djali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983228
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f491abdf5e9633e8522d5c1fe9cda452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1259421517,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259421517,
+    "wof:lastmodified":1537699620,
+    "wof:name":"Mi'enja Khojali",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9325,
+    14.7729,
+    32.9325,
+    14.7729
+],
+  "geometry": {"coordinates":[32.9325,14.7729],"type":"Point"}
+}

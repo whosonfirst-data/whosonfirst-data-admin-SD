@@ -1,0 +1,61 @@
+{
+  "id": 1209147707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8991,15.2398,32.8991,15.2398",
+    "geom:latitude":15.2398,
+    "geom:longitude":32.8991,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hillat Wad Bosry",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991665,
+    "gn:latitude":15.2398,
+    "gn:longitude":32.8991,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Wad Bosry",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991665
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2cc6f0930fb3f769ad08bdd021df78dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209147707
+        }
+    ],
+    "wof:id":1209147707,
+    "wof:lastmodified":1536296305,
+    "wof:name":"Hillat Wad Bosry",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8991,
+    15.2398,
+    32.8991,
+    15.2398
+],
+  "geometry": {"coordinates":[32.8991,15.2398],"type":"Point"}
+}

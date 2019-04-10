@@ -1,0 +1,61 @@
+{
+  "id": 1209551867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.58333,13.18333,28.58333,13.18333",
+    "geom:latitude":13.18333,
+    "geom:longitude":28.58333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Wad Kutna",
+    "gn:country_code":"SD",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364109,
+    "gn:latitude":13.18333,
+    "gn:longitude":28.58333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Wad Kutna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364109
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1183d64ce5cc0bcd33c825a0ee255222",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209551867
+        }
+    ],
+    "wof:id":1209551867,
+    "wof:lastmodified":1536283668,
+    "wof:name":"Wad Kutna",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.58333,
+    13.183329999999998,
+    28.58333,
+    13.183329999999998
+],
+  "geometry": {"coordinates":[28.58333,13.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243098381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6942,17.1499,33.6942,17.1499",
+    "geom:latitude":17.1499,
+    "geom:longitude":33.6942,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Mashra el Kitayyab",
+    "gn:country_code":"SD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444054,
+    "gn:latitude":17.1499,
+    "gn:longitude":33.6942,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mashra el Kitayyab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444054
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e22232838f3a0db256152d47f92974c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1243098381,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1243098381,
+    "wof:lastmodified":1536809832,
+    "wof:name":"Mashra el Kitayyab",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6942,
+    17.1499,
+    33.6942,
+    17.1499
+],
+  "geometry": {"coordinates":[33.6942,17.1499],"type":"Point"}
+}

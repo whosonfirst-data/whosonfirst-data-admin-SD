@@ -1,0 +1,61 @@
+{
+  "id": 1209036281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3,13.05,34.3,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":34.3,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Umm Deheir `Arid",
+    "gn:country_code":"SD",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365180,
+    "gn:latitude":13.05,
+    "gn:longitude":34.3,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Umm Deheir \u2018Arid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365180
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b684fd68149de4c62acf769bf597d4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209036281
+        }
+    ],
+    "wof:id":1209036281,
+    "wof:lastmodified":1536299690,
+    "wof:name":"Umm Deheir `Arid",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3,
+    13.05,
+    34.3,
+    13.05
+],
+  "geometry": {"coordinates":[34.3,13.05],"type":"Point"}
+}

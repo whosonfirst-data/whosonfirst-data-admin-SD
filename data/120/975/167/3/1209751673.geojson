@@ -1,0 +1,70 @@
+{
+  "id": 1209751673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2473,12.9911,31.2473,12.9911",
+    "geom:latitude":12.9911,
+    "geom:longitude":31.2473,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Takkal",
+    "gn:country_code":"SD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028959,
+    "gn:latitude":12.9911,
+    "gn:longitude":31.2473,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Takk\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takk\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028959
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"846acf26006f8a7a5499fe1ff2a4202f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1209751673,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1209751673,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Takkal",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2473,
+    12.9911,
+    31.2473,
+    12.9911
+],
+  "geometry": {"coordinates":[31.2473,12.9911],"type":"Point"}
+}

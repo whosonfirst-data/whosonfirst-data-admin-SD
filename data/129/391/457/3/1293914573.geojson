@@ -1,0 +1,71 @@
+{
+  "id": 1293914573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8659,12.6401,31.8659,12.6401",
+    "geom:latitude":12.6401,
+    "geom:longitude":31.8659,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Tamlika",
+    "gn:country_code":"SD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366461,
+    "gn:latitude":12.6401,
+    "gn:longitude":31.8659,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taml\u012bka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamaleika",
+        "Taml\u012bka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366461
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e6787d1715c19d07c9482265cfec5a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1293914573,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293914573,
+    "wof:lastmodified":1537699439,
+    "wof:name":"Tamlika",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8659,
+    12.6401,
+    31.8659,
+    12.6401
+],
+  "geometry": {"coordinates":[31.8659,12.6401],"type":"Point"}
+}

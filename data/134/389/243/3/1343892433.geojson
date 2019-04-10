@@ -1,0 +1,71 @@
+{
+  "id": 1343892433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31667,14.96667,30.31667,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":30.31667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Dazingor",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376647,
+    "gn:latitude":14.96667,
+    "gn:longitude":30.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dazingor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Zangol",
+        "Dazingor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376647
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"72ebc13762fb0fbd0c439cdb7e5c87ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709395,
+            "locality_id":1343892433,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1343892433,
+    "wof:lastmodified":1537699528,
+    "wof:name":"Dazingor",
+    "wof:parent_id":1091709395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31667,
+    14.96667,
+    30.31667,
+    14.96667
+],
+  "geometry": {"coordinates":[30.31667,14.96667],"type":"Point"}
+}

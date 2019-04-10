@@ -1,0 +1,67 @@
+{
+  "id": 1326563885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7889,10.1828,30.7889,10.1828",
+    "geom:latitude":10.1828,
+    "geom:longitude":30.7889,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lono",
+    "gn:country_code":"SD",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371187,
+    "gn:latitude":10.1828,
+    "gn:longitude":30.7889,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371187
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a2708a58bec01b7aed8e7460611ff739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1326563885,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1326563885,
+    "wof:lastmodified":1536939124,
+    "wof:name":"Lono",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7889,
+    10.1828,
+    30.7889,
+    10.1828
+],
+  "geometry": {"coordinates":[30.7889,10.1828],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243207219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15,14.33333,31.15,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":31.15,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Fassa",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375448,
+    "gn:latitude":14.33333,
+    "gn:longitude":31.15,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Fassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375448
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6b2234a658b42abad7ed1b6c6e96064e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1243207219,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243207219,
+    "wof:lastmodified":1536653433,
+    "wof:name":"Fassa",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15,
+    14.33333,
+    31.15,
+    14.33333
+],
+  "geometry": {"coordinates":[31.15,14.33333],"type":"Point"}
+}

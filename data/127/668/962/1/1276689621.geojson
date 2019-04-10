@@ -1,0 +1,70 @@
+{
+  "id": 1276689621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3311,12.931,33.3311,12.931",
+    "geom:latitude":12.931,
+    "geom:longitude":33.3311,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hamra",
+    "gn:country_code":"SD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029179,
+    "gn:latitude":12.931,
+    "gn:longitude":33.3311,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u1e28amra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28amra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091710099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029179
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"685f64671633dce675dc14ad31a6d53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710099,
+            "locality_id":1276689621,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1276689621,
+    "wof:lastmodified":1537699672,
+    "wof:name":"Hamra",
+    "wof:parent_id":1091710099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3311,
+    12.931,
+    33.3311,
+    12.931
+],
+  "geometry": {"coordinates":[33.3311,12.931],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242712419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4819,12.6936,31.4819,12.6936",
+    "geom:latitude":12.6936,
+    "geom:longitude":31.4819,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"An Nila",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029007,
+    "gn:latitude":12.6936,
+    "gn:longitude":31.4819,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An N\u012bla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An N\u012bla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029007
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5d39d37b2e4fe94fbd873fe8490dc914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1242712419,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1242712419,
+    "wof:lastmodified":1537699666,
+    "wof:name":"An Nila",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4819,
+    12.6936,
+    31.4819,
+    12.6936
+],
+  "geometry": {"coordinates":[31.4819,12.6936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343796335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47104,14.40229,22.47104,14.40229",
+    "geom:latitude":14.40229,
+    "geom:longitude":22.47104,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Dunkis",
+    "gn:country_code":"SD",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384879,
+    "gn:latitude":14.40229,
+    "gn:longitude":22.47104,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Dunkis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384879
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f88e0c973f9c7fd2db2a75544d118406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1343796335,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1343796335,
+    "wof:lastmodified":1536759398,
+    "wof:name":"Dunkis",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47104,
+    14.40229,
+    22.47104,
+    14.40229
+],
+  "geometry": {"coordinates":[22.47104,14.40229],"type":"Point"}
+}

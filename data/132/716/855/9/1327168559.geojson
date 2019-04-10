@@ -1,0 +1,67 @@
+{
+  "id": 1327168559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93333,12.38333,29.93333,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":29.93333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Deroti",
+    "gn:country_code":"SD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376522,
+    "gn:latitude":12.38333,
+    "gn:longitude":29.93333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Deroti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376522
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d6bffdaf5855f705df86da784c10d40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709677,
+            "locality_id":1327168559,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1327168559,
+    "wof:lastmodified":1537059240,
+    "wof:name":"Deroti",
+    "wof:parent_id":1091709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93333,
+    12.38333,
+    29.93333,
+    12.38333
+],
+  "geometry": {"coordinates":[29.93333,12.38333],"type":"Point"}
+}

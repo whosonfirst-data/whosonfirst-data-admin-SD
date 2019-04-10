@@ -1,0 +1,67 @@
+{
+  "id": 1293428391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4767,14.3723,33.4767,14.3723",
+    "geom:latitude":14.3723,
+    "geom:longitude":33.4767,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ath Thawra Tutumatta",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026652,
+    "gn:latitude":14.3723,
+    "gn:longitude":33.4767,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ath Thawra Tutumatta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026652
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2c446a6141918e8834e6af95c711c5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1293428391,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293428391,
+    "wof:lastmodified":1536871151,
+    "wof:name":"Ath Thawra Tutumatta",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4767,
+    14.3723,
+    33.4767,
+    14.3723
+],
+  "geometry": {"coordinates":[33.4767,14.3723],"type":"Point"}
+}

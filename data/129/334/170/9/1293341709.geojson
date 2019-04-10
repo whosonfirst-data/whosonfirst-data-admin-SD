@@ -1,0 +1,70 @@
+{
+  "id": 1293341709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4643,14.3122,33.4643,14.3122",
+    "geom:latitude":14.3122,
+    "geom:longitude":33.4643,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Dirwish",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026660,
+    "gn:latitude":14.3122,
+    "gn:longitude":33.4643,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dirw\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dirw\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026660
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e05dad4857d50f8a6bfd305055ce996f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1293341709,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293341709,
+    "wof:lastmodified":1537699658,
+    "wof:name":"Dirwish",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4643,
+    14.3122,
+    33.4643,
+    14.3122
+],
+  "geometry": {"coordinates":[33.4643,14.3122],"type":"Point"}
+}

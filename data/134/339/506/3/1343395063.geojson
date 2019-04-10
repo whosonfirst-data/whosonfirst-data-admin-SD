@@ -1,0 +1,83 @@
+{
+  "id": 1343395063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16387,13.19858,22.16387,13.19858",
+    "geom:latitude":13.19858,
+    "geom:longitude":22.16387,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Fagarila",
+    "gn:country_code":"SD",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375675,
+    "gn:latitude":13.19858,
+    "gn:longitude":22.16387,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Fagarila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fagarila"
+    ],
+    "name:und_x_variant":[
+        "Fagarjla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375675
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c2d6b0904de0ffcbac89ce06068474d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1343395063,
+            "region_id":85676881
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1343395063,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343395063,
+    "wof:lastmodified":1537699521,
+    "wof:name":"Fagarila",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16387000000001,
+    13.19858,
+    22.16387000000001,
+    13.19858
+],
+  "geometry": {"coordinates":[22.16387000000001,13.19858],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209457743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2705,14.846,33.2705,14.846",
+    "geom:latitude":14.846,
+    "geom:longitude":33.2705,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad As Sayyid Sharq",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364228,
+    "gn:latitude":14.846,
+    "gn:longitude":33.2705,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad As Sayyid Sharq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad es Sa\u2018id",
+        "Wad as Sa\u2018\u012bd",
+        "Wad As Sayyid Sharq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364228
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"182bfc846237b741522902edf9c2fdd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209457743
+        }
+    ],
+    "wof:id":1209457743,
+    "wof:lastmodified":1537699406,
+    "wof:name":"Wad As Sayyid Sharq",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2705,
+    14.846,
+    33.2705,
+    14.846
+],
+  "geometry": {"coordinates":[33.2705,14.846],"type":"Point"}
+}

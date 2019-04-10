@@ -1,0 +1,72 @@
+{
+  "id": 1293918371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28333,12.35,32.28333,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":32.28333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ar Ru`at",
+    "gn:country_code":"SD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378472,
+    "gn:latitude":12.35,
+    "gn:longitude":32.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Ru\u2018\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Rua\u2018at",
+        "Ar Rua\u2018at",
+        "Ar Ru\u2018\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378472
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ac3d9a97b909ecb1211261955691b1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1293918371,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293918371,
+    "wof:lastmodified":1537699552,
+    "wof:name":"Ar Ru`at",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28333,
+    12.35,
+    32.28333,
+    12.35
+],
+  "geometry": {"coordinates":[32.28333,12.35],"type":"Point"}
+}

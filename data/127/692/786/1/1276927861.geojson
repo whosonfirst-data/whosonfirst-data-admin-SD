@@ -1,0 +1,72 @@
+{
+  "id": 1276927861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4225,14.7835,33.4225,14.7835",
+    "geom:latitude":14.7835,
+    "geom:longitude":33.4225,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Tarajma",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366384,
+    "gn:latitude":14.7835,
+    "gn:longitude":33.4225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tar\u0101jma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taragma",
+        "Tar\u0101jimah",
+        "At Tar\u0101jma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366384
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b01a2a14f3cc3fd16de1bb30bbb92156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1276927861,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276927861,
+    "wof:lastmodified":1537699438,
+    "wof:name":"At Tarajma",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4225,
+    14.7835,
+    33.4225,
+    14.7835
+],
+  "geometry": {"coordinates":[33.4225,14.7835],"type":"Point"}
+}

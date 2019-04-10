@@ -1,0 +1,70 @@
+{
+  "id": 1293129679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7436,10.23356,30.7436,10.23356",
+    "geom:latitude":10.23356,
+    "geom:longitude":30.7436,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Khor",
+    "gn:country_code":"SD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372518,
+    "gn:latitude":10.23356,
+    "gn:longitude":30.7436,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Khor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khawr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372518
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"63c0d10c5fd86774385d0ef587261541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1293129679,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1293129679,
+    "wof:lastmodified":1537699491,
+    "wof:name":"Khor",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7436,
+    10.23356,
+    30.7436,
+    10.23356
+],
+  "geometry": {"coordinates":[30.7436,10.23356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276586855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5227,11.8352,33.5227,11.8352",
+    "geom:latitude":11.8352,
+    "geom:longitude":33.5227,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Jirewa",
+    "gn:country_code":"SD",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374793,
+    "gn:latitude":11.8352,
+    "gn:longitude":33.5227,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jirewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gireiwa",
+        "Jirewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374793
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9197fb93fa82d8ade549277ee988749b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709781,
+            "locality_id":1276586855,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1276586855,
+    "wof:lastmodified":1537699515,
+    "wof:name":"Jirewa",
+    "wof:parent_id":1091709781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5227,
+    11.8352,
+    33.5227,
+    11.8352
+],
+  "geometry": {"coordinates":[33.5227,11.8352],"type":"Point"}
+}

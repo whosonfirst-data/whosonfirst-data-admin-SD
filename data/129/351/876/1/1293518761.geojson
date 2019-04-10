@@ -1,0 +1,67 @@
+{
+  "id": 1293518761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2107,16.5823,33.2107,16.5823",
+    "geom:latitude":16.5823,
+    "geom:longitude":33.2107,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Es Salama",
+    "gn:country_code":"SD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443886,
+    "gn:latitude":16.5823,
+    "gn:longitude":33.2107,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Es Salama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443886
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9dc6f3005a8cef78606b376c5d4e11fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1293518761,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293518761,
+    "wof:lastmodified":1536741816,
+    "wof:name":"Es Salama",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2107,
+    16.5823,
+    33.2107,
+    16.5823
+],
+  "geometry": {"coordinates":[33.2107,16.5823],"type":"Point"}
+}

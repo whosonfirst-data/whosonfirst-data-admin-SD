@@ -1,0 +1,70 @@
+{
+  "id": 1226783207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6519,9.7291,26.6519,9.7291",
+    "geom:latitude":9.7291,
+    "geom:longitude":26.6519,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Guwadat",
+    "gn:country_code":"SD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613009,
+    "gn:latitude":9.7291,
+    "gn:longitude":26.6519,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Guwadat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meshra Akuich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091705275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613009
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a7e599223ecf07dc066ad07cfb13bcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705275,
+            "locality_id":1226783207,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1226783207,
+    "wof:lastmodified":1537699694,
+    "wof:name":"Guwadat",
+    "wof:parent_id":1091705275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6519,
+    9.7291,
+    26.6519,
+    9.7291
+],
+  "geometry": {"coordinates":[26.6519,9.7291],"type":"Point"}
+}

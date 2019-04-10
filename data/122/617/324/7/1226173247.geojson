@@ -1,0 +1,72 @@
+{
+  "id": 1226173247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45,14.65,32.45,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":32.45,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"At Tulayb",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378142,
+    "gn:latitude":14.65,
+    "gn:longitude":32.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162ulayb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et Tuleib",
+        "Tuleib",
+        "A\u0163 \u0162ulayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378142
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4fd0727c9080abc245b1a87ce00d1c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1226173247,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226173247,
+    "wof:lastmodified":1537699543,
+    "wof:name":"At Tulayb",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45,
+    14.65,
+    32.45,
+    14.65
+],
+  "geometry": {"coordinates":[32.45,14.65],"type":"Point"}
+}

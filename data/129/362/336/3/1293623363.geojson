@@ -1,0 +1,67 @@
+{
+  "id": 1293623363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.479,12.8308,31.479,12.8308",
+    "geom:latitude":12.8308,
+    "geom:longitude":31.479,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Birkiyya",
+    "gn:country_code":"SD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029002,
+    "gn:latitude":12.8308,
+    "gn:longitude":31.479,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Birkiyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029002
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5aa651305f9c9a2ac0bf89242a38592b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293623363,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293623363,
+    "wof:lastmodified":1537085174,
+    "wof:name":"Birkiyya",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.479,
+    12.8308,
+    31.479,
+    12.8308
+],
+  "geometry": {"coordinates":[31.479,12.8308],"type":"Point"}
+}

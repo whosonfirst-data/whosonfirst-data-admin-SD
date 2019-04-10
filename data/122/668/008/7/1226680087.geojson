@@ -1,0 +1,67 @@
+{
+  "id": 1226680087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0,12.8,24.0,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":24.0,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ludung",
+    "gn:country_code":"SD",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371100,
+    "gn:latitude":12.8,
+    "gn:longitude":24.0,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Ludung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371100
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d8e33fe4d37bfbfe02d247881f5c28c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1226680087,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226680087,
+    "wof:lastmodified":1536809640,
+    "wof:name":"Ludung",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0,
+    12.8,
+    24.0,
+    12.8
+],
+  "geometry": {"coordinates":[24.0,12.8],"type":"Point"}
+}

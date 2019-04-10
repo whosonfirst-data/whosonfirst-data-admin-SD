@@ -1,0 +1,67 @@
+{
+  "id": 1360320407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38333,19.7,30.38333,19.7",
+    "geom:latitude":19.7,
+    "geom:longitude":30.38333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Tumbus",
+    "gn:country_code":"SD",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365620,
+    "gn:latitude":19.7,
+    "gn:longitude":30.38333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Tumbus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365620
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b90ab732c362c9325312bb4e2a6b3db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705689,
+            "locality_id":1360320407,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1360320407,
+    "wof:lastmodified":1536603055,
+    "wof:name":"Tumbus",
+    "wof:parent_id":1091705689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38333,
+    19.7,
+    30.38333,
+    19.7
+],
+  "geometry": {"coordinates":[30.38333,19.7],"type":"Point"}
+}

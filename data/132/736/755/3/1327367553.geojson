@@ -1,0 +1,72 @@
+{
+  "id": 1327367553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7812,16.4746,32.7812,16.4746",
+    "geom:latitude":16.4746,
+    "geom:longitude":32.7812,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Midesisa",
+    "gn:country_code":"SD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369820,
+    "gn:latitude":16.4746,
+    "gn:longitude":32.7812,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Midesisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mudays\u012bsah",
+        "Midesisa",
+        "Hillat Midesisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369820
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e827f97a3ab865c96f7498aed32c3f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1327367553,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1327367553,
+    "wof:lastmodified":1537699474,
+    "wof:name":"Hillat Midesisa",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7812,
+    16.4746,
+    32.7812,
+    16.4746
+],
+  "geometry": {"coordinates":[32.7812,16.4746],"type":"Point"}
+}

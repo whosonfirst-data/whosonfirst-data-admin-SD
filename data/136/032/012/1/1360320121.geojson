@@ -1,0 +1,71 @@
+{
+  "id": 1360320121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2,12.01667,26.2,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":26.2,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sigeir Umm Sa`una",
+    "gn:country_code":"SD",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366903,
+    "gn:latitude":12.01667,
+    "gn:longitude":26.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sigeir Umm Sa\u2018una",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Sa\u2018una",
+        "Sigeir Umm Sa\u2018una"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091706053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366903
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ca2804f67edb741909bdf9529da68047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706053,
+            "locality_id":1360320121,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1360320121,
+    "wof:lastmodified":1537699444,
+    "wof:name":"Sigeir Umm Sa`una",
+    "wof:parent_id":1091706053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2,
+    12.01667,
+    26.2,
+    12.01667
+],
+  "geometry": {"coordinates":[26.2,12.01667],"type":"Point"}
+}

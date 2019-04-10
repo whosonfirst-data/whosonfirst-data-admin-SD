@@ -1,0 +1,61 @@
+{
+  "id": 1209445873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98333,13.16667,30.98333,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":30.98333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Mukhafaz",
+    "gn:country_code":"SD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369748,
+    "gn:latitude":13.16667,
+    "gn:longitude":30.98333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Mukhafaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369748
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aa9eda417c8b5338bb064513d78129c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209445873
+        }
+    ],
+    "wof:id":1209445873,
+    "wof:lastmodified":1536286821,
+    "wof:name":"Mukhafaz",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98333,
+    13.166670000000002,
+    30.98333,
+    13.166670000000002
+],
+  "geometry": {"coordinates":[30.98333,13.16667],"type":"Point"}
+}

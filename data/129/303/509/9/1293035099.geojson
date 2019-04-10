@@ -1,0 +1,70 @@
+{
+  "id": 1293035099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.166,12.9291,31.166,12.9291",
+    "geom:latitude":12.9291,
+    "geom:longitude":31.166,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Wad Ad Daw",
+    "gn:country_code":"SD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028955,
+    "gn:latitude":12.9291,
+    "gn:longitude":31.166,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad A\u1e11 \u1e10\u00e0w",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad A\u1e11 \u1e10\u00e0w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028955
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"93ac5f433c524e021832f15eddcdb8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293035099,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293035099,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Wad Ad Daw",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.166,
+    12.9291,
+    31.166,
+    12.9291
+],
+  "geometry": {"coordinates":[31.166,12.9291],"type":"Point"}
+}

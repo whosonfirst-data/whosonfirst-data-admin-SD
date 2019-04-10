@@ -1,0 +1,71 @@
+{
+  "id": 1343412003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5623,15.7705,32.5623,15.7705",
+    "geom:latitude":15.7705,
+    "geom:longitude":32.5623,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Abu Halima",
+    "gn:country_code":"SD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380859,
+    "gn:latitude":15.7705,
+    "gn:longitude":32.5623,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abu Halima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28al\u012bmah",
+        "Abu Halima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380859
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fad0ef2bc617ea65f762c6d8b43f4ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707361,
+            "locality_id":1343412003,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1343412003,
+    "wof:lastmodified":1537699598,
+    "wof:name":"Abu Halima",
+    "wof:parent_id":1091707361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5623,
+    15.7705,
+    32.5623,
+    15.7705
+],
+  "geometry": {"coordinates":[32.5623,15.7705],"type":"Point"}
+}

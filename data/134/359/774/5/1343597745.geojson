@@ -1,0 +1,67 @@
+{
+  "id": 1343597745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76667,13.86667,24.76667,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":24.76667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Beira",
+    "gn:country_code":"SD",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377501,
+    "gn:latitude":13.86667,
+    "gn:longitude":24.76667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Beira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377501
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"66200e30e330137c9426e0f4400aee8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706361,
+            "locality_id":1343597745,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343597745,
+    "wof:lastmodified":1537043626,
+    "wof:name":"Beira",
+    "wof:parent_id":1091706361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76667,
+    13.86667,
+    24.76667,
+    13.86667
+],
+  "geometry": {"coordinates":[24.76667,13.86667],"type":"Point"}
+}

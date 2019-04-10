@@ -1,0 +1,64 @@
+{
+  "id": 1209036089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3476,13.1997,32.3476,13.1997",
+    "geom:latitude":13.1997,
+    "geom:longitude":32.3476,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um `Aqarib",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028918,
+    "gn:latitude":13.1997,
+    "gn:longitude":32.3476,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um \u2018Aq\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Um \u2018Aq\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028918
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0e91bc96173e41abc6bfbac82a23fb4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209036089
+        }
+    ],
+    "wof:id":1209036089,
+    "wof:lastmodified":1537699663,
+    "wof:name":"Um `Aqarib",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3476,
+    13.1997,
+    32.3476,
+    13.1997
+],
+  "geometry": {"coordinates":[32.3476,13.1997],"type":"Point"}
+}

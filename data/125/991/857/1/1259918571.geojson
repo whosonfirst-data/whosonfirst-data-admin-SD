@@ -1,0 +1,73 @@
+{
+  "id": 1259918571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2407,14.7978,33.2407,14.7978",
+    "geom:latitude":14.7978,
+    "geom:longitude":33.2407,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mustafa Qurashi",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379025,
+    "gn:latitude":14.7978,
+    "gn:longitude":33.2407,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u015f\u0163afa Qurashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qurashi",
+        "El Qurashi",
+        "Al Qurash\u012b",
+        "Mu\u015f\u0163afa Qurashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379025
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"030db0e700a00911602a514214d179ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1259918571,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259918571,
+    "wof:lastmodified":1537699561,
+    "wof:name":"Mustafa Qurashi",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2407,
+    14.7978,
+    33.2407,
+    14.7978
+],
+  "geometry": {"coordinates":[33.2407,14.7978],"type":"Point"}
+}

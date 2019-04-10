@@ -1,0 +1,61 @@
+{
+  "id": 1209041023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11667,14.36667,31.11667,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":31.11667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Beilit",
+    "gn:country_code":"SD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365266,
+    "gn:latitude":14.36667,
+    "gn:longitude":31.11667,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Umm Beilit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365266
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2b47750099b7d1836907578b61517482",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209041023
+        }
+    ],
+    "wof:id":1209041023,
+    "wof:lastmodified":1536299545,
+    "wof:name":"Umm Beilit",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.116670000000006,
+    14.36667,
+    31.116670000000006,
+    14.36667
+],
+  "geometry": {"coordinates":[31.11667000000001,14.36667],"type":"Point"}
+}

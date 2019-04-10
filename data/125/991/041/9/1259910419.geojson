@@ -1,0 +1,71 @@
+{
+  "id": 1259910419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,11.51667,24.63333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Dawmayah",
+    "gn:country_code":"SD",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376669,
+    "gn:latitude":11.51667,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dawm\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domaya",
+        "Dawm\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376669
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4b1843f06bbbf6d055c7135ee298d448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707279,
+            "locality_id":1259910419,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1259910419,
+    "wof:lastmodified":1537699529,
+    "wof:name":"Dawmayah",
+    "wof:parent_id":1091707279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    11.51667,
+    24.63333,
+    11.51667
+],
+  "geometry": {"coordinates":[24.63333,11.51667],"type":"Point"}
+}

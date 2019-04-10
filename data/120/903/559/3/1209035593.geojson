@@ -1,0 +1,66 @@
+{
+  "id": 1209035593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,11.6,34.36667,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":34.36667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Shaykh at Tawm",
+    "gn:country_code":"SD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367168,
+    "gn:latitude":11.6,
+    "gn:longitude":34.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaykh at Tawm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheikh el Tom",
+        "Sheikh et Tom",
+        "Shaykh at Tawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367168
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"59f854dcd7d4763b0721b233e2832835",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209035593
+        }
+    ],
+    "wof:id":1209035593,
+    "wof:lastmodified":1537699447,
+    "wof:name":"Shaykh at Tawm",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    11.6,
+    34.36667,
+    11.6
+],
+  "geometry": {"coordinates":[34.36667,11.6],"type":"Point"}
+}

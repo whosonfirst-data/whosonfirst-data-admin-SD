@@ -1,0 +1,74 @@
+{
+  "id": 1344191595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60328,11.69832,22.60328,11.69832",
+    "geom:latitude":11.69832,
+    "geom:longitude":22.60328,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Babel",
+    "gn:country_code":"SD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377954,
+    "gn:latitude":11.69832,
+    "gn:longitude":22.60328,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Babel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101bil"
+    ],
+    "name:und_x_variant":[
+        "Muda West",
+        "Babel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377954
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a4b3efdf97d45bce8455633b3558a3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1344191595,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1344191595,
+    "wof:lastmodified":1537699539,
+    "wof:name":"Babel",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60328,
+    11.69832,
+    22.60328,
+    11.69832
+],
+  "geometry": {"coordinates":[22.60328,11.69832],"type":"Point"}
+}

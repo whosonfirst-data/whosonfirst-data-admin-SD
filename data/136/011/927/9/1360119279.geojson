@@ -1,0 +1,70 @@
+{
+  "id": 1360119279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71607,12.2232,22.71607,12.2232",
+    "geom:latitude":12.2232,
+    "geom:longitude":22.71607,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kawainan",
+    "gn:country_code":"SD",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390143,
+    "gn:latitude":12.2232,
+    "gn:longitude":22.71607,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kawainan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kawainan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390143
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bd969963855ac36e1ac2951cc5708adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709589,
+            "locality_id":1360119279,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1360119279,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Kawainan",
+    "wof:parent_id":1091709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71607,
+    12.2232,
+    22.71607,
+    12.2232
+],
+  "geometry": {"coordinates":[22.71607,12.2232],"type":"Point"}
+}

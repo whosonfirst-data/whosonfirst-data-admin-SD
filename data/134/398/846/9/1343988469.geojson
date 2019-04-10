@@ -1,0 +1,67 @@
+{
+  "id": 1343988469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65894,10.62477,33.65894,10.62477",
+    "geom:latitude":10.62477,
+    "geom:longitude":33.65894,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Marmiton",
+    "gn:country_code":"SD",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370438,
+    "gn:latitude":10.62477,
+    "gn:longitude":33.65894,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Marmiton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091705503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370438
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1913be5dbd4a88be6b3ad29f92ebb633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705503,
+            "locality_id":1343988469,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1343988469,
+    "wof:lastmodified":1536979047,
+    "wof:name":"Marmiton",
+    "wof:parent_id":1091705503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65894,
+    10.62477,
+    33.65894,
+    10.62477
+],
+  "geometry": {"coordinates":[33.65894,10.62477],"type":"Point"}
+}

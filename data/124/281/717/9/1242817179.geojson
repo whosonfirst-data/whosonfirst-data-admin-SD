@@ -1,0 +1,72 @@
+{
+  "id": 1242817179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1818,14.3122,33.1818,14.3122",
+    "geom:latitude":14.3122,
+    "geom:longitude":33.1818,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Baha' ad Din",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377897,
+    "gn:latitude":14.3122,
+    "gn:longitude":33.1818,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bah\u0101\u2019 ad Din",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahi ed Din",
+        "Bah\u012b ad D\u012bn",
+        "Bah\u0101\u2019 ad Din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377897
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"329f1d10f2938a168726036812511e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1242817179,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1242817179,
+    "wof:lastmodified":1537699539,
+    "wof:name":"Baha' ad Din",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1818,
+    14.3122,
+    33.1818,
+    14.3122
+],
+  "geometry": {"coordinates":[33.1818,14.3122],"type":"Point"}
+}

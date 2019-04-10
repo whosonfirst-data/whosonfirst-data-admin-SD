@@ -1,0 +1,71 @@
+{
+  "id": 1293818431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63154,12.16109,22.63154,12.16109",
+    "geom:latitude":12.16109,
+    "geom:longitude":22.63154,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ro Fata",
+    "gn:country_code":"SD",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368032,
+    "gn:latitude":12.16109,
+    "gn:longitude":22.63154,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ro Fata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafata",
+        "Ro Fata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368032
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4787ac7a5e400009ddc5bf006f045a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":1293818431,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1293818431,
+    "wof:lastmodified":1537699458,
+    "wof:name":"Ro Fata",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63154,
+    12.16109,
+    22.63154,
+    12.16109
+],
+  "geometry": {"coordinates":[22.63154,12.16109],"type":"Point"}
+}

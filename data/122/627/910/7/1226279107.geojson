@@ -1,0 +1,70 @@
+{
+  "id": 1226279107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66131,14.10765,22.66131,14.10765",
+    "geom:latitude":14.10765,
+    "geom:longitude":22.66131,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Qoz Nginnu",
+    "gn:country_code":"SD",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368409,
+    "gn:latitude":14.10765,
+    "gn:longitude":22.66131,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Qoz Nginnu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qawz Nginnu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368409
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2862daea147f4f874849461ac3478ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1226279107,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1226279107,
+    "wof:lastmodified":1537699464,
+    "wof:name":"Qoz Nginnu",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66131,
+    14.10765,
+    22.66131,
+    14.10765
+],
+  "geometry": {"coordinates":[22.66131,14.10765],"type":"Point"}
+}

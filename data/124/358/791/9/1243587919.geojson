@@ -1,0 +1,71 @@
+{
+  "id": 1243587919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,13.78333,23.15,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ghubayshat",
+    "gn:country_code":"SD",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374861,
+    "gn:latitude":13.78333,
+    "gn:longitude":23.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghubaysh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghubeishat",
+        "Ghubaysh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374861
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e1f40470a95506ae19824fc7d73502ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708193,
+            "locality_id":1243587919,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1243587919,
+    "wof:lastmodified":1537699516,
+    "wof:name":"Ghubayshat",
+    "wof:parent_id":1091708193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    13.78333,
+    23.15,
+    13.78333
+],
+  "geometry": {"coordinates":[23.15,13.78333],"type":"Point"}
+}

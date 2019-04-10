@@ -1,0 +1,67 @@
+{
+  "id": 1259817197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4572,16.7545,33.4572,16.7545",
+    "geom:latitude":16.7545,
+    "geom:longitude":33.4572,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"El Karada",
+    "gn:country_code":"SD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443923,
+    "gn:latitude":16.7545,
+    "gn:longitude":33.4572,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"El Karada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443923
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b5610a9d143847793552f93db0983112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1259817197,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1259817197,
+    "wof:lastmodified":1536873804,
+    "wof:name":"El Karada",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4572,
+    16.7545,
+    33.4572,
+    16.7545
+],
+  "geometry": {"coordinates":[33.4572,16.7545],"type":"Point"}
+}

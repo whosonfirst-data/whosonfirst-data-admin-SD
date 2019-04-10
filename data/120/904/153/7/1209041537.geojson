@@ -1,0 +1,61 @@
+{
+  "id": 1209041537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38333,11.91667,26.38333,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":26.38333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Abu Sufyan",
+    "gn:country_code":"SD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380453,
+    "gn:latitude":11.91667,
+    "gn:longitude":26.38333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Ab\u016b Sufy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380453
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8f1871d1307c2a0ad1ef9842fa9c2abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209041537
+        }
+    ],
+    "wof:id":1209041537,
+    "wof:lastmodified":1536299530,
+    "wof:name":"Abu Sufyan",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38333,
+    11.91667,
+    26.38333,
+    11.91667
+],
+  "geometry": {"coordinates":[26.38333,11.91667],"type":"Point"}
+}

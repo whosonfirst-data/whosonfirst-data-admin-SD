@@ -1,0 +1,70 @@
+{
+  "id": 1360216153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6944,12.0858,32.6944,12.0858",
+    "geom:latitude":12.0858,
+    "geom:longitude":32.6944,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kilu Khamsa",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504274,
+    "gn:latitude":12.0858,
+    "gn:longitude":32.6944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u012blu Khamsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u012blu Khamsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504274
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"267d4103676b02710e15ab17f846585e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1360216153,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1360216153,
+    "wof:lastmodified":1537699690,
+    "wof:name":"Kilu Khamsa",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6944,
+    12.0858,
+    32.6944,
+    12.0858
+],
+  "geometry": {"coordinates":[32.6944,12.0858],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226277107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3264,17.3666,34.3264,17.3666",
+    "geom:latitude":17.3666,
+    "geom:longitude":34.3264,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Garsi",
+    "gn:country_code":"SD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374943,
+    "gn:latitude":17.3666,
+    "gn:longitude":34.3264,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat Garsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gersi",
+        "Hillat Garsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374943
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"63c66c29414a35ccf76f88eba1e44943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1226277107,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226277107,
+    "wof:lastmodified":1537699517,
+    "wof:name":"Hillat Garsi",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3264,
+    17.3666,
+    34.3264,
+    17.3666
+],
+  "geometry": {"coordinates":[34.3264,17.3666],"type":"Point"}
+}

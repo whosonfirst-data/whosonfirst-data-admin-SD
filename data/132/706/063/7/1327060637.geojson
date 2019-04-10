@@ -1,0 +1,67 @@
+{
+  "id": 1327060637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1355,13.3872,32.1355,13.3872",
+    "geom:latitude":13.3872,
+    "geom:longitude":32.1355,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Zaqalona",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363518,
+    "gn:latitude":13.3872,
+    "gn:longitude":32.1355,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zaqalona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363518
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1ac348f8cb2b44c34539b11f78801718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1327060637,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327060637,
+    "wof:lastmodified":1536720143,
+    "wof:name":"Zaqalona",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1355,
+    13.3872,
+    32.1355,
+    13.3872
+],
+  "geometry": {"coordinates":[32.1355,13.3872],"type":"Point"}
+}

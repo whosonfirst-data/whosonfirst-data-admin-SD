@@ -1,0 +1,61 @@
+{
+  "id": 1209043569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55,11.73333,27.55,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":27.55,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Faiyuk",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375649,
+    "gn:latitude":11.73333,
+    "gn:longitude":27.55,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Faiyuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375649
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"105efc5ff40e82fffad4573800588129",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209043569
+        }
+    ],
+    "wof:id":1209043569,
+    "wof:lastmodified":1536299467,
+    "wof:name":"Faiyuk",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55,
+    11.73333,
+    27.55,
+    11.73333
+],
+  "geometry": {"coordinates":[27.55,11.73333],"type":"Point"}
+}

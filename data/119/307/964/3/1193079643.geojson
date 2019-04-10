@@ -1,0 +1,71 @@
+{
+  "id": 1193079643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3184,14.4204,33.3184,14.4204",
+    "geom:latitude":14.4204,
+    "geom:longitude":33.3184,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ash Shayqab",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367367,
+    "gn:latitude":14.4204,
+    "gn:longitude":33.3184,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shayqab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaiqab",
+        "Ash Shayqab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367367
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b5ba299ca5d528d28862ff9ae9ec0f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1193079643,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193079643,
+    "wof:lastmodified":1537699451,
+    "wof:name":"Ash Shayqab",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3184,
+    14.4204,
+    33.3184,
+    14.4204
+],
+  "geometry": {"coordinates":[33.3184,14.4204],"type":"Point"}
+}

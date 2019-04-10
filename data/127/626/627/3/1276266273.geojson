@@ -1,0 +1,70 @@
+{
+  "id": 1276266273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08333,10.28333,25.08333,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":25.08333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Hugeir el Kiazi",
+    "gn:country_code":"SD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373754,
+    "gn:latitude":10.28333,
+    "gn:longitude":25.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hugeir el Kiazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hugeir al Kiazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373754
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c14f5612cd90a4c958733b645ee31fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1276266273,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276266273,
+    "wof:lastmodified":1537699506,
+    "wof:name":"Hugeir el Kiazi",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08333,
+    10.28333,
+    25.08333,
+    10.28333
+],
+  "geometry": {"coordinates":[25.08333,10.28333],"type":"Point"}
+}

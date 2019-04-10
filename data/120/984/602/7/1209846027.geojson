@@ -1,0 +1,70 @@
+{
+  "id": 1209846027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3578,15.1749,32.3578,15.1749",
+    "geom:latitude":15.1749,
+    "geom:longitude":32.3578,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hillat Abu `Hilef",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991875,
+    "gn:latitude":15.1749,
+    "gn:longitude":32.3578,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Abu \u2018Hilef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillat Abu \u2018Hilef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991875
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d91e97b4cf0be5b575670b02ebedb959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1209846027,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1209846027,
+    "wof:lastmodified":1537699625,
+    "wof:name":"Hillat Abu `Hilef",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3578,
+    15.1749,
+    32.3578,
+    15.1749
+],
+  "geometry": {"coordinates":[32.3578,15.1749],"type":"Point"}
+}

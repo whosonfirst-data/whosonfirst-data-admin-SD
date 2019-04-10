@@ -1,0 +1,71 @@
+{
+  "id": 1193175683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2488,14.2125,33.2488,14.2125",
+    "geom:latitude":14.2125,
+    "geom:longitude":33.2488,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Abd al Ghani",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381165,
+    "gn:latitude":14.2125,
+    "gn:longitude":33.2488,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abd al Ghani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abd el Ghani",
+        "\u2018Abd al Ghani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381165
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8dba6fe00393b995732bb552cf5ac88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1193175683,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1193175683,
+    "wof:lastmodified":1537699603,
+    "wof:name":"`Abd al Ghani",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2488,
+    14.2125,
+    33.2488,
+    14.2125
+],
+  "geometry": {"coordinates":[33.2488,14.2125],"type":"Point"}
+}

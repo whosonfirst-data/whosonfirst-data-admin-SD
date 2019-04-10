@@ -1,0 +1,84 @@
+{
+  "id": 1276782529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4125,9.48083,28.4125,9.48083",
+    "geom:latitude":9.48083,
+    "geom:longitude":28.4125,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Babanousa",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7828714,
+    "gn:latitude":9.48083,
+    "gn:longitude":28.4125,
+    "gn:modification_date":"2011-05-19",
+    "gn:name":"Babanousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711067,
+        85632657,
+        85676965,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7828714
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e549164cdd74811cfd275d6817586c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1276782529,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091711067,
+            "locality_id":1276782529,
+            "region_id":85676965
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1276782529,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1276782529,
+    "wof:lastmodified":1536673997,
+    "wof:name":"Babanousa",
+    "wof:parent_id":1091711067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4125,
+    9.48083,
+    28.4125,
+    9.48083
+],
+  "geometry": {"coordinates":[28.4125,9.48083],"type":"Point"}
+}

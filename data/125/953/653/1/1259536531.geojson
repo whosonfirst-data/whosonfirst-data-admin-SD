@@ -1,0 +1,71 @@
+{
+  "id": 1259536531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,18.05,38.41667,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":38.41667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Afflanda",
+    "gn:country_code":"SD",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380055,
+    "gn:latitude":18.05,
+    "gn:longitude":38.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Afflanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aflanda",
+        "Afflanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380055
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e1049693d8d10146d12942b2effe1a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1259536531,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1259536531,
+    "wof:lastmodified":1537699588,
+    "wof:name":"Afflanda",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    18.05,
+    38.41667,
+    18.05
+],
+  "geometry": {"coordinates":[38.41667,18.05],"type":"Point"}
+}

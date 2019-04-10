@@ -1,0 +1,67 @@
+{
+  "id": 1327376669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9068,14.9988,32.9068,14.9988",
+    "geom:latitude":14.9988,
+    "geom:longitude":32.9068,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mogadar",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983187,
+    "gn:latitude":14.9988,
+    "gn:longitude":32.9068,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mogadar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983187
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"786cb4b71f432c023fac3a1b1127e939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1327376669,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327376669,
+    "wof:lastmodified":1536761576,
+    "wof:name":"Mogadar",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9068,
+    14.9988,
+    32.9068,
+    14.9988
+],
+  "geometry": {"coordinates":[32.9068,14.9988],"type":"Point"}
+}

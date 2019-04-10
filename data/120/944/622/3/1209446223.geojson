@@ -1,0 +1,64 @@
+{
+  "id": 1209446223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03827,13.13884,22.03827,13.13884",
+    "geom:latitude":13.13884,
+    "geom:longitude":22.03827,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tirti",
+    "gn:country_code":"SD",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365941,
+    "gn:latitude":13.13884,
+    "gn:longitude":22.03827,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Tirti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tirti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365941
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"74b61fa4221e1cfff689469b16eefd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209446223
+        }
+    ],
+    "wof:id":1209446223,
+    "wof:lastmodified":1537699435,
+    "wof:name":"Tirti",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03827,
+    13.13884,
+    22.03827,
+    13.13884
+],
+  "geometry": {"coordinates":[22.03827,13.13884],"type":"Point"}
+}

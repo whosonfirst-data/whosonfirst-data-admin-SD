@@ -1,0 +1,70 @@
+{
+  "id": 1243596827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1462,14.9329,33.1462,14.9329",
+    "geom:latitude":14.9329,
+    "geom:longitude":33.1462,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Takala Hamad",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026198,
+    "gn:latitude":14.9329,
+    "gn:longitude":33.1462,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"At Takala \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At Takala \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026198
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"afc2f25b00227a55c04f8efc1db24c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1243596827,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243596827,
+    "wof:lastmodified":1537699643,
+    "wof:name":"At Takala Hamad",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1462,
+    14.9329,
+    33.1462,
+    14.9329
+],
+  "geometry": {"coordinates":[33.1462,14.9329],"type":"Point"}
+}

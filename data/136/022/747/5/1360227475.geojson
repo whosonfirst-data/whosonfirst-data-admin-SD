@@ -1,0 +1,70 @@
+{
+  "id": 1360227475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2292,14.823,33.2292,14.823",
+    "geom:latitude":14.823,
+    "geom:longitude":33.2292,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Taftish Wad Habboba",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026181,
+    "gn:latitude":14.823,
+    "gn:longitude":33.2292,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taftish Wad \u1e28abb\u014dba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taftish Wad \u1e28abb\u014dba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026181
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"662c0aef14f504a8b3516ad88fc9c6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1360227475,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360227475,
+    "wof:lastmodified":1537699643,
+    "wof:name":"Taftish Wad Habboba",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2292,
+    14.823,
+    33.2292,
+    14.823
+],
+  "geometry": {"coordinates":[33.2292,14.823],"type":"Point"}
+}

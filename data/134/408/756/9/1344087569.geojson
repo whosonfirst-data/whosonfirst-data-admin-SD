@@ -1,0 +1,70 @@
+{
+  "id": 1344087569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7187,12.9981,32.7187,12.9981",
+    "geom:latitude":12.9981,
+    "geom:longitude":32.7187,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"'Abu `Ambaj Alkawahla",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854100,
+    "gn:latitude":12.9981,
+    "gn:longitude":32.7187,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2019Abu \u2018Ambaj Alkaw\u0101hla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Abu \u2018Ambaj Alkaw\u0101hla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854100
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"035a1696ea8f4f200f87ffda485c0350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1344087569,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1344087569,
+    "wof:lastmodified":1537699613,
+    "wof:name":"'Abu `Ambaj Alkawahla",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7187,
+    12.9981,
+    32.7187,
+    12.9981
+],
+  "geometry": {"coordinates":[32.7187,12.9981],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343490261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3665,15.752,35.3665,15.752",
+    "geom:latitude":15.752,
+    "geom:longitude":35.3665,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Maktab Arba`ah wa `Ishrun al Sabat Gharb",
+    "gn:country_code":"SD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024490,
+    "gn:latitude":15.752,
+    "gn:longitude":35.3665,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maktab Arba\u2018ah wa \u2018Ishr\u016bn al Sabat Gharb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maktab Arba\u2018ah wa \u2018Ishr\u016bn al Sabat Gharb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024490
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f72ea653d84e42c80bbf440da46ae120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1343490261,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1343490261,
+    "wof:lastmodified":1537699634,
+    "wof:name":"Maktab Arba`ah wa `Ishrun al Sabat Gharb",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3665,
+    15.752,
+    35.3665,
+    15.752
+],
+  "geometry": {"coordinates":[35.3665,15.752],"type":"Point"}
+}

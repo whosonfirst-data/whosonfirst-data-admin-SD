@@ -1,0 +1,72 @@
+{
+  "id": 1260011071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3745,13.8821,32.3745,13.8821",
+    "geom:latitude":13.8821,
+    "geom:longitude":32.3745,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ad Dineqila",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376127,
+    "gn:latitude":13.8821,
+    "gn:longitude":32.3745,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10ineq\u012bla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dineigila",
+        "Dunayqilah",
+        "A\u1e11 \u1e10ineq\u012bla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376127
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6f96b24e37059eff9c179d0ca5de892d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1260011071,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1260011071,
+    "wof:lastmodified":1537699525,
+    "wof:name":"Ad Dineqila",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3745,
+    13.8821,
+    32.3745,
+    13.8821
+],
+  "geometry": {"coordinates":[32.3745,13.8821],"type":"Point"}
+}

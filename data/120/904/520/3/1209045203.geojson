@@ -1,0 +1,61 @@
+{
+  "id": 1209045203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9676,14.756,32.9676,14.756",
+    "geom:latitude":14.756,
+    "geom:longitude":32.9676,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Az Zedab",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983229,
+    "gn:latitude":14.756,
+    "gn:longitude":32.9676,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Az Zedab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983229
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"baf83a1ec62a7cb69f2520e2b820c48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209045203
+        }
+    ],
+    "wof:id":1209045203,
+    "wof:lastmodified":1536299422,
+    "wof:name":"Az Zedab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9676,
+    14.755999999999998,
+    32.9676,
+    14.755999999999998
+],
+  "geometry": {"coordinates":[32.9676,14.756],"type":"Point"}
+}

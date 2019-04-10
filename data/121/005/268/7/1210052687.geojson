@@ -1,0 +1,67 @@
+{
+  "id": 1210052687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6945,10.29573,30.6945,10.29573",
+    "geom:latitude":10.29573,
+    "geom:longitude":30.6945,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Teira",
+    "gn:country_code":"SD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366242,
+    "gn:latitude":10.29573,
+    "gn:longitude":30.6945,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Teira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366242
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5267a9702531c89c823503fb31a14dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1210052687,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1210052687,
+    "wof:lastmodified":1536371851,
+    "wof:name":"Teira",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6945,
+    10.29573,
+    30.6945,
+    10.29573
+],
+  "geometry": {"coordinates":[30.6945,10.29573],"type":"Point"}
+}

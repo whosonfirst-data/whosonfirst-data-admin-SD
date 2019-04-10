@@ -1,0 +1,70 @@
+{
+  "id": 1192969733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3152,14.9402,33.3152,14.9402",
+    "geom:latitude":14.9402,
+    "geom:longitude":33.3152,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Talha",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026170,
+    "gn:latitude":14.9402,
+    "gn:longitude":33.3152,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u0163 \u0162al\u1e29a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162al\u1e29a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026170
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d52aac21b4f7a5f731f029b218de5ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1192969733,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1192969733,
+    "wof:lastmodified":1537699642,
+    "wof:name":"At Talha",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3152,
+    14.9402,
+    33.3152,
+    14.9402
+],
+  "geometry": {"coordinates":[33.3152,14.9402],"type":"Point"}
+}

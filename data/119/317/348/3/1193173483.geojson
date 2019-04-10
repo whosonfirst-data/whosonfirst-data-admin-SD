@@ -1,0 +1,71 @@
+{
+  "id": 1193173483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63232,13.11168,23.63232,13.11168",
+    "geom:latitude":13.11168,
+    "geom:longitude":23.63232,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Bulgumeil",
+    "gn:country_code":"SD",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377147,
+    "gn:latitude":13.11168,
+    "gn:longitude":23.63232,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bulgumeil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilgyoumeil",
+        "Bulgumeil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091709375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377147
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e6def0b9cab939de60095bb35c7c0dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709375,
+            "locality_id":1193173483,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1193173483,
+    "wof:lastmodified":1537699533,
+    "wof:name":"Bulgumeil",
+    "wof:parent_id":1091709375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63232,
+    13.11168,
+    23.63232,
+    13.11168
+],
+  "geometry": {"coordinates":[23.63232,13.11168],"type":"Point"}
+}

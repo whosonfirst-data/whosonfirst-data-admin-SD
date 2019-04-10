@@ -1,0 +1,67 @@
+{
+  "id": 1343604135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8362,15.1817,32.8362,15.1817",
+    "geom:latitude":15.1817,
+    "geom:longitude":32.8362,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hillat Mona",
+    "gn:country_code":"SD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6991683,
+    "gn:latitude":15.1817,
+    "gn:longitude":32.8362,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Mona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6991683
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"04ff8bf30c4fcecac12f4a171b27d05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1343604135,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343604135,
+    "wof:lastmodified":1537034832,
+    "wof:name":"Hillat Mona",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8362,
+    15.1817,
+    32.8362,
+    15.1817
+],
+  "geometry": {"coordinates":[32.8362,15.1817],"type":"Point"}
+}

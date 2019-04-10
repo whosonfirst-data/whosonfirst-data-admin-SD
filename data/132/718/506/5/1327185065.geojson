@@ -1,0 +1,67 @@
+{
+  "id": 1327185065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56528,15.53902,32.56528,15.53902",
+    "geom:latitude":15.53902,
+    "geom:longitude":32.56528,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Block 47",
+    "gn:country_code":"SD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287139,
+    "gn:latitude":15.53902,
+    "gn:longitude":32.56528,
+    "gn:modification_date":"2016-11-07",
+    "gn:name":"Block 47",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091707383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287139
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fa3096742427008c63ca0cd44a95cf4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707383,
+            "locality_id":1327185065,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1327185065,
+    "wof:lastmodified":1537036496,
+    "wof:name":"Block 47",
+    "wof:parent_id":1091707383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56528,
+    15.53902,
+    32.56528,
+    15.53902
+],
+  "geometry": {"coordinates":[32.56528,15.53902],"type":"Point"}
+}

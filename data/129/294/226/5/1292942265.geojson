@@ -1,0 +1,70 @@
+{
+  "id": 1292942265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16085,13.76835,22.16085,13.76835",
+    "geom:latitude":13.76835,
+    "geom:longitude":22.16085,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Armankul",
+    "gn:country_code":"SD",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378509,
+    "gn:latitude":13.76835,
+    "gn:longitude":22.16085,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Armankul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Armankul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378509
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1da28fd0d02c741ee2d2d504e496bbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1292942265,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1292942265,
+    "wof:lastmodified":1537699553,
+    "wof:name":"Armankul",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16085,
+    13.76835,
+    22.16085,
+    13.76835
+],
+  "geometry": {"coordinates":[22.16085,13.76835],"type":"Point"}
+}

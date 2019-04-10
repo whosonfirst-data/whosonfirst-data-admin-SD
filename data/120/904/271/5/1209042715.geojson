@@ -1,0 +1,64 @@
+{
+  "id": 1209042715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6453,15.4446,35.6453,15.4446",
+    "geom:latitude":15.4446,
+    "geom:longitude":35.6453,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Sittah wa `Ishrun",
+    "gn:country_code":"SD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024822,
+    "gn:latitude":15.4446,
+    "gn:longitude":35.6453,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryah Sittah wa \u2018Ishr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryah Sittah wa \u2018Ishr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024822
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"937173e818c7fe19a09f7ee7b1971a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209042715
+        }
+    ],
+    "wof:id":1209042715,
+    "wof:lastmodified":1537699636,
+    "wof:name":"Qaryah Sittah wa `Ishrun",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6453,
+    15.4446,
+    35.6453,
+    15.4446
+],
+  "geometry": {"coordinates":[35.6453,15.4446],"type":"Point"}
+}

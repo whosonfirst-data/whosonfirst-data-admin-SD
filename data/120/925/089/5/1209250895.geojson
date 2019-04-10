@@ -1,0 +1,68 @@
+{
+  "id": 1209250895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03333,20.05,28.03333,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":28.03333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Laqiyat al Arba`in",
+    "gn:country_code":"SD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371533,
+    "gn:latitude":20.05,
+    "gn:longitude":28.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Laq\u012byat al Arba\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laqiyya Arba\u2018in",
+        "Laqiya el-Arba\u2018in",
+        "Laqiya Arba\u2019\u012bn",
+        "Laq\u012byat el-Arba\u2018\u012bn",
+        "Laq\u012byat al Arba\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371533
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"58a0577693c22861411f56561f0ddef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209250895
+        }
+    ],
+    "wof:id":1209250895,
+    "wof:lastmodified":1537699483,
+    "wof:name":"Laqiyat al Arba`in",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03333,
+    20.05,
+    28.03333,
+    20.05
+],
+  "geometry": {"coordinates":[28.03333,20.05],"type":"Point"}
+}

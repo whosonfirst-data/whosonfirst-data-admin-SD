@@ -1,0 +1,67 @@
+{
+  "id": 1344191453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58389,20.27722,30.58389,20.27722",
+    "geom:latitude":20.27722,
+    "geom:longitude":30.58389,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Abu Sari",
+    "gn:country_code":"SD",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380537,
+    "gn:latitude":20.27722,
+    "gn:longitude":30.58389,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Abu Sari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380537
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7ce7c97e2857e2c9d5542a7fe2b7caa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705881,
+            "locality_id":1344191453,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1344191453,
+    "wof:lastmodified":1536686666,
+    "wof:name":"Abu Sari",
+    "wof:parent_id":1091705881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58389,
+    20.27722,
+    30.58389,
+    20.27722
+],
+  "geometry": {"coordinates":[30.58389,20.27722],"type":"Point"}
+}

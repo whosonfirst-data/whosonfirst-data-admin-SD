@@ -1,0 +1,67 @@
+{
+  "id": 1209745915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,14.01667,31.05,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Shatib",
+    "gn:country_code":"SD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367215,
+    "gn:latitude":14.01667,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Sha\u0163\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367215
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c20ea3da192eab61268d2e701b1b1f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1209745915,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1209745915,
+    "wof:lastmodified":1536395008,
+    "wof:name":"Shatib",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    14.01667,
+    31.05,
+    14.01667
+],
+  "geometry": {"coordinates":[31.05,14.01667],"type":"Point"}
+}

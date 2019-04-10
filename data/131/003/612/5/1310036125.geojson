@@ -1,0 +1,67 @@
+{
+  "id": 1310036125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45,14.2,35.45,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":35.45,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Wad Shabut",
+    "gn:country_code":"SD",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364058,
+    "gn:latitude":14.2,
+    "gn:longitude":35.45,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Shabut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364058
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f1d5bd8fcf45043ed9aec39270772325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707669,
+            "locality_id":1310036125,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1310036125,
+    "wof:lastmodified":1537093447,
+    "wof:name":"Wad Shabut",
+    "wof:parent_id":1091707669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45,
+    14.2,
+    35.45,
+    14.2
+],
+  "geometry": {"coordinates":[35.45,14.2],"type":"Point"}
+}

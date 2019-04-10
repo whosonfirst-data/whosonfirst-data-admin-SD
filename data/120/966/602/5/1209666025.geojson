@@ -1,0 +1,61 @@
+{
+  "id": 1209666025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,15.93333,33.9,15.93333",
+    "geom:latitude":15.93333,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dabbaghat",
+    "gn:country_code":"SD",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376907,
+    "gn:latitude":15.93333,
+    "gn:longitude":33.9,
+    "gn:modification_date":"1993-09-24",
+    "gn:name":"Dabbaghat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376907
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ade232df4efcce9dbdcf70d69da41a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209666025
+        }
+    ],
+    "wof:id":1209666025,
+    "wof:lastmodified":1536280095,
+    "wof:name":"Dabbaghat",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    15.933329999999998,
+    33.9,
+    15.933329999999998
+],
+  "geometry": {"coordinates":[33.9,15.93333],"type":"Point"}
+}

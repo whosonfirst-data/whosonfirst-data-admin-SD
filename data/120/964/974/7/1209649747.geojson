@@ -1,0 +1,64 @@
+{
+  "id": 1209649747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5987,15.4316,35.5987,15.4316",
+    "geom:latitude":15.4316,
+    "geom:longitude":35.5987,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Tis`ah wa `Ishrun",
+    "gn:country_code":"SD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024811,
+    "gn:latitude":15.4316,
+    "gn:longitude":35.5987,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryah Tis\u2018ah wa \u2018Ishr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryah Tis\u2018ah wa \u2018Ishr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024811
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3adfb0690933d24b9f91d81d0ab7a598",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209649747
+        }
+    ],
+    "wof:id":1209649747,
+    "wof:lastmodified":1537699635,
+    "wof:name":"Qaryah Tis`ah wa `Ishrun",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5987,
+    15.4316,
+    35.5987,
+    15.4316
+],
+  "geometry": {"coordinates":[35.5987,15.4316],"type":"Point"}
+}

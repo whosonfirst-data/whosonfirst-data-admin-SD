@@ -1,0 +1,71 @@
+{
+  "id": 1226376967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,13.71667,34.36667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":34.36667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Tunaydibah",
+    "gn:country_code":"SD",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365611,
+    "gn:latitude":13.71667,
+    "gn:longitude":34.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tunay\u1e11ibah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuneidba",
+        "Tunay\u1e11ibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091706171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365611
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3e1efcb8e96a59132a04275983bd494c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706171,
+            "locality_id":1226376967,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1226376967,
+    "wof:lastmodified":1537699434,
+    "wof:name":"Tunaydibah",
+    "wof:parent_id":1091706171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    13.71667,
+    34.36667,
+    13.71667
+],
+  "geometry": {"coordinates":[34.36667,13.71667],"type":"Point"}
+}

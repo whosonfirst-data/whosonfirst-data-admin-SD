@@ -1,0 +1,71 @@
+{
+  "id": 1293523513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66667,11.55,24.66667,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":24.66667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Majeigha",
+    "gn:country_code":"SD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370821,
+    "gn:latitude":11.55,
+    "gn:longitude":24.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Majeigha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mijeikha",
+        "Majeigha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370821
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ec2c215de8e8ba137419a7111dfff4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707279,
+            "locality_id":1293523513,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293523513,
+    "wof:lastmodified":1537699479,
+    "wof:name":"Majeigha",
+    "wof:parent_id":1091707279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66667,
+    11.55,
+    24.66667,
+    11.55
+],
+  "geometry": {"coordinates":[24.66667,11.55],"type":"Point"}
+}

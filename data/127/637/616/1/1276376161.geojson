@@ -1,0 +1,67 @@
+{
+  "id": 1276376161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66667,14.58333,33.66667,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":33.66667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Amarat `Ali",
+    "gn:country_code":"SD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378921,
+    "gn:latitude":14.58333,
+    "gn:longitude":33.66667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"\u2018Am\u0101rat \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378921
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9953c6f480ff48ae496177636f64aaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1276376161,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276376161,
+    "wof:lastmodified":1536721473,
+    "wof:name":"`Amarat `Ali",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66667,
+    14.58333,
+    33.66667,
+    14.58333
+],
+  "geometry": {"coordinates":[33.66667,14.58333],"type":"Point"}
+}

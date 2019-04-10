@@ -1,0 +1,67 @@
+{
+  "id": 1276157333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22278,9.77654,24.22278,9.77654",
+    "geom:latitude":9.77654,
+    "geom:longitude":24.22278,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Goreisho",
+    "gn:country_code":"SD",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374696,
+    "gn:latitude":9.77654,
+    "gn:longitude":24.22278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goreisho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374696
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"342b7a41c22c38066b3d6a69a6f9b59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1276157333,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1276157333,
+    "wof:lastmodified":1537013924,
+    "wof:name":"Goreisho",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22278,
+    9.77654,
+    24.22278,
+    9.77654
+],
+  "geometry": {"coordinates":[24.22278,9.77654],"type":"Point"}
+}

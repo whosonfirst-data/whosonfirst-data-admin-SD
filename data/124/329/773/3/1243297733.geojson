@@ -1,0 +1,67 @@
+{
+  "id": 1243297733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2441,12.7689,32.2441,12.7689",
+    "geom:latitude":12.7689,
+    "geom:longitude":32.2441,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Shar Rafat",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029247,
+    "gn:latitude":12.7689,
+    "gn:longitude":32.2441,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shar Rafat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029247
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"abb2e0d5d4152eb76acbddd2eafaddeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1243297733,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243297733,
+    "wof:lastmodified":1537019078,
+    "wof:name":"Shar Rafat",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2441,
+    12.7689,
+    32.2441,
+    12.7689
+],
+  "geometry": {"coordinates":[32.2441,12.7689],"type":"Point"}
+}

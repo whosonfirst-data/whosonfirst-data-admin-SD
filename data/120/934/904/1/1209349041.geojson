@@ -1,0 +1,65 @@
+{
+  "id": 1209349041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3083,12.78022,23.3083,12.78022",
+    "geom:latitude":12.78022,
+    "geom:longitude":23.3083,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kurgula",
+    "gn:country_code":"SD",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371843,
+    "gn:latitude":12.78022,
+    "gn:longitude":23.3083,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kurgula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kourgoula",
+        "Kurgula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371843
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"567f4b351bef7e2fac0787f604284c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209349041
+        }
+    ],
+    "wof:id":1209349041,
+    "wof:lastmodified":1537699485,
+    "wof:name":"Kurgula",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3083,
+    12.78022,
+    23.3083,
+    12.78022
+],
+  "geometry": {"coordinates":[23.3083,12.78022],"type":"Point"}
+}

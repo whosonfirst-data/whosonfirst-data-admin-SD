@@ -1,0 +1,71 @@
+{
+  "id": 1292943539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93333,15.11667,32.93333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":32.93333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hasab ar Rasul",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374021,
+    "gn:latitude":15.11667,
+    "gn:longitude":32.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28asab ar Ras\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasab er Rasul",
+        "\u1e28asab ar Ras\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374021
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d362d4cee8cb38dbd1c858aceff94f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1292943539,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1292943539,
+    "wof:lastmodified":1537699509,
+    "wof:name":"Hasab ar Rasul",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93333,
+    15.11667,
+    32.93333,
+    15.11667
+],
+  "geometry": {"coordinates":[32.93333,15.11667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293243909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3823,14.9679,33.3823,14.9679",
+    "geom:latitude":14.9679,
+    "geom:longitude":33.3823,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Fatha Al `Ushshab",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026138,
+    "gn:latitude":14.9679,
+    "gn:longitude":33.3823,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"F\u0101t\u1e29a Al \u2018Ushshab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0101t\u1e29a Al \u2018Ushshab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026138
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4819388f64a7d9ecdbf5d0027158eabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1293243909,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293243909,
+    "wof:lastmodified":1537699641,
+    "wof:name":"Fatha Al `Ushshab",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3823,
+    14.9679,
+    33.3823,
+    14.9679
+],
+  "geometry": {"coordinates":[33.3823,14.9679],"type":"Point"}
+}

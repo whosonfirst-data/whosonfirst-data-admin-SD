@@ -1,0 +1,67 @@
+{
+  "id": 1276478979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2932,11.5708,34.2932,11.5708",
+    "geom:latitude":11.5708,
+    "geom:longitude":34.2932,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Bobuk",
+    "gn:country_code":"SD",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377292,
+    "gn:latitude":11.5708,
+    "gn:longitude":34.2932,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bobuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377292
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cf81649b141cd42075a8366a060384de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709635,
+            "locality_id":1276478979,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1276478979,
+    "wof:lastmodified":1537077716,
+    "wof:name":"Bobuk",
+    "wof:parent_id":1091709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2932,
+    11.5708,
+    34.2932,
+    11.5708
+],
+  "geometry": {"coordinates":[34.2932,11.5708],"type":"Point"}
+}

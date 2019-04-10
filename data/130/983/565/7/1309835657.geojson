@@ -1,0 +1,70 @@
+{
+  "id": 1309835657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1733,12.8484,35.1733,12.8484",
+    "geom:latitude":12.8484,
+    "geom:longitude":35.1733,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Um Salala",
+    "gn:country_code":"SD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029415,
+    "gn:latitude":12.8484,
+    "gn:longitude":35.1733,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Sal\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Um Sal\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029415
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9b8ec4e51e96e50c4dded4f932c35424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1309835657,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1309835657,
+    "wof:lastmodified":1537699678,
+    "wof:name":"Um Salala",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1733,
+    12.8484,
+    35.1733,
+    12.8484
+],
+  "geometry": {"coordinates":[35.1733,12.8484],"type":"Point"}
+}

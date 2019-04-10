@@ -1,0 +1,71 @@
+{
+  "id": 1293518633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,13.9,32.66667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al `Udayd",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378998,
+    "gn:latitude":13.9,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Udayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Udeid",
+        "Al \u2018Udayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378998
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"35b9677f9e21133a38780de21687727a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1293518633,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293518633,
+    "wof:lastmodified":1537699560,
+    "wof:name":"Al `Udayd",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    13.9,
+    32.66667,
+    13.9
+],
+  "geometry": {"coordinates":[32.66667,13.9],"type":"Point"}
+}

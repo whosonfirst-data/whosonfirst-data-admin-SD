@@ -1,0 +1,70 @@
+{
+  "id": 1259918573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7345,14.9084,32.7345,14.9084",
+    "geom:latitude":14.9084,
+    "geom:longitude":32.7345,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Waha",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983208,
+    "gn:latitude":14.9084,
+    "gn:longitude":32.7345,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al W\u0101\u1e29a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al W\u0101\u1e29a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983208
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d5579fccc6a51c5de4ed9474caf08e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1259918573,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259918573,
+    "wof:lastmodified":1537699619,
+    "wof:name":"Al Waha",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7345,
+    14.9084,
+    32.7345,
+    14.9084
+],
+  "geometry": {"coordinates":[32.7345,14.9084],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277106139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22747,13.68213,22.22747,13.68213",
+    "geom:latitude":13.68213,
+    "geom:longitude":22.22747,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Durinhur",
+    "gn:country_code":"SD",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376087,
+    "gn:latitude":13.68213,
+    "gn:longitude":22.22747,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Durinhur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Durinhur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376087
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f5f4269f2f3300304d51b5d7182ed982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1277106139,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1277106139,
+    "wof:lastmodified":1537699524,
+    "wof:name":"Durinhur",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22747,
+    13.68213,
+    22.22747,
+    13.68213
+],
+  "geometry": {"coordinates":[22.22747,13.68213],"type":"Point"}
+}

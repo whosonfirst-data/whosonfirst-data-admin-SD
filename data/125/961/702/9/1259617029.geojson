@@ -1,0 +1,71 @@
+{
+  "id": 1259617029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98916,11.36869,22.98916,11.36869",
+    "geom:latitude":11.36869,
+    "geom:longitude":22.98916,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Mutur",
+    "gn:country_code":"SD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369565,
+    "gn:latitude":11.36869,
+    "gn:longitude":22.98916,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mutur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muterr",
+        "Mutur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369565
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1338993faaab0e62f2e0b0fcd9dcf79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1259617029,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1259617029,
+    "wof:lastmodified":1537699470,
+    "wof:name":"Mutur",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98916,
+    11.36869,
+    22.98916,
+    11.36869
+],
+  "geometry": {"coordinates":[22.98916,11.36869],"type":"Point"}
+}

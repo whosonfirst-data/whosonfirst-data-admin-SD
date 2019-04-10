@@ -1,0 +1,73 @@
+{
+  "id": 1327267625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3013,12.1317,34.3013,12.1317",
+    "geom:latitude":12.1317,
+    "geom:longitude":34.3013,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Abu Kuk",
+    "gn:country_code":"SD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380723,
+    "gn:latitude":12.1317,
+    "gn:longitude":34.3013,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abu K\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Abu K\u016bk"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b K\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380723
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d6bc81015bd92e3e76e7cbacf2bfd47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1327267625,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1327267625,
+    "wof:lastmodified":1537699596,
+    "wof:name":"Abu Kuk",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3013,
+    12.1317,
+    34.3013,
+    12.1317
+],
+  "geometry": {"coordinates":[34.3013,12.1317],"type":"Point"}
+}

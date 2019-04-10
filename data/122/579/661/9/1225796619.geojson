@@ -1,0 +1,70 @@
+{
+  "id": 1225796619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7804,14.2657,32.7804,14.2657",
+    "geom:latitude":14.2657,
+    "geom:longitude":32.7804,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Isma`tliyya",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026545,
+    "gn:latitude":14.2657,
+    "gn:longitude":32.7804,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ism\u0101\u2018tliyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ism\u0101\u2018tliyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026545
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e280552cd013a69b1cf4c35a1f712bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1225796619,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225796619,
+    "wof:lastmodified":1537699655,
+    "wof:name":"Isma`tliyya",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7804,
+    14.2657,
+    32.7804,
+    14.2657
+],
+  "geometry": {"coordinates":[32.7804,14.2657],"type":"Point"}
+}

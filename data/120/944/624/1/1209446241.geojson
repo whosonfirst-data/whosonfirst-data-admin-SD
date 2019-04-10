@@ -1,0 +1,64 @@
+{
+  "id": 1209446241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5866,15.142,35.5866,15.142",
+    "geom:latitude":15.142,
+    "geom:longitude":35.5866,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Ithnan Arab",
+    "gn:country_code":"SD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024821,
+    "gn:latitude":15.142,
+    "gn:longitude":35.5866,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryah Ithn\u0101n Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryah Ithn\u0101n Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024821
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"307a01c65c62fd9a8a7bca0e0426a9b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209446241
+        }
+    ],
+    "wof:id":1209446241,
+    "wof:lastmodified":1537699636,
+    "wof:name":"Qaryah Ithnan Arab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5866,
+    15.142,
+    35.5866,
+    15.142
+],
+  "geometry": {"coordinates":[35.5866,15.142],"type":"Point"}
+}

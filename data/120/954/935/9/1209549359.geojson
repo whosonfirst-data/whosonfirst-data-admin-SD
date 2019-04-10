@@ -1,0 +1,64 @@
+{
+  "id": 1209549359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3009,13.7298,32.3009,13.7298",
+    "geom:latitude":13.7298,
+    "geom:longitude":32.3009,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Arqud Fayiq",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018729,
+    "gn:latitude":13.7298,
+    "gn:longitude":32.3009,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Arqud F\u0101yiq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Arqud F\u0101yiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018729
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"771e1dcaffe6f82b024665bac681aed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209549359
+        }
+    ],
+    "wof:id":1209549359,
+    "wof:lastmodified":1537699631,
+    "wof:name":"Arqud Fayiq",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3009,
+    13.7298,
+    32.3009,
+    13.7298
+],
+  "geometry": {"coordinates":[32.3009,13.7298],"type":"Point"}
+}

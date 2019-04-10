@@ -1,0 +1,67 @@
+{
+  "id": 1292942485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,13.95,35.33333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":35.33333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Geliem",
+    "gn:country_code":"SD",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374999,
+    "gn:latitude":13.95,
+    "gn:longitude":35.33333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Geliem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374999
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a3b158d308cb5552889cfd0dad6ace74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709177,
+            "locality_id":1292942485,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1292942485,
+    "wof:lastmodified":1537072576,
+    "wof:name":"Geliem",
+    "wof:parent_id":1091709177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    13.95,
+    35.33333,
+    13.95
+],
+  "geometry": {"coordinates":[35.33333,13.95],"type":"Point"}
+}

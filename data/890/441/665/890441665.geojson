@@ -1,0 +1,72 @@
+{
+  "id": 890441665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2032,16.1525,36.2032,16.1525",
+    "geom:latitude":16.1525,
+    "geom:longitude":36.2032,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
+    "gn:pop":11950,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Wagga"
+    ],
+    "qs:name":"Wagar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364027,
+        "gp:id":1517088,
+        "qs:id":124339,
+        "wd:id":"Q18395991",
+        "wk:page":"Wagar"
+    },
+    "wof:country":"SD",
+    "wof:created":1469052333,
+    "wof:geomhash":"88a30294ff551c222db971b1fee41a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709303,
+            "locality_id":890441665,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":890441665,
+    "wof:lastmodified":1527727233,
+    "wof:name":"Wagar",
+    "wof:parent_id":1091709303,
+    "wof:placetype":"locality",
+    "wof:population":11950,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2032,
+    16.1525,
+    36.2032,
+    16.1525
+],
+  "geometry": {"coordinates":[36.2032,16.1525],"type":"Point"}
+}

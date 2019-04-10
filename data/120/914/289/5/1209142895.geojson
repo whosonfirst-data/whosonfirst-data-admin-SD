@@ -1,0 +1,65 @@
+{
+  "id": 1209142895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28333,11.81667,28.28333,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":28.28333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Rahad al Ghannayah",
+    "gn:country_code":"SD",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368229,
+    "gn:latitude":11.81667,
+    "gn:longitude":28.28333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Rahad al Ghann\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahad el Ghannaya",
+        "Rahad al Ghann\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368229
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d40efa2e6f8d417158a44e805b8b2f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142895
+        }
+    ],
+    "wof:id":1209142895,
+    "wof:lastmodified":1537699460,
+    "wof:name":"Rahad al Ghannayah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28333,
+    11.81667,
+    28.28333,
+    11.81667
+],
+  "geometry": {"coordinates":[28.28333,11.81667],"type":"Point"}
+}

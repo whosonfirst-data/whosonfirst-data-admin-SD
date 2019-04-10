@@ -1,0 +1,67 @@
+{
+  "id": 1259820237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79338,13.17239,24.79338,13.17239",
+    "geom:latitude":13.17239,
+    "geom:longitude":24.79338,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sabun",
+    "gn:country_code":"SD",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367861,
+    "gn:latitude":13.17239,
+    "gn:longitude":24.79338,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u015e\u0101b\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367861
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f85d6a77cc61c5b2f2bd971c9429ef09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1259820237,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1259820237,
+    "wof:lastmodified":1536869201,
+    "wof:name":"Sabun",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79338,
+    13.17239,
+    24.79338,
+    13.17239
+],
+  "geometry": {"coordinates":[24.79338,13.17239],"type":"Point"}
+}

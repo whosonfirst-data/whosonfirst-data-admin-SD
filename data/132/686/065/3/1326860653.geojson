@@ -1,0 +1,73 @@
+{
+  "id": 1326860653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4456,12.9055,31.4456,12.9055",
+    "geom:latitude":12.9055,
+    "geom:longitude":31.4456,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Al Ghabsha",
+    "gn:country_code":"SD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379507,
+    "gn:latitude":12.9055,
+    "gn:longitude":31.4456,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ghabsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghabsha",
+        "El Ghabsha",
+        "Al Ghabshah",
+        "Al Ghabsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379507
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"335883e7f3fce1e9bbeb957acb8c08e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1326860653,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1326860653,
+    "wof:lastmodified":1537699578,
+    "wof:name":"Al Ghabsha",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4456,
+    12.9055,
+    31.4456,
+    12.9055
+],
+  "geometry": {"coordinates":[31.4456,12.9055],"type":"Point"}
+}

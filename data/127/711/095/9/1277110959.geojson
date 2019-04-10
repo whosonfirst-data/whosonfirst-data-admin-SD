@@ -1,0 +1,71 @@
+{
+  "id": 1277110959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5,14.03333,35.5,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":35.5,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Sharafat Najm ad Din",
+    "gn:country_code":"SD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367257,
+    "gn:latitude":14.03333,
+    "gn:longitude":35.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharafat Najm ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharafa Nagm ed Din",
+        "Sharafat Najm ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367257
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d916119d7d116d8cda776548b38a209c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707669,
+            "locality_id":1277110959,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1277110959,
+    "wof:lastmodified":1537699449,
+    "wof:name":"Sharafat Najm ad Din",
+    "wof:parent_id":1091707669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5,
+    14.03333,
+    35.5,
+    14.03333
+],
+  "geometry": {"coordinates":[35.5,14.03333],"type":"Point"}
+}

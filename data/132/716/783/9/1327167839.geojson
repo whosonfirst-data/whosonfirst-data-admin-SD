@@ -1,0 +1,75 @@
+{
+  "id": 1327167839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41667,12.35,28.41667,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":28.41667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Bahr Umm Surein",
+    "gn:country_code":"SD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377886,
+    "gn:latitude":12.35,
+    "gn:longitude":28.41667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ba\u1e29r Umm Surein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706783,
+        85676925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377886
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0a450f77c00b00aa7da32b7e024652c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1327167839,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1327167839,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327167839,
+    "wof:lastmodified":1537060225,
+    "wof:name":"Bahr Umm Surein",
+    "wof:parent_id":1091706783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41667,
+    12.35,
+    28.41667,
+    12.35
+],
+  "geometry": {"coordinates":[28.41667,12.35],"type":"Point"}
+}

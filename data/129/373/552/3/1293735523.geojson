@@ -1,0 +1,72 @@
+{
+  "id": 1293735523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9862,14.7478,32.9862,14.7478",
+    "geom:latitude":14.7478,
+    "geom:longitude":32.9862,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Bosha As Siddiq",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365228,
+    "gn:latitude":14.7478,
+    "gn:longitude":32.9862,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um B\u014dsha A\u015f \u015eiddiq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Busha",
+        "Umm B\u016bshah",
+        "Um B\u014dsha A\u015f \u015eiddiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365228
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"63521c0bcb02f68795981de0af1bb3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1293735523,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1293735523,
+    "wof:lastmodified":1537699430,
+    "wof:name":"Um Bosha As Siddiq",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9862,
+    14.7478,
+    32.9862,
+    14.7478
+],
+  "geometry": {"coordinates":[32.9862,14.7478],"type":"Point"}
+}

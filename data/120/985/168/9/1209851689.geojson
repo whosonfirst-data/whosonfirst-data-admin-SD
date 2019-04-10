@@ -1,0 +1,67 @@
+{
+  "id": 1209851689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66667,13.53333,22.66667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":22.66667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Maku",
+    "gn:country_code":"SD",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370762,
+    "gn:latitude":13.53333,
+    "gn:longitude":22.66667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Maku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370762
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"49438337f197b91ba4a27f3ab0dc5b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":1209851689,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1209851689,
+    "wof:lastmodified":1536388130,
+    "wof:name":"Maku",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66667,
+    13.53333,
+    22.66667,
+    13.53333
+],
+  "geometry": {"coordinates":[22.66667,13.53333],"type":"Point"}
+}

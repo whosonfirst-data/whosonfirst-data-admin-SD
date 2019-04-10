@@ -1,0 +1,71 @@
+{
+  "id": 1243505891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4758,14.1295,33.4758,14.1295",
+    "geom:latitude":14.1295,
+    "geom:longitude":33.4758,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ruwina",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368129,
+    "gn:latitude":14.1295,
+    "gn:longitude":33.4758,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruw\u012bna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rawina",
+        "Ruw\u012bna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368129
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a41ea675cfa98bb1822527659f7e50b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1243505891,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243505891,
+    "wof:lastmodified":1537699459,
+    "wof:name":"Ruwina",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4758,
+    14.1295,
+    33.4758,
+    14.1295
+],
+  "geometry": {"coordinates":[33.4758,14.1295],"type":"Point"}
+}

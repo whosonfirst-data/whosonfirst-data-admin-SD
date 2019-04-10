@@ -1,0 +1,67 @@
+{
+  "id": 1343696671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45,11.1,25.45,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":25.45,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Geigi",
+    "gn:country_code":"SD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375011,
+    "gn:latitude":11.1,
+    "gn:longitude":25.45,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Geigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375011
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"38bec20139cce93ac74f0ff981d02b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708723,
+            "locality_id":1343696671,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1343696671,
+    "wof:lastmodified":1536902968,
+    "wof:name":"Geigi",
+    "wof:parent_id":1091708723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45,
+    11.1,
+    25.45,
+    11.1
+],
+  "geometry": {"coordinates":[25.45,11.1],"type":"Point"}
+}

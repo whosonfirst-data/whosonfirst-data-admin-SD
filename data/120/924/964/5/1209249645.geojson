@@ -1,0 +1,61 @@
+{
+  "id": 1209249645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73438,10.22444,30.73438,10.22444",
+    "geom:latitude":10.22444,
+    "geom:longitude":30.73438,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kabongo",
+    "gn:country_code":"SD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373190,
+    "gn:latitude":10.22444,
+    "gn:longitude":30.73438,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kabongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373190
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ef3d9dcbe04d1075eee10e5ba3907871",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209249645
+        }
+    ],
+    "wof:id":1209249645,
+    "wof:lastmodified":1536293047,
+    "wof:name":"Kabongo",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73438,
+    10.22444,
+    30.73438,
+    10.22444
+],
+  "geometry": {"coordinates":[30.73438,10.22444],"type":"Point"}
+}

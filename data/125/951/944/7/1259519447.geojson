@@ -1,0 +1,71 @@
+{
+  "id": 1259519447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15,11.83333,27.15,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":27.15,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Zarqa' Hadidah",
+    "gn:country_code":"SD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363501,
+    "gn:latitude":11.83333,
+    "gn:longitude":27.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zarq\u0101\u2019 \u1e28ad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarqa Hadida",
+        "Zarq\u0101\u2019 \u1e28ad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363501
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e1abf2987c0326911687962d7c77ad52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705641,
+            "locality_id":1259519447,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1259519447,
+    "wof:lastmodified":1537699398,
+    "wof:name":"Zarqa' Hadidah",
+    "wof:parent_id":1091705641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15,
+    11.83333,
+    27.15,
+    11.83333
+],
+  "geometry": {"coordinates":[27.15,11.83333],"type":"Point"}
+}

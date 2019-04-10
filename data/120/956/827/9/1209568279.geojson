@@ -1,0 +1,65 @@
+{
+  "id": 1209568279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01667,17.36667,36.01667,17.36667",
+    "geom:latitude":17.36667,
+    "geom:longitude":36.01667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hakawlab",
+    "gn:country_code":"SD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374299,
+    "gn:latitude":17.36667,
+    "gn:longitude":36.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28akawl\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hakolab",
+        "\u1e28akawl\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374299
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9a9aa2850cf6b67c867b347fac1b871c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209568279
+        }
+    ],
+    "wof:id":1209568279,
+    "wof:lastmodified":1537699512,
+    "wof:name":"Hakawlab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01667,
+    17.36667000000001,
+    36.01667,
+    17.36667000000001
+],
+  "geometry": {"coordinates":[36.01667,17.36667000000001],"type":"Point"}
+}

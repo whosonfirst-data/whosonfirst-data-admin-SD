@@ -1,0 +1,67 @@
+{
+  "id": 1210052521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3,13.98333,35.3,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":35.3,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Talulus",
+    "gn:country_code":"SD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366469,
+    "gn:latitude":13.98333,
+    "gn:longitude":35.3,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Talulus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091707715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366469
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e4c66d3098281d9e44cbe501576bda3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707715,
+            "locality_id":1210052521,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1210052521,
+    "wof:lastmodified":1536372019,
+    "wof:name":"Talulus",
+    "wof:parent_id":1091707715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3,
+    13.98333,
+    35.3,
+    13.98333
+],
+  "geometry": {"coordinates":[35.3,13.98333],"type":"Point"}
+}

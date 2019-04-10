@@ -1,0 +1,67 @@
+{
+  "id": 1327168063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06667,15.1,24.06667,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":24.06667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kolbe",
+    "gn:country_code":"SD",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372249,
+    "gn:latitude":15.1,
+    "gn:longitude":24.06667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Kolbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372249
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"be39d2fb2d2eaf79246e2b46dd364423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709379,
+            "locality_id":1327168063,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1327168063,
+    "wof:lastmodified":1537059928,
+    "wof:name":"Kolbe",
+    "wof:parent_id":1091709379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06667,
+    15.1,
+    24.06667,
+    15.1
+],
+  "geometry": {"coordinates":[24.06667,15.1],"type":"Point"}
+}

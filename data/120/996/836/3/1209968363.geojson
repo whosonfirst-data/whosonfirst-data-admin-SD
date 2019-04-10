@@ -1,0 +1,71 @@
+{
+  "id": 1209968363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1044,14.7639,33.1044,14.7639",
+    "geom:latitude":14.7639,
+    "geom:longitude":33.1044,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Wali",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378958,
+    "gn:latitude":14.7639,
+    "gn:longitude":33.1044,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Wali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wali",
+        "Al Wali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378958
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"12cb061525ee07c45a4b0bd4fcb1812d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1209968363,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1209968363,
+    "wof:lastmodified":1537699558,
+    "wof:name":"Al Wali",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1044,
+    14.7639,
+    33.1044,
+    14.7639
+],
+  "geometry": {"coordinates":[33.1044,14.7639],"type":"Point"}
+}

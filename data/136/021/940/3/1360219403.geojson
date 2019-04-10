@@ -1,0 +1,71 @@
+{
+  "id": 1360219403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35,13.08333,30.35,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":30.35,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Kurdufan",
+    "gn:country_code":"SD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371854,
+    "gn:latitude":13.08333,
+    "gn:longitude":30.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurduf\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kordof\u0101n",
+        "Kurduf\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371854
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"739714995f2ed6540698c53d5ce82cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1360219403,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1360219403,
+    "wof:lastmodified":1537699485,
+    "wof:name":"Kurdufan",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35,
+    13.08333,
+    30.35,
+    13.08333
+],
+  "geometry": {"coordinates":[30.35,13.08333],"type":"Point"}
+}

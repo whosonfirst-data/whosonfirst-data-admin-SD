@@ -1,0 +1,67 @@
+{
+  "id": 1326560695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41667,11.83333,34.41667,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":34.41667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"La`ota",
+    "gn:country_code":"SD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371547,
+    "gn:latitude":11.83333,
+    "gn:longitude":34.41667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"La\u2018ota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371547
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2c213d7a674aee0971f1eba561fb65b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706509,
+            "locality_id":1326560695,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1326560695,
+    "wof:lastmodified":1536943608,
+    "wof:name":"La`ota",
+    "wof:parent_id":1091706509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41667,
+    11.83333,
+    34.41667,
+    11.83333
+],
+  "geometry": {"coordinates":[34.41667,11.83333],"type":"Point"}
+}

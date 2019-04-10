@@ -1,0 +1,72 @@
+{
+  "id": 1277128013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.457,14.8725,33.457,14.8725",
+    "geom:latitude":14.8725,
+    "geom:longitude":33.457,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Id Al Haj",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373624,
+    "gn:latitude":14.8725,
+    "gn:longitude":33.457,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Id Al \u1e28aj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Idd el Hag",
+        "\u2018Idd al \u1e28\u0101jj",
+        "\u2018Id Al \u1e28aj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373624
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1080b7604be1d3e8bc1dca3961a83082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1277128013,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277128013,
+    "wof:lastmodified":1537699503,
+    "wof:name":"`Id Al Haj",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.457,
+    14.8725,
+    33.457,
+    14.8725
+],
+  "geometry": {"coordinates":[33.457,14.8725],"type":"Point"}
+}

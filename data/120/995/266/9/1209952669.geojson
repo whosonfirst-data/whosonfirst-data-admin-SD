@@ -1,0 +1,71 @@
+{
+  "id": 1209952669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4,13.88333,33.4,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":33.4,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hajju Abu Qarn",
+    "gn:country_code":"SD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374311,
+    "gn:latitude":13.88333,
+    "gn:longitude":33.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101jj\u016b Ab\u016b Qarn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hago Abu Qarn",
+        "\u1e28\u0101jj\u016b Ab\u016b Qarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374311
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6e6933cf29451333f3f9cd3fe7f800e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1209952669,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1209952669,
+    "wof:lastmodified":1537699512,
+    "wof:name":"Hajju Abu Qarn",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4,
+    13.88333,
+    33.4,
+    13.88333
+],
+  "geometry": {"coordinates":[33.4,13.88333],"type":"Point"}
+}

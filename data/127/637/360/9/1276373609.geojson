@@ -1,0 +1,71 @@
+{
+  "id": 1276373609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01667,14.26667,32.01667,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":32.01667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Kalagi",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379287,
+    "gn:latitude":14.26667,
+    "gn:longitude":32.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kalagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kalagi",
+        "Al Kalagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379287
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d7342bf87e1a902178c5ae4be13182fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1276373609,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276373609,
+    "wof:lastmodified":1537699570,
+    "wof:name":"Al Kalagi",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01667,
+    14.26667,
+    32.01667,
+    14.26667
+],
+  "geometry": {"coordinates":[32.01667,14.26667],"type":"Point"}
+}

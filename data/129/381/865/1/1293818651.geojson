@@ -1,0 +1,71 @@
+{
+  "id": 1293818651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8,11.46667,26.8,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":26.8,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Bakhit",
+    "gn:country_code":"SD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377866,
+    "gn:latitude":11.46667,
+    "gn:longitude":26.8,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bakh\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukhit",
+        "Bakh\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091706757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377866
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"71dcbdc961c1cf153770e4ea8eee7e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706757,
+            "locality_id":1293818651,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1293818651,
+    "wof:lastmodified":1537699539,
+    "wof:name":"Bakhit",
+    "wof:parent_id":1091706757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8,
+    11.46667,
+    26.8,
+    11.46667
+],
+  "geometry": {"coordinates":[26.8,11.46667],"type":"Point"}
+}

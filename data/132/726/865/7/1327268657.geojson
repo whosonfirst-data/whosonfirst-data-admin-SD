@@ -1,0 +1,67 @@
+{
+  "id": 1327268657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6555,17.1225,33.6555,17.1225",
+    "geom:latitude":17.1225,
+    "geom:longitude":33.6555,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"El Tafara",
+    "gn:country_code":"SD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444051,
+    "gn:latitude":17.1225,
+    "gn:longitude":33.6555,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"El Tafara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444051
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e84d05b9913af90aec647e1e7d7defac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1327268657,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1327268657,
+    "wof:lastmodified":1536917839,
+    "wof:name":"El Tafara",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6555,
+    17.1225,
+    33.6555,
+    17.1225
+],
+  "geometry": {"coordinates":[33.6555,17.1225],"type":"Point"}
+}

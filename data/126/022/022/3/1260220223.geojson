@@ -1,0 +1,67 @@
+{
+  "id": 1260220223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45,14.4,25.45,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":25.45,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Masimbo",
+    "gn:country_code":"SD",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370368,
+    "gn:latitude":14.4,
+    "gn:longitude":25.45,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Masimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370368
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"032afaa0a4039a67597f10ddbe0cc530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1260220223,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1260220223,
+    "wof:lastmodified":1536797954,
+    "wof:name":"Masimbo",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45,
+    14.4,
+    25.45,
+    14.4
+],
+  "geometry": {"coordinates":[25.45,14.4],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259817947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06667,11.51667,25.06667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":25.06667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Duraysah",
+    "gn:country_code":"SD",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":376095,
+    "gn:latitude":11.51667,
+    "gn:longitude":25.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Duraysah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dereisa",
+        "Duraysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376095
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bc824c12892ab6f831a319b0b969e0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707279,
+            "locality_id":1259817947,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1259817947,
+    "wof:lastmodified":1537699524,
+    "wof:name":"Duraysah",
+    "wof:parent_id":1091707279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06667,
+    11.51667,
+    25.06667,
+    11.51667
+],
+  "geometry": {"coordinates":[25.06667,11.51667],"type":"Point"}
+}

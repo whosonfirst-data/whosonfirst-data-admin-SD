@@ -1,0 +1,70 @@
+{
+  "id": 1226074031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15722,13.06471,22.15722,13.06471",
+    "geom:latitude":13.06471,
+    "geom:longitude":22.15722,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Eish Bara",
+    "gn:country_code":"SD",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375937,
+    "gn:latitude":13.06471,
+    "gn:longitude":22.15722,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Eish Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eish Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375937
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9181c3277d7b3f3563bdbbb5f4345c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1226074031,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1226074031,
+    "wof:lastmodified":1537699523,
+    "wof:name":"Eish Bara",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15722,
+    13.06471,
+    22.15722,
+    13.06471
+],
+  "geometry": {"coordinates":[22.15722,13.06471],"type":"Point"}
+}

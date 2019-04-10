@@ -1,0 +1,70 @@
+{
+  "id": 1344191777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4927,15.3773,35.4927,15.3773",
+    "geom:latitude":15.3773,
+    "geom:longitude":35.4927,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah `Ishrun",
+    "gn:country_code":"SD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024736,
+    "gn:latitude":15.3773,
+    "gn:longitude":35.4927,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qaryah \u2018Ishr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryah \u2018Ishr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024736
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6782bd1837ca7f88ce8d0fb0e116fbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1344191777,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1344191777,
+    "wof:lastmodified":1537699635,
+    "wof:name":"Qaryah `Ishrun",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4927,
+    15.3773,
+    35.4927,
+    15.3773
+],
+  "geometry": {"coordinates":[35.4927,15.3773],"type":"Point"}
+}

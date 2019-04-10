@@ -1,0 +1,67 @@
+{
+  "id": 1225974801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.477,16.4265,34.477,16.4265",
+    "geom:latitude":16.4265,
+    "geom:longitude":34.477,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"En Niweir",
+    "gn:country_code":"SD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024227,
+    "gn:latitude":16.4265,
+    "gn:longitude":34.477,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"En Niweir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024227
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e5f186f408355631d9e9f25921ebbda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1225974801,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1225974801,
+    "wof:lastmodified":1536826626,
+    "wof:name":"En Niweir",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.477,
+    16.4265,
+    34.477,
+    16.4265
+],
+  "geometry": {"coordinates":[34.477,16.4265],"type":"Point"}
+}

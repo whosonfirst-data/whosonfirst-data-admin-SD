@@ -1,0 +1,80 @@
+{
+  "id": 1260218453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48333,12.05,28.48333,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":28.48333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Jadid",
+    "gn:country_code":"SD",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373441,
+    "gn:latitude":12.05,
+    "gn:longitude":28.48333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadid",
+        "Gedid",
+        "Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706783,
+        85676925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373441
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"24ddcc7a9edf20c4c0e0406bc348d24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1260218453,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706783,
+            "locality_id":1260218453,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260218453,
+    "wof:lastmodified":1537699500,
+    "wof:name":"Jadid",
+    "wof:parent_id":1091706783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48333,
+    12.05,
+    28.48333,
+    12.05
+],
+  "geometry": {"coordinates":[28.48333,12.05],"type":"Point"}
+}

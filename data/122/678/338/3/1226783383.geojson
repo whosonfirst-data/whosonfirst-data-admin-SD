@@ -1,0 +1,70 @@
+{
+  "id": 1226783383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8548,12.999,32.8548,12.999",
+    "geom:latitude":12.999,
+    "geom:longitude":32.8548,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sharaf Ad Din",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854162,
+    "gn:latitude":12.999,
+    "gn:longitude":32.8548,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sharaf \u0100d D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharaf \u0100d D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854162
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e68f4ce37616b6bafb21ba4df3a1e81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1226783383,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226783383,
+    "wof:lastmodified":1537699615,
+    "wof:name":"Sharaf Ad Din",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8548,
+    12.999,
+    32.8548,
+    12.999
+],
+  "geometry": {"coordinates":[32.8548,12.999],"type":"Point"}
+}

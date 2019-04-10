@@ -1,0 +1,61 @@
+{
+  "id": 1209345125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08942,13.10247,24.08942,13.10247",
+    "geom:latitude":13.10247,
+    "geom:longitude":24.08942,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Basi",
+    "gn:country_code":"SD",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750461,
+    "gn:latitude":13.10247,
+    "gn:longitude":24.08942,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Basi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750461
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b0f6e9cdb9738fcc016a4538aa2810d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209345125
+        }
+    ],
+    "wof:id":1209345125,
+    "wof:lastmodified":1536289938,
+    "wof:name":"Basi",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08942,
+    13.10247,
+    24.08942,
+    13.10247
+],
+  "geometry": {"coordinates":[24.08942,13.10247],"type":"Point"}
+}

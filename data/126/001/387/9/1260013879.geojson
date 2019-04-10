@@ -1,0 +1,72 @@
+{
+  "id": 1260013879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81667,14.46667,25.81667,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":25.81667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Hashabah",
+    "gn:country_code":"SD",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365013,
+    "gn:latitude":14.46667,
+    "gn:longitude":25.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Hash\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Hashab",
+        "Umm Hashaba",
+        "Umm Hash\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365013
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5fc1c2386e2263190583b7f9aab64a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1260013879,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1260013879,
+    "wof:lastmodified":1537699425,
+    "wof:name":"Umm Hashabah",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81667,
+    14.46667,
+    25.81667,
+    14.46667
+],
+  "geometry": {"coordinates":[25.81667,14.46667],"type":"Point"}
+}

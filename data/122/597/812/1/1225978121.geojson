@@ -1,0 +1,70 @@
+{
+  "id": 1225978121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5276,14.5791,32.5276,14.5791",
+    "geom:latitude":14.5791,
+    "geom:longitude":32.5276,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"All Qall`a Ash Shekh Awad Assid",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983292,
+    "gn:latitude":14.5791,
+    "gn:longitude":32.5276,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"All Qall\u2018a Ash Shekh Awa\u1e11 Ass\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "All Qall\u2018a Ash Shekh Awa\u1e11 Ass\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983292
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f658dfa4bfdec4f3c24c229837250d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1225978121,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225978121,
+    "wof:lastmodified":1537699622,
+    "wof:name":"All Qall`a Ash Shekh Awad Assid",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5276,
+    14.5791,
+    32.5276,
+    14.5791
+],
+  "geometry": {"coordinates":[32.5276,14.5791],"type":"Point"}
+}

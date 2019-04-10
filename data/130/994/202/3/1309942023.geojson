@@ -1,0 +1,70 @@
+{
+  "id": 1309942023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26743,13.78129,22.26743,13.78129",
+    "geom:latitude":13.78129,
+    "geom:longitude":22.26743,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Durbwara",
+    "gn:country_code":"SD",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376091,
+    "gn:latitude":13.78129,
+    "gn:longitude":22.26743,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Durbwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Durbwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376091
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ee4a04464acaffc5f1d548adc8a8b438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":1309942023,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1309942023,
+    "wof:lastmodified":1537699524,
+    "wof:name":"Durbwara",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26743,
+    13.78129,
+    22.26743,
+    13.78129
+],
+  "geometry": {"coordinates":[22.26743,13.78129],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209650221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68333,13.48333,27.68333,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":27.68333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Abu Dazzah",
+    "gn:country_code":"SD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380962,
+    "gn:latitude":13.48333,
+    "gn:longitude":27.68333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ab\u016b Dazzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Dazza",
+        "Ab\u016b Dazzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380962
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7cfbf0f254c29abd84fbe14a05b49ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209650221
+        }
+    ],
+    "wof:id":1209650221,
+    "wof:lastmodified":1537699599,
+    "wof:name":"Abu Dazzah",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68333,
+    13.48333,
+    27.68333,
+    13.48333
+],
+  "geometry": {"coordinates":[27.68333,13.48333],"type":"Point"}
+}

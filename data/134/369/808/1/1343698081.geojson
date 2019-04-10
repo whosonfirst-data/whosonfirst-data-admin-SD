@@ -1,0 +1,67 @@
+{
+  "id": 1343698081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1387,13.8367,32.1387,13.8367",
+    "geom:latitude":13.8367,
+    "geom:longitude":32.1387,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dabbat Majaq",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018710,
+    "gn:latitude":13.8367,
+    "gn:longitude":32.1387,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dabbat Majaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018710
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c63ae0f326f56e65efe367d5f30ec7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":1343698081,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343698081,
+    "wof:lastmodified":1536900835,
+    "wof:name":"Dabbat Majaq",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1387,
+    13.8367,
+    32.1387,
+    13.8367
+],
+  "geometry": {"coordinates":[32.1387,13.8367],"type":"Point"}
+}

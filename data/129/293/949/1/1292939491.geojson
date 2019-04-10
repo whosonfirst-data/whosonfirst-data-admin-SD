@@ -1,0 +1,67 @@
+{
+  "id": 1292939491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93317,11.93035,24.93317,11.93035",
+    "geom:latitude":11.93035,
+    "geom:longitude":24.93317,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kashalongo",
+    "gn:country_code":"SD",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504623,
+    "gn:latitude":11.93035,
+    "gn:longitude":24.93317,
+    "gn:modification_date":"2013-03-15",
+    "gn:name":"Kashalongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504623
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"93eeea7b5bd2beb366ca7759054ddec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707575,
+            "locality_id":1292939491,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1292939491,
+    "wof:lastmodified":1537077054,
+    "wof:name":"Kashalongo",
+    "wof:parent_id":1091707575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93317,
+    11.93035,
+    24.93317,
+    11.93035
+],
+  "geometry": {"coordinates":[24.93317,11.93035],"type":"Point"}
+}

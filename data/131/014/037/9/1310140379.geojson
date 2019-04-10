@@ -1,0 +1,71 @@
+{
+  "id": 1310140379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91667,13.78333,33.91667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":33.91667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Wad ar Rukayn",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364240,
+    "gn:latitude":13.78333,
+    "gn:longitude":33.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wad ar Rukayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad er Rukein",
+        "Wad ar Rukayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364240
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9facf3a1d6a37c65dfaad05db600a20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708257,
+            "locality_id":1310140379,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1310140379,
+    "wof:lastmodified":1537699407,
+    "wof:name":"Wad ar Rukayn",
+    "wof:parent_id":1091708257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91667,
+    13.78333,
+    33.91667,
+    13.78333
+],
+  "geometry": {"coordinates":[33.91667,13.78333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343612985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4914,14.127,33.4914,14.127",
+    "geom:latitude":14.127,
+    "geom:longitude":33.4914,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Iweda",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026388,
+    "gn:latitude":14.127,
+    "gn:longitude":33.4914,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Iwe\u1e11a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Iwe\u1e11a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026388
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d0c2981b333a6d4fcdda449c3959e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1343612985,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343612985,
+    "wof:lastmodified":1537699650,
+    "wof:name":"`Iweda",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4914,
+    14.127,
+    33.4914,
+    14.127
+],
+  "geometry": {"coordinates":[33.4914,14.127],"type":"Point"}
+}

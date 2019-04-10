@@ -1,0 +1,67 @@
+{
+  "id": 1226393087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4808,15.6883,32.4808,15.6883",
+    "geom:latitude":15.6883,
+    "geom:longitude":32.4808,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Al Mahadia",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6992593,
+    "gn:latitude":15.6883,
+    "gn:longitude":32.4808,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mahadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6992593
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"381b6cc70c6fb3ffb7023521856209fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708803,
+            "locality_id":1226393087,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1226393087,
+    "wof:lastmodified":1536721833,
+    "wof:name":"Al Mahadia",
+    "wof:parent_id":1091708803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4808,
+    15.6883,
+    32.4808,
+    15.6883
+],
+  "geometry": {"coordinates":[32.4808,15.6883],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210052543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76667,14.76667,32.76667,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":32.76667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"`Abd al Majid",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381142,
+    "gn:latitude":14.76667,
+    "gn:longitude":32.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abd al M\u0101jid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abd el Magid",
+        "Abdul Majid",
+        "\u2018Abd al M\u0101jid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381142
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b2327a1cee86effe9aab728d7721b921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1210052543,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1210052543,
+    "wof:lastmodified":1537699602,
+    "wof:name":"`Abd al Majid",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76667,
+    14.76667,
+    32.76667,
+    14.76667
+],
+  "geometry": {"coordinates":[32.76667,14.76667],"type":"Point"}
+}

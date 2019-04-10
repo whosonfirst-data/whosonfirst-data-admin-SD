@@ -1,0 +1,71 @@
+{
+  "id": 1226084613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4723,14.1387,33.4723,14.1387",
+    "geom:latitude":14.1387,
+    "geom:longitude":33.4723,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Awayda `Iweda",
+    "gn:country_code":"SD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375425,
+    "gn:latitude":14.1387,
+    "gn:longitude":33.4723,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Awayda \u2018Iwe\u1e11a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fawaida Uweida",
+        "Al \u2018Awayda \u2018Iwe\u1e11a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375425
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c4f1d39581ca8d2850e219aad7b2bce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1226084613,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226084613,
+    "wof:lastmodified":1537699520,
+    "wof:name":"Al `Awayda `Iweda",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4723,
+    14.1387,
+    33.4723,
+    14.1387
+],
+  "geometry": {"coordinates":[33.4723,14.1387],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310157107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3921,14.0292,33.3921,14.0292",
+    "geom:latitude":14.0292,
+    "geom:longitude":33.3921,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Diwewa",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376048,
+    "gn:latitude":14.0292,
+    "gn:longitude":33.3921,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e10iwewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duweiw",
+        "\u1e10iwewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376048
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8533d199edb299ad41b28e53f74c9994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1310157107,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310157107,
+    "wof:lastmodified":1537699523,
+    "wof:name":"Diwewa",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3921,
+    14.0292,
+    33.3921,
+    14.0292
+],
+  "geometry": {"coordinates":[33.3921,14.0292],"type":"Point"}
+}

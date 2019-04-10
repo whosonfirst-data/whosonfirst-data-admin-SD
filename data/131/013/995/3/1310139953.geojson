@@ -1,0 +1,73 @@
+{
+  "id": 1310139953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68333,11.56667,24.68333,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":24.68333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Jami`Abu Jurah",
+    "gn:country_code":"SD",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373406,
+    "gn:latitude":11.56667,
+    "gn:longitude":24.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"J\u0101mi\u2018Ab\u016b J\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gami\u2018 Abu Jura",
+        "Gami\u2019 Abu Ajura",
+        "Gambi\u2018Abu Jura",
+        "J\u0101mi\u2018Ab\u016b J\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373406
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b666aa9d8a94f252596e73be3fe8d36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707279,
+            "locality_id":1310139953,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1310139953,
+    "wof:lastmodified":1537699500,
+    "wof:name":"Jami`Abu Jurah",
+    "wof:parent_id":1091707279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68333,
+    11.56667,
+    24.68333,
+    11.56667
+],
+  "geometry": {"coordinates":[24.68333,11.56667],"type":"Point"}
+}

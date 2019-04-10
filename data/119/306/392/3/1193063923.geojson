@@ -1,0 +1,72 @@
+{
+  "id": 1193063923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.363,17.7004,38.363,17.7004",
+    "geom:latitude":17.7004,
+    "geom:longitude":38.363,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Garora",
+    "gn:country_code":"SD",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372791,
+    "gn:latitude":17.7004,
+    "gn:longitude":38.363,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gar\u014dra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarora",
+        "Karora",
+        "Gar\u014dra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372791
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"feb114d2f839dc4bc333a1ab444e55f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1193063923,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1193063923,
+    "wof:lastmodified":1537699494,
+    "wof:name":"Garora",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.363,
+    17.7004,
+    38.363,
+    17.7004
+],
+  "geometry": {"coordinates":[38.363,17.7004],"type":"Point"}
+}

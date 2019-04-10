@@ -1,0 +1,71 @@
+{
+  "id": 1326766637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1,13.26667,30.1,13.26667",
+    "geom:latitude":13.26667,
+    "geom:longitude":30.1,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Sharafah",
+    "gn:country_code":"SD",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367265,
+    "gn:latitude":13.26667,
+    "gn:longitude":30.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharafah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sherafa",
+        "Sharafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367265
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"bd52ad59f524e0ece4f086fad21139d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1326766637,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1326766637,
+    "wof:lastmodified":1537699449,
+    "wof:name":"Sharafah",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1,
+    13.26667,
+    30.1,
+    13.26667
+],
+  "geometry": {"coordinates":[30.1,13.26667],"type":"Point"}
+}

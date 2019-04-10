@@ -1,0 +1,70 @@
+{
+  "id": 1209849851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3058,11.9356,34.3058,11.9356",
+    "geom:latitude":11.9356,
+    "geom:longitude":34.3058,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Jarmari",
+    "gn:country_code":"SD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033510,
+    "gn:latitude":11.9356,
+    "gn:longitude":34.3058,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jarm\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarm\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033510
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d3c5c6864cb0592f276b454025763ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1209849851,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1209849851,
+    "wof:lastmodified":1537699685,
+    "wof:name":"Jarmari",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3058,
+    11.9356,
+    34.3058,
+    11.9356
+],
+  "geometry": {"coordinates":[34.3058,11.9356],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226261449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3126,14.0265,33.3126,14.0265",
+    "geom:latitude":14.0265,
+    "geom:longitude":33.3126,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"At Tumat Wad az Zin",
+    "gn:country_code":"SD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366321,
+    "gn:latitude":14.0265,
+    "gn:longitude":33.3126,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tum\u0101t Wad az Zin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomat ez Zein",
+        "Tawmat az Zayn",
+        "At Tum\u0101t Wad az Zin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366321
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"86197d3f4f1aa4e7f8b17299fb3d0ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1226261449,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226261449,
+    "wof:lastmodified":1537699438,
+    "wof:name":"At Tumat Wad az Zin",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3126,
+    14.0265,
+    33.3126,
+    14.0265
+],
+  "geometry": {"coordinates":[33.3126,14.0265],"type":"Point"}
+}

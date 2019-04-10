@@ -1,0 +1,71 @@
+{
+  "id": 1225876047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76667,12.8,25.76667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":25.76667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Burayrah",
+    "gn:country_code":"SD",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365239,
+    "gn:latitude":12.8,
+    "gn:longitude":25.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Burayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Bereira",
+        "Umm Burayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091707249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365239
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2c5f94ec5a77610bda06867ee6a4369b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707249,
+            "locality_id":1225876047,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1225876047,
+    "wof:lastmodified":1537699430,
+    "wof:name":"Umm Burayrah",
+    "wof:parent_id":1091707249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76667,
+    12.8,
+    25.76667,
+    12.8
+],
+  "geometry": {"coordinates":[25.76667,12.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327368255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53136,12.31182,22.53136,12.31182",
+    "geom:latitude":12.31182,
+    "geom:longitude":22.53136,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Darsa",
+    "gn:country_code":"SD",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376700,
+    "gn:latitude":12.31182,
+    "gn:longitude":22.53136,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Darsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Darsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376700
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b83b27c7fa0fd173b3c13dba2f2e1ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":1327368255,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1327368255,
+    "wof:lastmodified":1537699529,
+    "wof:name":"Darsa",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53136,
+    12.31182,
+    22.53136,
+    12.31182
+],
+  "geometry": {"coordinates":[22.53136,12.31182],"type":"Point"}
+}

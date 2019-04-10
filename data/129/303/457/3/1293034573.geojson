@@ -1,0 +1,72 @@
+{
+  "id": 1293034573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.369,14.9645,32.369,14.9645",
+    "geom:latitude":14.9645,
+    "geom:longitude":32.369,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al La`uta",
+    "gn:country_code":"SD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379189,
+    "gn:latitude":14.9645,
+    "gn:longitude":32.369,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al La\u2018\u016bta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El La\u2018ota",
+        "Al La\u2018ota",
+        "Al La\u2018\u016bta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379189
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3770fce06e8b1ffe46f05cb33577f30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1293034573,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293034573,
+    "wof:lastmodified":1537699566,
+    "wof:name":"Al La`uta",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.369,
+    14.9645,
+    32.369,
+    14.9645
+],
+  "geometry": {"coordinates":[32.369,14.9645],"type":"Point"}
+}

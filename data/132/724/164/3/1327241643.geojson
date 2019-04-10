@@ -1,0 +1,70 @@
+{
+  "id": 1327241643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1444,12.8914,35.1444,12.8914",
+    "geom:latitude":12.8914,
+    "geom:longitude":35.1444,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Um Kura`",
+    "gn:country_code":"SD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029410,
+    "gn:latitude":12.8914,
+    "gn:longitude":35.1444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Kur\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Um Kur\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029410
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d453ba80851ecc562c570002330a18ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706215,
+            "locality_id":1327241643,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1327241643,
+    "wof:lastmodified":1537699677,
+    "wof:name":"Um Kura`",
+    "wof:parent_id":1091706215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1444,
+    12.8914,
+    35.1444,
+    12.8914
+],
+  "geometry": {"coordinates":[35.1444,12.8914],"type":"Point"}
+}

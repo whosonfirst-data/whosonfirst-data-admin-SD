@@ -1,0 +1,67 @@
+{
+  "id": 1327270625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73653,10.42922,25.73653,10.42922",
+    "geom:latitude":10.42922,
+    "geom:longitude":25.73653,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Nuni",
+    "gn:country_code":"SD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047366,
+    "gn:latitude":10.42922,
+    "gn:longitude":25.73653,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Nuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047366
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"736db34160e57f779977bb075e9e75bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708723,
+            "locality_id":1327270625,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1327270625,
+    "wof:lastmodified":1536914808,
+    "wof:name":"Nuni",
+    "wof:parent_id":1091708723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73653,
+    10.42922,
+    25.73653,
+    10.42922
+],
+  "geometry": {"coordinates":[25.73653,10.42922],"type":"Point"}
+}

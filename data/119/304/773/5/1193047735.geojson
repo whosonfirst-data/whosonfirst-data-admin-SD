@@ -1,0 +1,72 @@
+{
+  "id": 1193047735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8,13.1,32.8,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":32.8,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Khawr Agwal",
+    "gn:country_code":"SD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372513,
+    "gn:latitude":13.1,
+    "gn:longitude":32.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khawr Agwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khor \u2018Agol",
+        "Khor \u2018Agwal",
+        "Khawr Agwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372513
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8d7dd4b271b6210a535c753d62b58581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":1193047735,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1193047735,
+    "wof:lastmodified":1537699491,
+    "wof:name":"Khawr Agwal",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8,
+    13.1,
+    32.8,
+    13.1
+],
+  "geometry": {"coordinates":[32.8,13.1],"type":"Point"}
+}

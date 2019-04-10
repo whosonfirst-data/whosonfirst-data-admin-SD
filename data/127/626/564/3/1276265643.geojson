@@ -1,0 +1,79 @@
+{
+  "id": 1276265643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2,11.45,28.2,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":28.2,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Umm Jamalah",
+    "gn:country_code":"SD",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364955,
+    "gn:latitude":11.45,
+    "gn:longitude":28.2,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Umm Jam\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Gimala",
+        "Umm Jam\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706565,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364955
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4bceb288210cfd3b047d1335fbedca3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1276265643,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1276265643,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1276265643,
+    "wof:lastmodified":1537699423,
+    "wof:name":"Umm Jamalah",
+    "wof:parent_id":1091706565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2,
+    11.45,
+    28.2,
+    11.45
+],
+  "geometry": {"coordinates":[28.2,11.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890443221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,12.71667,30.65,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":30.65,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
+    "gn:pop":26273,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rahad"
+    ],
+    "qs:name":"Ar Rahad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378493,
+        "gp:id":1432122,
+        "qs:id":1026827,
+        "wd:id":"Q657012",
+        "wk:page":"Ar Rahad"
+    },
+    "wof:country":"SD",
+    "wof:created":1469052414,
+    "wof:geomhash":"549aa142aba0d03ce6a3de14c94105fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":890443221,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":890443221,
+    "wof:lastmodified":1527787059,
+    "wof:name":"Ar Rahad",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:population":26273,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    12.71667,
+    30.65,
+    12.71667
+],
+  "geometry": {"coordinates":[30.65,12.71667],"type":"Point"}
+}

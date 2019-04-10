@@ -1,0 +1,71 @@
+{
+  "id": 1260015747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,13.33333,31.48333,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Gub",
+    "gn:country_code":"SD",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365072,
+    "gn:latitude":13.33333,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Gub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Chub",
+        "Umm Gub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365072
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c36c9cfbc0388f3c9ee700556f97c790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1260015747,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1260015747,
+    "wof:lastmodified":1537699426,
+    "wof:name":"Umm Gub",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    13.33333,
+    31.48333,
+    13.33333
+],
+  "geometry": {"coordinates":[31.48333,13.33333],"type":"Point"}
+}

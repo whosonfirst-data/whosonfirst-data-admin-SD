@@ -1,0 +1,73 @@
+{
+  "id": 1326464473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1492,12.6939,34.1492,12.6939",
+    "geom:latitude":12.6939,
+    "geom:longitude":34.1492,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al Fonj",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379532,
+    "gn:latitude":12.6939,
+    "gn:longitude":34.1492,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Fonj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundj",
+        "Fung",
+        "Al Funj",
+        "Al Fonj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091706637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379532
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0072a63f62ddfc49e7c26267ea57d2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706637,
+            "locality_id":1326464473,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1326464473,
+    "wof:lastmodified":1537699579,
+    "wof:name":"Al Fonj",
+    "wof:parent_id":1091706637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1492,
+    12.6939,
+    34.1492,
+    12.6939
+],
+  "geometry": {"coordinates":[34.1492,12.6939],"type":"Point"}
+}

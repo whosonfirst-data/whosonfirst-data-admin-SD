@@ -1,0 +1,67 @@
+{
+  "id": 1259718293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41667,13.53333,30.41667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":30.41667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Khummi",
+    "gn:country_code":"SD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372454,
+    "gn:latitude":13.53333,
+    "gn:longitude":30.41667,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Khumm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372454
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f29ad1a96218c9dc1af9e6900ae3f6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1259718293,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1259718293,
+    "wof:lastmodified":1537016208,
+    "wof:name":"Khummi",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41667,
+    13.53333,
+    30.41667,
+    13.53333
+],
+  "geometry": {"coordinates":[30.41667,13.53333],"type":"Point"}
+}

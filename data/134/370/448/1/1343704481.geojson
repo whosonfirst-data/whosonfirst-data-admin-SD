@@ -1,0 +1,71 @@
+{
+  "id": 1343704481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0091,14.4397,33.0091,14.4397",
+    "geom:latitude":14.4397,
+    "geom:longitude":33.0091,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kambu Arba`tashar",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026420,
+    "gn:latitude":14.4397,
+    "gn:longitude":33.0091,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kambu Arba\u2018\u0163ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Farah",
+        "Kambu Arba\u2018\u0163ashar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026420
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5e89891e4ef3d62c845d4b1ede87c1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1343704481,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343704481,
+    "wof:lastmodified":1537699651,
+    "wof:name":"Kambu Arba`tashar",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0091,
+    14.4397,
+    33.0091,
+    14.4397
+],
+  "geometry": {"coordinates":[33.0091,14.4397],"type":"Point"}
+}

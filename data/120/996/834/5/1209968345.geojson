@@ -1,0 +1,67 @@
+{
+  "id": 1209968345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1124,14.6483,33.1124,14.6483",
+    "geom:latitude":14.6483,
+    "geom:longitude":33.1124,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Daleba",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026310,
+    "gn:latitude":14.6483,
+    "gn:longitude":33.1124,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Daleba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026310
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e325eb8b43f8bdd0c14b892bb9b9de0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1209968345,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1209968345,
+    "wof:lastmodified":1536396178,
+    "wof:name":"Um Daleba",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1124,
+    14.6483,
+    33.1124,
+    14.6483
+],
+  "geometry": {"coordinates":[33.1124,14.6483],"type":"Point"}
+}

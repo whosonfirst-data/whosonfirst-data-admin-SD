@@ -1,0 +1,73 @@
+{
+  "id": 1243299809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4439,11.6069,30.4439,11.6069",
+    "geom:latitude":11.6069,
+    "geom:longitude":30.4439,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Deira",
+    "gn:country_code":"SD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376652,
+    "gn:latitude":11.6069,
+    "gn:longitude":30.4439,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agur",
+        "Daira",
+        "Dayrah",
+        "Deira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091706919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376652
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"360ccb737dfe789eaf2c8edc01d5bc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706919,
+            "locality_id":1243299809,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1243299809,
+    "wof:lastmodified":1537699528,
+    "wof:name":"Deira",
+    "wof:parent_id":1091706919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4439,
+    11.6069,
+    30.4439,
+    11.6069
+],
+  "geometry": {"coordinates":[30.4439,11.6069],"type":"Point"}
+}

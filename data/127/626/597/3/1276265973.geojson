@@ -1,0 +1,71 @@
+{
+  "id": 1276265973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8261,12.925,31.8261,12.925",
+    "geom:latitude":12.925,
+    "geom:longitude":31.8261,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Shukkaba",
+    "gn:country_code":"SD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364600,
+    "gn:latitude":12.925,
+    "gn:longitude":31.8261,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Shukk\u0101ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Shukkaba",
+        "Um Shukk\u0101ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364600
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"48db254586944ed155e6584f78fd2839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1276265973,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1276265973,
+    "wof:lastmodified":1537699417,
+    "wof:name":"Um Shukkaba",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8261,
+    12.925,
+    31.8261,
+    12.925
+],
+  "geometry": {"coordinates":[31.8261,12.925],"type":"Point"}
+}

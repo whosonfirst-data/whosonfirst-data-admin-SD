@@ -1,0 +1,61 @@
+{
+  "id": 1209137359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82499,11.45572,22.82499,11.45572",
+    "geom:latitude":11.45572,
+    "geom:longitude":22.82499,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Lujugo",
+    "gn:country_code":"SD",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371079,
+    "gn:latitude":11.45572,
+    "gn:longitude":22.82499,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Lujugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371079
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dee3ab671dcffd4a92737ed8444d65d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209137359
+        }
+    ],
+    "wof:id":1209137359,
+    "wof:lastmodified":1536296617,
+    "wof:name":"Lujugo",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82499,
+    11.45572,
+    22.82499,
+    11.45572
+],
+  "geometry": {"coordinates":[22.82499,11.45572],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226682911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13526,12.72299,23.13526,12.72299",
+    "geom:latitude":12.72299,
+    "geom:longitude":23.13526,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Sili",
+    "gn:country_code":"SD",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":366889,
+    "gn:latitude":12.72299,
+    "gn:longitude":23.13526,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366889
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"03130dec34c7c6fd7c063632607ec96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":1226682911,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1226682911,
+    "wof:lastmodified":1536805727,
+    "wof:name":"Sili",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13526,
+    12.72299,
+    23.13526,
+    12.72299
+],
+  "geometry": {"coordinates":[23.13526,12.72299],"type":"Point"}
+}

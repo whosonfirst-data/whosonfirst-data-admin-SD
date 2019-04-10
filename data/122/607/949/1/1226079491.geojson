@@ -1,0 +1,67 @@
+{
+  "id": 1226079491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92556,17.59222,33.92556,17.59222",
+    "geom:latitude":17.59222,
+    "geom:longitude":33.92556,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"`Umarab",
+    "gn:country_code":"SD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365414,
+    "gn:latitude":17.59222,
+    "gn:longitude":33.92556,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"\u2018Umar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091709911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365414
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fea1d025550dfc8930b1ae0f377b7ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709911,
+            "locality_id":1226079491,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1226079491,
+    "wof:lastmodified":1536676562,
+    "wof:name":"`Umarab",
+    "wof:parent_id":1091709911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92556,
+    17.59222,
+    33.92556,
+    17.59222
+],
+  "geometry": {"coordinates":[33.92556,17.59222],"type":"Point"}
+}

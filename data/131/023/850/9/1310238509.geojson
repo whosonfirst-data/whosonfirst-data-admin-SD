@@ -1,0 +1,70 @@
+{
+  "id": 1310238509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57078,12.10479,22.57078,12.10479",
+    "geom:latitude":12.10479,
+    "geom:longitude":22.57078,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kegeli",
+    "gn:country_code":"SD",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390073,
+    "gn:latitude":12.10479,
+    "gn:longitude":22.57078,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kegeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kegeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390073
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"32de3b120a010246cdffcea5de531273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":1310238509,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1310238509,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Kegeli",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57078,
+    12.10479,
+    22.57078,
+    12.10479
+],
+  "geometry": {"coordinates":[22.57078,12.10479],"type":"Point"}
+}

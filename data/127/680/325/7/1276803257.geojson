@@ -1,0 +1,70 @@
+{
+  "id": 1276803257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73,14.8396,32.73,14.8396",
+    "geom:latitude":14.8396,
+    "geom:longitude":32.73,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Qubbat Ashshekh Ahmad Wad Al Faki Yousif",
+    "gn:country_code":"SD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983216,
+    "gn:latitude":14.8396,
+    "gn:longitude":32.73,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qubbat Ashshekh A\u1e29mad Wad Al Faki Yousif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qubbat Ashshekh A\u1e29mad Wad Al Faki Yousif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983216
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ca2d153db97cd2bbe82b1f2c77ce1a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1276803257,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276803257,
+    "wof:lastmodified":1537699619,
+    "wof:name":"Qubbat Ashshekh Ahmad Wad Al Faki Yousif",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73,
+    14.8396,
+    32.73,
+    14.8396
+],
+  "geometry": {"coordinates":[32.73,14.8396],"type":"Point"}
+}

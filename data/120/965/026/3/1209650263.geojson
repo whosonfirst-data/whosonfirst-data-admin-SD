@@ -1,0 +1,64 @@
+{
+  "id": 1209650263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39045,13.9175,22.39045,13.9175",
+    "geom:latitude":13.9175,
+    "geom:longitude":22.39045,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Magissa",
+    "gn:country_code":"SD",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370899,
+    "gn:latitude":13.9175,
+    "gn:longitude":22.39045,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Magissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370899
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0005baa830cf2639147b538c8fc731fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209650263
+        }
+    ],
+    "wof:id":1209650263,
+    "wof:lastmodified":1537699480,
+    "wof:name":"Magissa",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39045,
+    13.9175,
+    22.39045,
+    13.9175
+],
+  "geometry": {"coordinates":[22.39045,13.9175],"type":"Point"}
+}

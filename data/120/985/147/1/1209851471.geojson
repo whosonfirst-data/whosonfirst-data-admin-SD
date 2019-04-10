@@ -1,0 +1,67 @@
+{
+  "id": 1209851471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18333,12.45,30.18333,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":30.18333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Telgan",
+    "gn:country_code":"SD",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366209,
+    "gn:latitude":12.45,
+    "gn:longitude":30.18333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Telgan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366209
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9a08265f4b8863e657f55183b213057b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709677,
+            "locality_id":1209851471,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1209851471,
+    "wof:lastmodified":1536388226,
+    "wof:name":"Telgan",
+    "wof:parent_id":1091709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18333,
+    12.45,
+    30.18333,
+    12.45
+],
+  "geometry": {"coordinates":[30.18333,12.45],"type":"Point"}
+}

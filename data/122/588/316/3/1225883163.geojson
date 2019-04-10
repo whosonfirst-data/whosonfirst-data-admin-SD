@@ -1,0 +1,67 @@
+{
+  "id": 1225883163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01639,15.24889,33.01639,15.24889",
+    "geom:latitude":15.24889,
+    "geom:longitude":33.01639,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Umm Maghat",
+    "gn:country_code":"SD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364862,
+    "gn:latitude":15.24889,
+    "gn:longitude":33.01639,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Umm Maghat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364862
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"486bdc4b219556bd59ba9b4deab75810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1225883163,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225883163,
+    "wof:lastmodified":1536959660,
+    "wof:name":"Umm Maghat",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01639,
+    15.24889,
+    33.01639,
+    15.24889
+],
+  "geometry": {"coordinates":[33.01639,15.24889],"type":"Point"}
+}

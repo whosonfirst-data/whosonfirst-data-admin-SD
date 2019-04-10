@@ -1,0 +1,71 @@
+{
+  "id": 1293526333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,19.16667,32.66667,19.16667",
+    "geom:latitude":19.16667,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Al Kura`",
+    "gn:country_code":"SD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379212,
+    "gn:latitude":19.16667,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kur\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kora\u2018",
+        "Al Kur\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091705233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379212
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a1c4d854de9e8807f059afefb17cb2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705233,
+            "locality_id":1293526333,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1293526333,
+    "wof:lastmodified":1537699567,
+    "wof:name":"Al Kura`",
+    "wof:parent_id":1091705233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    19.16667,
+    32.66667,
+    19.16667
+],
+  "geometry": {"coordinates":[32.66667,19.16667],"type":"Point"}
+}

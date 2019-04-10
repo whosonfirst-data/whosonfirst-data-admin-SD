@@ -1,0 +1,61 @@
+{
+  "id": 1209142643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4757,13.8839,32.4757,13.8839",
+    "geom:latitude":13.8839,
+    "geom:longitude":32.4757,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Rob",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018696,
+    "gn:latitude":13.8839,
+    "gn:longitude":32.4757,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Rob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018696
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"af0635f783ea5b7d329350efae874c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209142643
+        }
+    ],
+    "wof:id":1209142643,
+    "wof:lastmodified":1536296454,
+    "wof:name":"Um Rob",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4757,
+    13.8839,
+    32.4757,
+    13.8839
+],
+  "geometry": {"coordinates":[32.4757,13.8839],"type":"Point"}
+}

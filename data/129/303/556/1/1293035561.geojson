@@ -1,0 +1,71 @@
+{
+  "id": 1293035561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,13.05,23.15,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Burubaasi",
+    "gn:country_code":"SD",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377035,
+    "gn:latitude":13.05,
+    "gn:longitude":23.15,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Burubaasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burbu Basi",
+        "Burubaasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377035
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b48b9f03dd6980d0d9056f2c12c0938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":1293035561,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1293035561,
+    "wof:lastmodified":1537699532,
+    "wof:name":"Burubaasi",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    13.05,
+    23.15,
+    13.05
+],
+  "geometry": {"coordinates":[23.15,13.05],"type":"Point"}
+}

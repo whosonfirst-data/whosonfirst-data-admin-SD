@@ -1,0 +1,67 @@
+{
+  "id": 1260221313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,12.8,26.85,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":26.85,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Dereisa",
+    "gn:country_code":"SD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365177,
+    "gn:latitude":12.8,
+    "gn:longitude":26.85,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Umm Dereisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365177
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"327bcc744958f27afc2d07a4ecec8bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706673,
+            "locality_id":1260221313,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1260221313,
+    "wof:lastmodified":1536796524,
+    "wof:name":"Umm Dereisa",
+    "wof:parent_id":1091706673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    12.8,
+    26.85,
+    12.8
+],
+  "geometry": {"coordinates":[26.85,12.8],"type":"Point"}
+}

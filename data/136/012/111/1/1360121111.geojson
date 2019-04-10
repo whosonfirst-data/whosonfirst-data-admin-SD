@@ -1,0 +1,67 @@
+{
+  "id": 1360121111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7,13.43333,24.7,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":24.7,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kullu",
+    "gn:country_code":"SD",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371950,
+    "gn:latitude":13.43333,
+    "gn:longitude":24.7,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Kullu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371950
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7efafcc9c0140835b52dbbf5211e3be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1360121111,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1360121111,
+    "wof:lastmodified":1536893322,
+    "wof:name":"Kullu",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7,
+    13.43333,
+    24.7,
+    13.43333
+],
+  "geometry": {"coordinates":[24.7,13.43333],"type":"Point"}
+}

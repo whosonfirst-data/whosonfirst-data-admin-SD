@@ -1,0 +1,71 @@
+{
+  "id": 1326591033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4406,15.2587,32.4406,15.2587",
+    "geom:latitude":15.2587,
+    "geom:longitude":32.4406,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hillat al Moqdab",
+    "gn:country_code":"SD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369809,
+    "gn:latitude":15.2587,
+    "gn:longitude":32.4406,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat al Moqdab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugdab",
+        "Hillat al Moqdab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369809
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6fb8d9a84c355ef866433b1e874a3efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708853,
+            "locality_id":1326591033,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1326591033,
+    "wof:lastmodified":1537699474,
+    "wof:name":"Hillat al Moqdab",
+    "wof:parent_id":1091708853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4406,
+    15.2587,
+    32.4406,
+    15.2587
+],
+  "geometry": {"coordinates":[32.4406,15.2587],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243497017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4798,14.7247,33.4798,14.7247",
+    "geom:latitude":14.7247,
+    "geom:longitude":33.4798,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu Jalfa",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380774,
+    "gn:latitude":14.7247,
+    "gn:longitude":33.4798,
+    "gn:modification_date":"2012-06-13",
+    "gn:name":"Abu Jalfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Galfa",
+        "Ab\u016b Jalfah",
+        "Ab Jalfa",
+        "Abu Jalfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380774
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fb9e11efd903445ef9d4cb8e0dafd011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1243497017,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243497017,
+    "wof:lastmodified":1537699597,
+    "wof:name":"Abu Jalfa",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4798,
+    14.7247,
+    33.4798,
+    14.7247
+],
+  "geometry": {"coordinates":[33.4798,14.7247],"type":"Point"}
+}

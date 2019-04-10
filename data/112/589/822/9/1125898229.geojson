@@ -1,0 +1,81 @@
+{
+  "id": 1125898229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3565,16.7095,33.3565,16.7095",
+    "geom:latitude":16.7095,
+    "geom:longitude":33.3565,
+    "gn:gn_country":"SD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11366,
+    "gn:population":11366,
+    "iso:country":"SD",
+    "lbl:latitude":16.7095,
+    "lbl:longitude":33.3565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ma\u1e6dammah"
+    ],
+    "qs_pg:aaroncc":"SD",
+    "qs_pg:gn_country":"SD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":379127,
+    "qs_pg:gn_pop":11366,
+    "qs_pg:name":"El Matama",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1026828,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379127,
+        "qs_pg:id":1026828
+    },
+    "wof:country":"SD",
+    "wof:created":1497295681,
+    "wof:geomhash":"d58196c64edfcf53648e29c58fe1b53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1125898229,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1125898229,
+    "wof:lastmodified":1509399246,
+    "wof:name":"El Matama",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:population":11366,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3565,
+    16.7095,
+    33.3565,
+    16.7095
+],
+  "geometry": {"coordinates":[33.3565,16.7095],"type":"Point"}
+}

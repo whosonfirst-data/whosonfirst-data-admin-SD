@@ -1,0 +1,67 @@
+{
+  "id": 1310436247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5472,11.9772,29.5472,11.9772",
+    "geom:latitude":11.9772,
+    "geom:longitude":29.5472,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Hajar Assultan",
+    "gn:country_code":"SD",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979510,
+    "gn:latitude":11.9772,
+    "gn:longitude":29.5472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hajar Assultan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091709977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979510
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ac0f3c972c46aa46fb696066c4d2035a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709977,
+            "locality_id":1310436247,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1310436247,
+    "wof:lastmodified":1537016258,
+    "wof:name":"Hajar Assultan",
+    "wof:parent_id":1091709977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5472,
+    11.9772,
+    29.5472,
+    11.9772
+],
+  "geometry": {"coordinates":[29.5472,11.9772],"type":"Point"}
+}

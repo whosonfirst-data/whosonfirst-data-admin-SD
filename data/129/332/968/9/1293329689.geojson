@@ -1,0 +1,70 @@
+{
+  "id": 1293329689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1958,12.6536,31.1958,12.6536",
+    "geom:latitude":12.6536,
+    "geom:longitude":31.1958,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Mekaya",
+    "gn:country_code":"SD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029034,
+    "gn:latitude":12.6536,
+    "gn:longitude":31.1958,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mek\u0101ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mek\u0101ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029034
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"00056bf72186b682806d60ed7b37f8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1293329689,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293329689,
+    "wof:lastmodified":1537699667,
+    "wof:name":"Mekaya",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1958,
+    12.6536,
+    31.1958,
+    12.6536
+],
+  "geometry": {"coordinates":[31.1958,12.6536],"type":"Point"}
+}

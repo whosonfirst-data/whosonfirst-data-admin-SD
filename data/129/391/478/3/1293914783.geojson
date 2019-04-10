@@ -1,0 +1,71 @@
+{
+  "id": 1293914783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38333,11.9,23.38333,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":23.38333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ambara",
+    "gn:country_code":"SD",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378906,
+    "gn:latitude":11.9,
+    "gn:longitude":23.38333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umbara",
+        "Ambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378906
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e53fb48859f08729910f4e5956e9287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707841,
+            "locality_id":1293914783,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1293914783,
+    "wof:lastmodified":1537699556,
+    "wof:name":"Ambara",
+    "wof:parent_id":1091707841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38333,
+    11.9,
+    23.38333,
+    11.9
+],
+  "geometry": {"coordinates":[23.38333,11.9],"type":"Point"}
+}

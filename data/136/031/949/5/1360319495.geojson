@@ -1,0 +1,67 @@
+{
+  "id": 1360319495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,14.9,35.11667,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Husheib",
+    "gn:country_code":"SD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373667,
+    "gn:latitude":14.9,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Husheib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091706275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373667
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cf49277d3ce143d87e733a85765b26f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706275,
+            "locality_id":1360319495,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1360319495,
+    "wof:lastmodified":1536604455,
+    "wof:name":"Husheib",
+    "wof:parent_id":1091706275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    14.9,
+    35.11667,
+    14.9
+],
+  "geometry": {"coordinates":[35.11667,14.9],"type":"Point"}
+}

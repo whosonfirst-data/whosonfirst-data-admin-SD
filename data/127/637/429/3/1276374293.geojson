@@ -1,0 +1,71 @@
+{
+  "id": 1276374293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08333,13.95,31.08333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":31.08333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Abu Shawk",
+    "gn:country_code":"SD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380489,
+    "gn:latitude":13.95,
+    "gn:longitude":31.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Shawk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Shok",
+        "Ab\u016b Shawk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380489
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c6130f96c41ae11272eb9418a96fcbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1276374293,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1276374293,
+    "wof:lastmodified":1537699593,
+    "wof:name":"Abu Shawk",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08333,
+    13.95,
+    31.08333,
+    13.95
+],
+  "geometry": {"coordinates":[31.08333,13.95],"type":"Point"}
+}

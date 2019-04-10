@@ -1,0 +1,71 @@
+{
+  "id": 1343296927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,18.38333,30.71667,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"`Arab Hajj",
+    "gn:country_code":"SD",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378635,
+    "gn:latitude":18.38333,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab \u1e28\u0101jj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab Hag",
+        "\u2018Arab \u1e28\u0101jj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378635
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e4f5871ccc02815101de9de9ac8f29b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705739,
+            "locality_id":1343296927,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1343296927,
+    "wof:lastmodified":1537699553,
+    "wof:name":"`Arab Hajj",
+    "wof:parent_id":1091705739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    18.38333,
+    30.71667,
+    18.38333
+],
+  "geometry": {"coordinates":[30.71667,18.38333],"type":"Point"}
+}

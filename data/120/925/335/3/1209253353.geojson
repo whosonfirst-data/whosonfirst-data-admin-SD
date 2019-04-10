@@ -1,0 +1,64 @@
+{
+  "id": 1209253353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0527,14.47,33.0527,14.47",
+    "geom:latitude":14.47,
+    "geom:longitude":33.0527,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tayba Kamal Ad Din",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026094,
+    "gn:latitude":14.47,
+    "gn:longitude":33.0527,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162ayba Kam\u0101l Ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162ayba Kam\u0101l Ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026094
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"42748f00e549369e84711854d0b54bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209253353
+        }
+    ],
+    "wof:id":1209253353,
+    "wof:lastmodified":1537699640,
+    "wof:name":"Tayba Kamal Ad Din",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0527,
+    14.47,
+    33.0527,
+    14.47
+],
+  "geometry": {"coordinates":[33.0527,14.47],"type":"Point"}
+}

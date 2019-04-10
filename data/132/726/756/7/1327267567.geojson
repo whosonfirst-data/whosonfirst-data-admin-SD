@@ -1,0 +1,71 @@
+{
+  "id": 1327267567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9444,15.0629,35.9444,15.0629",
+    "geom:latitude":15.0629,
+    "geom:longitude":35.9444,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah al Sharafa",
+    "gn:country_code":"SD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375761,
+    "gn:latitude":15.0629,
+    "gn:longitude":35.9444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryah al Shar\u0101f\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh Sharafa",
+        "Qaryah al Shar\u0101f\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091707387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375761
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba9b1561ac2e52244b870af9515a9bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707387,
+            "locality_id":1327267567,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1327267567,
+    "wof:lastmodified":1537699522,
+    "wof:name":"Qaryah al Sharafa",
+    "wof:parent_id":1091707387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9444,
+    15.0629,
+    35.9444,
+    15.0629
+],
+  "geometry": {"coordinates":[35.9444,15.0629],"type":"Point"}
+}

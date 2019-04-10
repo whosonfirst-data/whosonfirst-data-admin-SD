@@ -1,0 +1,70 @@
+{
+  "id": 1243584553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1092,12.684,31.1092,12.684",
+    "geom:latitude":12.684,
+    "geom:longitude":31.1092,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Takal Bashir",
+    "gn:country_code":"SD",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029018,
+    "gn:latitude":12.684,
+    "gn:longitude":31.1092,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tak\u0101l Bash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tak\u0101l Bash\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029018
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"826a41240b125a7b3c12f602c5998872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1243584553,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243584553,
+    "wof:lastmodified":1537699666,
+    "wof:name":"Takal Bashir",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1092,
+    12.684,
+    31.1092,
+    12.684
+],
+  "geometry": {"coordinates":[31.1092,12.684],"type":"Point"}
+}

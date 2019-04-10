@@ -1,0 +1,71 @@
+{
+  "id": 1226784439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98333,12.03333,23.98333,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":23.98333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Umm Lebasa",
+    "gn:country_code":"SD",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":364871,
+    "gn:latitude":12.03333,
+    "gn:longitude":23.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Lebasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lebasa",
+        "Umm Lebasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364871
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c86ef719239f0992260136c555f60aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708471,
+            "locality_id":1226784439,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1226784439,
+    "wof:lastmodified":1537699422,
+    "wof:name":"Umm Lebasa",
+    "wof:parent_id":1091708471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98333,
+    12.03333,
+    23.98333,
+    12.03333
+],
+  "geometry": {"coordinates":[23.98333,12.03333],"type":"Point"}
+}

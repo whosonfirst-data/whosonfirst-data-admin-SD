@@ -1,0 +1,73 @@
+{
+  "id": 1259416655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1528,14.7644,32.1528,14.7644",
+    "geom:latitude":14.7644,
+    "geom:longitude":32.1528,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al `Alaga",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379728,
+    "gn:latitude":14.7644,
+    "gn:longitude":32.1528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Alaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Alaqa",
+        "\u2018Alaqa",
+        "Al \u2018Alaqah",
+        "Al \u2018Alaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091709051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379728
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"114da3d3d65eef4b8edd2ea35d831266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709051,
+            "locality_id":1259416655,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1259416655,
+    "wof:lastmodified":1537699586,
+    "wof:name":"Al `Alaga",
+    "wof:parent_id":1091709051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1528,
+    14.7644,
+    32.1528,
+    14.7644
+],
+  "geometry": {"coordinates":[32.1528,14.7644],"type":"Point"}
+}

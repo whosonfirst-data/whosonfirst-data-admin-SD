@@ -1,0 +1,67 @@
+{
+  "id": 1344091267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.047,10.21984,25.047,10.21984",
+    "geom:latitude":10.21984,
+    "geom:longitude":25.047,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Et Tomid",
+    "gn:country_code":"SD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046937,
+    "gn:latitude":10.21984,
+    "gn:longitude":25.047,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Et Tomid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046937
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cc1db6ccfb6952b59fb6067ff4a90d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1344091267,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1344091267,
+    "wof:lastmodified":1536830197,
+    "wof:name":"Et Tomid",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.047,
+    10.21984,
+    25.047,
+    10.21984
+],
+  "geometry": {"coordinates":[25.047,10.21984],"type":"Point"}
+}

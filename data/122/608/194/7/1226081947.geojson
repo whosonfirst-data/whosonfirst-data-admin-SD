@@ -1,0 +1,79 @@
+{
+  "id": 1226081947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81667,12.31667,28.81667,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":28.81667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Al Mamsukah",
+    "gn:country_code":"SD",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379150,
+    "gn:latitude":12.31667,
+    "gn:longitude":28.81667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Mams\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mamsuka",
+        "Al Mams\u016bkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091706565,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379150
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"83e5613e62c19111b22e75810c240268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1226081947,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706565,
+            "locality_id":1226081947,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1226081947,
+    "wof:lastmodified":1537699565,
+    "wof:name":"Al Mamsukah",
+    "wof:parent_id":1091706565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81667,
+    12.31667,
+    28.81667,
+    12.31667
+],
+  "geometry": {"coordinates":[28.81667,12.31667],"type":"Point"}
+}

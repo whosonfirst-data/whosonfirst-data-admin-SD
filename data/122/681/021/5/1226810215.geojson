@@ -1,0 +1,73 @@
+{
+  "id": 1226810215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7804,15.3396,32.7804,15.3396",
+    "geom:latitude":15.3396,
+    "geom:longitude":32.7804,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Al Jaded Khalet",
+    "gn:country_code":"SD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373436,
+    "gn:latitude":15.3396,
+    "gn:longitude":32.7804,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jaded Khalet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gedid",
+        "Gedid Kheleif",
+        "Jad\u012bd Khulayf",
+        "Al Jaded Khalet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373436
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e5c3fe7ab1025a4399ee74a4e0e81825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1226810215,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226810215,
+    "wof:lastmodified":1537699500,
+    "wof:name":"Al Jaded Khalet",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7804,
+    15.3396,
+    32.7804,
+    15.3396
+],
+  "geometry": {"coordinates":[32.7804,15.3396],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293326705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47136,12.78947,24.47136,12.78947",
+    "geom:latitude":12.78947,
+    "geom:longitude":24.47136,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kulli",
+    "gn:country_code":"SD",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7036937,
+    "gn:latitude":12.78947,
+    "gn:longitude":24.47136,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7036937
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"51814b58c844c5b75957fc8d7b608e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708337,
+            "locality_id":1293326705,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293326705,
+    "wof:lastmodified":1537018133,
+    "wof:name":"Kulli",
+    "wof:parent_id":1091708337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47136,
+    12.78947,
+    24.47136,
+    12.78947
+],
+  "geometry": {"coordinates":[24.47136,12.78947],"type":"Point"}
+}

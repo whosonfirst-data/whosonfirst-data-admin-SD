@@ -1,0 +1,70 @@
+{
+  "id": 1327267465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6897,12.7411,31.6897,12.7411",
+    "geom:latitude":12.7411,
+    "geom:longitude":31.6897,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Wad Ba `Ash Oq",
+    "gn:country_code":"SD",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029116,
+    "gn:latitude":12.7411,
+    "gn:longitude":31.6897,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Ba \u2018Ash Oq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Ba \u2018Ash Oq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029116
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e27d838fb659a9f2e4f277d948cb5e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1327267465,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1327267465,
+    "wof:lastmodified":1537699670,
+    "wof:name":"Wad Ba `Ash Oq",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6897,
+    12.7411,
+    31.6897,
+    12.7411
+],
+  "geometry": {"coordinates":[31.6897,12.7411],"type":"Point"}
+}

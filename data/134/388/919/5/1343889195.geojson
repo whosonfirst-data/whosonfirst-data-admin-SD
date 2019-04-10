@@ -1,0 +1,67 @@
+{
+  "id": 1343889195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13333,13.15,28.13333,13.15",
+    "geom:latitude":13.15,
+    "geom:longitude":28.13333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Kinyeir",
+    "gn:country_code":"SD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372380,
+    "gn:latitude":13.15,
+    "gn:longitude":28.13333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kinyeir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091710835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372380
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"272d68282560aed8909a5dbe2e254321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710835,
+            "locality_id":1343889195,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1343889195,
+    "wof:lastmodified":1536623231,
+    "wof:name":"Kinyeir",
+    "wof:parent_id":1091710835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13333,
+    13.15,
+    28.13333,
+    13.15
+],
+  "geometry": {"coordinates":[28.13333,13.15],"type":"Point"}
+}

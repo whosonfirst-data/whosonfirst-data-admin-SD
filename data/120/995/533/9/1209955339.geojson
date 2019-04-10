@@ -1,0 +1,70 @@
+{
+  "id": 1209955339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4947,14.8611,33.4947,14.8611",
+    "geom:latitude":14.8611,
+    "geom:longitude":33.4947,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"As Sayyal",
+    "gn:country_code":"SD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026148,
+    "gn:latitude":14.8611,
+    "gn:longitude":33.4947,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"As Sayy\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sayy\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026148
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"29bfebbc928e39932b5d9ad4600fbe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1209955339,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1209955339,
+    "wof:lastmodified":1537699642,
+    "wof:name":"As Sayyal",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4947,
+    14.8611,
+    33.4947,
+    14.8611
+],
+  "geometry": {"coordinates":[33.4947,14.8611],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243293031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.308,12.0438,34.308,12.0438",
+    "geom:latitude":12.0438,
+    "geom:longitude":34.308,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ad Disa",
+    "gn:country_code":"SD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376376,
+    "gn:latitude":12.0438,
+    "gn:longitude":34.308,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad D\u012bsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Disa",
+        "D\u012bsah",
+        "Ad D\u012bsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091706611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376376
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cd5972a10e4cdf7a513f7772edcb3066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706611,
+            "locality_id":1243293031,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1243293031,
+    "wof:lastmodified":1537699527,
+    "wof:name":"Ad Disa",
+    "wof:parent_id":1091706611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.308,
+    12.0438,
+    34.308,
+    12.0438
+],
+  "geometry": {"coordinates":[34.308,12.0438],"type":"Point"}
+}

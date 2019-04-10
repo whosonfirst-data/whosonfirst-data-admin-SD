@@ -1,0 +1,71 @@
+{
+  "id": 1310552833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03333,14.33333,33.03333,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":33.03333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"`Utaysh",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364376,
+    "gn:latitude":14.33333,
+    "gn:longitude":33.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018U\u0163aysh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Uteish",
+        "\u2018U\u0163aysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364376
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"13fd1fc4895ec0c2da3dfc87198a1374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1310552833,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310552833,
+    "wof:lastmodified":1537699412,
+    "wof:name":"`Utaysh",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03333,
+    14.33333,
+    33.03333,
+    14.33333
+],
+  "geometry": {"coordinates":[33.03333,14.33333],"type":"Point"}
+}

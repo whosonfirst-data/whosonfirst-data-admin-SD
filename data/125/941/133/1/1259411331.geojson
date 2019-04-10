@@ -1,0 +1,71 @@
+{
+  "id": 1259411331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,11.2,23.63333,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":23.63333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Bayt Haraz",
+    "gn:country_code":"SD",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377533,
+    "gn:latitude":11.2,
+    "gn:longitude":23.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt \u1e28ar\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Haraz",
+        "Bayt \u1e28ar\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377533
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"68dd8ac5ca8235d94d5a2ca39578f2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707885,
+            "locality_id":1259411331,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1259411331,
+    "wof:lastmodified":1537699535,
+    "wof:name":"Bayt Haraz",
+    "wof:parent_id":1091707885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    11.2,
+    23.63333,
+    11.2
+],
+  "geometry": {"coordinates":[23.63333,11.2],"type":"Point"}
+}

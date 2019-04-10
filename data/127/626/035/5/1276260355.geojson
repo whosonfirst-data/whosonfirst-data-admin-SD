@@ -1,0 +1,67 @@
+{
+  "id": 1276260355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86667,11.1,34.86667,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":34.86667,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Adi",
+    "gn:country_code":"SD",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380114,
+    "gn:latitude":11.1,
+    "gn:longitude":34.86667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Adi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676865,
+        1091709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380114
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"112921f63332d17cf820dd3c2bd5df0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709399,
+            "locality_id":1276260355,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":1276260355,
+    "wof:lastmodified":1536875554,
+    "wof:name":"Adi",
+    "wof:parent_id":1091709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86667,
+    11.1,
+    34.86667,
+    11.1
+],
+  "geometry": {"coordinates":[34.86667,11.1],"type":"Point"}
+}

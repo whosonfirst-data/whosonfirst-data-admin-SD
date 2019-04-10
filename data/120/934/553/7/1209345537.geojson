@@ -1,0 +1,64 @@
+{
+  "id": 1209345537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0267,12.479,31.0267,12.479",
+    "geom:latitude":12.479,
+    "geom:longitude":31.0267,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Dibagha",
+    "gn:country_code":"SD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029435,
+    "gn:latitude":12.479,
+    "gn:longitude":31.0267,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dib\u0101gha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dib\u0101gha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029435
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"588705b3ae7172308d3059b2ad2a6c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209345537
+        }
+    ],
+    "wof:id":1209345537,
+    "wof:lastmodified":1537699678,
+    "wof:name":"Dibagha",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0267,
+    12.479,
+    31.0267,
+    12.479
+],
+  "geometry": {"coordinates":[31.0267,12.479],"type":"Point"}
+}

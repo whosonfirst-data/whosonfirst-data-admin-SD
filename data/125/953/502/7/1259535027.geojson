@@ -1,0 +1,72 @@
+{
+  "id": 1259535027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0358,14.4319,33.0358,14.4319",
+    "geom:latitude":14.4319,
+    "geom:longitude":33.0358,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Aba Diqin",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380957,
+    "gn:latitude":14.4319,
+    "gn:longitude":33.0358,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aba Diqin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu D\u012bgn",
+        "Ab\u016b Dhaqn",
+        "Aba Diqin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380957
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"15a7d36c822720c9048b08f1d4ca00af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1259535027,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1259535027,
+    "wof:lastmodified":1537699599,
+    "wof:name":"Aba Diqin",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0358,
+    14.4319,
+    33.0358,
+    14.4319
+],
+  "geometry": {"coordinates":[33.0358,14.4319],"type":"Point"}
+}

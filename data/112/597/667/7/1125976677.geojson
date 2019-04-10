@@ -1,0 +1,100 @@
+{
+  "id": 1125976677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66347,13.1629,32.66347,13.1629",
+    "geom:latitude":13.1629,
+    "geom:longitude":32.66347,
+    "gn:gn_country":"SD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":345068,
+    "gn:population":345068,
+    "iso:country":"SD",
+    "lbl:latitude":13.1629,
+    "lbl:longitude":32.66347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u0643"
+    ],
+    "name:deu_x_preferred":[
+        "Kusti"
+    ],
+    "name:eng_x_preferred":[
+        "Kosti"
+    ],
+    "name:eng_x_variant":[
+        "K\u016bst\u012b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0442\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Costi"
+    ],
+    "qs_pg:aaroncc":"SD",
+    "qs_pg:gn_country":"SD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":371760,
+    "qs_pg:gn_pop":345068,
+    "qs_pg:name":"Kosti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":273776,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371760,
+        "qs_pg:id":273776
+    },
+    "wof:country":"SD",
+    "wof:created":1497298376,
+    "wof:geomhash":"d1e849ca2fa45e923da1bcf8f7ccd4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1125976677,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1125976677,
+    "wof:lastmodified":1534379459,
+    "wof:name":"Kosti",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:population":345068,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[
+        1141908843
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66347,
+    13.1629,
+    32.66347,
+    13.1629
+],
+  "geometry": {"coordinates":[32.66347,13.1629],"type":"Point"}
+}

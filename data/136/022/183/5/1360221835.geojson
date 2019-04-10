@@ -1,0 +1,67 @@
+{
+  "id": 1360221835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,15.13333,35.71667,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Faras West",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375486,
+    "gn:latitude":15.13333,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Faras West",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375486
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b32e3213e00c4c66ad27e362c1914604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1360221835,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1360221835,
+    "wof:lastmodified":1536748099,
+    "wof:name":"Faras West",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    15.13333,
+    35.71667,
+    15.13333
+],
+  "geometry": {"coordinates":[35.71667,15.13333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343499869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36754,14.75969,33.36754,14.75969",
+    "geom:latitude":14.75969,
+    "geom:longitude":33.36754,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Rufa`a",
+    "gn:country_code":"SD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367972,
+    "gn:latitude":14.75969,
+    "gn:longitude":33.36754,
+    "gn:modification_date":"2011-10-25",
+    "gn:name":"Ruf\u0101\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruf\u0101\u2018ah",
+        "Ruf\u0101\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367972
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"11a4666158539e10202a1f8c3864339f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1343499869,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1343499869,
+    "wof:lastmodified":1537699458,
+    "wof:name":"Rufa`a",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36754000000001,
+    14.75969,
+    33.36754000000001,
+    14.75969
+],
+  "geometry": {"coordinates":[33.36754000000001,14.75969],"type":"Point"}
+}

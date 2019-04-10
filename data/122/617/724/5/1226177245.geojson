@@ -1,0 +1,67 @@
+{
+  "id": 1226177245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4267,12.8707,32.4267,12.8707",
+    "geom:latitude":12.8707,
+    "geom:longitude":32.4267,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Afna",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029206,
+    "gn:latitude":12.8707,
+    "gn:longitude":32.4267,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Afna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029206
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ba1c530ecfa58fd61d034518b29279c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":1226177245,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226177245,
+    "wof:lastmodified":1537030931,
+    "wof:name":"Al Afna",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4267,
+    12.8707,
+    32.4267,
+    12.8707
+],
+  "geometry": {"coordinates":[32.4267,12.8707],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293518919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24531,12.696,24.24531,12.696",
+    "geom:latitude":12.696,
+    "geom:longitude":24.24531,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Forei",
+    "gn:country_code":"SD",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7041100,
+    "gn:latitude":12.696,
+    "gn:longitude":24.24531,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Forei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091707997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7041100
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c57bc88aa337bb9ef43a580c8df479e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707997,
+            "locality_id":1293518919,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1293518919,
+    "wof:lastmodified":1536741587,
+    "wof:name":"Forei",
+    "wof:parent_id":1091707997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24531,
+    12.696,
+    24.24531,
+    12.696
+],
+  "geometry": {"coordinates":[24.24531,12.696],"type":"Point"}
+}

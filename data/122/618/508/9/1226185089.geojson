@@ -1,0 +1,70 @@
+{
+  "id": 1226185089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.255,14.6484,33.255,14.6484",
+    "geom:latitude":14.6484,
+    "geom:longitude":33.255,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Biselab",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026291,
+    "gn:latitude":14.6484,
+    "gn:longitude":33.255,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Bi\u015fel\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bi\u015fel\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026291
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"49d65e69d9972cd81ddccd33e822d3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1226185089,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1226185089,
+    "wof:lastmodified":1537699646,
+    "wof:name":"Al Biselab",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.255,
+    14.6484,
+    33.255,
+    14.6484
+],
+  "geometry": {"coordinates":[33.255,14.6484],"type":"Point"}
+}

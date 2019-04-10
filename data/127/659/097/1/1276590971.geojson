@@ -1,0 +1,70 @@
+{
+  "id": 1276590971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0045,14.9979,33.0045,14.9979",
+    "geom:latitude":14.9979,
+    "geom:longitude":33.0045,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Halawiyyin",
+    "gn:country_code":"SD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026120,
+    "gn:latitude":14.9979,
+    "gn:longitude":33.0045,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u1e28alawiyy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28alawiyy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026120
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"835899160aa2a4e471056f3b40650db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1276590971,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276590971,
+    "wof:lastmodified":1537699641,
+    "wof:name":"Al Halawiyyin",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0045,
+    14.9979,
+    33.0045,
+    14.9979
+],
+  "geometry": {"coordinates":[33.0045,14.9979],"type":"Point"}
+}

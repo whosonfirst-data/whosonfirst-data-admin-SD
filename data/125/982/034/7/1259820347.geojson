@@ -1,0 +1,72 @@
+{
+  "id": 1259820347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8441,16.536,32.8441,16.536",
+    "geom:latitude":16.536,
+    "geom:longitude":32.8441,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat el Salama",
+    "gn:country_code":"SD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368433,
+    "gn:latitude":16.536,
+    "gn:longitude":32.8441,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat el Salama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qawz al \u1e28abash\u012b",
+        "Qoz el Habashi",
+        "Hillat el Salama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368433
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b2d9f0a3e61137847011aa4b814c2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1259820347,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1259820347,
+    "wof:lastmodified":1537699466,
+    "wof:name":"Hillat el Salama",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8441,
+    16.536,
+    32.8441,
+    16.536
+],
+  "geometry": {"coordinates":[32.8441,16.536],"type":"Point"}
+}

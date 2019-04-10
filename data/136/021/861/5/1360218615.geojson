@@ -1,0 +1,67 @@
+{
+  "id": 1360218615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1132,16.5758,33.1132,16.5758",
+    "geom:latitude":16.5758,
+    "geom:longitude":33.1132,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Zenab",
+    "gn:country_code":"SD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7023141,
+    "gn:latitude":16.5758,
+    "gn:longitude":33.1132,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zenab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091707319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7023141
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a4e5d09b3fceecdc7f4edc1115e7038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707319,
+            "locality_id":1360218615,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1360218615,
+    "wof:lastmodified":1536753006,
+    "wof:name":"Zenab",
+    "wof:parent_id":1091707319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1132,
+    16.5758,
+    33.1132,
+    16.5758
+],
+  "geometry": {"coordinates":[33.1132,16.5758],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225975061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47253,13.62773,22.47253,13.62773",
+    "geom:latitude":13.62773,
+    "geom:longitude":22.47253,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tamaru",
+    "gn:country_code":"SD",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389633,
+    "gn:latitude":13.62773,
+    "gn:longitude":22.47253,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tamaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tamaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389633
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"01419924512aa8ff29939fd1fa30c5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1225975061,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1225975061,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Tamaru",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47253,
+    13.62773,
+    22.47253,
+    13.62773
+],
+  "geometry": {"coordinates":[22.47253,13.62773],"type":"Point"}
+}

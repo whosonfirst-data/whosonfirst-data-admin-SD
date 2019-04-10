@@ -1,0 +1,72 @@
+{
+  "id": 1243299593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4719,15.1334,32.4719,15.1334",
+    "geom:latitude":15.1334,
+    "geom:longitude":32.4719,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hillat as Sayyal",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378269,
+    "gn:latitude":15.1334,
+    "gn:longitude":32.4719,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hillat as Sayyal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Sulei\u2018a",
+        "As Sulay\u2018ah",
+        "Hillat as Sayyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378269
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"67d4cf02639a73cdfacc00fcafbbaf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":1243299593,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1243299593,
+    "wof:lastmodified":1537699545,
+    "wof:name":"Hillat as Sayyal",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4719,
+    15.1334,
+    32.4719,
+    15.1334
+],
+  "geometry": {"coordinates":[32.4719,15.1334],"type":"Point"}
+}

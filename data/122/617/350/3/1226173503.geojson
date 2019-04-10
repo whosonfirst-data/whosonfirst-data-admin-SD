@@ -1,0 +1,67 @@
+{
+  "id": 1226173503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,13.76667,34.58333,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":34.58333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mayass",
+    "gn:country_code":"SD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370309,
+    "gn:latitude":13.76667,
+    "gn:longitude":34.58333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Mayass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091706171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370309
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d2d719225bb4113cec12fbf1dca98f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706171,
+            "locality_id":1226173503,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1226173503,
+    "wof:lastmodified":1537036180,
+    "wof:name":"Mayass",
+    "wof:parent_id":1091706171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    13.76667,
+    34.58333,
+    13.76667
+],
+  "geometry": {"coordinates":[34.58333,13.76667],"type":"Point"}
+}

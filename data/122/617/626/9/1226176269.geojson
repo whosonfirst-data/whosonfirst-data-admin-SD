@@ -1,0 +1,67 @@
+{
+  "id": 1226176269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31667,13.56667,32.31667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":32.31667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Abu Khudeira",
+    "gn:country_code":"SD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380734,
+    "gn:latitude":13.56667,
+    "gn:longitude":32.31667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ab\u016b Khudeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380734
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7a1ab38c979462a6bb4821c389598380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1226176269,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226176269,
+    "wof:lastmodified":1537032317,
+    "wof:name":"Abu Khudeira",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31667,
+    13.56667,
+    32.31667,
+    13.56667
+],
+  "geometry": {"coordinates":[32.31667,13.56667],"type":"Point"}
+}

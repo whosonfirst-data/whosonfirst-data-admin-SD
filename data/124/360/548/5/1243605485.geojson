@@ -1,0 +1,67 @@
+{
+  "id": 1243605485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4725,14.4752,33.4725,14.4752",
+    "geom:latitude":14.4752,
+    "geom:longitude":33.4725,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad al Majzub",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026642,
+    "gn:latitude":14.4752,
+    "gn:longitude":33.4725,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad al Majzub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026642
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1573c2f35299408becf9d2638382335b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1243605485,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1243605485,
+    "wof:lastmodified":1537070366,
+    "wof:name":"Wad al Majzub",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4725,
+    14.4752,
+    33.4725,
+    14.4752
+],
+  "geometry": {"coordinates":[33.4725,14.4752],"type":"Point"}
+}

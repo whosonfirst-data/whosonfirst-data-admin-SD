@@ -1,0 +1,71 @@
+{
+  "id": 1293137093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96667,13.51667,29.96667,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":29.96667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Faroga",
+    "gn:country_code":"SD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375468,
+    "gn:latitude":13.51667,
+    "gn:longitude":29.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Faroga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farroga",
+        "Faroga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375468
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"32ef8c63b18e19da4c7c70fc4833db2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":1293137093,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1293137093,
+    "wof:lastmodified":1537699520,
+    "wof:name":"Faroga",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96667,
+    13.51667,
+    29.96667,
+    13.51667
+],
+  "geometry": {"coordinates":[29.96667,13.51667],"type":"Point"}
+}

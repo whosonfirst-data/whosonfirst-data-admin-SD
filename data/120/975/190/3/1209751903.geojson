@@ -1,0 +1,71 @@
+{
+  "id": 1209751903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,13.86667,33.25,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Al Manasirah",
+    "gn:country_code":"SD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379146,
+    "gn:latitude":13.86667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Man\u0101\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Manasra",
+        "Al Man\u0101\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379146
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3845a5199c89b8b2ae541d97ef5c837a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708299,
+            "locality_id":1209751903,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1209751903,
+    "wof:lastmodified":1537699565,
+    "wof:name":"Al Manasirah",
+    "wof:parent_id":1091708299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    13.86667,
+    33.25,
+    13.86667
+],
+  "geometry": {"coordinates":[33.25,13.86667],"type":"Point"}
+}

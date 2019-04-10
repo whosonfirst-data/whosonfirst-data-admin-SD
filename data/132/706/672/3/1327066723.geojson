@@ -1,0 +1,67 @@
+{
+  "id": 1327066723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83333,12.33333,23.83333,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":23.83333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Seilo",
+    "gn:country_code":"SD",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367476,
+    "gn:latitude":12.33333,
+    "gn:longitude":23.83333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Seilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091708517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367476
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1aa7409dcdcc5811e2b569f05e3892ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708517,
+            "locality_id":1327066723,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1327066723,
+    "wof:lastmodified":1536711117,
+    "wof:name":"Seilo",
+    "wof:parent_id":1091708517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83333,
+    12.33333,
+    23.83333,
+    12.33333
+],
+  "geometry": {"coordinates":[23.83333,12.33333],"type":"Point"}
+}

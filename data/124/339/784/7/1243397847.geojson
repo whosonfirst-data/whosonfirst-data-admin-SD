@@ -1,0 +1,71 @@
+{
+  "id": 1243397847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48333,12.06667,26.48333,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":26.48333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Shaqq al Khadir",
+    "gn:country_code":"SD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367281,
+    "gn:latitude":12.06667,
+    "gn:longitude":26.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaqq al Khadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaqq el Khadir",
+        "Shaqq al Khadir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367281
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cd730dcd206b598ca4b167ddabea2502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706673,
+            "locality_id":1243397847,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1243397847,
+    "wof:lastmodified":1537699450,
+    "wof:name":"Shaqq al Khadir",
+    "wof:parent_id":1091706673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48333,
+    12.06667,
+    26.48333,
+    12.06667
+],
+  "geometry": {"coordinates":[26.48333,12.06667],"type":"Point"}
+}

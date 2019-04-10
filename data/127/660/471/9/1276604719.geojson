@@ -1,0 +1,67 @@
+{
+  "id": 1276604719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,14.4,33.11667,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Dar Gaboja",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376728,
+    "gn:latitude":14.4,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"D\u0101r Gaboja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376728
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b0689effb5e0aebeabd18ec258beac2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708695,
+            "locality_id":1276604719,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276604719,
+    "wof:lastmodified":1536913070,
+    "wof:name":"Dar Gaboja",
+    "wof:parent_id":1091708695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    14.4,
+    33.11667,
+    14.4
+],
+  "geometry": {"coordinates":[33.11667,14.4],"type":"Point"}
+}

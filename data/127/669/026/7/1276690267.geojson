@@ -1,0 +1,71 @@
+{
+  "id": 1276690267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05,18.66667,32.05,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":32.05,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Umm Duwaym",
+    "gn:country_code":"SD",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365133,
+    "gn:latitude":18.66667,
+    "gn:longitude":32.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Duwaym",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Duweim",
+        "Umm Duwaym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091710471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365133
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"43bfc0b17d4a0cfa37a799ffeabc98c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710471,
+            "locality_id":1276690267,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1276690267,
+    "wof:lastmodified":1537699427,
+    "wof:name":"Umm Duwaym",
+    "wof:parent_id":1091710471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05,
+    18.66667,
+    32.05,
+    18.66667
+],
+  "geometry": {"coordinates":[32.05,18.66667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293236597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0823,13.0478,32.0823,13.0478",
+    "geom:latitude":13.0478,
+    "geom:longitude":32.0823,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Ban Jadid",
+    "gn:country_code":"SD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028886,
+    "gn:latitude":13.0478,
+    "gn:longitude":32.0823,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al B\u0101n Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al B\u0101n Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028886
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5ae86cd5e5430e96a09e86f6983a2194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1293236597,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293236597,
+    "wof:lastmodified":1537699661,
+    "wof:name":"Al Ban Jadid",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0823,
+    13.0478,
+    32.0823,
+    13.0478
+],
+  "geometry": {"coordinates":[32.0823,13.0478],"type":"Point"}
+}

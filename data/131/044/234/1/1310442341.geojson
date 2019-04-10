@@ -1,0 +1,67 @@
+{
+  "id": 1310442341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.42612,13.14029,24.42612,13.14029",
+    "geom:latitude":13.14029,
+    "geom:longitude":24.42612,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Fatara",
+    "gn:country_code":"SD",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7746993,
+    "gn:latitude":13.14029,
+    "gn:longitude":24.42612,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Fatara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091707999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746993
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"be8534b4771bffa2fa6d00bf3fa9e1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707999,
+            "locality_id":1310442341,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1310442341,
+    "wof:lastmodified":1537007263,
+    "wof:name":"Fatara",
+    "wof:parent_id":1091707999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42612,
+    13.14029,
+    24.42612,
+    13.14029
+],
+  "geometry": {"coordinates":[24.42612,13.14029],"type":"Point"}
+}

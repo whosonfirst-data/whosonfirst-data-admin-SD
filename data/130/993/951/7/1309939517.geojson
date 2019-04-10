@@ -1,0 +1,70 @@
+{
+  "id": 1309939517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15115,13.64318,22.15115,13.64318",
+    "geom:latitude":13.64318,
+    "geom:longitude":22.15115,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Girab el Ahmar",
+    "gn:country_code":"SD",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389631,
+    "gn:latitude":13.64318,
+    "gn:longitude":22.15115,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Girab el Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Girab el Ahmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389631
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"dc161d0d86dfe9a0c2d0b4aca749093a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1309939517,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1309939517,
+    "wof:lastmodified":1537699693,
+    "wof:name":"Girab el Ahmar",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15115,
+    13.64318,
+    22.15115,
+    13.64318
+],
+  "geometry": {"coordinates":[22.15115,13.64318],"type":"Point"}
+}

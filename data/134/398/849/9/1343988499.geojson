@@ -1,0 +1,67 @@
+{
+  "id": 1343988499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17391,10.33822,25.17391,10.33822",
+    "geom:latitude":10.33822,
+    "geom:longitude":25.17391,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Abu Naeima",
+    "gn:country_code":"SD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047320,
+    "gn:latitude":10.33822,
+    "gn:longitude":25.17391,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Abu Naeima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676871,
+        1091706467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047320
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6574bf6bcb78d3338b9b52e603b4ba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706467,
+            "locality_id":1343988499,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":1343988499,
+    "wof:lastmodified":1536979009,
+    "wof:name":"Abu Naeima",
+    "wof:parent_id":1091706467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17391,
+    10.33822,
+    25.17391,
+    10.33822
+],
+  "geometry": {"coordinates":[25.17391,10.33822],"type":"Point"}
+}

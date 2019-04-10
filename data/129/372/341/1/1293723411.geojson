@@ -1,0 +1,67 @@
+{
+  "id": 1293723411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16181,11.53385,23.16181,11.53385",
+    "geom:latitude":11.53385,
+    "geom:longitude":23.16181,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ghagan",
+    "gn:country_code":"SD",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385123,
+    "gn:latitude":11.53385,
+    "gn:longitude":23.16181,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ghagan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385123
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"293388d82a5cb7df917da6041bbf8e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705567,
+            "locality_id":1293723411,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1293723411,
+    "wof:lastmodified":1536944827,
+    "wof:name":"Ghagan",
+    "wof:parent_id":1091705567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16181,
+    11.53385,
+    23.16181,
+    11.53385
+],
+  "geometry": {"coordinates":[23.16181,11.53385],"type":"Point"}
+}

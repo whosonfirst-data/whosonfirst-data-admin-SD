@@ -1,0 +1,71 @@
+{
+  "id": 1260122789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4782,14.8097,33.4782,14.8097",
+    "geom:latitude":14.8097,
+    "geom:longitude":33.4782,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Um Hirezat",
+    "gn:country_code":"SD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364974,
+    "gn:latitude":14.8097,
+    "gn:longitude":33.4782,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um \u1e28irezat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Hureizat",
+        "Um \u1e28irezat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364974
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"263de1d775f0abe0f2c4a405730f5c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1260122789,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1260122789,
+    "wof:lastmodified":1537699424,
+    "wof:name":"Um Hirezat",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4782,
+    14.8097,
+    33.4782,
+    14.8097
+],
+  "geometry": {"coordinates":[33.4782,14.8097],"type":"Point"}
+}

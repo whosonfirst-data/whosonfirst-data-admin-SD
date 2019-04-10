@@ -1,0 +1,70 @@
+{
+  "id": 1259819335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08502,10.84745,31.08502,10.84745",
+    "geom:latitude":10.84745,
+    "geom:longitude":31.08502,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ugheibish",
+    "gn:country_code":"SD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365461,
+    "gn:latitude":10.84745,
+    "gn:longitude":31.08502,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ugheibish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ughaybish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091705521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365461
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"76475f1d66b20982041f4477dfbe8001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705521,
+            "locality_id":1259819335,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1259819335,
+    "wof:lastmodified":1537699432,
+    "wof:name":"Ugheibish",
+    "wof:parent_id":1091705521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08502,
+    10.84745,
+    31.08502,
+    10.84745
+],
+  "geometry": {"coordinates":[31.08502,10.84745],"type":"Point"}
+}

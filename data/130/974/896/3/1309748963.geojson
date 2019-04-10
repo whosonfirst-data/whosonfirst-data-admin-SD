@@ -1,0 +1,67 @@
+{
+  "id": 1309748963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7948,14.7671,32.7948,14.7671",
+    "geom:latitude":14.7671,
+    "geom:longitude":32.7948,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Qireji",
+    "gn:country_code":"SD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983283,
+    "gn:latitude":14.7671,
+    "gn:longitude":32.7948,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qireji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983283
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5e2c7200fbb5c6f61ceb23a0acd2ec2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1309748963,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1309748963,
+    "wof:lastmodified":1537012270,
+    "wof:name":"Qireji",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7948,
+    14.7671,
+    32.7948,
+    14.7671
+],
+  "geometry": {"coordinates":[32.7948,14.7671],"type":"Point"}
+}

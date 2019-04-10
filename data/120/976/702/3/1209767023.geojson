@@ -1,0 +1,70 @@
+{
+  "id": 1209767023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.926,14.4169,32.926,14.4169",
+    "geom:latitude":14.4169,
+    "geom:longitude":32.926,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kitrat Yahya",
+    "gn:country_code":"SD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026516,
+    "gn:latitude":14.4169,
+    "gn:longitude":32.926,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kitrat Ya\u1e29ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitrat Ya\u1e29ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026516
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7a4888fbaed63a163299f6069a95390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1209767023,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1209767023,
+    "wof:lastmodified":1537699654,
+    "wof:name":"Kitrat Yahya",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.926,
+    14.4169,
+    32.926,
+    14.4169
+],
+  "geometry": {"coordinates":[32.926,14.4169],"type":"Point"}
+}

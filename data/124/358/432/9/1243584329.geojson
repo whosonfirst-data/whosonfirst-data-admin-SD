@@ -1,0 +1,72 @@
+{
+  "id": 1243584329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.307,12.7663,31.307,12.7663",
+    "geom:latitude":12.7663,
+    "geom:longitude":31.307,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ar Rimta",
+    "gn:country_code":"SD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368055,
+    "gn:latitude":12.7663,
+    "gn:longitude":31.307,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rimta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rimta",
+        "Rimthah",
+        "Ar Rimta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368055
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cead257fadbb1438a71d63e8ce3b39cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1243584329,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243584329,
+    "wof:lastmodified":1537699459,
+    "wof:name":"Ar Rimta",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.307,
+    12.7663,
+    31.307,
+    12.7663
+],
+  "geometry": {"coordinates":[31.307,12.7663],"type":"Point"}
+}

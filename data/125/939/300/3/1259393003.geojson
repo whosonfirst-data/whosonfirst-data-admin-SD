@@ -1,0 +1,72 @@
+{
+  "id": 1259393003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,16.35,35.28333,16.35",
+    "geom:latitude":16.35,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Humari",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373716,
+    "gn:latitude":16.35,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28umar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homari",
+        "\u1e28umar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091707385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373716
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6a2bd151753ef551c6aa2bac6393113f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707385,
+            "locality_id":1259393003,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1259393003,
+    "wof:lastmodified":1537699505,
+    "wof:name":"Humari",
+    "wof:parent_id":1091707385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    16.35,
+    35.28333,
+    16.35
+],
+  "geometry": {"coordinates":[35.28333,16.35],"type":"Point"}
+}

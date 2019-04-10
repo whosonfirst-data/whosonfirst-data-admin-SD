@@ -1,0 +1,67 @@
+{
+  "id": 1276604737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,14.45,33.6,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Khidr",
+    "gn:country_code":"SD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372473,
+    "gn:latitude":14.45,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Khi\u1e11r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372473
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8adc21b59277c16f63e141ac933d8f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1276604737,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276604737,
+    "wof:lastmodified":1536913044,
+    "wof:name":"Khidr",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    14.45,
+    33.6,
+    14.45
+],
+  "geometry": {"coordinates":[33.6,14.45],"type":"Point"}
+}

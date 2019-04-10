@@ -1,0 +1,73 @@
+{
+  "id": 1225887403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.445,14.9101,33.445,14.9101",
+    "geom:latitude":14.9101,
+    "geom:longitude":33.445,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Abudab",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380987,
+    "gn:latitude":14.9101,
+    "gn:longitude":33.445,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ab\u016bd\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ab\u016bd\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b D\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380987
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1918941a1031ed7fa224d7483c7cc985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1225887403,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225887403,
+    "wof:lastmodified":1537699600,
+    "wof:name":"Al `Abudab",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.445,
+    14.9101,
+    33.445,
+    14.9101
+],
+  "geometry": {"coordinates":[33.445,14.9101],"type":"Point"}
+}

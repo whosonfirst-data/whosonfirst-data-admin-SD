@@ -1,0 +1,70 @@
+{
+  "id": 1260013843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55486,15.39538,26.55486,15.39538",
+    "geom:latitude":15.39538,
+    "geom:longitude":26.55486,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tindil",
+    "gn:country_code":"SD",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365974,
+    "gn:latitude":15.39538,
+    "gn:longitude":26.55486,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tindil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tindil\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365974
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"916090abb0df47fd6e86c3fbb678f7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705505,
+            "locality_id":1260013843,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1260013843,
+    "wof:lastmodified":1537699435,
+    "wof:name":"Tindil",
+    "wof:parent_id":1091705505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55486,
+    15.39538,
+    26.55486,
+    15.39538
+],
+  "geometry": {"coordinates":[26.55486,15.39538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293913837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58333,13.73333,24.58333,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":24.58333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Konjar",
+    "gn:country_code":"SD",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372189,
+    "gn:latitude":13.73333,
+    "gn:longitude":24.58333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Konjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372189
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"496652a6281e99be8c0d870a7e8e84b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1293913837,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1293913837,
+    "wof:lastmodified":1536669687,
+    "wof:name":"Konjar",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58333,
+    13.73333,
+    24.58333,
+    13.73333
+],
+  "geometry": {"coordinates":[24.58333,13.73333],"type":"Point"}
+}

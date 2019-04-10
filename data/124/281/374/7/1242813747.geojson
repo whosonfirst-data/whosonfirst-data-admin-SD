@@ -1,0 +1,67 @@
+{
+  "id": 1242813747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.87282,10.39525,29.87282,10.39525",
+    "geom:latitude":10.39525,
+    "geom:longitude":29.87282,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Mahafir",
+    "gn:country_code":"SD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233090,
+    "gn:latitude":10.39525,
+    "gn:longitude":29.87282,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Mahafir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233090
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8ad68da4301b63e7e183da468e04039a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711111,
+            "locality_id":1242813747,
+            "region_id":1108805631
+        }
+    ],
+    "wof:id":1242813747,
+    "wof:lastmodified":1536723894,
+    "wof:name":"Mahafir",
+    "wof:parent_id":1091711111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87282,
+    10.39525,
+    29.87282,
+    10.39525
+],
+  "geometry": {"coordinates":[29.87282,10.39525],"type":"Point"}
+}

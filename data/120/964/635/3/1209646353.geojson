@@ -1,0 +1,64 @@
+{
+  "id": 1209646353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3241,12.387,34.3241,12.387",
+    "geom:latitude":12.387,
+    "geom:longitude":34.3241,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ab Surra",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033692,
+    "gn:latitude":12.387,
+    "gn:longitude":34.3241,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ab \u015eurra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab \u015eurra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033692
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"71660f89a98cdded31b9b2ed687b4383",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209646353
+        }
+    ],
+    "wof:id":1209646353,
+    "wof:lastmodified":1537699687,
+    "wof:name":"Ab Surra",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3241,
+    12.387,
+    34.3241,
+    12.387
+],
+  "geometry": {"coordinates":[34.3241,12.387],"type":"Point"}
+}

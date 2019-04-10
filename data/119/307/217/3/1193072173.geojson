@@ -1,0 +1,67 @@
+{
+  "id": 1193072173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0202,18.0752,38.0202,18.0752",
+    "geom:latitude":18.0752,
+    "geom:longitude":38.0202,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hillat Sarobat",
+    "gn:country_code":"SD",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983573,
+    "gn:latitude":18.0752,
+    "gn:longitude":38.0202,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Sarobat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983573
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fc9f5ac3a36c821ad19603b7c226742d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1193072173,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1193072173,
+    "wof:lastmodified":1536366762,
+    "wof:name":"Hillat Sarobat",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0202,
+    18.0752,
+    38.0202,
+    18.0752
+],
+  "geometry": {"coordinates":[38.0202,18.0752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326664829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96667,12.7,31.96667,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":31.96667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Fanadik",
+    "gn:country_code":"SD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379561,
+    "gn:latitude":12.7,
+    "gn:longitude":31.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Fanadik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Fanadik",
+        "Al Fanadik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379561
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ce0d4258c2756dcea06b4c9072ce6280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1326664829,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1326664829,
+    "wof:lastmodified":1537699581,
+    "wof:name":"Al Fanadik",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96667,
+    12.7,
+    31.96667,
+    12.7
+],
+  "geometry": {"coordinates":[31.96667,12.7],"type":"Point"}
+}

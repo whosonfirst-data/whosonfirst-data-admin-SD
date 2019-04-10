@@ -1,0 +1,73 @@
+{
+  "id": 1327076975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0975,15.13917,33.0975,15.13917",
+    "geom:latitude":15.13917,
+    "geom:longitude":33.0975,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Galgala",
+    "gn:cc2":"SD",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379520,
+    "gn:latitude":15.13917,
+    "gn:longitude":33.0975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Galgala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Galgala",
+        "El Galaga",
+        "Al Galgala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379520
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"958d5b5aceb9861b347463bec4a48cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1327076975,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1327076975,
+    "wof:lastmodified":1537699579,
+    "wof:name":"Al Galgala",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0975,
+    15.13917,
+    33.0975,
+    15.13917
+],
+  "geometry": {"coordinates":[33.0975,15.13917],"type":"Point"}
+}

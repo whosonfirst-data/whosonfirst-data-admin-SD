@@ -1,0 +1,73 @@
+{
+  "id": 1360021217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95384,14.47691,22.95384,14.47691",
+    "geom:latitude":14.47691,
+    "geom:longitude":22.95384,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Maun",
+    "gn:country_code":"SD",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370325,
+    "gn:latitude":14.47691,
+    "gn:longitude":22.95384,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Maun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101\u2018\u016bn"
+    ],
+    "name:eng_x_preferred":[
+        "Maun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370325
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fa085e1e8ea63f196a45435cf1b15f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":1360021217,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1360021217,
+    "wof:lastmodified":1537699476,
+    "wof:name":"Maun",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95384,
+    14.47691,
+    22.95384,
+    14.47691
+],
+  "geometry": {"coordinates":[22.95384,14.47691],"type":"Point"}
+}

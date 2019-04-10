@@ -1,0 +1,70 @@
+{
+  "id": 1243587829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3238,12.9062,31.3238,12.9062",
+    "geom:latitude":12.9062,
+    "geom:longitude":31.3238,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ab Qawy al Marakib",
+    "gn:country_code":"SD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029013,
+    "gn:latitude":12.9062,
+    "gn:longitude":31.3238,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ab Qawy al Marak\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab Qawy al Marak\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029013
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1f8bbdb8d4b6e8acbf4d240551487ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1243587829,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1243587829,
+    "wof:lastmodified":1537699666,
+    "wof:name":"Ab Qawy al Marakib",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3238,
+    12.9062,
+    31.3238,
+    12.9062
+],
+  "geometry": {"coordinates":[31.3238,12.9062],"type":"Point"}
+}

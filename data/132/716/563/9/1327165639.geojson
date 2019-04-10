@@ -1,0 +1,67 @@
+{
+  "id": 1327165639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.29278,17.40361,34.29278,17.40361",
+    "geom:latitude":17.40361,
+    "geom:longitude":34.29278,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Wad Keli",
+    "gn:country_code":"SD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364115,
+    "gn:latitude":17.40361,
+    "gn:longitude":34.29278,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Wad Keli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364115
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9b42b26024f3d4790b7fc0b116fadcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1327165639,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1327165639,
+    "wof:lastmodified":1537063260,
+    "wof:name":"Wad Keli",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.29278,
+    17.40361,
+    34.29278,
+    17.40361
+],
+  "geometry": {"coordinates":[34.29278,17.40361],"type":"Point"}
+}

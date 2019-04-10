@@ -1,0 +1,70 @@
+{
+  "id": 1360021495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.552,14.5967,32.552,14.5967",
+    "geom:latitude":14.5967,
+    "geom:longitude":32.552,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"As Sinet Ash Shiqelab",
+    "gn:country_code":"SD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983273,
+    "gn:latitude":14.5967,
+    "gn:longitude":32.552,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u015f \u015einet Ash Shiqelab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015einet Ash Shiqelab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983273
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2ba17d8930411e22c00d11f5520d6971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1360021495,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1360021495,
+    "wof:lastmodified":1537699621,
+    "wof:name":"As Sinet Ash Shiqelab",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.552,
+    14.5967,
+    32.552,
+    14.5967
+],
+  "geometry": {"coordinates":[32.552,14.5967],"type":"Point"}
+}

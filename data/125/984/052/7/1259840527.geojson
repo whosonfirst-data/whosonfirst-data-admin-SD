@@ -1,0 +1,67 @@
+{
+  "id": 1259840527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5316,15.88,32.5316,15.88",
+    "geom:latitude":15.88,
+    "geom:longitude":32.5316,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"El Faki el Amin",
+    "gn:country_code":"SD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6992589,
+    "gn:latitude":15.88,
+    "gn:longitude":32.5316,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"El Faki el Amin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676889,
+        1091708803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6992589
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8833ee3ae7e00e8c7a36005d00b94cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708803,
+            "locality_id":1259840527,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1259840527,
+    "wof:lastmodified":1536840123,
+    "wof:name":"El Faki el Amin",
+    "wof:parent_id":1091708803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5316,
+    15.88,
+    32.5316,
+    15.88
+],
+  "geometry": {"coordinates":[32.5316,15.88],"type":"Point"}
+}

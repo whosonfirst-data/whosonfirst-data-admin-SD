@@ -1,0 +1,65 @@
+{
+  "id": 1209659585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18333,19.86667,37.18333,19.86667",
+    "geom:latitude":19.86667,
+    "geom:longitude":37.18333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ashraf",
+    "gn:country_code":"SD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378398,
+    "gn:latitude":19.86667,
+    "gn:longitude":37.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arb\u2018at",
+        "Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378398
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ddd22bf95f1df7a213f056dcda32b957",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209659585
+        }
+    ],
+    "wof:id":1209659585,
+    "wof:lastmodified":1537699551,
+    "wof:name":"Ashraf",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18333,
+    19.86667000000001,
+    37.18333,
+    19.86667000000001
+],
+  "geometry": {"coordinates":[37.18333,19.86667000000001],"type":"Point"}
+}

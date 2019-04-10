@@ -1,0 +1,70 @@
+{
+  "id": 1225983185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0619,14.7432,33.0619,14.7432",
+    "geom:latitude":14.7432,
+    "geom:longitude":33.0619,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kafi",
+    "gn:country_code":"SD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026223,
+    "gn:latitude":14.7432,
+    "gn:longitude":33.0619,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0101fi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026223
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"727e08375fc817d357e54e5774f109db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706349,
+            "locality_id":1225983185,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225983185,
+    "wof:lastmodified":1537699644,
+    "wof:name":"Kafi",
+    "wof:parent_id":1091706349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0619,
+    14.7432,
+    33.0619,
+    14.7432
+],
+  "geometry": {"coordinates":[33.0619,14.7432],"type":"Point"}
+}

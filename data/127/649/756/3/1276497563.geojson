@@ -1,0 +1,71 @@
+{
+  "id": 1276497563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73333,14.38333,33.73333,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":33.73333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Musallamiyah Ureibi",
+    "gn:country_code":"SD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369609,
+    "gn:latitude":14.38333,
+    "gn:longitude":33.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Musallam\u012byah Ureibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesellemiya Ureibi",
+        "Musallam\u012byah Ureibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369609
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d076ea43245da5d585d6b3a08e29c8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708895,
+            "locality_id":1276497563,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1276497563,
+    "wof:lastmodified":1537699471,
+    "wof:name":"Musallamiyah Ureibi",
+    "wof:parent_id":1091708895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73333,
+    14.38333,
+    33.73333,
+    14.38333
+],
+  "geometry": {"coordinates":[33.73333,14.38333],"type":"Point"}
+}

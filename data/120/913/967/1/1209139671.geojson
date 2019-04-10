@@ -1,0 +1,61 @@
+{
+  "id": 1209139671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.179,11.0131,30.179,11.0131",
+    "geom:latitude":11.0131,
+    "geom:longitude":30.179,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kamelu",
+    "gn:country_code":"SD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7031472,
+    "gn:latitude":11.0131,
+    "gn:longitude":30.179,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kamelu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031472
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e61325685c87ec5731b4ec34f20a0058",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209139671
+        }
+    ],
+    "wof:id":1209139671,
+    "wof:lastmodified":1536296545,
+    "wof:name":"Kamelu",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.179,
+    11.0131,
+    30.179,
+    11.0131
+],
+  "geometry": {"coordinates":[30.179,11.0131],"type":"Point"}
+}

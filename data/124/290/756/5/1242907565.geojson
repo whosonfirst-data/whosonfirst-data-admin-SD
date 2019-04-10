@@ -1,0 +1,87 @@
+{
+  "id": 1242907565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36256,9.57795,28.36256,9.57795",
+    "geom:latitude":9.57795,
+    "geom:longitude":28.36256,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Wontwaig",
+    "gn:country_code":"SD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363772,
+    "gn:latitude":9.57795,
+    "gn:longitude":28.36256,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Wontwaig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vontvaych"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        1108805631,
+        1091711067,
+        85632657,
+        85676965,
+        85676923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363772
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"75aec8364754bbc0011d15e64509b769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1242907565,
+            "region_id":1108805631
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091711067,
+            "locality_id":1242907565,
+            "region_id":85676965
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711067,
+            "locality_id":1242907565,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1242907565,
+    "wof:lastmodified":1537699399,
+    "wof:name":"Wontwaig",
+    "wof:parent_id":1091711067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36256,
+    9.57795,
+    28.36256,
+    9.57795
+],
+  "geometry": {"coordinates":[28.36256,9.57795],"type":"Point"}
+}

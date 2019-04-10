@@ -1,0 +1,73 @@
+{
+  "id": 1327060705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7248,15.1829,35.7248,15.1829",
+    "geom:latitude":15.1829,
+    "geom:longitude":35.7248,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Thalathan",
+    "gn:country_code":"SD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376638,
+    "gn:latitude":15.1829,
+    "gn:longitude":35.7248,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryah Thal\u0101than",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debeira",
+        "Qaryah 3",
+        "Diberah",
+        "Qaryah Thal\u0101than"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091710227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376638
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8a6bb3e944b24757ac79e78b73e09d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710227,
+            "locality_id":1327060705,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1327060705,
+    "wof:lastmodified":1537699528,
+    "wof:name":"Qaryah Thalathan",
+    "wof:parent_id":1091710227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7248,
+    15.1829,
+    35.7248,
+    15.1829
+],
+  "geometry": {"coordinates":[35.7248,15.1829],"type":"Point"}
+}

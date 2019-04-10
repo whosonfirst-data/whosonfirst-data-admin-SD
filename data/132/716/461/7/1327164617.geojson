@@ -1,0 +1,70 @@
+{
+  "id": 1327164617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1263,12.6351,34.1263,12.6351",
+    "geom:latitude":12.6351,
+    "geom:longitude":34.1263,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Misher`at Gharib",
+    "gn:country_code":"SD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029378,
+    "gn:latitude":12.6351,
+    "gn:longitude":34.1263,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Misher\u2018\u0101t Gharib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misher\u2018\u0101t Gharib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029378
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c704663e10f39487e99e9c67ce300a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708651,
+            "locality_id":1327164617,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1327164617,
+    "wof:lastmodified":1537699676,
+    "wof:name":"Misher`at Gharib",
+    "wof:parent_id":1091708651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1263,
+    12.6351,
+    34.1263,
+    12.6351
+],
+  "geometry": {"coordinates":[34.1263,12.6351],"type":"Point"}
+}

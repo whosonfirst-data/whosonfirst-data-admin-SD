@@ -1,0 +1,64 @@
+{
+  "id": 1209042937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3027,12.9609,31.3027,12.9609",
+    "geom:latitude":12.9609,
+    "geom:longitude":31.3027,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Sarahu",
+    "gn:country_code":"SD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028961,
+    "gn:latitude":12.9609,
+    "gn:longitude":31.3027,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sara\u1e29u",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sara\u1e29u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028961
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eb065c74d35177c387da0edb88499b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209042937
+        }
+    ],
+    "wof:id":1209042937,
+    "wof:lastmodified":1537699664,
+    "wof:name":"Sarahu",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3027,
+    12.9609,
+    31.3027,
+    12.9609
+],
+  "geometry": {"coordinates":[31.3027,12.9609],"type":"Point"}
+}

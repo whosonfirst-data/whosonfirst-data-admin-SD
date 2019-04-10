@@ -1,0 +1,71 @@
+{
+  "id": 1259913949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71667,13.26667,33.71667,13.26667",
+    "geom:latitude":13.26667,
+    "geom:longitude":33.71667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ar Raraba",
+    "gn:country_code":"SD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378484,
+    "gn:latitude":13.26667,
+    "gn:longitude":33.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Raraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Raraba",
+        "Ar Raraba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676915,
+        1091708615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378484
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"da772c15d9d65ddb36e2a693c3907053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708615,
+            "locality_id":1259913949,
+            "region_id":85676915
+        }
+    ],
+    "wof:id":1259913949,
+    "wof:lastmodified":1537699552,
+    "wof:name":"Ar Raraba",
+    "wof:parent_id":1091708615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71667,
+    13.26667,
+    33.71667,
+    13.26667
+],
+  "geometry": {"coordinates":[33.71667,13.26667],"type":"Point"}
+}

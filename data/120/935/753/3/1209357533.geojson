@@ -1,0 +1,67 @@
+{
+  "id": 1209357533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3421,14.4877,33.3421,14.4877",
+    "geom:latitude":14.4877,
+    "geom:longitude":33.3421,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al Khulab",
+    "gn:country_code":"SD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379240,
+    "gn:latitude":14.4877,
+    "gn:longitude":33.3421,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kh\u016bl\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u016bl\u0101b"
+    ],
+    "name:und_x_variant":[
+        "El Khulab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379240
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b504e37df2be0ed23db9d3b1429c5481",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209357533
+        }
+    ],
+    "wof:id":1209357533,
+    "wof:lastmodified":1537699569,
+    "wof:name":"Al Khulab",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3421,
+    14.4877,
+    33.3421,
+    14.4877
+],
+  "geometry": {"coordinates":[33.3421,14.4877],"type":"Point"}
+}

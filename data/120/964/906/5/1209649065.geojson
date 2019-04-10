@@ -1,0 +1,64 @@
+{
+  "id": 1209649065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28317,10.53775,30.28317,10.53775",
+    "geom:latitude":10.53775,
+    "geom:longitude":30.28317,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ed Dikeri",
+    "gn:country_code":"SD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380154,
+    "gn:latitude":10.53775,
+    "gn:longitude":30.28317,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ed Dikeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Dikeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380154
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"93b7096c6ef0247a47f4eb07954cf039",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209649065
+        }
+    ],
+    "wof:id":1209649065,
+    "wof:lastmodified":1537699590,
+    "wof:name":"Ed Dikeri",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28317,
+    10.53775,
+    30.28317,
+    10.53775
+],
+  "geometry": {"coordinates":[30.28317,10.53775],"type":"Point"}
+}

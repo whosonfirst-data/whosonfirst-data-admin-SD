@@ -1,0 +1,71 @@
+{
+  "id": 1343296115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9372,15.0442,35.9372,15.0442",
+    "geom:latitude":15.0442,
+    "geom:longitude":35.9372,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Qaryah Kurak",
+    "gn:country_code":"SD",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372174,
+    "gn:latitude":15.0442,
+    "gn:longitude":35.9372,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryah K\u016brak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korak",
+        "Qaryah K\u016brak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091707387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372174
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4f3e3d89f51c7fd7ed4099396f634ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707387,
+            "locality_id":1343296115,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":1343296115,
+    "wof:lastmodified":1537699488,
+    "wof:name":"Qaryah Kurak",
+    "wof:parent_id":1091707387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9372,
+    15.0442,
+    35.9372,
+    15.0442
+],
+  "geometry": {"coordinates":[35.9372,15.0442],"type":"Point"}
+}

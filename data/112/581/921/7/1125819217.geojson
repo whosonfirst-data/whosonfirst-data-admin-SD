@@ -1,0 +1,268 @@
+{
+  "id": 1125819217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21644,19.61745,37.21644,19.61745",
+    "geom:latitude":19.61745,
+    "geom:longitude":37.21644,
+    "gn:gn_country":"SD",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":489725,
+    "gn:population":489725,
+    "iso:country":"SD",
+    "lbl:latitude":19.61745,
+    "lbl:longitude":37.21644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "B\u016br S\u016bd\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0631\u062a\u0633\u0648\u062f\u0627\u0646",
+        "\u0628\u0648\u0631 \u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u054d\u0578\u0582\u0564\u0561\u0576"
+    ],
+    "name:baq_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09c1\u09a6\u09be\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:chi_x_preferred":[
+        "\u82cf\u4e39\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:dan_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:deu_x_preferred":[
+        "Bur Sudan"
+    ],
+    "name:dut_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:eng_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:epo_x_preferred":[
+        "Sudanhavenurbo"
+    ],
+    "name:est_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631 \u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:fra_x_preferred":[
+        "Port-Soudan"
+    ],
+    "name:fre_x_preferred":[
+        "Port-Soudan"
+    ],
+    "name:ger_x_preferred":[
+        "Bur Sudan"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u03a3\u03bf\u03c5\u03b4\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab8\u0ac1\u0aa6\u0abe\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e1\u05d5\u05d3\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0938\u0942\u0921\u093e\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:hun_x_preferred":[
+        "Port Szud\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u054d\u0578\u0582\u0564\u0561\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:ind_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:ita_x_preferred":[
+        "Porto Sudan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30b9\u30fc\u30c0\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0cb8\u0cc1\u0ca1\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8\uc218\ub2e8"
+    ],
+    "name:lav_x_preferred":[
+        "Portsud\u0101na"
+    ],
+    "name:lit_x_preferred":[
+        "Port Sudanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0938\u0942\u0921\u093e\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:nob_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:oci_x_preferred":[
+        "P\u00f2rt Sodan"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0631 \u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:por_x_preferred":[
+        "Porto Sud\u00e3o"
+    ],
+    "name:rum_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0dbb\u0dca\u0da7\u0dca \u0dc3\u0dd4\u0da9\u0dcf\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Sud\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bc2\u0b9f\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c38\u0c41\u0c21\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e0b\u0e39\u0e14\u0e32\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "New Saw\u00e2kin"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0633\u0648\u0688\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Port-sudan"
+    ],
+    "name:vie_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:war_x_preferred":[
+        "Port Sudan"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u4e39\u6e2f"
+    ],
+    "qs_pg:aaroncc":"SD",
+    "qs_pg:gn_country":"SD",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":377039,
+    "qs_pg:gn_pop":489725,
+    "qs_pg:name":"Port Sudan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":124467,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091709521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377039,
+        "qs_pg:id":124467,
+        "wd:id":"Q208718"
+    },
+    "wof:country":"SD",
+    "wof:created":1497291976,
+    "wof:geomhash":"2b809c47ce3f7b8c15ac623cc0b4b8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709521,
+            "locality_id":1125819217,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1125819217,
+    "wof:lastmodified":1534379459,
+    "wof:name":"Port Sudan",
+    "wof:parent_id":1091709521,
+    "wof:placetype":"locality",
+    "wof:population":489725,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141909345
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21644,
+    19.61745,
+    37.21644,
+    19.61745
+],
+  "geometry": {"coordinates":[37.21644,19.61745],"type":"Point"}
+}

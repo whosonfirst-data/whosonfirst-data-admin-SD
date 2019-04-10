@@ -1,0 +1,71 @@
+{
+  "id": 1360321273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1,13.9,36.1,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":36.1,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ad Dahhab",
+    "gn:country_code":"SD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380178,
+    "gn:latitude":13.9,
+    "gn:longitude":36.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Dahhab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Dahhab",
+        "Ad Dahhab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676897,
+        1091709955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380178
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e19a4eb9d17215ece6cd671c6baf7867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709955,
+            "locality_id":1360321273,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":1360321273,
+    "wof:lastmodified":1537699591,
+    "wof:name":"Ad Dahhab",
+    "wof:parent_id":1091709955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1,
+    13.9,
+    36.1,
+    13.9
+],
+  "geometry": {"coordinates":[36.1,13.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260114313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4871,17.2519,34.4871,17.2519",
+    "geom:latitude":17.2519,
+    "geom:longitude":34.4871,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Kajra",
+    "gn:country_code":"SD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444149,
+    "gn:latitude":17.2519,
+    "gn:longitude":34.4871,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kajra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091706141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444149
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7e9f49c77cf1777c612a102437735d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706141,
+            "locality_id":1260114313,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1260114313,
+    "wof:lastmodified":1536944204,
+    "wof:name":"Kajra",
+    "wof:parent_id":1091706141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4871,
+    17.2519,
+    34.4871,
+    17.2519
+],
+  "geometry": {"coordinates":[34.4871,17.2519],"type":"Point"}
+}

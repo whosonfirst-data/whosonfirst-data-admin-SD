@@ -1,0 +1,67 @@
+{
+  "id": 1259617497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1284,11.0872,30.1284,11.0872",
+    "geom:latitude":11.0872,
+    "geom:longitude":30.1284,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Al Gardoud",
+    "gn:country_code":"SD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031456,
+    "gn:latitude":11.0872,
+    "gn:longitude":30.1284,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Gardoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091708963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031456
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eb384fd580c9e588cf9a2f61420492b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708963,
+            "locality_id":1259617497,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1259617497,
+    "wof:lastmodified":1536665805,
+    "wof:name":"Al Gardoud",
+    "wof:parent_id":1091708963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1284,
+    11.0872,
+    30.1284,
+    11.0872
+],
+  "geometry": {"coordinates":[30.1284,11.0872],"type":"Point"}
+}

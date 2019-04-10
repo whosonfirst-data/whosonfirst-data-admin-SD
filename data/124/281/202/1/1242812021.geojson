@@ -1,0 +1,67 @@
+{
+  "id": 1242812021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,16.66667,33.31667,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ed Duweimat Island",
+    "gn:country_code":"SD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376017,
+    "gn:latitude":16.66667,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Ed Duweimat Island",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376017
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"043e48ade40451536dcd6430af8ec352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1242812021,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1242812021,
+    "wof:lastmodified":1536726498,
+    "wof:name":"Ed Duweimat Island",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    16.66667,
+    33.31667,
+    16.66667
+],
+  "geometry": {"coordinates":[33.31667,16.66667],"type":"Point"}
+}

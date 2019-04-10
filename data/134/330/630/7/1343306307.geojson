@@ -1,0 +1,70 @@
+{
+  "id": 1343306307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2225,18.0723,35.2225,18.0723",
+    "geom:latitude":18.0723,
+    "geom:longitude":35.2225,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Togni",
+    "gn:country_code":"SD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969743,
+    "gn:latitude":18.0723,
+    "gn:longitude":35.2225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014dgn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "T\u014dgn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091707095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969743
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2a57adcbad9ff17f60c23a164aae2272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707095,
+            "locality_id":1343306307,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1343306307,
+    "wof:lastmodified":1537699616,
+    "wof:name":"Togni",
+    "wof:parent_id":1091707095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2225,
+    18.0723,
+    35.2225,
+    18.0723
+],
+  "geometry": {"coordinates":[35.2225,18.0723],"type":"Point"}
+}

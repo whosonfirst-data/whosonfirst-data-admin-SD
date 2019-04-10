@@ -1,0 +1,67 @@
+{
+  "id": 1277025343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01472,15.09917,33.01472,15.09917",
+    "geom:latitude":15.09917,
+    "geom:longitude":33.01472,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Barakat",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377711,
+    "gn:latitude":15.09917,
+    "gn:longitude":33.01472,
+    "gn:modification_date":"2002-01-30",
+    "gn:name":"Barakat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091708377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377711
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7f4c3fcdb68e22896884681e71aa6415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708377,
+            "locality_id":1277025343,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1277025343,
+    "wof:lastmodified":1536845057,
+    "wof:name":"Barakat",
+    "wof:parent_id":1091708377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01472,
+    15.09917,
+    33.01472,
+    15.09917
+],
+  "geometry": {"coordinates":[33.01472,15.09917],"type":"Point"}
+}

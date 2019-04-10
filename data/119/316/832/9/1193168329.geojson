@@ -1,0 +1,70 @@
+{
+  "id": 1193168329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6075,11.0296,29.6075,11.0296",
+    "geom:latitude":11.0296,
+    "geom:longitude":29.6075,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Koya",
+    "gn:country_code":"SD",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7002002,
+    "gn:latitude":11.0296,
+    "gn:longitude":29.6075,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014dy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u014dy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676923,
+        1091710321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7002002
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"88f7d127b03aea401ff92c0889a9834c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710321,
+            "locality_id":1193168329,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":1193168329,
+    "wof:lastmodified":1537699628,
+    "wof:name":"Koya",
+    "wof:parent_id":1091710321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6075,
+    11.0296,
+    29.6075,
+    11.0296
+],
+  "geometry": {"coordinates":[29.6075,11.0296],"type":"Point"}
+}

@@ -1,0 +1,302 @@
+{
+  "id": 890431203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51989,14.40118,33.51989,14.40118",
+    "geom:latitude":14.40118,
+    "geom:longitude":33.51989,
+    "gn:country":"SD",
+    "gn:fcode":"PPLA",
+    "gn:pop":332714,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u062f \u0645\u062f\u0646\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09be\u09a6 \u09ae\u09be\u09a6\u09be\u09a8\u09bf"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u5fb7\u8fc8\u8fbe\u5c3c"
+    ],
+    "name:dan_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:deu_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:dut_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:eng_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:eng_x_variant":[
+        "Wad Medani"
+    ],
+    "name:epo_x_preferred":[
+        "Vad-Medani"
+    ],
+    "name:est_x_preferred":[
+        "Wad Madan\u012b"
+    ],
+    "name:fin_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:fra_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:fre_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:ger_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03bd\u03c4 \u039c\u03b1\u03bd\u03c4\u03ac\u03bd\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aa1 \u0aae\u0aa6\u0aa8\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0926 \u092e\u0926\u093e\u0928\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:ita_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c9\u30e1\u30c0\u30cb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0ca1\u0ccd \u0cae\u0ca6\u0ca8\u0cbf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\ub4dc\ub9c8\ub2e4\ub2c8"
+    ],
+    "name:lav_x_preferred":[
+        "Vadmeden\u012b"
+    ],
+    "name:lit_x_preferred":[
+        "Vad Medanis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0921 \u092e\u0926\u0928\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:nob_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u062f \u0645\u062f\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:por_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:rum_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0daf\u0dca \u0db8\u0daf\u0db1\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:swe_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0b9f\u0bcd \u0bae\u0ba4\u0bbe\u0ba9\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c26\u0c4d \u0c2e\u0c26\u0c3e\u0c28\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e14\u0e40\u0e21\u0e14\u0e32\u0e19\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Vad Medeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Medani"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u062f \u0645\u062f\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Wad Madani"
+    ],
+    "name:war_x_preferred":[
+        "Wad Madani"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Sudan",
+    "ne:ADM0_A3":"SDN",
+    "ne:ADM1NAME":"Gezira",
+    "ne:ADMIN1_COD":38,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":364103,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Wad Madani",
+    "ne:GN_POP":332714,
+    "ne:GTOPO30":412.0,
+    "ne:ISO_A2":"SD",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":14.39996,
+    "ne:LONGITUDE":33.520011,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Medani",
+    "ne:MAX_AREAKM":95.0,
+    "ne:MAX_AREAMI":37.0,
+    "ne:MAX_BBXMAX":33.625,
+    "ne:MAX_BBXMIN":33.483333,
+    "ne:MAX_BBYMAX":14.466667,
+    "ne:MAX_BBYMIN":14.3,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":106.0,
+    "ne:MAX_PERMI":66.0,
+    "ne:MAX_POP10":284367,
+    "ne:MAX_POP20":284367,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":33.542935,
+    "ne:MEAN_BBYC":14.399167,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":95.0,
+    "ne:MIN_AREAMI":37.0,
+    "ne:MIN_BBXMAX":33.625,
+    "ne:MIN_BBXMIN":33.483333,
+    "ne:MIN_BBYMAX":14.466667,
+    "ne:MIN_BBYMIN":14.3,
+    "ne:MIN_PERKM":106.0,
+    "ne:MIN_PERMI":66.0,
+    "ne:NAME":"Medani",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Medani",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":332714,
+    "ne:POP_MIN":284367,
+    "ne:POP_OTHER":284533,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Sudan",
+    "ne:SOV_A3":"SDN",
+    "ne:TIMEZONE":"Africa/Khartoum",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Wad Medani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:latitude":"14.4",
+    "wd:longitude":"33.51",
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364103,
+        "gp:id":1437291,
+        "qs:id":273774,
+        "wd:id":"Q852528",
+        "wk:page":"Wad Madani"
+    },
+    "wof:country":"SD",
+    "wof:created":1469051881,
+    "wof:geomhash":"9ee5275cf275a15a4c8c6ef12d12500f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":890431203,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":890431203,
+    "wof:lastmodified":1527735412,
+    "wof:name":"Wad Medani",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:population":332714,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51989,
+    14.40118,
+    33.51989,
+    14.40118
+],
+  "geometry": {"coordinates":[33.51989,14.40118],"type":"Point"}
+}

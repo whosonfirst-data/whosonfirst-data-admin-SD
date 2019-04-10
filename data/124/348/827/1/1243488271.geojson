@@ -1,0 +1,71 @@
+{
+  "id": 1243488271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01667,13.4,23.01667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":23.01667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kayrah",
+    "gn:country_code":"SD",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372687,
+    "gn:latitude":13.4,
+    "gn:longitude":23.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaira",
+        "Kayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372687
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c9cedca468c6be6f955a304459c04fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":1243488271,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1243488271,
+    "wof:lastmodified":1537699493,
+    "wof:name":"Kayrah",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01667,
+    13.4,
+    23.01667,
+    13.4
+],
+  "geometry": {"coordinates":[23.01667,13.4],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226173841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,13.4,30.95,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Dakli",
+    "gn:country_code":"SD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365210,
+    "gn:latitude":13.4,
+    "gn:longitude":30.95,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Umm Dakli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365210
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"28df6c1322ef4096485ac1ab428e1d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1226173841,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1226173841,
+    "wof:lastmodified":1537035693,
+    "wof:name":"Umm Dakli",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    13.4,
+    30.95,
+    13.4
+],
+  "geometry": {"coordinates":[30.95,13.4],"type":"Point"}
+}

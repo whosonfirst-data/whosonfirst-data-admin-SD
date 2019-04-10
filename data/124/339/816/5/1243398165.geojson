@@ -1,0 +1,71 @@
+{
+  "id": 1243398165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5638,16.7123,33.5638,16.7123",
+    "geom:latitude":16.7123,
+    "geom:longitude":33.5638,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hillat Tartor",
+    "gn:country_code":"SD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443945,
+    "gn:latitude":16.7123,
+    "gn:longitude":33.5638,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat Tartor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jabarab",
+        "Hillat Tartor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676901,
+        1091710595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443945
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4644fd1b2dc0d6b1a6478ae84bd848be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710595,
+            "locality_id":1243398165,
+            "region_id":85676901
+        }
+    ],
+    "wof:id":1243398165,
+    "wof:lastmodified":1537699607,
+    "wof:name":"Hillat Tartor",
+    "wof:parent_id":1091710595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5638,
+    16.7123,
+    33.5638,
+    16.7123
+],
+  "geometry": {"coordinates":[33.5638,16.7123],"type":"Point"}
+}

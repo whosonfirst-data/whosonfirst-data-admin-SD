@@ -1,0 +1,67 @@
+{
+  "id": 1225979493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61243,14.13928,22.61243,14.13928",
+    "geom:latitude":14.13928,
+    "geom:longitude":22.61243,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tor Labid",
+    "gn:country_code":"SD",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385232,
+    "gn:latitude":14.13928,
+    "gn:longitude":22.61243,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tor Labid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385232
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5ba5d19c918042e0e74bf90732db5f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1225979493,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1225979493,
+    "wof:lastmodified":1536819740,
+    "wof:name":"Tor Labid",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61243,
+    14.13928,
+    22.61243,
+    14.13928
+],
+  "geometry": {"coordinates":[22.61243,14.13928],"type":"Point"}
+}

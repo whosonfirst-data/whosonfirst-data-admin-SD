@@ -1,0 +1,64 @@
+{
+  "id": 1209147697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4742,14.1987,33.4742,14.1987",
+    "geom:latitude":14.1987,
+    "geom:longitude":33.4742,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad al `Ataya",
+    "gn:country_code":"SD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026698,
+    "gn:latitude":14.1987,
+    "gn:longitude":33.4742,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad al \u2018A\u0163\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad al \u2018A\u0163\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026698
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"16f16192e4a921124e26f36fd96b27ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209147697
+        }
+    ],
+    "wof:id":1209147697,
+    "wof:lastmodified":1537699659,
+    "wof:name":"Wad al `Ataya",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4742,
+    14.1987,
+    33.4742,
+    14.1987
+],
+  "geometry": {"coordinates":[33.4742,14.1987],"type":"Point"}
+}

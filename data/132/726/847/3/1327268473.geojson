@@ -1,0 +1,67 @@
+{
+  "id": 1327268473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72573,14.14933,22.72573,14.14933",
+    "geom:latitude":14.14933,
+    "geom:longitude":22.72573,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tamum",
+    "gn:country_code":"SD",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385310,
+    "gn:latitude":14.14933,
+    "gn:longitude":22.72573,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tamum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091707219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385310
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8b3b61c5f4aa3f66800cdbcab5a8273e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707219,
+            "locality_id":1327268473,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1327268473,
+    "wof:lastmodified":1536918119,
+    "wof:name":"Tamum",
+    "wof:parent_id":1091707219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72573,
+    14.14933,
+    22.72573,
+    14.14933
+],
+  "geometry": {"coordinates":[22.72573,14.14933],"type":"Point"}
+}

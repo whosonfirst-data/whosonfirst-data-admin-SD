@@ -1,0 +1,67 @@
+{
+  "id": 1292940953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.43333,12.25,26.43333,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":26.43333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"`Usban",
+    "gn:country_code":"SD",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364389,
+    "gn:latitude":12.25,
+    "gn:longitude":26.43333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"\u2018Usb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091706673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364389
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"813b1058f9f4037406c2e22478b5aca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706673,
+            "locality_id":1292940953,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1292940953,
+    "wof:lastmodified":1537074870,
+    "wof:name":"`Usban",
+    "wof:parent_id":1091706673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.43333,
+    12.25,
+    26.43333,
+    12.25
+],
+  "geometry": {"coordinates":[26.43333,12.25],"type":"Point"}
+}

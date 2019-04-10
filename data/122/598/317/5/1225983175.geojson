@@ -1,0 +1,72 @@
+{
+  "id": 1225983175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2254,14.144,33.2254,14.144",
+    "geom:latitude":14.144,
+    "geom:longitude":33.2254,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"At Tilesh al `Asha",
+    "gn:country_code":"SD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365652,
+    "gn:latitude":14.144,
+    "gn:longitude":33.2254,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162ilesh al \u2018Asha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuleih el \u2018Asha",
+        "\u0162ulay\u1e29 al \u2018Asha",
+        "A\u0163 \u0162ilesh al \u2018Asha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365652
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"38e06db386b29ea00c8407a14c179591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1225983175,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1225983175,
+    "wof:lastmodified":1537699434,
+    "wof:name":"At Tilesh al `Asha",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2254,
+    14.144,
+    33.2254,
+    14.144
+],
+  "geometry": {"coordinates":[33.2254,14.144],"type":"Point"}
+}

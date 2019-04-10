@@ -1,0 +1,65 @@
+{
+  "id": 1209249235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,14.05,31.13333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Nabalat",
+    "gn:country_code":"SD",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369537,
+    "gn:latitude":14.05,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nabal\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nubala",
+        "Nabal\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369537
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cbc55d9cada8ad76d10539364155698d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209249235
+        }
+    ],
+    "wof:id":1209249235,
+    "wof:lastmodified":1537699470,
+    "wof:name":"Nabalat",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    14.05,
+    31.13333,
+    14.05
+],
+  "geometry": {"coordinates":[31.13333,14.05],"type":"Point"}
+}

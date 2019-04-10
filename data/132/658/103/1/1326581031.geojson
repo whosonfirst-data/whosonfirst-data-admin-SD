@@ -1,0 +1,70 @@
+{
+  "id": 1326581031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4812,14.529,33.4812,14.529",
+    "geom:latitude":14.529,
+    "geom:longitude":33.4812,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Abu `Ilela",
+    "gn:country_code":"SD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026261,
+    "gn:latitude":14.529,
+    "gn:longitude":33.4812,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abu \u2018Ilela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu \u2018Ilela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026261
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4cc385fa794eaab7d89c21076512ab71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706877,
+            "locality_id":1326581031,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1326581031,
+    "wof:lastmodified":1537699645,
+    "wof:name":"Abu `Ilela",
+    "wof:parent_id":1091706877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4812,
+    14.529,
+    33.4812,
+    14.529
+],
+  "geometry": {"coordinates":[33.4812,14.529],"type":"Point"}
+}

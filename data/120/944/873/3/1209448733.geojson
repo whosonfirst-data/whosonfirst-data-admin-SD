@@ -1,0 +1,66 @@
+{
+  "id": 1209448733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11667,13.41667,23.11667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":23.11667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Amar Djedid",
+    "gn:country_code":"SD",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378914,
+    "gn:latitude":13.41667,
+    "gn:longitude":23.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Amar Djedid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Amar Gedid",
+        "Amar Djedid",
+        "\u2018Amar Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378914
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ea2b94b8ccf4e9640769ff3217ec3a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209448733
+        }
+    ],
+    "wof:id":1209448733,
+    "wof:lastmodified":1537699556,
+    "wof:name":"Amar Djedid",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11667000000001,
+    13.41667,
+    23.11667000000001,
+    13.41667
+],
+  "geometry": {"coordinates":[23.11667000000001,13.41667],"type":"Point"}
+}

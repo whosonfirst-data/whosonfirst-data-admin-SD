@@ -1,0 +1,71 @@
+{
+  "id": 1226783845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75,12.56667,25.75,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":25.75,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Zulaytah",
+    "gn:country_code":"SD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363441,
+    "gn:latitude":12.56667,
+    "gn:longitude":25.75,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Zulay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuleita",
+        "Zulay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676875,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363441
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4a8f5e5f313efe9b3036b22f70d2a120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":1226783845,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":1226783845,
+    "wof:lastmodified":1537699397,
+    "wof:name":"Zulaytah",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75,
+    12.56667,
+    25.75,
+    12.56667
+],
+  "geometry": {"coordinates":[25.75,12.56667],"type":"Point"}
+}

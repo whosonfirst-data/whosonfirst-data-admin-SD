@@ -1,0 +1,67 @@
+{
+  "id": 1276157879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90504,13.39231,24.90504,13.39231",
+    "geom:latitude":13.39231,
+    "geom:longitude":24.90504,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Taradona Muhammad",
+    "gn:country_code":"SD",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366388,
+    "gn:latitude":13.39231,
+    "gn:longitude":24.90504,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Taradona Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091708725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366388
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"134654b11c02c15bb9427c78b39e8425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708725,
+            "locality_id":1276157879,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1276157879,
+    "wof:lastmodified":1537013194,
+    "wof:name":"Taradona Muhammad",
+    "wof:parent_id":1091708725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90504,
+    13.39231,
+    24.90504,
+    13.39231
+],
+  "geometry": {"coordinates":[24.90504,13.39231],"type":"Point"}
+}

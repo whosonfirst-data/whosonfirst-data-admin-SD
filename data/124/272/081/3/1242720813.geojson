@@ -1,0 +1,70 @@
+{
+  "id": 1242720813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4013,14.8963,33.4013,14.8963",
+    "geom:latitude":14.8963,
+    "geom:longitude":33.4013,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Wad Al Hamim",
+    "gn:country_code":"SD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026145,
+    "gn:latitude":14.8963,
+    "gn:longitude":33.4013,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wad Al Ham\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad Al Ham\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026145
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"4d10f2ad76d6a33acd14ba4a0da78886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1242720813,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1242720813,
+    "wof:lastmodified":1537699641,
+    "wof:name":"Wad Al Hamim",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4013,
+    14.8963,
+    33.4013,
+    14.8963
+],
+  "geometry": {"coordinates":[33.4013,14.8963],"type":"Point"}
+}

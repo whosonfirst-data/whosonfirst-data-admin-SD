@@ -1,0 +1,70 @@
+{
+  "id": 1310157109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3965,14.7401,33.3965,14.7401",
+    "geom:latitude":14.7401,
+    "geom:longitude":33.3965,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Al `Amara",
+    "gn:country_code":"SD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026154,
+    "gn:latitude":14.7401,
+    "gn:longitude":33.3965,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al \u2018Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Amara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091706829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026154
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"fffd12bc34e1b6aca7355acef515c189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706829,
+            "locality_id":1310157109,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1310157109,
+    "wof:lastmodified":1537699642,
+    "wof:name":"Al `Amara",
+    "wof:parent_id":1091706829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3965,
+    14.7401,
+    33.3965,
+    14.7401
+],
+  "geometry": {"coordinates":[33.3965,14.7401],"type":"Point"}
+}

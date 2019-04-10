@@ -1,0 +1,67 @@
+{
+  "id": 1327462421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,14.43333,30.65,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":30.65,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Halasa",
+    "gn:country_code":"SD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374279,
+    "gn:latitude":14.43333,
+    "gn:longitude":30.65,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Halasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374279
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"be4ef3eb6be0ca83c511e9cdf0651224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709813,
+            "locality_id":1327462421,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1327462421,
+    "wof:lastmodified":1536636363,
+    "wof:name":"Halasa",
+    "wof:parent_id":1091709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    14.43333,
+    30.65,
+    14.43333
+],
+  "geometry": {"coordinates":[30.65,14.43333],"type":"Point"}
+}

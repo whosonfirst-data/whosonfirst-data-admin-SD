@@ -1,0 +1,70 @@
+{
+  "id": 1276807789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3238,19.0975,37.3238,19.0975",
+    "geom:latitude":19.0975,
+    "geom:longitude":37.3238,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Andara",
+    "gn:country_code":"SD",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443952,
+    "gn:latitude":19.0975,
+    "gn:longitude":37.3238,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"And\u0101r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "And\u0101r\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091710717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443952
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f5104ac062cb71a204d67ab9bcd9d5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710717,
+            "locality_id":1276807789,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1276807789,
+    "wof:lastmodified":1537699607,
+    "wof:name":"Andara",
+    "wof:parent_id":1091710717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3238,
+    19.0975,
+    37.3238,
+    19.0975
+],
+  "geometry": {"coordinates":[37.3238,19.0975],"type":"Point"}
+}

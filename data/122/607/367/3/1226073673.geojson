@@ -1,0 +1,67 @@
+{
+  "id": 1226073673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0202,13.0978,32.0202,13.0978",
+    "geom:latitude":13.0978,
+    "geom:longitude":32.0202,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dabra",
+    "gn:country_code":"SD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028887,
+    "gn:latitude":13.0978,
+    "gn:longitude":32.0202,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028887
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b171d34f5085ac72084a0b2af4a5f9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1226073673,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226073673,
+    "wof:lastmodified":1536685062,
+    "wof:name":"Dabra",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0202,
+    13.0978,
+    32.0202,
+    13.0978
+],
+  "geometry": {"coordinates":[32.0202,13.0978],"type":"Point"}
+}

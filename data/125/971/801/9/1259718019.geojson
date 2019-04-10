@@ -1,0 +1,71 @@
+{
+  "id": 1259718019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.05,14.46667,29.05,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":29.05,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"`Abd ar Rahman Subei",
+    "gn:country_code":"SD",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381131,
+    "gn:latitude":14.46667,
+    "gn:longitude":29.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abd ar Ra\u1e29m\u0101n Subei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abd er Rahman Subei",
+        "\u2018Abd ar Ra\u1e29m\u0101n Subei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381131
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3ed45a18f3f834132cab9909180ddaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708975,
+            "locality_id":1259718019,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1259718019,
+    "wof:lastmodified":1537699602,
+    "wof:name":"`Abd ar Rahman Subei",
+    "wof:parent_id":1091708975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05,
+    14.46667,
+    29.05,
+    14.46667
+],
+  "geometry": {"coordinates":[29.05,14.46667],"type":"Point"}
+}

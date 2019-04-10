@@ -1,0 +1,64 @@
+{
+  "id": 1209036203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03543,12.85447,22.03543,12.85447",
+    "geom:latitude":12.85447,
+    "geom:longitude":22.03543,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Buretta",
+    "gn:country_code":"SD",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385045,
+    "gn:latitude":12.85447,
+    "gn:longitude":22.03543,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Buretta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buretta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385045
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"659cadb0ee432bcf4f1c37e7e0f917d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209036203
+        }
+    ],
+    "wof:id":1209036203,
+    "wof:lastmodified":1537699691,
+    "wof:name":"Buretta",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03543,
+    12.85447,
+    22.03543,
+    12.85447
+],
+  "geometry": {"coordinates":[22.03543,12.85447],"type":"Point"}
+}

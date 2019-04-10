@@ -1,0 +1,67 @@
+{
+  "id": 1343298877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58333,15.3,23.58333,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":23.58333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Murha",
+    "gn:country_code":"SD",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369659,
+    "gn:latitude":15.3,
+    "gn:longitude":23.58333,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Murha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091705507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369659
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"822380055f0bea3ca736cce8e2b3eb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705507,
+            "locality_id":1343298877,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343298877,
+    "wof:lastmodified":1536978719,
+    "wof:name":"Murha",
+    "wof:parent_id":1091705507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58333,
+    15.3,
+    23.58333,
+    15.3
+],
+  "geometry": {"coordinates":[23.58333,15.3],"type":"Point"}
+}

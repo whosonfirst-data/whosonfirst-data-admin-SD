@@ -1,0 +1,72 @@
+{
+  "id": 1243585435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51889,12.71483,22.51889,12.71483",
+    "geom:latitude":12.71483,
+    "geom:longitude":22.51889,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Dingajuri",
+    "gn:country_code":"SD",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376428,
+    "gn:latitude":12.71483,
+    "gn:longitude":22.51889,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Dingajuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danajoura",
+        "Dingajuri",
+        "Danazhura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376428
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9f7c57aa65b13e28ba28db51fafc6c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":1243585435,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1243585435,
+    "wof:lastmodified":1537699527,
+    "wof:name":"Dingajuri",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51889,
+    12.71483,
+    22.51889,
+    12.71483
+],
+  "geometry": {"coordinates":[22.51889,12.71483],"type":"Point"}
+}

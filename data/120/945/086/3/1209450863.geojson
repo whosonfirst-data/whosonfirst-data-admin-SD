@@ -1,0 +1,64 @@
+{
+  "id": 1209450863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2693,14.0323,32.2693,14.0323",
+    "geom:latitude":14.0323,
+    "geom:longitude":32.2693,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Al Mileh",
+    "gn:country_code":"SD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026069,
+    "gn:latitude":14.0323,
+    "gn:longitude":32.2693,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Mile\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mile\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026069
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"780e533305c901245ba87488db883a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209450863
+        }
+    ],
+    "wof:id":1209450863,
+    "wof:lastmodified":1537699639,
+    "wof:name":"Al Mileh",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2693,
+    14.0323,
+    32.2693,
+    14.0323
+],
+  "geometry": {"coordinates":[32.2693,14.0323],"type":"Point"}
+}

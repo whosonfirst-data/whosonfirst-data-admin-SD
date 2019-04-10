@@ -1,0 +1,67 @@
+{
+  "id": 1209849623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,12.98333,30.83333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Marakha",
+    "gn:country_code":"SD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370493,
+    "gn:latitude":12.98333,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Marakha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370493
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a7404a90a1cd2e0452baaf2a8d53aa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1209849623,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1209849623,
+    "wof:lastmodified":1536389061,
+    "wof:name":"Marakha",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    12.98333,
+    30.83333,
+    12.98333
+],
+  "geometry": {"coordinates":[30.83333,12.98333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343592057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,14.3,25.96667,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Wad Toto",
+    "gn:country_code":"SD",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364042,
+    "gn:latitude":14.3,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2009-01-27",
+    "gn:name":"Wad Toto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091710427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364042
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eb598d74d15980ab5aa584e2a814b514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710427,
+            "locality_id":1343592057,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1343592057,
+    "wof:lastmodified":1537051721,
+    "wof:name":"Wad Toto",
+    "wof:parent_id":1091710427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    14.3,
+    25.96667,
+    14.3
+],
+  "geometry": {"coordinates":[25.96667,14.3],"type":"Point"}
+}

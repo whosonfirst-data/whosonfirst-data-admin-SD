@@ -1,0 +1,70 @@
+{
+  "id": 1226473159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9476,12.721,31.9476,12.721",
+    "geom:latitude":12.721,
+    "geom:longitude":31.9476,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"'Abu `Ambaj",
+    "gn:country_code":"SD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029143,
+    "gn:latitude":12.721,
+    "gn:longitude":31.9476,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2019Abu \u2018Ambaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Abu \u2018Ambaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029143
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"adfc4d8e1450c1c1b1e198c891ee629f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1226473159,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1226473159,
+    "wof:lastmodified":1537699671,
+    "wof:name":"'Abu `Ambaj",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9476,
+    12.721,
+    31.9476,
+    12.721
+],
+  "geometry": {"coordinates":[31.9476,12.721],"type":"Point"}
+}

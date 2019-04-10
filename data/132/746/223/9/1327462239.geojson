@@ -1,0 +1,72 @@
+{
+  "id": 1327462239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61667,13.4,26.61667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":26.61667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Umm Gullah Hajar",
+    "gn:country_code":"SD",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365069,
+    "gn:latitude":13.4,
+    "gn:longitude":26.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Gullah Hajar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Gulla",
+        "Umm Gulla Hagar",
+        "Umm Gullah Hajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676919,
+        1091709005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365069
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"79a97fc25984eab5daee340baf41f422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709005,
+            "locality_id":1327462239,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":1327462239,
+    "wof:lastmodified":1537699426,
+    "wof:name":"Umm Gullah Hajar",
+    "wof:parent_id":1091709005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61667000000001,
+    13.4,
+    26.61667000000001,
+    13.4
+],
+  "geometry": {"coordinates":[26.61667000000001,13.4],"type":"Point"}
+}

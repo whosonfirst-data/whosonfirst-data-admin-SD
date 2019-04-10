@@ -1,0 +1,70 @@
+{
+  "id": 1260214631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31632,13.26668,22.31632,13.26668",
+    "geom:latitude":13.26668,
+    "geom:longitude":22.31632,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Gergeita",
+    "gn:country_code":"SD",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374960,
+    "gn:latitude":13.26668,
+    "gn:longitude":22.31632,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Gergeita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gergeita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374960
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"aa0df45e0f2eeed83ca6fc410c72c949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":1260214631,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1260214631,
+    "wof:lastmodified":1537699517,
+    "wof:name":"Gergeita",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31632,
+    13.26668,
+    22.31632,
+    13.26668
+],
+  "geometry": {"coordinates":[22.31632,13.26668],"type":"Point"}
+}

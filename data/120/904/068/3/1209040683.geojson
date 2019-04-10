@@ -1,0 +1,61 @@
+{
+  "id": 1209040683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.694,12.3285,32.694,12.3285",
+    "geom:latitude":12.3285,
+    "geom:longitude":32.694,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Dal Qam",
+    "gn:country_code":"SD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504246,
+    "gn:latitude":12.3285,
+    "gn:longitude":32.694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Um Dal Qam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504246
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"9e098d2802abd1451485a108020be89a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632751,
+            "locality_id":1209040683
+        }
+    ],
+    "wof:id":1209040683,
+    "wof:lastmodified":1536299555,
+    "wof:name":"Um Dal Qam",
+    "wof:parent_id":85632751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.694,
+    12.3285,
+    32.694,
+    12.3285
+],
+  "geometry": {"coordinates":[32.694,12.3285],"type":"Point"}
+}

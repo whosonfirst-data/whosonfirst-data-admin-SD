@@ -1,0 +1,67 @@
+{
+  "id": 1260023981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2752,18.0892,38.2752,18.0892",
+    "geom:latitude":18.0892,
+    "geom:longitude":38.2752,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hillat At Fadul",
+    "gn:country_code":"SD",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983561,
+    "gn:latitude":18.0892,
+    "gn:longitude":38.2752,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hillat At Fadul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983561
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c7615564a76702744e75e07eb4de25ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1260023981,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1260023981,
+    "wof:lastmodified":1537070688,
+    "wof:name":"Hillat At Fadul",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2752,
+    18.0892,
+    38.2752,
+    18.0892
+],
+  "geometry": {"coordinates":[38.2752,18.0892],"type":"Point"}
+}

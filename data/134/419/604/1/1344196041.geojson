@@ -1,0 +1,73 @@
+{
+  "id": 1344196041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1335,14.231,33.1335,14.231",
+    "geom:latitude":14.231,
+    "geom:longitude":33.1335,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"'Ibod",
+    "gn:country_code":"SD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380988,
+    "gn:latitude":14.231,
+    "gn:longitude":33.1335,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"\u2018Ib\u014dd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ib\u014dd"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676893,
+        1091707779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380988
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"33a2b7092b60ddbf10de13d4504aec72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707779,
+            "locality_id":1344196041,
+            "region_id":85676893
+        }
+    ],
+    "wof:id":1344196041,
+    "wof:lastmodified":1537699600,
+    "wof:name":"'Ibod",
+    "wof:parent_id":1091707779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1335,
+    14.231,
+    33.1335,
+    14.231
+],
+  "geometry": {"coordinates":[33.1335,14.231],"type":"Point"}
+}

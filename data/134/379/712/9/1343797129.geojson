@@ -1,0 +1,71 @@
+{
+  "id": 1343797129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8365,12.7247,31.8365,12.7247",
+    "geom:latitude":12.7247,
+    "geom:longitude":31.8365,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Um Dam",
+    "gn:country_code":"SD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365208,
+    "gn:latitude":12.7247,
+    "gn:longitude":31.8365,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Um Dam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Dam",
+        "Um Dam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365208
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6118abf05199035650f9e75e47c94558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":1343797129,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1343797129,
+    "wof:lastmodified":1537699429,
+    "wof:name":"Um Dam",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8365,
+    12.7247,
+    31.8365,
+    12.7247
+],
+  "geometry": {"coordinates":[31.8365,12.7247],"type":"Point"}
+}

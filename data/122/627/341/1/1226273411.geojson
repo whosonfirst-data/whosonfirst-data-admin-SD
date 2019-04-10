@@ -1,0 +1,67 @@
+{
+  "id": 1226273411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53333,19.93333,30.53333,19.93333",
+    "geom:latitude":19.93333,
+    "geom:longitude":30.53333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kagbar",
+    "gn:country_code":"SD",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373121,
+    "gn:latitude":19.93333,
+    "gn:longitude":30.53333,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Kagbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676905,
+        1091705881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373121
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"eceffaf0ffe6fb384ea5b428b4e89c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705881,
+            "locality_id":1226273411,
+            "region_id":85676905
+        }
+    ],
+    "wof:id":1226273411,
+    "wof:lastmodified":1536893553,
+    "wof:name":"Kagbar",
+    "wof:parent_id":1091705881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53333,
+    19.93333,
+    30.53333,
+    19.93333
+],
+  "geometry": {"coordinates":[30.53333,19.93333],"type":"Point"}
+}

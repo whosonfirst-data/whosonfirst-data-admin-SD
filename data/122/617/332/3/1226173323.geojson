@@ -1,0 +1,71 @@
+{
+  "id": 1226173323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,13.95,30.66667,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Umm Hajar",
+    "gn:country_code":"SD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365051,
+    "gn:latitude":13.95,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Hagar",
+        "Umm \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365051
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"520eae14f6e4efa5e1133485de9c38b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1226173323,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1226173323,
+    "wof:lastmodified":1537699426,
+    "wof:name":"Umm Hajar",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    13.95,
+    30.66667,
+    13.95
+],
+  "geometry": {"coordinates":[30.66667,13.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326864219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19412,11.99423,23.19412,11.99423",
+    "geom:latitude":11.99423,
+    "geom:longitude":23.19412,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gausir",
+    "gn:country_code":"SD",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384716,
+    "gn:latitude":11.99423,
+    "gn:longitude":23.19412,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Gausir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676885,
+        1091705395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384716
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"06847b31d1612e1a55645028c77e9230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705395,
+            "locality_id":1326864219,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":1326864219,
+    "wof:lastmodified":1537001904,
+    "wof:name":"Gausir",
+    "wof:parent_id":1091705395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19412,
+    11.99423,
+    23.19412,
+    11.99423
+],
+  "geometry": {"coordinates":[23.19412,11.99423],"type":"Point"}
+}

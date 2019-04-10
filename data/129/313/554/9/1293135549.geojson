@@ -1,0 +1,71 @@
+{
+  "id": 1293135549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26667,13.05,32.26667,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":32.26667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Abu Humayrah",
+    "gn:country_code":"SD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380788,
+    "gn:latitude":13.05,
+    "gn:longitude":32.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u1e28umayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Humeira",
+        "Ab\u016b \u1e28umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676909,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380788
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"253bde2b30094f9dfba877218f000981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":1293135549,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":1293135549,
+    "wof:lastmodified":1537699597,
+    "wof:name":"Abu Humayrah",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26667,
+    13.05,
+    32.26667,
+    13.05
+],
+  "geometry": {"coordinates":[32.26667,13.05],"type":"Point"}
+}

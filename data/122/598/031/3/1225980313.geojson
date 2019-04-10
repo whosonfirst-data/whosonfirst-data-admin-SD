@@ -1,0 +1,67 @@
+{
+  "id": 1225980313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,13.23333,30.93333,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Alaga",
+    "gn:country_code":"SD",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379745,
+    "gn:latitude":13.23333,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Alaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Khartoum",
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379745
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"56915a6f86a0104d5e35ae90ca87520a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":1225980313,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":1225980313,
+    "wof:lastmodified":1536818526,
+    "wof:name":"Alaga",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    13.23333,
+    30.93333,
+    13.23333
+],
+  "geometry": {"coordinates":[30.93333,13.23333],"type":"Point"}
+}
