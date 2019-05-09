@@ -10,6 +10,12 @@
     "geom:latitude":12.89083,
     "geom:longitude":22.042769,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Beida County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.895312,
     "lbl:longitude":22.03892,
     "meso:admin_1":"West Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091705349,
-    "wof:lastmodified":1536614977,
+    "wof:lastmodified":1553717940,
     "wof:name":"Beida",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

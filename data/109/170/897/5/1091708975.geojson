@@ -10,6 +10,12 @@
     "geom:latitude":15.357693,
     "geom:longitude":28.494295,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sodari County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.263646,
     "lbl:longitude":28.296441,
     "meso:admin_1":"North Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708975,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"Sodari",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.761195,
     "geom:longitude":33.85781,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Eastern Sennar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.783858,
     "lbl:longitude":33.852045,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708257,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717946,
     "wof:name":"Eastern Sennar",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

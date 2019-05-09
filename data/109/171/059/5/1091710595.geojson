@@ -10,6 +10,12 @@
     "geom:latitude":16.432293,
     "geom:longitude":33.688111,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Shendi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.425285,
     "lbl:longitude":33.83021,
     "meso:admin_1":"River Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710595,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717949,
     "wof:name":"Shendi",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

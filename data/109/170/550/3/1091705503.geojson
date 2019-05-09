@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.79414,
-    "geom:area_square_m":9654160649.782728,
+    "geom:area_square_m":9654160649.781895,
     "geom:bbox":"33.5243726978,9.499999,34.6189930465,11.2927686698",
     "geom:latitude":10.526038,
     "geom:longitude":34.112953,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Kurmuk County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":10.485379,
     "lbl:longitude":34.021854,
     "meso:admin_1":"Blue Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091705503,
-    "wof:lastmodified":1505431268,
+    "wof:lastmodified":1553717941,
     "wof:name":"El Kurmuk",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

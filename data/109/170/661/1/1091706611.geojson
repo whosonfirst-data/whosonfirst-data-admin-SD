@@ -10,6 +10,12 @@
     "geom:latitude":12.073494,
     "geom:longitude":34.23379,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Damazine County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.218165,
     "lbl:longitude":34.201097,
     "meso:admin_1":"Blue Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706611,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"El Damazine",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

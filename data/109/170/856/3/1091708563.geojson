@@ -10,6 +10,12 @@
     "geom:latitude":12.428903,
     "geom:longitude":25.672814,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sheiria County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.483975,
     "lbl:longitude":25.666718,
     "meso:admin_1":"East Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091708563,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Sheiria",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

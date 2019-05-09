@@ -10,6 +10,12 @@
     "geom:latitude":14.515816,
     "geom:longitude":24.700585,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kutum County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.451037,
     "lbl:longitude":24.713278,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707521,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717945,
     "wof:name":"Kutum",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

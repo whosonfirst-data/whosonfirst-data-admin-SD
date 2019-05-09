@@ -10,6 +10,12 @@
     "geom:latitude":15.176241,
     "geom:longitude":35.320955,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Khashm Ghirba County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.170425,
     "lbl:longitude":35.266699,
     "meso:admin_1":"Kassala",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091707387,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717944,
     "wof:name":"Khashm Ghirba",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.332425,
     "geom:longitude":33.608554,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Greater Wad Madani County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.404992,
     "lbl:longitude":33.577651,
     "meso:admin_1":"Al Gezira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091706877,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"Greater Wad Madani",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

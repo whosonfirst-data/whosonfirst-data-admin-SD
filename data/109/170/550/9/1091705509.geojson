@@ -10,6 +10,12 @@
     "geom:latitude":14.492077,
     "geom:longitude":22.777124,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kulbus County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.491066,
     "lbl:longitude":22.646391,
     "meso:admin_1":"West Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091705509,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717941,
     "wof:name":"Kulbus",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

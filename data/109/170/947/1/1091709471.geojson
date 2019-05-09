@@ -10,6 +10,12 @@
     "geom:latitude":22.003553,
     "geom:longitude":35.133794,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Halayeb County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":22.259509,
     "lbl:longitude":35.314352,
     "meso:admin_1":"Red Sea",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091709471,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Halayeb",
     "wof:parent_id":-1,
     "wof:placetype":"county",

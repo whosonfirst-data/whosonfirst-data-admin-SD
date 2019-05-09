@@ -10,6 +10,12 @@
     "geom:latitude":13.404704,
     "geom:longitude":32.782704,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Rabak County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.397569,
     "lbl:longitude":32.782724,
     "meso:admin_1":"White Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707753,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Rabak",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

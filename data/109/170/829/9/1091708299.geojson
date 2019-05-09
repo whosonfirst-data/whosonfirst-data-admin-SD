@@ -10,6 +10,12 @@
     "geom:latitude":13.54078,
     "geom:longitude":33.246923,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sennar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.492007,
     "lbl:longitude":33.24103,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708299,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717946,
     "wof:name":"Sennar",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

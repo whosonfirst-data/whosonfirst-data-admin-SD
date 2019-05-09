@@ -10,6 +10,12 @@
     "geom:latitude":13.179312,
     "geom:longitude":32.496073,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kosti County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.206282,
     "lbl:longitude":32.405782,
     "meso:admin_1":"White Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707431,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717945,
     "wof:name":"Kosti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

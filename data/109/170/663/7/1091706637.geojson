@@ -10,6 +10,12 @@
     "geom:latitude":12.925356,
     "geom:longitude":34.138433,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Souki County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.93085,
     "lbl:longitude":34.138517,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706637,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"El Souki",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.51338,
     "geom:longitude":24.177472,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kass County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.560737,
     "lbl:longitude":24.170881,
     "meso:admin_1":"South Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091707997,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Kass",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

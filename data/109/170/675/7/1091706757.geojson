@@ -10,6 +10,12 @@
     "geom:latitude":11.433377,
     "geom:longitude":27.024205,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Adila County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.431512,
     "lbl:longitude":27.018685,
     "meso:admin_1":"East Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091706757,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"Adila",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

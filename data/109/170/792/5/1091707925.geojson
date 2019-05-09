@@ -10,6 +10,12 @@
     "geom:latitude":11.686823,
     "geom:longitude":24.345589,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Ed El Fursan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.669251,
     "lbl:longitude":24.3515,
     "meso:admin_1":"South Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091707925,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Ed El Fursan",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

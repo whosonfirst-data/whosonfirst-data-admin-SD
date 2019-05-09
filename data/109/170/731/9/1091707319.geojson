@@ -10,6 +10,12 @@
     "geom:latitude":16.727816,
     "geom:longitude":32.710408,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Matammah County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.674218,
     "lbl:longitude":32.545188,
     "meso:admin_1":"River Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707319,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717944,
     "wof:name":"El Matammah",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

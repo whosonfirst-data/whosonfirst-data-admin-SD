@@ -10,6 +10,12 @@
     "geom:latitude":11.022102,
     "geom:longitude":29.62213,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kadugli County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.005128,
     "lbl:longitude":29.616925,
     "meso:admin_1":"South Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710321,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717948,
     "wof:name":"Kadugli",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

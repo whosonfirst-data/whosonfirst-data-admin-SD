@@ -10,6 +10,12 @@
     "geom:latitude":14.147014,
     "geom:longitude":33.420855,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Southern El Gezira County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.159417,
     "lbl:longitude":33.451217,
     "meso:admin_1":"Al Gezira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091708695,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Southern El Gezira",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

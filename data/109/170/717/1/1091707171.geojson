@@ -10,6 +10,12 @@
     "geom:latitude":13.960892,
     "geom:longitude":23.598135,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Sireaf County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.939347,
     "lbl:longitude":23.587611,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707171,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717944,
     "wof:name":"El Sireaf",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

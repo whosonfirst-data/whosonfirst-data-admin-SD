@@ -10,6 +10,12 @@
     "geom:latitude":11.794494,
     "geom:longitude":23.45904,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Mukjar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.798734,
     "lbl:longitude":23.429096,
     "meso:admin_1":"Central Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707841,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Mukjar",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

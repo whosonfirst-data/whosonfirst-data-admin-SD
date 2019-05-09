@@ -10,6 +10,12 @@
     "geom:latitude":15.128622,
     "geom:longitude":32.941547,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Kamleen County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.091241,
     "lbl:longitude":33.01717,
     "meso:admin_1":"Al Gezira",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708377,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"El Kamleen",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

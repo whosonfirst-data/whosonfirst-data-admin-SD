@@ -10,6 +10,12 @@
     "geom:latitude":11.124432,
     "geom:longitude":31.692173,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Abu Jubaiha County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.196081,
     "lbl:longitude":31.781193,
     "meso:admin_1":"South Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706897,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"Abu Jubaiha",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

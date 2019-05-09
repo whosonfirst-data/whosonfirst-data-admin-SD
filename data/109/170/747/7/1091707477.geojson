@@ -10,6 +10,12 @@
     "geom:latitude":13.331654,
     "geom:longitude":22.820981,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kreinik County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.378722,
     "lbl:longitude":22.813981,
     "meso:admin_1":"West Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707477,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717945,
     "wof:name":"Kreinik",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

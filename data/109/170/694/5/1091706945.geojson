@@ -10,6 +10,12 @@
     "geom:latitude":12.696184,
     "geom:longitude":22.458888,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Habila County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.782855,
     "lbl:longitude":22.437156,
     "meso:admin_1":"West Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091706945,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717944,
     "wof:name":"Habila",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

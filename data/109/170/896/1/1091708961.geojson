@@ -10,6 +10,12 @@
     "geom:latitude":13.158675,
     "geom:longitude":31.072859,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Um Rawaba County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.140201,
     "lbl:longitude":31.056513,
     "meso:admin_1":"North Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708961,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717946,
     "wof:name":"Um Rawaba",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

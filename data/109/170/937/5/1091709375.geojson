@@ -10,6 +10,12 @@
     "geom:latitude":13.046639,
     "geom:longitude":23.537529,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Zalingei County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.045533,
     "lbl:longitude":23.544148,
     "meso:admin_1":"Central Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709375,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"Zalingei",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

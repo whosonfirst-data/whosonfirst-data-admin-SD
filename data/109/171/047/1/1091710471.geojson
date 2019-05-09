@@ -10,6 +10,12 @@
     "geom:latitude":18.330106,
     "geom:longitude":31.966759,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Merawi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":18.374497,
     "lbl:longitude":31.90012,
     "meso:admin_1":"Northern",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710471,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717949,
     "wof:name":"Merawi",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

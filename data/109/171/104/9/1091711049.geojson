@@ -10,6 +10,12 @@
     "geom:latitude":10.705754,
     "geom:longitude":25.085179,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Buram County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":10.729514,
     "lbl:longitude":25.090096,
     "meso:admin_1":"South Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091711049,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1553717949,
     "wof:name":"Buram",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":20.130502,
     "geom:longitude":29.042249,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Dalgo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":20.099678,
     "lbl:longitude":29.045535,
     "meso:admin_1":"Northern",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705881,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717942,
     "wof:name":"Dalgo",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

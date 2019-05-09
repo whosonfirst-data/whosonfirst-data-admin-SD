@@ -10,6 +10,12 @@
     "geom:latitude":19.487,
     "geom:longitude":37.210539,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Port Sudan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":19.47966,
     "lbl:longitude":37.199371,
     "meso:admin_1":"Red Sea",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709521,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717947,
     "wof:name":"Port Sudan",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.610762,
     "geom:longitude":28.388325,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Salam County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.523163,
     "lbl:longitude":28.325518,
     "meso:admin_1":"West Kordofan",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091706565,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717943,
     "wof:name":"El Salam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

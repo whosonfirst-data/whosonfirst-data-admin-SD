@@ -10,6 +10,12 @@
     "geom:latitude":19.233551,
     "geom:longitude":29.638188,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Dongola County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":19.214566,
     "lbl:longitude":29.638097,
     "meso:admin_1":"Northern",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705759,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717942,
     "wof:name":"Dongola",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

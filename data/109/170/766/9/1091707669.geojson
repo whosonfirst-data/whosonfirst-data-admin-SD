@@ -10,6 +10,12 @@
     "geom:latitude":14.273897,
     "geom:longitude":34.930942,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Middle Gedaref County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.303961,
     "lbl:longitude":34.857187,
     "meso:admin_1":"Gedaref",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707669,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Middle Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

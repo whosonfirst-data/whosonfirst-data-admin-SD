@@ -10,6 +10,12 @@
     "geom:latitude":11.2894,
     "geom:longitude":29.05751,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Lagawa County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.273707,
     "lbl:longitude":29.065503,
     "meso:admin_1":"West Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707523,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717945,
     "wof:name":"Lagawa",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

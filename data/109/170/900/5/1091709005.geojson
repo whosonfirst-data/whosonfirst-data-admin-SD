@@ -10,6 +10,12 @@
     "geom:latitude":13.487816,
     "geom:longitude":26.863487,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Umm Keddada County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.470135,
     "lbl:longitude":26.863511,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709005,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717946,
     "wof:name":"Umm Keddada",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

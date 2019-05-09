@@ -10,6 +10,12 @@
     "geom:latitude":15.164688,
     "geom:longitude":36.365965,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Rural Kassala County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.992557,
     "lbl:longitude":36.272065,
     "meso:admin_1":"Kassala",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091708149,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Rural Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

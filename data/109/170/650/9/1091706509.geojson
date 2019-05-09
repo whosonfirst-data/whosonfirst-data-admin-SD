@@ -10,6 +10,12 @@
     "geom:latitude":11.899591,
     "geom:longitude":34.669942,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Roseires County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.85726,
     "lbl:longitude":34.661955,
     "meso:admin_1":"Blue Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706509,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717943,
     "wof:name":"El Roseires",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

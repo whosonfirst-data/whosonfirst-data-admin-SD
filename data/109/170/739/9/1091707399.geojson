@@ -10,6 +10,12 @@
     "geom:latitude":13.968855,
     "geom:longitude":31.981229,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Douiem County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.979849,
     "lbl:longitude":32.021573,
     "meso:admin_1":"White Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707399,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717944,
     "wof:name":"El Douiem",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

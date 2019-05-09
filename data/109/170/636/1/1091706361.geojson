@@ -10,6 +10,12 @@
     "geom:latitude":13.727706,
     "geom:longitude":25.316128,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Fasher County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.715471,
     "lbl:longitude":25.24262,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706361,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717942,
     "wof:name":"El Fasher",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

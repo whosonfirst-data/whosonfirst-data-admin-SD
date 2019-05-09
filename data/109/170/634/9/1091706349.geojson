@@ -10,6 +10,12 @@
     "geom:latitude":14.779936,
     "geom:longitude":32.926093,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Hasaheesa County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.683716,
     "lbl:longitude":33.133159,
     "meso:admin_1":"Al Gezira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091706349,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717942,
     "wof:name":"El Hasaheesa",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

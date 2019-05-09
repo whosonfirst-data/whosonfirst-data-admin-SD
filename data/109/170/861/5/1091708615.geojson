@@ -10,6 +10,12 @@
     "geom:latitude":13.138214,
     "geom:longitude":33.74107,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Singa County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.141908,
     "lbl:longitude":33.766451,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708615,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Singa",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

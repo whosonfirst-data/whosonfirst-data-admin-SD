@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.351264,
-    "geom:area_square_m":16433106207.822365,
+    "geom:area_square_m":16433106207.822456,
     "geom:bbox":"29.9414703489,9.7118405,31.5005407659,11.370713023",
     "geom:latitude":10.413624,
     "geom:longitude":30.831476,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Talodi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":10.375905,
     "lbl:longitude":30.843193,
     "meso:admin_1":"South Kordofan",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1091705521,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037700,
     "wof:name":"Talodi",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

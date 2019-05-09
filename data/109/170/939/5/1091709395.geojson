@@ -10,6 +10,12 @@
     "geom:latitude":15.402959,
     "geom:longitude":30.908602,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Jebrat El Sheikh County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.460721,
     "lbl:longitude":30.936259,
     "meso:admin_1":"North Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709395,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Jebrat El Sheikh",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":17.229357,
     "geom:longitude":30.685571,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Al Daba County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":17.305902,
     "lbl:longitude":30.71251,
     "meso:admin_1":"Northern",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709377,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"Al Daba",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

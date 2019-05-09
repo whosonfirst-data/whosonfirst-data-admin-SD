@@ -10,6 +10,12 @@
     "geom:latitude":16.401925,
     "geom:longitude":36.01192,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "North Delta County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.386869,
     "lbl:longitude":35.98737,
     "meso:admin_1":"Kassala",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709303,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"North Delta",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

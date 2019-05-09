@@ -10,6 +10,12 @@
     "geom:latitude":17.852861,
     "geom:longitude":32.91411,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Atbara County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":17.878346,
     "lbl:longitude":32.766913,
     "meso:admin_1":"River Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709911,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Atbara",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

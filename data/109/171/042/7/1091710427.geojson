@@ -10,6 +10,12 @@
     "geom:latitude":14.374248,
     "geom:longitude":25.720737,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Mellit County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.345403,
     "lbl:longitude":25.649629,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710427,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717948,
     "wof:name":"Mellit",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

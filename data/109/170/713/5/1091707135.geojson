@@ -10,6 +10,12 @@
     "geom:latitude":15.359664,
     "geom:longitude":32.584088,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Jabal Aulia County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.362267,
     "lbl:longitude":32.586653,
     "meso:admin_1":"Khartoum",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091707135,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717943,
     "wof:name":"Jabal Aulia",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

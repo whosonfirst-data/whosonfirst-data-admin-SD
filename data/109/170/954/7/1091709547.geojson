@@ -10,6 +10,12 @@
     "geom:latitude":13.818045,
     "geom:longitude":22.444317,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sirba County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.829027,
     "lbl:longitude":22.417792,
     "meso:admin_1":"West Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091709547,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717947,
     "wof:name":"Sirba",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

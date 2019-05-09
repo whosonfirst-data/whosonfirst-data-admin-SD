@@ -10,6 +10,12 @@
     "geom:latitude":12.311925,
     "geom:longitude":23.063056,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Wadi Salih County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.385504,
     "lbl:longitude":23.072335,
     "meso:admin_1":"Central Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091709589,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Wadi Salih",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

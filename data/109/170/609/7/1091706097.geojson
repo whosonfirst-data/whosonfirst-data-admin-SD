@@ -10,6 +10,12 @@
     "geom:latitude":15.845155,
     "geom:longitude":35.814819,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Aroma County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.784755,
     "lbl:longitude":35.807446,
     "meso:admin_1":"Kassala",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706097,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717942,
     "wof:name":"Aroma",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.211683,
     "geom:longitude":32.799369,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Manageel County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.220077,
     "lbl:longitude":32.792461,
     "meso:admin_1":"Al Gezira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091707779,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"El Manageel",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.797468,
     "geom:longitude":36.560688,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Hamashkoreib County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.799302,
     "lbl:longitude":36.560712,
     "meso:admin_1":"Kassala",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707053,
-    "wof:lastmodified":1536614980,
+    "wof:lastmodified":1553717944,
     "wof:name":"Hamashkoreib",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

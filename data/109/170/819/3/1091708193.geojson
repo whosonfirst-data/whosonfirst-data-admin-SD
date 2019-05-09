@@ -10,6 +10,12 @@
     "geom:latitude":13.58813,
     "geom:longitude":23.434643,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Saraf Omra County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.5678,
     "lbl:longitude":23.295216,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708193,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717946,
     "wof:name":"Saraf Omra",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

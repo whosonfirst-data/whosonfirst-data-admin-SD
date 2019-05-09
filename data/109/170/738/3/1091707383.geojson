@@ -10,6 +10,12 @@
     "geom:latitude":15.555134,
     "geom:longitude":32.558943,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Khartoum County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.56751,
     "lbl:longitude":32.543735,
     "meso:admin_1":"Khartoum",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707383,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717944,
     "wof:name":"Khartoum",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

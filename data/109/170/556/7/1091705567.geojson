@@ -10,6 +10,12 @@
     "geom:latitude":11.222199,
     "geom:longitude":23.117271,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Umm Dukhun County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.196599,
     "lbl:longitude":23.205179,
     "meso:admin_1":"Central Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705567,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717940,
     "wof:name":"Umm Dukhun",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

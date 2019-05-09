@@ -10,6 +10,12 @@
     "geom:latitude":12.733549,
     "geom:longitude":34.807807,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Dindir County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.739823,
     "lbl:longitude":34.807672,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706215,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717942,
     "wof:name":"El Dindir",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

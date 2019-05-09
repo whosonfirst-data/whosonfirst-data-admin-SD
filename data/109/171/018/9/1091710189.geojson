@@ -10,6 +10,12 @@
     "geom:latitude":12.881961,
     "geom:longitude":23.020461,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Azum County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.826112,
     "lbl:longitude":23.054414,
     "meso:admin_1":"Central Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710189,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717948,
     "wof:name":"Azum",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

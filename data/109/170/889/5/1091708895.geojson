@@ -10,6 +10,12 @@
     "geom:latitude":14.504793,
     "geom:longitude":33.913596,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Um El Qura County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.507136,
     "lbl:longitude":33.885982,
     "meso:admin_1":"Al Gezira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091708895,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Um El Qura",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

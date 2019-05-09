@@ -10,6 +10,12 @@
     "geom:latitude":9.789653,
     "geom:longitude":28.4102,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Abyei PCA Area County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.758361,
     "lbl:longitude":28.410206,
     "meso:admin_1":"West Kordofan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1091711067,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1553717949,
     "wof:name":"Abyei PCA Area",
     "wof:parent_id":-1,
     "wof:placetype":"county",

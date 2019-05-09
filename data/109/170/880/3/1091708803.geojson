@@ -10,6 +10,12 @@
     "geom:latitude":16.088132,
     "geom:longitude":32.353401,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Karari County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.061975,
     "lbl:longitude":32.381356,
     "meso:admin_1":"Khartoum",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708803,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Karari",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

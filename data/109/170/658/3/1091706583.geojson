@@ -10,6 +10,12 @@
     "geom:latitude":12.920664,
     "geom:longitude":29.235351,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Abu Zabad County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.838111,
     "lbl:longitude":29.225391,
     "meso:admin_1":"West Kordofan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706583,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717943,
     "wof:name":"Abu Zabad",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

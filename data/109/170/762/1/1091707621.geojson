@@ -10,6 +10,12 @@
     "geom:latitude":13.33777,
     "geom:longitude":35.109032,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Qala El Nahal County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.309204,
     "lbl:longitude":35.114835,
     "meso:admin_1":"Gedaref",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707621,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Qala El Nahal",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

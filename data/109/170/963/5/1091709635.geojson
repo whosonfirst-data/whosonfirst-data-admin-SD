@@ -10,6 +10,12 @@
     "geom:latitude":11.137259,
     "geom:longitude":33.806938,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Bau County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.156782,
     "lbl:longitude":33.750829,
     "meso:admin_1":"Blue Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709635,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Bau",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

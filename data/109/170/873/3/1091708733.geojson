@@ -10,6 +10,12 @@
     "geom:latitude":18.06885,
     "geom:longitude":37.380881,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Tokar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":18.334606,
     "lbl:longitude":37.442361,
     "meso:admin_1":"Red Sea",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708733,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717947,
     "wof:name":"Tokar",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

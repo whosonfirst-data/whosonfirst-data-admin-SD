@@ -10,6 +10,12 @@
     "geom:latitude":11.104036,
     "geom:longitude":24.727064,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Tullus County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.109101,
     "lbl:longitude":24.772938,
     "meso:admin_1":"South Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708779,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Tullus",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

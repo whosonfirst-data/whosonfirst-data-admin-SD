@@ -10,6 +10,12 @@
     "geom:latitude":11.666553,
     "geom:longitude":33.641518,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Al Tadamon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.719051,
     "lbl:longitude":33.649763,
     "meso:admin_1":"Blue Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709781,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Al Tadamon",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":17.562595,
     "geom:longitude":25.792108,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Malha County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":17.790353,
     "lbl:longitude":25.76873,
     "meso:admin_1":"North Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705505,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717941,
     "wof:name":"El Malha",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

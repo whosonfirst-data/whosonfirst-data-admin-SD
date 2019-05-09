@@ -10,6 +10,12 @@
     "geom:latitude":13.359364,
     "geom:longitude":22.350977,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Geneina County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.51824,
     "lbl:longitude":22.368789,
     "meso:admin_1":"West Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705485,
-    "wof:lastmodified":1536614978,
+    "wof:lastmodified":1553717942,
     "wof:name":"El Geneina",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

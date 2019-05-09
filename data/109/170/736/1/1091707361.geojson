@@ -10,6 +10,12 @@
     "geom:latitude":15.998543,
     "geom:longitude":32.799913,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Khartoum North County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.999114,
     "lbl:longitude":32.740711,
     "meso:admin_1":"Khartoum",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707361,
-    "wof:lastmodified":1536614981,
+    "wof:lastmodified":1553717944,
     "wof:name":"Khartoum North",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

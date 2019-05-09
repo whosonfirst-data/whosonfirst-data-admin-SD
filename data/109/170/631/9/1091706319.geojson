@@ -10,6 +10,12 @@
     "geom:latitude":14.472686,
     "geom:longitude":32.36826,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Gutaina County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.006962,
     "lbl:longitude":32.373646,
     "meso:admin_1":"White Nile",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091706319,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1553717943,
     "wof:name":"El Gutaina",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

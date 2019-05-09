@@ -10,6 +10,12 @@
     "geom:latitude":18.149093,
     "geom:longitude":33.736772,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Barbar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":18.128788,
     "lbl:longitude":33.819382,
     "meso:admin_1":"River Nile",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091709863,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Barbar",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

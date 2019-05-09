@@ -10,6 +10,12 @@
     "geom:latitude":12.03302,
     "geom:longitude":24.875492,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Nyala County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.026123,
     "lbl:longitude":24.870344,
     "meso:admin_1":"South Darfur",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091707611,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Nyala",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

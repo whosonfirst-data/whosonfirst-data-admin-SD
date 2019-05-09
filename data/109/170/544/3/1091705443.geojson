@@ -10,6 +10,12 @@
     "geom:latitude":14.297935,
     "geom:longitude":35.902258,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Fashaga County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.689336,
     "lbl:longitude":35.64096,
     "meso:admin_1":"Gedaref",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091705443,
-    "wof:lastmodified":1536614977,
+    "wof:lastmodified":1553717941,
     "wof:name":"El Fashaga",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

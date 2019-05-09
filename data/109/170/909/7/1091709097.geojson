@@ -10,6 +10,12 @@
     "geom:latitude":14.525339,
     "geom:longitude":36.164681,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Wad El Helew County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.517563,
     "lbl:longitude":36.157922,
     "meso:admin_1":"Kassala",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091709097,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"Wad El Helew",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.031772,
     "geom:longitude":23.69748,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Rahad El Berdi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.092871,
     "lbl:longitude":23.794099,
     "meso:admin_1":"South Darfur",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091707885,
-    "wof:lastmodified":1536614982,
+    "wof:lastmodified":1553717945,
     "wof:name":"Rahad El Berdi",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

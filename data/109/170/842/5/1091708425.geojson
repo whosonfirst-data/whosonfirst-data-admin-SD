@@ -10,6 +10,12 @@
     "geom:latitude":15.725679,
     "geom:longitude":33.381101,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sharq El Nile County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":15.719189,
     "lbl:longitude":33.292617,
     "meso:admin_1":"Khartoum",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091708425,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1553717946,
     "wof:name":"Sharq El Nile",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

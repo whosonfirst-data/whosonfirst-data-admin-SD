@@ -10,6 +10,12 @@
     "geom:latitude":16.175559,
     "geom:longitude":36.579112,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Telkok County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":16.211466,
     "lbl:longitude":36.610322,
     "meso:admin_1":"Kassala",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709133,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"Telkok",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

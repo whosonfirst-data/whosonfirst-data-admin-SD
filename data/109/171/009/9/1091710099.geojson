@@ -10,6 +10,12 @@
     "geom:latitude":12.529831,
     "geom:longitude":33.437817,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Dali County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":12.664207,
     "lbl:longitude":33.354483,
     "meso:admin_1":"Sennar",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091710099,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1553717948,
     "wof:name":"El Dali",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

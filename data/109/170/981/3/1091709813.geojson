@@ -10,6 +10,12 @@
     "geom:latitude":13.988133,
     "geom:longitude":30.29893,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Bara County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":14.047882,
     "lbl:longitude":30.029392,
     "meso:admin_1":"North Kordofan",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091709813,
-    "wof:lastmodified":1536614985,
+    "wof:lastmodified":1553717948,
     "wof:name":"Bara",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

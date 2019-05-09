@@ -10,6 +10,12 @@
     "geom:latitude":10.462596,
     "geom:longitude":28.283961,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Abyei - Muglad County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":10.579737,
     "lbl:longitude":28.283752,
     "meso:admin_1":"West Kordofan",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091711157,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1553717949,
     "wof:name":"Abyei - Muglad",
     "wof:parent_id":-1,
     "wof:placetype":"county",

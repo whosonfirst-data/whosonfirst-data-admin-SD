@@ -10,6 +10,12 @@
     "geom:latitude":13.20079,
     "geom:longitude":34.857739,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Rahad County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":13.050045,
     "lbl:longitude":35.029174,
     "meso:admin_1":"Gedaref",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091709223,
-    "wof:lastmodified":1536614984,
+    "wof:lastmodified":1553717947,
     "wof:name":"El Rahad",
     "wof:parent_id":85676897,
     "wof:placetype":"county",
