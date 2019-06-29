@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Shambat"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Shambat"
     ],
     "qs:gn_country":"SD",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":421200579,
-    "wof:lastmodified":1527716430,
+    "wof:lastmodified":1561839883,
     "wof:name":"Shambat",
     "wof:parent_id":1091707361,
     "wof:placetype":"locality",

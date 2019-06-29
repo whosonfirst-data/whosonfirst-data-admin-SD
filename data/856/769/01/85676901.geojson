@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.178222,
-    "geom:area_square_m":131128200101.687271,
+    "geom:area_square_m":131128200101.686493,
     "geom:bbox":"31.8866626537,15.9829475497,35.6948366149,22.0000041473",
     "geom:latitude":18.366409,
     "geom:longitude":33.455958,
@@ -45,14 +45,14 @@
     "name:cat_x_preferred":[
         "Nahr an-Nil"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u7f85\u7701"
-    ],
     "name:dan_x_preferred":[
         "Nilen"
     ],
-    "name:dut_x_preferred":[
-        "Nahr-an-Nil"
+    "name:deu_x_preferred":[
+        "Nahr an-Nil"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u039d\u03b5\u03af\u03bb\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Nahr an Nil"
@@ -67,18 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Nil"
-    ],
-    "name:fre_x_preferred":[
-        "Nil"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10da\u10dd\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Nahr an-Nil"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u039d\u03b5\u03af\u03bb\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0ab0 \u0aa8\u0abe\u0a87\u0ab2"
@@ -98,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cc8\u0cb2\u0ccd \u0ca8\u0ca6\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10da\u10dd\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub098\uc77c \uc8fc"
     ],
@@ -110,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0935\u094d\u0939\u0930 \u0928\u093e\u0908\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "River Nile"
+    ],
+    "name:nld_x_preferred":[
+        "Nahr-an-Nil"
     ],
     "name:nob_x_preferred":[
         "Nil elven"
@@ -125,7 +119,7 @@
     "name:por_x_preferred":[
         "Rio Nilo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul R\u00e2ul Nil"
     ],
     "name:rus_x_preferred":[
@@ -172,6 +166,9 @@
     ],
     "name:war_x_preferred":[
         "Salog Nilo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u7f85\u7701"
     ],
     "ne:abbrev":"R. Nile",
     "ne:adm0_a3":"SDN",
@@ -297,7 +294,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1553814824,
+    "wof:lastmodified":1561839866,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -27,10 +27,7 @@
     "name:cat_x_preferred":[
         "Atbara"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7279\u5df4\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Atbara"
     ],
     "name:dan_x_preferred":[
@@ -39,8 +36,8 @@
     "name:deu_x_preferred":[
         "Atbara"
     ],
-    "name:dut_x_preferred":[
-        "Atbarah"
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03bc\u03c0\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Atbarah"
@@ -57,17 +54,11 @@
     "name:fin_x_preferred":[
         "Atbara"
     ],
-    "name:fre_x_preferred":[
-        "Atbara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Atbara"
     ],
     "name:glg_x_preferred":[
         "Atbara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03bc\u03c0\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0aac\u0abe\u0ab0\u0abe\u0ab9"
@@ -99,7 +90,7 @@
     "name:mar_x_preferred":[
         "\u0905\u091f\u092c\u093e\u0930\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Atbarah"
     ],
     "name:nld_x_preferred":[
@@ -108,16 +99,13 @@
     "name:nob_x_preferred":[
         "Atbara"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0637\u0628\u0631\u0647"
-    ],
     "name:pol_x_preferred":[
         "Atbara"
     ],
     "name:por_x_preferred":[
         "Atbara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Atbara"
     ],
     "name:rus_x_preferred":[
@@ -298,7 +286,7 @@
         }
     ],
     "wof:id":1141908839,
-    "wof:lastmodified":1534379459,
+    "wof:lastmodified":1561839890,
     "wof:name":"Atbara",
     "wof:parent_id":1091709911,
     "wof:placetype":"locality",

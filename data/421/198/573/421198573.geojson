@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Kurmuk"
     ],
-    "name:dut_x_preferred":[
-        "Kurmuk"
-    ],
     "name:eng_x_preferred":[
         "Kurmuk"
     ],
     "name:fra_x_preferred":[
-        "Kurmuk"
-    ],
-    "name:fre_x_preferred":[
         "Kurmuk"
     ],
     "name:heb_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30e0\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Kurmuk"
     ],
     "name:unk_x_variant":[
         "Kurmul"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421198573,
-    "wof:lastmodified":1527716353,
+    "wof:lastmodified":1561839883,
     "wof:name":"Kurmuk",
     "wof:parent_id":1091705503,
     "wof:placetype":"locality",

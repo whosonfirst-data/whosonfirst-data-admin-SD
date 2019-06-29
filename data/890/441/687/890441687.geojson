@@ -28,17 +28,11 @@
     "name:aka_x_preferred":[
         "Khartoum"
     ],
-    "name:alb_x_preferred":[
-        "Kartum"
-    ],
     "name:amh_x_preferred":[
         "\u12ab\u122d\u1271\u121d"
     ],
     "name:ara_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
-    ],
-    "name:arm_x_preferred":[
-        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
@@ -52,9 +46,6 @@
     "name:aze_x_preferred":[
         "Xartum"
     ],
-    "name:baq_x_preferred":[
-        "Khartum"
-    ],
     "name:bcl_x_preferred":[
         "Khartoum"
     ],
@@ -67,6 +58,9 @@
     "name:bod_x_preferred":[
         "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58"
     ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Kartum"
     ],
@@ -75,9 +69,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
-    ],
-    "name:bur_x_preferred":[
-        "\u1001\u102b\u1010\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Khartum"
@@ -91,9 +82,6 @@
     "name:che_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u5580\u571f\u7a46"
-    ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
@@ -106,17 +94,11 @@
     "name:cym_x_preferred":[
         "Khartoum"
     ],
-    "name:cze_x_preferred":[
-        "Chart\u00fam"
-    ],
     "name:dan_x_preferred":[
         "Khartoum"
     ],
     "name:deu_x_preferred":[
         "Khartum"
-    ],
-    "name:dut_x_preferred":[
-        "Khartoem"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
@@ -130,6 +112,9 @@
     "name:est_x_preferred":[
         "Hartum"
     ],
+    "name:eus_x_preferred":[
+        "Khartum"
+    ],
     "name:fao_x_preferred":[
         "Khartoum"
     ],
@@ -142,17 +127,8 @@
     "name:fra_x_preferred":[
         "Khartoum"
     ],
-    "name:fre_x_preferred":[
-        "Khartoum"
-    ],
     "name:fry_x_preferred":[
         "Kart\u00fbm"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Khartum"
     ],
     "name:gla_x_preferred":[
         "Khartoum"
@@ -162,9 +138,6 @@
     ],
     "name:glg_x_preferred":[
         "Khart\u00fan - \u0627\u0644\u062e\u0631\u0637\u0648\u0645"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0abe\u0ab0\u0acd\u0aa4\u0ac2\u0aae"
@@ -193,8 +166,8 @@
     "name:hun_x_preferred":[
         "Kart\u00fam"
     ],
-    "name:ice_x_preferred":[
-        "Kart\u00fam"
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
     ],
     "name:ido_x_preferred":[
         "Khartoum"
@@ -222,6 +195,9 @@
     ],
     "name:kan_x_preferred":[
         "\u200d\u0c96\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0caf\u0cc2\u0cae\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8"
     ],
     "name:kbp_x_preferred":[
         "Kaartum"
@@ -253,17 +229,14 @@
     "name:ltz_x_preferred":[
         "Khartum"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0442\u0443\u043c"
-    ],
     "name:mal_x_preferred":[
         "\u0d16\u0d3e\u0d7c\u0d24\u0d4d\u0d24\u0d42\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0916\u093e\u0930\u094d\u091f\u0942\u092e"
     ],
-    "name:may_x_preferred":[
-        "Khartoum"
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0443\u043c"
     ],
     "name:mlg_x_preferred":[
         "Khartoum"
@@ -273,6 +246,12 @@
     ],
     "name:mrj_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
+    "name:msa_x_preferred":[
+        "Khartoum"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u102b\u1010\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Cartun"
@@ -310,9 +289,6 @@
     "name:pap_x_preferred":[
         "Kartum"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0627\u0631\u0637\u0648\u0645"
-    ],
     "name:pms_x_preferred":[
         "Khartoum"
     ],
@@ -325,7 +301,7 @@
     "name:por_x_preferred":[
         "Cartum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Khartoum"
     ],
     "name:rup_x_preferred":[
@@ -343,9 +319,6 @@
     "name:slk_x_preferred":[
         "Chart\u00fam"
     ],
-    "name:slo_x_preferred":[
-        "Chart\u00fam"
-    ],
     "name:slv_x_preferred":[
         "Kartum"
     ],
@@ -357,6 +330,9 @@
     ],
     "name:spa_x_preferred":[
         "Jartum"
+    ],
+    "name:sqi_x_preferred":[
+        "Kartum"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043c"
@@ -384,9 +360,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e17\u0e39\u0e21"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Hartum"
@@ -422,9 +395,6 @@
         "Khartoum"
     ],
     "name:war_x_preferred":[
-        "Khartoum"
-    ],
-    "name:wel_x_preferred":[
         "Khartoum"
     ],
     "name:wol_x_preferred":[
@@ -577,7 +547,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1552519485,
+    "wof:lastmodified":1561839883,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,
     "wof:placetype":"locality",

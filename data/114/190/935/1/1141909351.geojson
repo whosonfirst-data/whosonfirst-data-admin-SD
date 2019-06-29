@@ -31,32 +31,29 @@
     "name:cat_x_preferred":[
         "Ciutat de Dongola"
     ],
-    "name:chi_x_preferred":[
-        "\u68df\u53e4\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dongola"
     ],
     "name:dan_x_preferred":[
         "Dongola"
     ],
-    "name:dut_x_preferred":[
-        "Dongola"
+    "name:deu_x_preferred":[
+        "Dunqula"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bd\u03b3\u03ba\u03bf\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dongola"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0642\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Dongola"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dongola"
-    ],
-    "name:ger_x_preferred":[
-        "Dunqula"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03bd\u03b3\u03ba\u03bf\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a82\u0a97\u0acb\u0ab2\u0abe"
@@ -91,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u0902\u0917\u094b\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dongola"
+    ],
+    "name:nld_x_preferred":[
         "Dongola"
     ],
     "name:nob_x_preferred":[
@@ -100,16 +100,13 @@
     "name:oci_x_preferred":[
         "Dongola"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0646\u0642\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Dongola"
     ],
     "name:por_x_preferred":[
         "Dongola"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dongola"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:war_x_preferred":[
         "Dongola"
+    ],
+    "name:zho_x_preferred":[
+        "\u68df\u53e4\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -267,7 +267,7 @@
         }
     ],
     "wof:id":1141909351,
-    "wof:lastmodified":1534379459,
+    "wof:lastmodified":1561839890,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",
