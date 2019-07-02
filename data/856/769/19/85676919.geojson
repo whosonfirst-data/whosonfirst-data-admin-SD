@@ -42,9 +42,6 @@
     "name:cat_x_preferred":[
         "Shamal Darfur"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u9054\u723e\u5bcc\u723e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Norddarfur"
     ],
@@ -54,8 +51,8 @@
     "name:diq_x_preferred":[
         "Darfur\u00ea Z\u0131mey"
     ],
-    "name:dut_x_preferred":[
-        "Shamal-Darfur"
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u039d\u03c4\u03b1\u03c1\u03c6\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Shamal Darfor"
@@ -75,18 +72,6 @@
     ],
     "name:fra_x_preferred":[
         "Darfour du Nord"
-    ],
-    "name:fre_x_preferred":[
-        "Darfour du Nord"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d3\u10d0\u10e0\u10e4\u10e3\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Schamal Darfur"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u039d\u03c4\u03b1\u03c1\u03c6\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0aa1\u0abe\u0ab0\u0acd\u0aab\u0ac1\u0ab0"
@@ -124,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0925 \u0926\u093e\u0930\u092b\u0941\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "North Darfur"
     ],
     "name:nld_x_preferred":[
@@ -136,9 +121,6 @@
     "name:nor_x_preferred":[
         "Nord-Darfur"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0631\u0641\u0648\u0631 \u0634\u0645\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Darfur P\u00f3\u0142nocny"
     ],
@@ -146,9 +128,6 @@
         "Darfur do Norte"
     ],
     "name:ron_x_preferred":[
-        "Statul Darfur de Nord"
-    ],
-    "name:rum_x_preferred":[
         "Statul Darfur de Nord"
     ],
     "name:rus_x_preferred":[
@@ -198,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u8fbe\u5c14\u5bcc\u5c14\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u9054\u723e\u5bcc\u723e\u7701"
     ],
     "ne:abbrev":"N. Darfur",
     "ne:adm0_a3":"SDN",
@@ -326,7 +308,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1553550530,
+    "wof:lastmodified":1561839865,
     "wof:name":"North Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

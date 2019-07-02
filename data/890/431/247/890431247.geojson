@@ -19,16 +19,16 @@
     "name:ara_x_preferred":[
         "Tok\u0101r"
     ],
-    "name:dut_x_preferred":[
-        "Tokar"
+    "name:deu_x_preferred":[
+        "Tawkar"
     ],
     "name:eng_x_preferred":[
         "Tokar"
     ],
-    "name:ger_x_preferred":[
-        "Tawkar"
-    ],
     "name:ita_x_preferred":[
+        "Tokar"
+    ],
+    "name:nld_x_preferred":[
         "Tokar"
     ],
     "name:pol_x_preferred":[
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":890431247,
-    "wof:lastmodified":1527735416,
+    "wof:lastmodified":1561839884,
     "wof:name":"Tok\u0101r",
     "wof:parent_id":1091708733,
     "wof:placetype":"locality",

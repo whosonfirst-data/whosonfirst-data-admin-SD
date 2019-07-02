@@ -19,17 +19,11 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0623\u0628\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Al-Ubayyid"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2-\u0989\u09ac\u09be\u0987\u0988\u09a6"
     ],
     "name:cat_x_preferred":[
         "Al-Ubayyid"
-    ],
-    "name:chi_x_preferred":[
-        "\u6b27\u62dc\u4f0a\u5fb7"
     ],
     "name:dan_x_preferred":[
         "Al-Ubayyid"
@@ -37,8 +31,8 @@
     "name:deu_x_preferred":[
         "Al-Ubayyid"
     ],
-    "name:dut_x_preferred":[
-        "El Obeid"
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039f\u03c5\u03bc\u03c0\u03ac\u03b9\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Al-Ubayyid"
@@ -63,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "El Obeid"
-    ],
-    "name:fre_x_preferred":[
-        "El Obeid"
-    ],
-    "name:ger_x_preferred":[
-        "Al-Ubayyid"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039f\u03c5\u03bc\u03c0\u03ac\u03b9\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2-\u0a89\u0aac\u0abe\u0aaf\u0abf\u0aa6"
@@ -109,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0932-\u0909\u092c\u0947\u092f\u093f\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al-Ubayyid"
     ],
     "name:nld_x_preferred":[
@@ -121,9 +106,6 @@
     "name:nor_x_preferred":[
         "Al-Ubayyid"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0627\u0628\u06cc\u0636"
-    ],
     "name:pol_x_preferred":[
         "Al-Ubajjid"
     ],
@@ -131,9 +113,6 @@
         "Al-Ubayyid"
     ],
     "name:ron_x_preferred":[
-        "Al Ubayyid"
-    ],
-    "name:rum_x_preferred":[
         "Al Ubayyid"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +210,7 @@
         }
     ],
     "wof:id":421189751,
-    "wof:lastmodified":1527716268,
+    "wof:lastmodified":1561839883,
     "wof:name":"Al Ubayyid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

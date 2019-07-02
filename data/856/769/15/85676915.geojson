@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.268581,
-    "geom:area_square_m":39393220974.332222,
+    "geom:area_square_m":39393220974.332611,
     "geom:bbox":"32.911095578,11.7497679499,35.6923210898,14.1094807861",
     "geom:latitude":12.910526,
     "geom:longitude":34.04505,
@@ -42,14 +42,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u7eb3\u5c14\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sennar"
     ],
-    "name:dut_x_preferred":[
-        "Sennar"
+    "name:deu_x_preferred":[
+        "Sannar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03bd\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Sinnar"
@@ -61,23 +61,14 @@
         "Sennar State",
         "Sennar"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Sennar"
     ],
     "name:fra_x_preferred":[
         "Sannar"
-    ],
-    "name:fre_x_preferred":[
-        "Sannar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10d0\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sannar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bd\u03bd\u03b1\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0abe\u0ab0"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0ca8\u0ccd\u0ca8\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d0\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc13c\ub098\ub974 \uc8fc"
     ],
@@ -109,14 +103,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0928\u094d\u0928\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sennar"
+    ],
+    "name:nld_x_preferred":[
         "Sennar"
     ],
     "name:nob_x_preferred":[
         "Sennar"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u0627\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0646\u0627\u0631"
@@ -127,7 +121,7 @@
     "name:por_x_preferred":[
         "Sennar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Sennar"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Sennar"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7eb3\u5c14\u7701"
     ],
     "ne:abbrev":"Sen.",
     "ne:adm0_a3":"SDN",
@@ -296,7 +293,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1553814824,
+    "wof:lastmodified":1561839866,
     "wof:name":"Sennar",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -157,9 +157,6 @@
     "name:cym_x_variant":[
         "Y Swdan"
     ],
-    "name:cze_x_preferred":[
-        "S\u00fad\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Sudan"
     ],
@@ -907,7 +904,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1537303931,
+    "wof:lastmodified":1561839868,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
