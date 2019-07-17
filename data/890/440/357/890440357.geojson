@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0647\u0648\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0648\u062f"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09a8 \u09a8\u09be\u09b9\u09c1\u09a6"
+    ],
+    "name:ceb_x_preferred":[
+        "An Nuh\u016bd"
     ],
     "name:dan_x_preferred":[
         "En Nahud"
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":890440357,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365181,
     "wof:name":"An Nuh\u016bd",
     "wof:parent_id":1091706541,
     "wof:placetype":"locality",

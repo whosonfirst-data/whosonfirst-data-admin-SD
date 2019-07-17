@@ -16,8 +16,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0635\u064a\u0631\u0635"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0635\u06cc\u0631\u0635"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar Ruseris"
+    ],
     "name:eng_x_preferred":[
         "Er Roseires"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0635\u06cc\u0631\u0635"
     ],
     "name:fra_x_preferred":[
         "Er Roseires"
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":421183243,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365178,
     "wof:name":"Ar Rusayris",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

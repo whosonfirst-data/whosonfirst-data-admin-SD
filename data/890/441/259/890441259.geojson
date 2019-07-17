@@ -19,10 +19,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0628\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0628\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09ac\u09be\u09b0"
     ],
     "name:cat_x_preferred":[
+        "Berber"
+    ],
+    "name:ceb_x_preferred":[
         "Berber"
     ],
     "name:deu_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Berber"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0628\u0631"
     ],
     "name:ita_x_preferred":[
         "Berber"
@@ -49,11 +58,17 @@
     "name:swe_x_preferred":[
         "Berber"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb0\u0bcd\u0baa\u0bc6\u0bb0\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Barbar"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0628\u0631\u060c \u0633\u0648\u0688\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0628\u0631"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -180,7 +195,7 @@
         }
     ],
     "wof:id":890441259,
-    "wof:lastmodified":1561839884,
+    "wof:lastmodified":1563365185,
     "wof:name":"Berber",
     "wof:parent_id":1091709863,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0623\u0628\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u06cc\u0636"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2-\u0989\u09ac\u09be\u0987\u0988\u09a6"
     ],
     "name:cat_x_preferred":[
         "Al-Ubayyid"
+    ],
+    "name:ceb_x_preferred":[
+        "El Obeid"
     ],
     "name:dan_x_preferred":[
         "Al-Ubayyid"
@@ -109,6 +115,9 @@
     "name:pol_x_preferred":[
         "Al-Ubajjid"
     ],
+    "name:pol_x_variant":[
+        "Al-Ubajid"
+    ],
     "name:por_x_preferred":[
         "Al-Ubayyid"
     ],
@@ -130,6 +139,9 @@
     "name:swe_x_preferred":[
         "Al-Ubayyid"
     ],
+    "name:szl_x_preferred":[
+        "Al-Ubajjid"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bcd-\u0b89\u0baa\u0bbe\u0baf\u0bbf\u0b9f\u0bcd"
     ],
@@ -141,6 +153,9 @@
     ],
     "name:tur_x_preferred":[
         "El-Ubeyd"
+    ],
+    "name:tur_x_variant":[
+        "El Ubeyd"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041e\u0431\u0435\u0439\u0434"
@@ -210,7 +225,7 @@
         }
     ],
     "wof:id":421189751,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365173,
     "wof:name":"Al Ubayyid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

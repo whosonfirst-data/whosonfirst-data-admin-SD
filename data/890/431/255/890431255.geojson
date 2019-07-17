@@ -21,6 +21,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0627\u0631\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "B\u0101rah"
+    ],
     "name:eng_x_preferred":[
         "Barah"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890431255,
-    "wof:lastmodified":1561839884,
+    "wof:lastmodified":1563365193,
     "wof:name":"B\u0101rah",
     "wof:parent_id":1091709813,
     "wof:placetype":"locality",

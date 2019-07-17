@@ -19,11 +19,23 @@
     "name:ara_x_preferred":[
         "Tok\u0101r"
     ],
+    "name:ara_x_variant":[
+        "\u0637\u0648\u0643\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0637\u0648\u06a9\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Tok\u0101r"
+    ],
     "name:deu_x_preferred":[
         "Tawkar"
     ],
     "name:eng_x_preferred":[
         "Tokar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u06a9\u0631"
     ],
     "name:ita_x_preferred":[
         "Tokar"
@@ -168,7 +180,7 @@
         }
     ],
     "wof:id":890431247,
-    "wof:lastmodified":1561839884,
+    "wof:lastmodified":1563365193,
     "wof:name":"Tok\u0101r",
     "wof:parent_id":1091708733,
     "wof:placetype":"locality",

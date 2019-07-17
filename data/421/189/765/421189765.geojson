@@ -22,8 +22,14 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043b\u0438\u043d\u0433\u0435\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zalingei"
+    ],
     "name:dan_x_preferred":[
         "Zalingei"
+    ],
+    "name:deu_x_preferred":[
+        "Zalindschi"
     ],
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03bb\u03b9\u03bd\u03b3\u03ba\u03b5\u03ca"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421189765,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365172,
     "wof:name":"Zalingei",
     "wof:parent_id":1091709375,
     "wof:placetype":"locality",

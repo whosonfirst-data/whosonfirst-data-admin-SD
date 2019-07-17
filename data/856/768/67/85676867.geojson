@@ -31,10 +31,14 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631",
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631",
-        "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631"
+        "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631",
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631"
     ],
     "name:arz_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0632\u06cc\u0644 \u062f\u0646\u06cc\u0632 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09b9\u09bf\u09a4 \u09b8\u09be\u0997\u09b0"
@@ -44,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de la Mar Roja"
+    ],
+    "name:ceb_x_preferred":[
+        "Red Sea"
     ],
     "name:dan_x_preferred":[
         "R\u00f8de Hav"
@@ -58,7 +65,6 @@
         "Al Bahr al Ahmar"
     ],
     "name:eng_x_variant":[
-        "Al Bahr al Ahmar",
         "Red Sea",
         "Red Sea State"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "Mer Rouge"
+    ],
+    "name:frr_x_preferred":[
+        "Ruad Sia"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0aa1 \u0ab8\u0ac0"
@@ -104,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ud64d\ud574 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud64d\ud574\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sarkan\u0101 j\u016bra"
     ],
@@ -125,6 +137,9 @@
     "name:nob_x_preferred":[
         "R\u00f8dehavet"
     ],
+    "name:nob_x_variant":[
+        "R\u00f8d sj\u00f8en"
+    ],
     "name:pnb_x_preferred":[
         "\u0631\u062a\u0627 \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -139,6 +154,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u043c\u043e\u0440\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u041c\u043e\u0440\u0435"
     ],
     "name:sco_x_preferred":[
         "Reid Sea"
@@ -309,7 +327,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839866,
+    "wof:lastmodified":1563364551,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

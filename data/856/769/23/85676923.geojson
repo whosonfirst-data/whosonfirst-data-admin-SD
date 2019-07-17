@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u062c\u0646\u0648\u0628 \u0643\u0631\u062f\u0641\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0646\u0626\u06cc \u06a9\u0648\u0631\u062f\u0641\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0989\u09a5 \u0995\u09cb\u09a6\u09cb\u09ab\u09cd\u09af\u09be\u09a8"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Kordofan del Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "South Kordofan"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Kordof\u00e1n"
@@ -50,6 +56,9 @@
     "name:deu_x_preferred":[
         "Dschanub Kurdufan"
     ],
+    "name:din_x_preferred":[
+        "Paguot Kordopan"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03cc\u03c4\u03b9\u03bf \u039a\u03bf\u03c1\u03bd\u03c4\u03bf\u03c6\u03ac\u03bd"
     ],
@@ -57,7 +66,6 @@
         "Janub Kurdufan"
     ],
     "name:eng_x_variant":[
-        "Janub Kurdufan",
         "South Kurdufan",
         "Southern Kordofan",
         "Southern Kordofan State",
@@ -102,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ucfe0\ub974\ub450\ud310 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ucfe0\ub974\ub450\ud310\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidkordof\u0101na"
@@ -311,7 +322,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839866,
+    "wof:lastmodified":1563364547,
     "wof:name":"South Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

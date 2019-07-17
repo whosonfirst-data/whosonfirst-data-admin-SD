@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0648\u0644\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Al F\u016blah"
+    ],
     "name:deu_x_preferred":[
         "Al-Fula"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890431259,
-    "wof:lastmodified":1561839884,
+    "wof:lastmodified":1563365191,
     "wof:name":"Al F\u016blah",
     "wof:parent_id":1091706565,
     "wof:placetype":"locality",

@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u0995\u09be\u09a6\u09c7\u09b0\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u0434\u0430\u0440\u0435\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Qadarif"
     ],
     "name:dan_x_preferred":[
         "Al Qadarif"
@@ -39,6 +45,9 @@
     ],
     "name:est_x_preferred":[
         "Al-Qa\u1e11\u0101rif"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Qadarif"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
@@ -184,7 +193,7 @@
         }
     ],
     "wof:id":421189747,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365172,
     "wof:name":"Al Qadarif",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",
