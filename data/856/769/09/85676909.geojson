@@ -37,7 +37,11 @@
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0627\u0628\u064a\u0636",
-        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0627\u0628\u064a\u0636"
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0627\u0628\u064a\u0636",
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0628\u064a\u0636"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u063a \u0646\u06cc\u0644 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
     "name:bak_x_preferred":[
         "\u0410\u04a1 \u041d\u0438\u043b"
@@ -56,6 +60,9 @@
     ],
     "name:cat_x_preferred":[
         "Nil Blanc"
+    ],
+    "name:ceb_x_preferred":[
+        "White Nile"
     ],
     "name:ces_x_preferred":[
         "B\u00edl\u00fd Nil"
@@ -82,12 +89,14 @@
         "An Nil al Abyad"
     ],
     "name:eng_x_variant":[
-        "An Nil al Abyad",
         "White Nile",
         "White Nile State"
     ],
     "name:epo_x_preferred":[
         "Blanka Nilo"
+    ],
+    "name:epo_x_variant":[
+        "\u015ctato Blanka Nilo"
     ],
     "name:est_x_preferred":[
         "Valge Niilus"
@@ -100,6 +109,9 @@
     ],
     "name:fin_x_preferred":[
         "Valkoinen-Niili"
+    ],
+    "name:fin_x_variant":[
+        "White Nile"
     ],
     "name:fra_x_preferred":[
         "Nil Blanc"
@@ -118,6 +130,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0936\u094d\u0935\u0947\u0924 \u0928\u0940\u0932"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u092b\u093c\u0947\u0926 \u0928\u0940\u0932"
     ],
     "name:hrv_x_preferred":[
         "Bijeli Nil"
@@ -140,6 +155,9 @@
     "name:jpn_x_preferred":[
         "\u767d\u30ca\u30a4\u30eb\u5ddd"
     ],
+    "name:jpn_x_variant":[
+        "\u767d\u30ca\u30a4\u30eb\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc8\u0c9f\u0ccd \u0ca8\u0cc8\u0cb2\u0ccd"
     ],
@@ -158,11 +176,20 @@
     "name:kor_x_preferred":[
         "\ubc31\ub098\uc77c \uac15"
     ],
+    "name:kor_x_variant":[
+        "\ubc31\ub098\uc77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Balt\u0101 N\u012bla"
     ],
+    "name:lav_x_variant":[
+        "Balt\u0101s N\u012blas vil\u0101js"
+    ],
     "name:lit_x_preferred":[
         "Baltasis Nilas"
+    ],
+    "name:lit_x_variant":[
+        "Baltojo Nilo vilajetas"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d46\u0d33\u0d4d\u0d33 \u0d28\u0d48\u0d7d"
@@ -185,11 +212,20 @@
     "name:nob_x_preferred":[
         "Hvite Nilen"
     ],
+    "name:nob_x_variant":[
+        "Hvite nil"
+    ],
     "name:nor_x_preferred":[
         "Den hvite Nil"
     ],
+    "name:oci_x_preferred":[
+        "Nil Blanc"
+    ],
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0644 \u0627\u06cc\u0628\u0636"
+    ],
+    "name:pnb_x_variant":[
+        "\u0686\u0679\u0627 \u0646\u06cc\u0644"
     ],
     "name:pol_x_preferred":[
         "Nil Bia\u0142y"
@@ -224,8 +260,14 @@
     "name:swe_x_preferred":[
         "Vita Nilen"
     ],
+    "name:swe_x_variant":[
+        "An-Nil al-Abyad"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0ba8\u0bc8\u0bb2\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0bc8\u0b9f\u0bcd  \u0ba8\u0bbf\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c48\u0c1f\u0c4d \u0c28\u0c48\u0c32\u0c4d"
@@ -235,6 +277,9 @@
     ],
     "name:tur_x_preferred":[
         "Beyaz Nil"
+    ],
+    "name:tur_x_variant":[
+        "Beyaz Nil Eyaleti"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0438\u0439 \u041d\u0456\u043b"
@@ -250,6 +295,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Nin Tr\u1eafng"
+    ],
+    "name:vie_x_variant":[
+        "Nin Tr\u1eafng"
     ],
     "name:war_x_preferred":[
         "Busag nga Nilo"
@@ -388,7 +436,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839865,
+    "wof:lastmodified":1563364546,
     "wof:name":"White Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

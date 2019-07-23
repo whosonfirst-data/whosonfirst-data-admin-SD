@@ -15,6 +15,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marabba"
+    ],
     "qs:name":"Marabba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890438405,
-    "wof:lastmodified":1527735425,
+    "wof:lastmodified":1563365193,
     "wof:name":"Marabba",
     "wof:parent_id":1091708931,
     "wof:placetype":"locality",

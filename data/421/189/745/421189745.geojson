@@ -16,11 +16,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u0634\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0634\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ab\u09be\u09b6\u09bf\u09b0"
     ],
     "name:cat_x_preferred":[
         "Al-Fashir"
+    ],
+    "name:ceb_x_preferred":[
+        "El Fasher"
+    ],
+    "name:ces_x_preferred":[
+        "F\u00e1\u0161ir"
     ],
     "name:dan_x_preferred":[
         "Al-Fashir"
@@ -39,6 +48,9 @@
     ],
     "name:est_x_preferred":[
         "Al-F\u0101shir"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Fashir"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0641\u0627\u0634\u0631"
@@ -187,7 +199,7 @@
         }
     ],
     "wof:id":421189745,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365175,
     "wof:name":"Al Fashir",
     "wof:parent_id":1091706361,
     "wof:placetype":"locality",

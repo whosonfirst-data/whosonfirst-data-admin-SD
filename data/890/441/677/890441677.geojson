@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ac\u09be\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Rabak"
+    ],
     "name:dan_x_preferred":[
         "Rabak"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\ubc15"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\ubc14\ud06c"
     ],
     "name:lav_x_preferred":[
         "Rabaka"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890441677,
-    "wof:lastmodified":1561839884,
+    "wof:lastmodified":1563365187,
     "wof:name":"Rabak",
     "wof:parent_id":1091707753,
     "wof:placetype":"locality",

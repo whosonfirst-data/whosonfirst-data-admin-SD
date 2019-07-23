@@ -36,11 +36,17 @@
         "\u0633\u0646\u0627\u0631",
         "\u0648\u0644\u0627\u064a\u0629 \u0633\u0646\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u0627\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Sinnar State"
     ],
     "name:dan_x_preferred":[
         "Sennar"
@@ -55,7 +61,6 @@
         "Sinnar"
     ],
     "name:eng_x_variant":[
-        "Sinnar",
         "Sinn\u0101r",
         "Sinnar State",
         "Sennar State",
@@ -93,6 +98,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc13c\ub098\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc13c\ub098\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Senara"
@@ -293,7 +301,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839866,
+    "wof:lastmodified":1563364548,
     "wof:name":"Sennar",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

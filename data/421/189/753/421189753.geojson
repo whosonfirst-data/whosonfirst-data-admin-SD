@@ -20,6 +20,12 @@
     "name:arz_x_preferred":[
         "\u062f\u0646\u0642\u0644\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Dongola"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0646\u0642\u0644\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043d\u0433\u043e\u043b\u0430"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:cat_x_preferred":[
         "Ciutat de Dongola"
+    ],
+    "name:ceb_x_preferred":[
+        "Dongola"
     ],
     "name:ces_x_preferred":[
         "Dongola"
@@ -291,7 +300,7 @@
         }
     ],
     "wof:id":421189753,
-    "wof:lastmodified":1561839883,
+    "wof:lastmodified":1563365172,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

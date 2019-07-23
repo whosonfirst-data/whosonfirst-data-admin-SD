@@ -32,6 +32,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629",
         "\u0627\u0644\u062c\u0632\u064a\u0631\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u099c\u09be\u099c\u09bf\u09b0\u09be"
     ],
@@ -54,7 +57,6 @@
         "Gezira"
     ],
     "name:eng_x_variant":[
-        "Gezira",
         "Al Jaz\u012brah",
         "Al Jazirah State",
         "Al Jazirah"
@@ -97,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\uc790\uc9c0\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\uc790\uc9c0\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "D\u017eaz\u012bra"
@@ -169,6 +174,9 @@
     ],
     "name:war_x_preferred":[
         "Al Jazirah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6770\u6d4e\u62c9\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u6770\u6d4e\u62c9\u7701"
@@ -297,7 +305,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839867,
+    "wof:lastmodified":1563364552,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

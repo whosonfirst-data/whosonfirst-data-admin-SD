@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u062a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09b8\u09cd\u099f\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Kosti"
     ],
     "name:dan_x_preferred":[
         "Kusti"
@@ -120,6 +126,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf "
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c38\u0c4d\u0c24\u0c3f"
     ],
@@ -137,6 +146,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0633\u062a\u06cc\u060c \u0633\u0648\u0688\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0633\u062a\u06cc"
     ],
     "name:vie_x_preferred":[
         "Kosti"
@@ -280,7 +292,7 @@
         }
     ],
     "wof:id":1141908843,
-    "wof:lastmodified":1561839890,
+    "wof:lastmodified":1563365499,
     "wof:name":"Kosti",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

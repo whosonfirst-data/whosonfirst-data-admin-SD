@@ -29,6 +29,10 @@
         "\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
     "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0636\u0627\u0631\u0641",
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0636\u0627\u0631\u0641"
+    ],
+    "name:azb_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
     "name:ben_x_preferred":[
@@ -56,7 +60,6 @@
         "Gadarif"
     ],
     "name:eng_x_variant":[
-        "Gadarif",
         "Al Qa\u1e11\u0101rif",
         "Al Qadarif State",
         "Gedarif",
@@ -97,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\uce74\ub2e4\ub9ac\ud504 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\uce74\ub2e4\ub9ac\ud504\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Gad\u0101rifa"
@@ -297,7 +303,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1561839867,
+    "wof:lastmodified":1563364557,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
