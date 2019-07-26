@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kurum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260215079,
-    "wof:lastmodified":1536804700,
+    "wof:lastmodified":1564158479,
     "wof:name":"Kurum",
     "wof:parent_id":1091707995,
     "wof:placetype":"locality",

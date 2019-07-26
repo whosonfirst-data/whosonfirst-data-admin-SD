@@ -25,6 +25,24 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gambo"
+    ],
+    "name:deu_x_preferred":[
+        "Gambo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Gambo"
+    ],
+    "name:spa_x_preferred":[
+        "Gambo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293625473,
-    "wof:lastmodified":1537082025,
+    "wof:lastmodified":1564158057,
     "wof:name":"Gambo",
     "wof:parent_id":1091705503,
     "wof:placetype":"locality",

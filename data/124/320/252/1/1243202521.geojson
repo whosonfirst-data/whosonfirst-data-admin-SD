@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Seru"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u9b6f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243202521,
-    "wof:lastmodified":1536660449,
+    "wof:lastmodified":1564158794,
     "wof:name":"Seru",
     "wof:parent_id":1091707841,
     "wof:placetype":"locality",

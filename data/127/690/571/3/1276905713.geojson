@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0643\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "Buraykah"
+    ],
     "name:und_x_variant":[
         "Bureika",
         "Buraykah"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276905713,
-    "wof:lastmodified":1537699532,
+    "wof:lastmodified":1564158259,
     "wof:name":"Buraykah",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

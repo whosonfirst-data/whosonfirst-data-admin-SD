@@ -25,6 +25,30 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Komora"
+    ],
+    "name:hrv_x_preferred":[
+        "Komora"
+    ],
+    "name:hun_x_preferred":[
+        "Komora"
+    ],
+    "name:nld_x_preferred":[
+        "Komora"
+    ],
+    "name:slv_x_preferred":[
+        "Komora"
+    ],
+    "name:spa_x_preferred":[
+        "Komora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1242714125,
-    "wof:lastmodified":1536865772,
+    "wof:lastmodified":1564158770,
     "wof:name":"Komora",
     "wof:parent_id":1091709379,
     "wof:placetype":"locality",

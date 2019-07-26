@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Salim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326464825,
-    "wof:lastmodified":1537077950,
+    "wof:lastmodified":1564157883,
     "wof:name":"Salim",
     "wof:parent_id":1091706541,
     "wof:placetype":"locality",

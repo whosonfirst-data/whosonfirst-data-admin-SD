@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Hafarah"
+    ],
     "name:und_x_variant":[
         "Hafara",
         "\u1e28afarah"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1277112737,
-    "wof:lastmodified":1537699513,
+    "wof:lastmodified":1564158280,
     "wof:name":"Hafarah",
     "wof:parent_id":1091708149,
     "wof:placetype":"locality",

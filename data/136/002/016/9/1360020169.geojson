@@ -25,9 +25,42 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0645\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0648\u062d\u0645\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0627\u0645\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Abu Hamed"
+    ],
+    "name:epo_x_preferred":[
+        "Abu-Hamado"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0627\u0645\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Abu Hamad"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Hamad"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Hamad"
+    ],
+    "name:swe_x_preferred":[
+        "Abu Hamad"
+    ],
     "name:und_x_variant":[
         "Abu Hamed",
         "Ab\u016b \u1e28amad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0645\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1360020169,
-    "wof:lastmodified":1537699598,
+    "wof:lastmodified":1564158609,
     "wof:name":"Abu Hamad",
     "wof:parent_id":1091705233,
     "wof:placetype":"locality",

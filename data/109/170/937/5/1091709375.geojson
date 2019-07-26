@@ -32,11 +32,29 @@
     "mps:longitude":23.544148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0644\u0646\u062c\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Zalingei"
+    ],
     "name:eng_x_preferred":[
         "Zalingei"
     ],
     "name:eng_x_variant":[
         "Zallingi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0644\u0646\u062c\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Zalind\u017ci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0438\u043d\u0433\u0435\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u6797\u76d6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1091709375,
-    "wof:lastmodified":1553717947,
+    "wof:lastmodified":1564158616,
     "wof:name":"Zalingei",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

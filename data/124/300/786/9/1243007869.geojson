@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Mansura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Mansura"
+    ],
     "name:und_x_variant":[
         "Mans\u016bra"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243007869,
-    "wof:lastmodified":1537699685,
+    "wof:lastmodified":1564158699,
     "wof:name":"Mansura",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

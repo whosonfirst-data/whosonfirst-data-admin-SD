@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u062f\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0628\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Rabda"
+    ],
+    "name:vie_x_preferred":[
+        "Rabda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1344196055,
-    "wof:lastmodified":1536679879,
+    "wof:lastmodified":1564158006,
     "wof:name":"Rabda",
     "wof:parent_id":1091708895,
     "wof:placetype":"locality",

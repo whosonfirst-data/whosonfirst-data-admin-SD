@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "K\u012br\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Kiran"
+    ],
+    "name:deu_x_preferred":[
+        "Kiran"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u0923"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209746423,
-    "wof:lastmodified":1537699677,
+    "wof:lastmodified":1564158385,
     "wof:name":"Kiran",
     "wof:parent_id":1091706637,
     "wof:placetype":"locality",

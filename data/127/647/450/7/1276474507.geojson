@@ -25,6 +25,24 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Duro"
+    ],
+    "name:deu_x_preferred":[
+        "Duro"
+    ],
+    "name:fra_x_preferred":[
+        "Duro"
+    ],
+    "name:ita_x_preferred":[
+        "Duro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Duro"
+    ],
     "name:und_x_variant":[
         "Douro",
         "Duro"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276474507,
-    "wof:lastmodified":1537699524,
+    "wof:lastmodified":1564158232,
     "wof:name":"Duro",
     "wof:parent_id":1091709589,
     "wof:placetype":"locality",

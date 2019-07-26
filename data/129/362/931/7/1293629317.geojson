@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Samat"
+    ],
     "name:und_x_variant":[
         "\u015eamad",
         "Samat"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293629317,
-    "wof:lastmodified":1537699455,
+    "wof:lastmodified":1564158049,
     "wof:name":"Samat",
     "wof:parent_id":1091710685,
     "wof:placetype":"locality",

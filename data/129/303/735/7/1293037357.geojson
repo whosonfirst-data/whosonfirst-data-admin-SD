@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khamis"
+    ],
     "name:und_x_variant":[
         "Jugga",
         "Kham\u012bs"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293037357,
-    "wof:lastmodified":1537699492,
+    "wof:lastmodified":1564158119,
     "wof:name":"Khamis",
     "wof:parent_id":1091706673,
     "wof:placetype":"locality",

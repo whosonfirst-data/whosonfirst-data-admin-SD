@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kulb"
+    ],
     "name:und_x_variant":[
         "Kulba",
         "Kulb",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1193047303,
-    "wof:lastmodified":1537699485,
+    "wof:lastmodified":1564158423,
     "wof:name":"Kulb East",
     "wof:parent_id":1091706973,
     "wof:placetype":"locality",

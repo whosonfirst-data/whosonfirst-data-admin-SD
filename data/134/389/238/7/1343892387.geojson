@@ -25,6 +25,27 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0644\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Jali"
+    ],
+    "name:epo_x_preferred":[
+        "Jalio"
+    ],
+    "name:fra_x_preferred":[
+        "Jali"
+    ],
+    "name:ita_x_preferred":[
+        "Jali"
+    ],
+    "name:nld_x_preferred":[
+        "Jali"
+    ],
+    "name:por_x_preferred":[
+        "Jali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343892387,
-    "wof:lastmodified":1536618357,
+    "wof:lastmodified":1564158034,
     "wof:name":"Jali",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

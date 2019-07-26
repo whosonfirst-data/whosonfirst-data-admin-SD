@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Salim"
+    ],
     "name:und_x_variant":[
         "Sal\u012bm"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326473205,
-    "wof:lastmodified":1537699455,
+    "wof:lastmodified":1564157879,
     "wof:name":"Salim",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

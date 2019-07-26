@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Wadi Halfa"
     ],
+    "name:fra_x_preferred":[
+        "Halfa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091706973,
-    "wof:lastmodified":1553717944,
+    "wof:lastmodified":1564158637,
     "wof:name":"Halfa",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

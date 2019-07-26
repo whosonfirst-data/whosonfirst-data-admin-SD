@@ -25,6 +25,33 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:chv_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Ramu"
+    ],
+    "name:fra_x_preferred":[
+        "Ramu"
+    ],
+    "name:lit_x_preferred":[
+        "Ramu"
+    ],
+    "name:pol_x_preferred":[
+        "Ramu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Ramu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7a46\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276586375,
-    "wof:lastmodified":1536937963,
+    "wof:lastmodified":1564158217,
     "wof:name":"Ramu",
     "wof:parent_id":1091707969,
     "wof:placetype":"locality",

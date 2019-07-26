@@ -25,7 +25,13 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sarat"
+    ],
     "name:eng_x_preferred":[
+        "Sarat"
+    ],
+    "name:swe_x_preferred":[
         "Sarat"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260321437,
-    "wof:lastmodified":1537699454,
+    "wof:lastmodified":1564158485,
     "wof:name":"Sarat",
     "wof:parent_id":1091705349,
     "wof:placetype":"locality",

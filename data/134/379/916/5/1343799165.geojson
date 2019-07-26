@@ -25,7 +25,22 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toya"
+    ],
+    "name:deu_x_preferred":[
+        "Toya"
+    ],
     "name:eng_x_preferred":[
+        "Toya"
+    ],
+    "name:fra_x_preferred":[
+        "Toya"
+    ],
+    "name:ita_x_preferred":[
+        "Toya"
+    ],
+    "name:spa_x_preferred":[
         "Toya"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343799165,
-    "wof:lastmodified":1537699694,
+    "wof:lastmodified":1564157963,
     "wof:name":"Toya",
     "wof:parent_id":1091709589,
     "wof:placetype":"locality",

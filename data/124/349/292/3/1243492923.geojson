@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mahmud"
+    ],
     "name:und_x_variant":[
         "Ma\u1e29m\u016bd"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243492923,
-    "wof:lastmodified":1537699480,
+    "wof:lastmodified":1564158748,
     "wof:name":"Mahmud",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

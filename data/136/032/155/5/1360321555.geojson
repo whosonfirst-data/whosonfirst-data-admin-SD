@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirri"
+    ],
+    "name:ita_x_preferred":[
+        "Sirri"
+    ],
+    "name:swe_x_preferred":[
+        "Sirri"
+    ],
     "name:und_x_variant":[
         "Serri",
         "Sirr\u012b"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1360321555,
-    "wof:lastmodified":1537699443,
+    "wof:lastmodified":1564158604,
     "wof:name":"Sirri",
     "wof:parent_id":1091709589,
     "wof:placetype":"locality",

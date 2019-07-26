@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Saraya"
+    ],
+    "name:por_x_preferred":[
+        "Saraya"
+    ],
+    "name:spa_x_preferred":[
+        "Saraya"
+    ],
     "name:und_x_variant":[
         "\u015earaya"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1327072805,
-    "wof:lastmodified":1537699650,
+    "wof:lastmodified":1564157811,
     "wof:name":"Saraya",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

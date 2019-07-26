@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khamis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243097939,
-    "wof:lastmodified":1536810498,
+    "wof:lastmodified":1564158701,
     "wof:name":"Khamis",
     "wof:parent_id":1091709379,
     "wof:placetype":"locality",

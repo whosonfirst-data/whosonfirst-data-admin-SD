@@ -32,11 +32,47 @@
     "mps:longitude":26.12589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0639\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0636\u0639\u06cc\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "El Daein"
+    ],
+    "name:deu_x_preferred":[
+        "Ad-Du\u2019ain"
+    ],
     "name:eng_x_preferred":[
         "Ed Daein"
     ],
     "name:eng_x_variant":[
         "Al Deain"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0636\u0639\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ed Daein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30a4\u30fc\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Ad-Duajn"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434-\u0414\u0430\u044d\u0439\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434-\u0414\u0430\u0435\u0439\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0636\u0639\u06cc\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u827e\u56e0"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +109,7 @@
         }
     ],
     "wof:id":1091706053,
-    "wof:lastmodified":1553717942,
+    "wof:lastmodified":1564158627,
     "wof:name":"Ed Daein",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

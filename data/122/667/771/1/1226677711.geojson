@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dito"
+    ],
+    "name:por_x_preferred":[
+        "Eduardo Mendes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226677711,
-    "wof:lastmodified":1536812899,
+    "wof:lastmodified":1564158922,
     "wof:name":"Dito",
     "wof:parent_id":1091706717,
     "wof:placetype":"locality",

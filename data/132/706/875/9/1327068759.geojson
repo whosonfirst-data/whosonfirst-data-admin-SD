@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u012b\u0101r\u012b"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u06cc\u0627\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Khiari"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u012b\u0101r\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327068759,
-    "wof:lastmodified":1536708258,
+    "wof:lastmodified":1564157791,
     "wof:name":"Khiari",
     "wof:parent_id":1091708895,
     "wof:placetype":"locality",

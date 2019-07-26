@@ -32,10 +32,34 @@
     "mps:longitude":33.766451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Singa"
+    ],
+    "name:deu_x_preferred":[
+        "Singa"
+    ],
     "name:eng_x_preferred":[
         "Sinja"
     ],
     "name:eng_x_variant":[
+        "Singa"
+    ],
+    "name:fra_x_preferred":[
+        "Singa"
+    ],
+    "name:ita_x_preferred":[
+        "Singa"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0902\u0917\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Singa"
+    ],
+    "name:por_x_preferred":[
+        "Singa"
+    ],
+    "name:swe_x_preferred":[
         "Singa"
     ],
     "src:geom":"meso",
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1091708615,
-    "wof:lastmodified":1553717946,
+    "wof:lastmodified":1564158626,
     "wof:name":"Singa",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

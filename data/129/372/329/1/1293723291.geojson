@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mumu"
+    ],
+    "name:ceb_x_preferred":[
+        "Mumu"
+    ],
+    "name:deu_x_preferred":[
+        "Mumu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443-\u043c\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Mumu"
+    ],
     "name:und_x_variant":[
         "Moumou",
         "Mumu"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293723291,
-    "wof:lastmodified":1537699472,
+    "wof:lastmodified":1564158168,
     "wof:name":"Mumu",
     "wof:parent_id":1091708517,
     "wof:placetype":"locality",

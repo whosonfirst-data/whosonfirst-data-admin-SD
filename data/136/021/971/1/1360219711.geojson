@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Dus"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0938"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1360219711,
-    "wof:lastmodified":1536751356,
+    "wof:lastmodified":1564158598,
     "wof:name":"Dus",
     "wof:parent_id":1091709379,
     "wof:placetype":"locality",

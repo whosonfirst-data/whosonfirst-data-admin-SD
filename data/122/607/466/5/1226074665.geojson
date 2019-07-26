@@ -25,6 +25,30 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jaja"
+    ],
+    "name:deu_x_preferred":[
+        "Jaja"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u062c\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Jaja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30b8\u30e3"
+    ],
+    "name:nor_x_preferred":[
+        "Jaja"
+    ],
+    "name:por_x_preferred":[
+        "Jaj\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Jaja"
+    ],
     "name:und_x_variant":[
         "Gyaga",
         "Jaja"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226074665,
-    "wof:lastmodified":1537699500,
+    "wof:lastmodified":1564159008,
     "wof:name":"Jaja",
     "wof:parent_id":1091710189,
     "wof:placetype":"locality",

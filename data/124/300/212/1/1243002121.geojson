@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tabaqat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u043a\u0430\u0442"
+    ],
     "name:und_x_variant":[
         "El Foqara",
         "Tabaqat"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243002121,
-    "wof:lastmodified":1537699606,
+    "wof:lastmodified":1564158697,
     "wof:name":"Tabaqat",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

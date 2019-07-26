@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Kannur",
         "Kinor"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327064187,
-    "wof:lastmodified":1537699495,
+    "wof:lastmodified":1564157795,
     "wof:name":"Kinor",
     "wof:parent_id":1091709863,
     "wof:placetype":"locality",

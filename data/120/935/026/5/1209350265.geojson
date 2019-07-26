@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "Murt\u0101"
     ],
+    "name:cat_x_preferred":[
+        "Murta"
+    ],
+    "name:deu_x_preferred":[
+        "Murta"
+    ],
+    "name:por_x_preferred":[
+        "Murta"
+    ],
+    "name:spa_x_preferred":[
+        "Murta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209350265,
-    "wof:lastmodified":1537699628,
+    "wof:lastmodified":1564158358,
     "wof:name":"Murta",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

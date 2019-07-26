@@ -25,9 +25,51 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0631\u0643"
+    ],
+    "name:cat_x_preferred":[
+        "Baraka"
+    ],
+    "name:deu_x_preferred":[
+        "Baraka"
+    ],
+    "name:fra_x_preferred":[
+        "Barakah"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e1raka"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub77c\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "Baraka"
+    ],
+    "name:pol_x_preferred":[
+        "Baraka"
+    ],
+    "name:por_x_preferred":[
+        "Baraca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043a\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Baraka"
+    ],
+    "name:swe_x_preferred":[
+        "Baraka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Baraka",
         "Barakah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0628\u0631\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +102,7 @@
         }
     ],
     "wof:id":1276800941,
-    "wof:lastmodified":1537699537,
+    "wof:lastmodified":1564158195,
     "wof:name":"Barakah",
     "wof:parent_id":1091711157,
     "wof:placetype":"locality",

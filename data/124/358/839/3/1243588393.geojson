@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bigga"
+    ],
+    "name:deu_x_preferred":[
+        "Bigga"
+    ],
+    "name:fra_x_preferred":[
+        "Bigga"
+    ],
+    "name:swe_x_preferred":[
+        "Bigga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243588393,
-    "wof:lastmodified":1537094620,
+    "wof:lastmodified":1564158763,
     "wof:name":"Bigga",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

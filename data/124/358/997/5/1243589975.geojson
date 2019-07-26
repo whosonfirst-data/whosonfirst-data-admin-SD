@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalacha"
+    ],
+    "name:deu_x_preferred":[
+        "Kalacha"
+    ],
+    "name:swe_x_preferred":[
+        "Kalacha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243589975,
-    "wof:lastmodified":1537092263,
+    "wof:lastmodified":1564158759,
     "wof:name":"Kalacha",
     "wof:parent_id":1091705521,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gavra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d1\u10e0\u10d0\u10e1\u10d4\u10d1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gabrasowie"
+    ],
+    "name:por_x_preferred":[
+        "Fam\u00edlia Gabras"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0430\u0441\u044b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343892425,
-    "wof:lastmodified":1536618300,
+    "wof:lastmodified":1564158030,
     "wof:name":"Gabras",
     "wof:parent_id":1091705275,
     "wof:placetype":"locality",

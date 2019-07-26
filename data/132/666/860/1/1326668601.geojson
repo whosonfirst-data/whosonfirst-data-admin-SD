@@ -25,10 +25,70 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u064a\u0645\u064a\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u043c\u0435\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Himera"
+    ],
+    "name:deu_x_preferred":[
+        "Himera"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bc\u03ad\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Himero"
+    ],
+    "name:eus_x_preferred":[
+        "Himera"
+    ],
+    "name:fin_x_preferred":[
+        "Himera"
+    ],
+    "name:fra_x_preferred":[
+        "Him\u00e8re"
+    ],
+    "name:hun_x_preferred":[
+        "Him\u00e9ra"
+    ],
+    "name:ita_x_preferred":[
+        "Himera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30e1\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Himera"
+    ],
+    "name:pol_x_preferred":[
+        "Himera"
+    ],
+    "name:por_x_preferred":[
+        "H\u00edmera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043c\u0435\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00edmera"
+    ],
+    "name:swe_x_preferred":[
+        "Himera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043c\u0435\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Humeira",
         "\u1e28umayrah",
         "\u1e28imera"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u6885\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1326668601,
-    "wof:lastmodified":1537699504,
+    "wof:lastmodified":1564157844,
     "wof:name":"Himera",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

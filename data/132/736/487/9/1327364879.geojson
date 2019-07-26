@@ -25,9 +25,54 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259bib"
+    ],
+    "name:cat_x_preferred":[
+        "Habib"
+    ],
+    "name:deu_x_preferred":[
+        "Habib"
+    ],
+    "name:fin_x_preferred":[
+        "Habib"
+    ],
+    "name:fra_x_preferred":[
+        "Habib"
+    ],
+    "name:ind_x_preferred":[
+        "Habib"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30d3\u30fc\u30d6"
+    ],
+    "name:msa_x_preferred":[
+        "Habib"
+    ],
+    "name:nds_x_preferred":[
+        "Habib"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a2c\u0a40\u0a2c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0431\u0438\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Habib"
+    ],
+    "name:swe_x_preferred":[
+        "Habib"
+    ],
+    "name:tur_x_preferred":[
+        "Habip"
+    ],
     "name:und_x_variant":[
         "Hamid",
         "\u1e28ab\u012bb"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u6bd4\u535c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1327364879,
-    "wof:lastmodified":1537699514,
+    "wof:lastmodified":1564157808,
     "wof:name":"Habib",
     "wof:parent_id":1091706757,
     "wof:placetype":"locality",

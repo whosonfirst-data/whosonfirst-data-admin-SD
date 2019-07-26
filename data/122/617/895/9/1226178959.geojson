@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Amiri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226178959,
-    "wof:lastmodified":1537028528,
+    "wof:lastmodified":1564158896,
     "wof:name":"Amiri",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",
