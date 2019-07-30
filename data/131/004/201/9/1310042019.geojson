@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Burbur"
+    ],
     "name:und_x_variant":[
         "Burbor",
         "Burb\u016br"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310042019,
-    "wof:lastmodified":1537699532,
+    "wof:lastmodified":1564158552,
     "wof:name":"Burbur",
     "wof:parent_id":1091709223,
     "wof:placetype":"locality",

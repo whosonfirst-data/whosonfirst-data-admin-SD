@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Hab\u012blah"
     ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0628\u06cc\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360215373,
-    "wof:lastmodified":1537699514,
+    "wof:lastmodified":1564158598,
     "wof:name":"Habila",
     "wof:parent_id":1091707219,
     "wof:placetype":"locality",

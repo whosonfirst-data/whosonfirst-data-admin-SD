@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hilmi"
+    ],
+    "name:tur_x_preferred":[
+        "Hilmi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242809191,
-    "wof:lastmodified":1536730535,
+    "wof:lastmodified":1564158721,
     "wof:name":"Hilmi",
     "wof:parent_id":1091708257,
     "wof:placetype":"locality",

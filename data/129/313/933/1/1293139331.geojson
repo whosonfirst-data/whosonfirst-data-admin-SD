@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Karkaudsch"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293139331,
-    "wof:lastmodified":1536792319,
+    "wof:lastmodified":1564158107,
     "wof:name":"Karkoj",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Semna"
+    ],
+    "name:deu_x_preferred":[
+        "Semna"
+    ],
+    "name:eus_x_preferred":[
+        "Semna"
+    ],
+    "name:hun_x_preferred":[
+        "Szemna"
+    ],
+    "name:ita_x_preferred":[
+        "Semna"
+    ],
+    "name:pol_x_preferred":[
+        "Semna"
+    ],
+    "name:spa_x_preferred":[
+        "Semna"
+    ],
     "name:und_x_variant":[
         "Semna",
         "Semna East"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1242612275,
-    "wof:lastmodified":1537699452,
+    "wof:lastmodified":1564158730,
     "wof:name":"Semna East",
     "wof:parent_id":1091706973,
     "wof:placetype":"locality",

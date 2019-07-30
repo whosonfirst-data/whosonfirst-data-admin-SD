@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kan_x_preferred":[
+        "\u0c95\u0ca1\u0cac \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1"
+    ],
     "name:und_x_variant":[
         "Kad\u0101ba"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310441457,
-    "wof:lastmodified":1537699638,
+    "wof:lastmodified":1564158536,
     "wof:name":"Kadaba",
     "wof:parent_id":1091709051,
     "wof:placetype":"locality",

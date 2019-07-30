@@ -25,6 +25,24 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dinga"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dinga"
+    ],
+    "name:por_x_preferred":[
+        "Dinga"
+    ],
+    "name:spa_x_preferred":[
+        "Dinga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0646\u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1276160269,
-    "wof:lastmodified":1537009969,
+    "wof:lastmodified":1564158199,
     "wof:name":"Dinga",
     "wof:parent_id":1091711067,
     "wof:placetype":"locality",

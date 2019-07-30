@@ -25,6 +25,33 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Fura"
+    ],
+    "name:cat_x_preferred":[
+        "Fura"
+    ],
+    "name:ceb_x_preferred":[
+        "Fura"
+    ],
+    "name:deu_x_preferred":[
+        "Fura"
+    ],
+    "name:isl_x_preferred":[
+        "Fura"
+    ],
+    "name:pol_x_preferred":[
+        "Fura"
+    ],
+    "name:por_x_preferred":[
+        "Fura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Fura"
+    ],
     "name:und_x_variant":[
         "Foura",
         "Fura"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1259910281,
-    "wof:lastmodified":1537699519,
+    "wof:lastmodified":1564158823,
     "wof:name":"Fura",
     "wof:parent_id":1091706945,
     "wof:placetype":"locality",

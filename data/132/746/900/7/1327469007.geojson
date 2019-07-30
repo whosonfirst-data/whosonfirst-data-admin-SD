@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Taqab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327469007,
-    "wof:lastmodified":1536626005,
+    "wof:lastmodified":1564157862,
     "wof:name":"Taqab",
     "wof:parent_id":1091705881,
     "wof:placetype":"locality",

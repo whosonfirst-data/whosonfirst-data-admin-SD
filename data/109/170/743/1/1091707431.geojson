@@ -32,10 +32,25 @@
     "mps:longitude":32.405782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kosti"
+    ],
+    "name:deu_x_preferred":[
+        "Kosti"
+    ],
     "name:eng_x_preferred":[
         "Kosti"
     ],
     "name:eng_x_variant":[
+        "Kosti"
+    ],
+    "name:fra_x_preferred":[
+        "Kosti"
+    ],
+    "name:slk_x_preferred":[
+        "Kosti"
+    ],
+    "name:swe_x_preferred":[
         "Kosti"
     ],
     "src:geom":"meso",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1091707431,
-    "wof:lastmodified":1553717945,
+    "wof:lastmodified":1564158639,
     "wof:name":"Kosti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

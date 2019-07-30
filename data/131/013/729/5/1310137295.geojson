@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Tuli"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuli"
+    ],
+    "name:fra_x_preferred":[
+        "Tuli"
+    ],
+    "name:swe_x_preferred":[
+        "Tuli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310137295,
-    "wof:lastmodified":1536950902,
+    "wof:lastmodified":1564158507,
     "wof:name":"Tuli",
     "wof:parent_id":1091706919,
     "wof:placetype":"locality",

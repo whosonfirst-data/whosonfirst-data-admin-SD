@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0100r\u012bt"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0631\u06ce\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u06cc\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100r\u012bt"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226074073,
-    "wof:lastmodified":1536684438,
+    "wof:lastmodified":1564159005,
     "wof:name":"Arit",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

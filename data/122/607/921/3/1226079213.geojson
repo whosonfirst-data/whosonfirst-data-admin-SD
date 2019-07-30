@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Sh\u0101t"
     ],
+    "name:ceb_x_preferred":[
+        "Shat"
+    ],
+    "name:swe_x_preferred":[
+        "Shat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226079213,
-    "wof:lastmodified":1537699448,
+    "wof:lastmodified":1564159009,
     "wof:name":"Shat",
     "wof:parent_id":1091707399,
     "wof:placetype":"locality",

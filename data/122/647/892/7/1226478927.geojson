@@ -25,7 +25,19 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Randi"
+    ],
+    "name:deu_x_preferred":[
+        "Randi"
+    ],
     "name:eng_x_preferred":[
+        "Randi"
+    ],
+    "name:nno_x_preferred":[
+        "Randi"
+    ],
+    "name:nor_x_preferred":[
         "Randi"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226478927,
-    "wof:lastmodified":1537699459,
+    "wof:lastmodified":1564158965,
     "wof:name":"Randi",
     "wof:parent_id":1091705485,
     "wof:placetype":"locality",

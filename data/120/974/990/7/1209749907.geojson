@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062d\u0645\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Ahmar"
+    ],
+    "name:deu_x_preferred":[
+        "Ahmar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Ahmar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209749907,
-    "wof:lastmodified":1536393260,
+    "wof:lastmodified":1564158384,
     "wof:name":"Ahmar",
     "wof:parent_id":1091707521,
     "wof:placetype":"locality",

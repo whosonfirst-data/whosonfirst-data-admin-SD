@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Basha"
+    ],
+    "name:deu_x_preferred":[
+        "Basha"
+    ],
+    "name:fra_x_preferred":[
+        "Basha"
+    ],
+    "name:ita_x_preferred":[
+        "Basha"
+    ],
+    "name:nld_x_preferred":[
+        "Basha"
+    ],
     "name:und_x_variant":[
         "Jombose",
         "B\u0101sh\u0101"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1327067013,
-    "wof:lastmodified":1537699536,
+    "wof:lastmodified":1564157787,
     "wof:name":"Basha",
     "wof:parent_id":1091705503,
     "wof:placetype":"locality",

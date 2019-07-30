@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0628\u0627\u062f\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u0628\u0627\u062f\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Umm Badr"
+    ],
+    "name:deu_x_preferred":[
+        "Umm Badr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0628\u0627\u062f\u0631"
+    ],
     "name:und_x_variant":[
         "Um B\u0101dir",
         "Umm Badr"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209136721,
-    "wof:lastmodified":1537699431,
+    "wof:lastmodified":1564158334,
     "wof:name":"Umm Badr",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hamad"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Hamad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242912047,
-    "wof:lastmodified":1537075850,
+    "wof:lastmodified":1564158777,
     "wof:name":"Hamad",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

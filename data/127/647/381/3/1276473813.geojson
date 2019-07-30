@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kurru"
+    ],
+    "name:swe_x_preferred":[
+        "Kurru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276473813,
-    "wof:lastmodified":1537084736,
+    "wof:lastmodified":1564158234,
     "wof:name":"Kurru",
     "wof:parent_id":1091710501,
     "wof:placetype":"locality",

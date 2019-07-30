@@ -25,6 +25,15 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dibeira"
+    ],
+    "name:deu_x_preferred":[
+        "Dibeira"
+    ],
+    "name:spa_x_preferred":[
+        "Dibeira"
+    ],
     "name:und_x_variant":[
         "Sharkotari",
         "Debeira"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259419993,
-    "wof:lastmodified":1537699528,
+    "wof:lastmodified":1564158836,
     "wof:name":"Debeira",
     "wof:parent_id":1091710227,
     "wof:placetype":"locality",

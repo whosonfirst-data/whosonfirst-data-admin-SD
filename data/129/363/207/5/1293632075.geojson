@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Baixir"
+    ],
+    "name:deu_x_preferred":[
+        "Baschir"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9chir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "Bash\u012br"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1293632075,
-    "wof:lastmodified":1537699655,
+    "wof:lastmodified":1564158065,
     "wof:name":"Bashir",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

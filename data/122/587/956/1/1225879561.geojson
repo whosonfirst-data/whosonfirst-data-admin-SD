@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Apoganem"
+    ],
     "name:und_x_variant":[
         "Abu Ghan\u012bm"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225879561,
-    "wof:lastmodified":1537699598,
+    "wof:lastmodified":1564158949,
     "wof:name":"Abu Ghanim",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

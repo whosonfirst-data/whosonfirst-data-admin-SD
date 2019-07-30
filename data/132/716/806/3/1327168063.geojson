@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kolbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327168063,
-    "wof:lastmodified":1537059928,
+    "wof:lastmodified":1564157916,
     "wof:name":"Kolbe",
     "wof:parent_id":1091709379,
     "wof:placetype":"locality",

@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "D\u012bn"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Din"
+    ],
+    "name:dan_x_preferred":[
+        "Din"
+    ],
+    "name:deu_x_preferred":[
+        "Din"
+    ],
+    "name:est_x_preferred":[
+        "DIN"
+    ],
+    "name:lav_x_preferred":[
+        "Dins"
+    ],
+    "name:nor_x_preferred":[
+        "Din"
+    ],
+    "name:spa_x_preferred":[
+        "Din"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1293819899,
-    "wof:lastmodified":1537699680,
+    "wof:lastmodified":1564158161,
     "wof:name":"Din",
     "wof:parent_id":1091710069,
     "wof:placetype":"locality",

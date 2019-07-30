@@ -25,6 +25,24 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuri"
+    ],
+    "name:ces_x_preferred":[
+        "Kuri"
+    ],
+    "name:deu_x_preferred":[
+        "Kuri"
+    ],
+    "name:fra_x_preferred":[
+        "Kuri"
+    ],
+    "name:spa_x_preferred":[
+        "Kuri"
+    ],
+    "name:swe_x_preferred":[
+        "Kuri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1327170605,
-    "wof:lastmodified":1537056318,
+    "wof:lastmodified":1564157909,
     "wof:name":"Kuri",
     "wof:parent_id":1091710471,
     "wof:placetype":"locality",

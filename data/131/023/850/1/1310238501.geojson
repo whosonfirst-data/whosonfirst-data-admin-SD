@@ -25,6 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gua"
+    ],
+    "name:pol_x_preferred":[
+        "Gua"
+    ],
+    "name:scn_x_preferred":[
+        "Gua"
+    ],
+    "name:spa_x_preferred":[
+        "Gua"
+    ],
+    "name:swe_x_preferred":[
+        "Gua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310238501,
-    "wof:lastmodified":1536804506,
+    "wof:lastmodified":1564158497,
     "wof:name":"Gua",
     "wof:parent_id":1091706171,
     "wof:placetype":"locality",

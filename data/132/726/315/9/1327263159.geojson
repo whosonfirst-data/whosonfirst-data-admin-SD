@@ -30,6 +30,9 @@
         "Againi",
         "Agani"
     ],
+    "name:vie_x_preferred":[
+        "Agani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327263159,
-    "wof:lastmodified":1537699588,
+    "wof:lastmodified":1564157900,
     "wof:name":"Agani",
     "wof:parent_id":1091705503,
     "wof:placetype":"locality",

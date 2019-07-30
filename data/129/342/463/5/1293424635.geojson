@@ -25,6 +25,75 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u062d\u0648\u0644\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0445 \u043a\u043b\u0438\u043c\u0430\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Aridesa"
+    ],
+    "name:dan_x_preferred":[
+        "Arid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Aavikkoilmasto"
+    ],
+    "name:fra_x_preferred":[
+        "Aridit\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056b\u0564 \u056f\u056c\u056b\u0574\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Arid"
+    ],
+    "name:ita_x_preferred":[
+        "Aridit\u00e0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e7e\u71e5\u5e2f"
+    ],
+    "name:kab_x_preferred":[
+        "A\u0263urar"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u0438\u0434\u0434\u0438\u043a \u043a\u043b\u0438\u043c\u0430\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\uac74\uc870 \uae30\ud6c4"
+    ],
+    "name:msa_x_preferred":[
+        "Gersang"
+    ],
+    "name:nld_x_preferred":[
+        "Droog klimaat"
+    ],
+    "name:nno_x_preferred":[
+        "T\u00f8rt klima"
+    ],
+    "name:oci_x_preferred":[
+        "Ariditat"
+    ],
+    "name:por_x_preferred":[
+        "Aridez"
+    ],
+    "name:slv_x_preferred":[
+        "Aridna klima"
+    ],
+    "name:spa_x_preferred":[
+        "Aridez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0438\u0434\u043d\u0430 \u043a\u043b\u0438\u043c\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7\u00f6l iklimi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +117,7 @@
         }
     ],
     "wof:id":1293424635,
-    "wof:lastmodified":1536876795,
+    "wof:lastmodified":1564158146,
     "wof:name":"Arid",
     "wof:parent_id":1091708563,
     "wof:placetype":"locality",

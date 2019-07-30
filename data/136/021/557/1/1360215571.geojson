@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Al Hajar"
+    ],
     "name:und_x_variant":[
         "El Hagar",
         "Al \u1e28ajar"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360215571,
-    "wof:lastmodified":1537699576,
+    "wof:lastmodified":1564158594,
     "wof:name":"Al Hajar",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

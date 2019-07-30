@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Hawa"
+    ],
+    "name:deu_x_preferred":[
+        "Hawa"
+    ],
+    "name:fra_x_preferred":[
+        "Hawa"
+    ],
+    "name:que_x_preferred":[
+        "Hawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243123733,
-    "wof:lastmodified":1536774602,
+    "wof:lastmodified":1564158747,
     "wof:name":"Hawa",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

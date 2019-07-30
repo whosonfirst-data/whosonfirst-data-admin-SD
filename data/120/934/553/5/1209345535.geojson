@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Chero"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0930\u094b"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1a\u0b47\u0b30\u0b4b \u0b1c\u0b3e\u0b24\u0b3f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209345535,
-    "wof:lastmodified":1537699691,
+    "wof:lastmodified":1564158380,
     "wof:name":"Chero",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

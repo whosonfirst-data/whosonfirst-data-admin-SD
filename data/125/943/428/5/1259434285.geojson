@@ -25,6 +25,12 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shandi"
+    ],
+    "name:por_x_preferred":[
+        "Shandi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259434285,
-    "wof:lastmodified":1536930416,
+    "wof:lastmodified":1564158878,
     "wof:name":"Shandi",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

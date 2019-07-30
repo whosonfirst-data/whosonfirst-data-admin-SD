@@ -25,6 +25,18 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dami"
+    ],
+    "name:deu_x_preferred":[
+        "Dami"
+    ],
+    "name:ita_x_preferred":[
+        "Dami"
+    ],
+    "name:swe_x_preferred":[
+        "Dami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326958899,
-    "wof:lastmodified":1536865210,
+    "wof:lastmodified":1564157851,
     "wof:name":"Dami",
     "wof:parent_id":1091707997,
     "wof:placetype":"locality",

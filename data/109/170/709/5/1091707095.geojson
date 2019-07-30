@@ -32,11 +32,41 @@
     "mps:longitude":35.30052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Haya"
+    ],
+    "name:deu_x_preferred":[
+        "Haya"
+    ],
     "name:eng_x_preferred":[
         "Ha Yia"
     ],
     "name:eng_x_variant":[
         "Sinkat"
+    ],
+    "name:fra_x_preferred":[
+        "Haya"
+    ],
+    "name:ita_x_preferred":[
+        "Haya"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc57c"
+    ],
+    "name:pol_x_preferred":[
+        "Haya"
+    ],
+    "name:que_x_preferred":[
+        "Haya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Haya"
+    ],
+    "name:swe_x_preferred":[
+        "Haya"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +103,7 @@
         }
     ],
     "wof:id":1091707095,
-    "wof:lastmodified":1553717944,
+    "wof:lastmodified":1564158617,
     "wof:name":"Haya",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

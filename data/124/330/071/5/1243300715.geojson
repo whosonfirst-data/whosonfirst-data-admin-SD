@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Urbi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243300715,
-    "wof:lastmodified":1537014778,
+    "wof:lastmodified":1564158705,
     "wof:name":"Urbi",
     "wof:parent_id":1091705739,
     "wof:placetype":"locality",

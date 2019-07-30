@@ -25,6 +25,9 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Jirban"
+    ],
     "name:und_x_variant":[
         "Girban",
         "Jirb\u0101n"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226682179,
-    "wof:lastmodified":1537699499,
+    "wof:lastmodified":1564158928,
     "wof:name":"Jirban",
     "wof:parent_id":1091707969,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
         "Kas",
         "Mukjar"
     ],
+    "name:est_x_preferred":[
+        "Kass"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091707997,
-    "wof:lastmodified":1553717945,
+    "wof:lastmodified":1564158612,
     "wof:name":"Kass",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

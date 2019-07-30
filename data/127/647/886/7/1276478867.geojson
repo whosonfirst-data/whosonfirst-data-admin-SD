@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "B\u016bsi"
     ],
+    "name:ceb_x_preferred":[
+        "Busi"
+    ],
+    "name:deu_x_preferred":[
+        "Busi"
+    ],
+    "name:ita_x_preferred":[
+        "Busi"
+    ],
+    "name:swe_x_preferred":[
+        "Busi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276478867,
-    "wof:lastmodified":1537699689,
+    "wof:lastmodified":1564158230,
     "wof:name":"Busi",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

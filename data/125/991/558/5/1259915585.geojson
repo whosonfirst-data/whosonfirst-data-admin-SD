@@ -25,9 +25,21 @@
     "iso:country":"SD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0643\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u06a9\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Birkah"
+    ],
     "name:und_x_variant":[
         "Birka",
         "Birkah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u06a9\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259915585,
-    "wof:lastmodified":1537699534,
+    "wof:lastmodified":1564158816,
     "wof:name":"Birkah",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",
