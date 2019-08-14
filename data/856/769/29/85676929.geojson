@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":15.702698,
     "lbl:longitude":35.9035,
     "mps:latitude":15.676985,
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85676929,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -298,7 +298,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364544,
+    "wof:lastmodified":1565736309,
     "wof:name":"Kassala",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

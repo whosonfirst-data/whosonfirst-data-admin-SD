@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":19.926828,
     "lbl:longitude":35.432216,
     "mps:latitude":19.629831,
@@ -316,9 +319,6 @@
         }
     ],
     "wof:id":85676867,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -327,7 +327,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364551,
+    "wof:lastmodified":1565736310,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "lbl:latitude":11.054862,
     "lbl:longitude":24.529857,
     "mps:latitude":10.895621,
@@ -241,7 +244,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364558,
+    "wof:lastmodified":1565736312,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":19.478413,
     "lbl:longitude":29.782769,
     "mps:latitude":19.519085,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85676905,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -307,7 +307,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364543,
+    "wof:lastmodified":1565736309,
     "wof:name":"Northern",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

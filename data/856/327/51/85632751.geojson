@@ -15,6 +15,9 @@
     "itu:country_code":[
         "249"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":16.34997,
     "lbl:longitude":29.381307,
     "mps:latitude":16.34997,
@@ -974,9 +977,6 @@
         }
     ],
     "wof:id":85632751,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -985,7 +985,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364562,
+    "wof:lastmodified":1565736312,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WF"
+    ],
     "lbl:latitude":13.645964,
     "lbl:longitude":22.66519,
     "mps:latitude":14.284409,
@@ -232,7 +235,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364555,
+    "wof:lastmodified":1565736311,
     "wof:name":"Western Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

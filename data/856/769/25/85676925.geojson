@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NK"
+    ],
     "lbl:latitude":14.940104,
     "lbl:longitude":30.071866,
     "mps:latitude":14.60935,
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85676925,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -309,7 +309,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364548,
+    "wof:lastmodified":1565736310,
     "wof:name":"North Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

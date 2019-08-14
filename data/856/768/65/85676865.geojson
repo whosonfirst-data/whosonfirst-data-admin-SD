@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":11.395724,
     "lbl:longitude":34.032235,
     "mps:latitude":11.576725,
@@ -447,9 +450,6 @@
         }
     ],
     "wof:id":85676865,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -458,7 +458,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364556,
+    "wof:lastmodified":1565736311,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

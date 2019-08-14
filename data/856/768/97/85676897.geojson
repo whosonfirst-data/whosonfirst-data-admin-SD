@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GD"
+    ],
     "lbl:latitude":14.004676,
     "lbl:longitude":35.091779,
     "mps:latitude":13.861213,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85676897,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -303,7 +303,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364557,
+    "wof:lastmodified":1565736311,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

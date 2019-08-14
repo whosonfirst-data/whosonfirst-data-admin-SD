@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":11.129429,
     "lbl:longitude":30.866566,
     "mps:latitude":11.359126,
@@ -311,9 +314,6 @@
         }
     ],
     "wof:id":85676923,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -322,7 +322,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563364547,
+    "wof:lastmodified":1565736310,
     "wof:name":"South Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
