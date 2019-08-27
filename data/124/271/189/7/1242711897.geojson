@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"25.38,12.66333,25.42,12.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242711897,
-    "wof:lastmodified":1536869211,
+    "wof:lastmodified":1566639706,
     "wof:name":"Karbab",
     "wof:parent_id":1091710501,
     "wof:placetype":"locality",

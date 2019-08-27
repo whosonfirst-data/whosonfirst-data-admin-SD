@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"24.31333,14.16333,24.35333,14.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwein",
         "Kuwayn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259419727,
-    "wof:lastmodified":1537699483,
+    "wof:lastmodified":1566639760,
     "wof:name":"Kuwayn",
     "wof:parent_id":1091707521,
     "wof:placetype":"locality",

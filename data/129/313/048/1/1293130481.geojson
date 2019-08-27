@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.46177,10.60331,23.50177,10.64331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0162\u0101b\u016br"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293130481,
-    "wof:lastmodified":1537699440,
+    "wof:lastmodified":1566639191,
     "wof:name":"Tabur",
     "wof:parent_id":1091710763,
     "wof:placetype":"locality",

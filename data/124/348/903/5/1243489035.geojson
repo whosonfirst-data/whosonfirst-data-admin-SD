@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.26165,11.57113,23.30165,11.61113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Murlinga",
         "Marlenga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243489035,
-    "wof:lastmodified":1537699477,
+    "wof:lastmodified":1566639685,
     "wof:name":"Marlenga",
     "wof:parent_id":1091707841,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.71333,12.49667,32.75333,12.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu Shagar",
         "Abu Shidar",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293326499,
-    "wof:lastmodified":1537699594,
+    "wof:lastmodified":1566639214,
     "wof:name":"Abu Shajar",
     "wof:parent_id":1091708931,
     "wof:placetype":"locality",

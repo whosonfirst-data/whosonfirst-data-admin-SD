@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.796,16.4071,32.836,16.4471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28illat az Zaraqnah",
         "Hillat ez Zaraqna"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243002235,
-    "wof:lastmodified":1537699604,
+    "wof:lastmodified":1566639649,
     "wof:name":"Hillat ez Zaraqna",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

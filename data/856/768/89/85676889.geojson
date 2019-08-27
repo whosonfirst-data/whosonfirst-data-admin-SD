@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.749026,
     "lbl:longitude":33.043137,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.779783,
     "mps:longitude":32.649689,
     "mz:hierarchy_label":1,
@@ -405,7 +406,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Khur\u0163\u016bm"
     ],
     "name:urd_x_preferred":[
@@ -525,9 +526,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"22,142",
     "statoids:area_mi":"8,549",
     "statoids:as_of_date":"2008-04-22",
@@ -556,7 +557,7 @@
         "gp:id":20069819,
         "hasc:id":"SD.KH",
         "iso:id":"SD-KH",
-        "qs:id":902981,
+        "qs_pg:id":902981,
         "unlc:id":"SD-KH",
         "wd:id":"Q310385"
     },
@@ -578,11 +579,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736310,
+    "wof:lastmodified":1566639138,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6527500,
     "wof:population_rank":13,

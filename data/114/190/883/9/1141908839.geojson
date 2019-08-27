@@ -9,15 +9,18 @@
     "geom:bbox":"33.9799824613,17.7099900502,33.9799824613,17.7099900502",
     "geom:latitude":17.70999,
     "geom:longitude":33.979982,
-    "gn:gn_country":"SD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":107930,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
     "gn:population":107930,
     "iso:country":"SD",
+    "lbl:bbox":"33.9599824613,17.6899900502,33.9999824613,17.7299900502",
     "lbl:latitude":17.70999,
     "lbl:longitude":33.979982,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0639\u0637\u0628\u0631\u0629"
     ],
@@ -144,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0431\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Madent Atbara"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":1141908839,
-    "wof:lastmodified":1563365500,
+    "wof:lastmodified":1566639894,
     "wof:name":"Atbara",
     "wof:parent_id":1091709911,
     "wof:placetype":"locality",

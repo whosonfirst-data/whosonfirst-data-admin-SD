@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.65833,16.32694,32.69833,16.36694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huqna",
         "El Huqna",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277111063,
-    "wof:lastmodified":1537699573,
+    "wof:lastmodified":1566639322,
     "wof:name":"Al Huqnah",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

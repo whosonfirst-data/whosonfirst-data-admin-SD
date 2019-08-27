@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.21414,13.49123,22.25414,13.53123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kataltak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293031597,
-    "wof:lastmodified":1537699494,
+    "wof:lastmodified":1566639200,
     "wof:name":"Kataltak",
     "wof:parent_id":1091705485,
     "wof:placetype":"locality",

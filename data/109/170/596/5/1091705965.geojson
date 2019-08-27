@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":13.197264,
     "lbl:longitude":25.361558,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North Darfur",
     "meso:diss_me":"Dar El SalamNorth Darfur",
     "meso:gadm_admin":"Al Fasher",
@@ -26,6 +28,7 @@
     "mps:longitude":25.361558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645"
     ],
@@ -48,7 +51,7 @@
         "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1091705965,
-    "wof:lastmodified":1564158634,
+    "wof:lastmodified":1566639591,
     "wof:name":"Dar El Salam",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

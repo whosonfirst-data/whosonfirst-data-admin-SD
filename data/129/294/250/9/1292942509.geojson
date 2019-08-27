@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.64667,15.09667,32.68667,15.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umm Tarafaiya",
         "Umm \u0162araf\u0101yah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292942509,
-    "wof:lastmodified":1537699415,
+    "wof:lastmodified":1566639167,
     "wof:name":"Umm Tarafayah",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.74667,13.46333,30.78667,13.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Furei\u2018a",
         "El Fure\u2018ia",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326765071,
-    "wof:lastmodified":1537699579,
+    "wof:lastmodified":1566639005,
     "wof:name":"Al Furay`ah",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

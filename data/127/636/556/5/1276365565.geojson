@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.69009,13.18524,23.73009,13.22524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276365565,
-    "wof:lastmodified":1536735558,
+    "wof:lastmodified":1566639314,
     "wof:name":"Gudai",
     "wof:parent_id":1091709375,
     "wof:placetype":"locality",

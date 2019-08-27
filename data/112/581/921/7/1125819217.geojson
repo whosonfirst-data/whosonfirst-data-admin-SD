@@ -9,15 +9,18 @@
     "geom:bbox":"37.21644,19.61745,37.21644,19.61745",
     "geom:latitude":19.61745,
     "geom:longitude":37.21644,
-    "gn:gn_country":"SD",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":489725,
+    "gn:country":"SD",
+    "gn:fcode":"PPLA",
     "gn:population":489725,
     "iso:country":"SD",
+    "lbl:bbox":"37.19644,19.59745,37.23644,19.63745",
     "lbl:latitude":19.61745,
     "lbl:longitude":37.21644,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "B\u016br S\u016bd\u0101n"
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0421\u0443\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Saw\u00e2kin"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "qs_pg:qs_id":124467,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":1125819217,
-    "wof:lastmodified":1563365196,
+    "wof:lastmodified":1566639643,
     "wof:name":"Port Sudan",
     "wof:parent_id":1091709521,
     "wof:placetype":"locality",

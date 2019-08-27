@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.054862,
     "lbl:longitude":24.529857,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.895621,
     "mps:longitude":24.450036,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
         "Janub Darfur"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b9f\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9f\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c21\u0c3e\u0c30\u0c4d\u0c2b\u0c41\u0c30\u0c4d"
@@ -197,9 +198,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"127,300",
     "statoids:area_mi":"49,151",
     "statoids:as_of_date":"2008-04-22",
@@ -223,7 +224,7 @@
         "gp:id":20069893,
         "hasc:id":"SD.SF",
         "iso:id":"SD-DS",
-        "qs:id":895509,
+        "qs_pg:id":895509,
         "wd:id":"Q838778"
     },
     "wof:country":"SD",
@@ -244,11 +245,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736312,
+    "wof:lastmodified":1566639140,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4093594,
     "wof:population_rank":12,

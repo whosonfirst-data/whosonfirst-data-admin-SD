@@ -11,11 +11,15 @@
     "geom:longitude":29.13333,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":11024,
+    "gn:population":11024,
     "iso:country":"SD",
+    "lbl:bbox":"29.11333,11.38,29.15333,11.42",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "El Lagowa"
     ],
     "qs:name":"Al Lagowa",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":379198,
         "gp:id":1430489,
-        "qs:id":124509
+        "qs_pg:id":124509
     },
     "wof:country":"SD",
     "wof:created":1469052170,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890437897,
-    "wof:lastmodified":1505343562,
+    "wof:lastmodified":1566639641,
     "wof:name":"Al Lagowa",
     "wof:parent_id":1091707523,
     "wof:placetype":"locality",

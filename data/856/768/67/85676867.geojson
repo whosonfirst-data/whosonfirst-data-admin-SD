@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.926828,
     "lbl:longitude":35.432216,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.629831,
     "mps:longitude":35.521926,
     "mz:hierarchy_label":1,
@@ -177,7 +178,7 @@
         "Al-Bahr al-Ahmar"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bc6\u0b9f\u0bcd  \u0bb8\u0bc0"
+        "\u0bb0\u0bc6\u0b9f\u0bcd \u0bb8\u0bc0"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c4d\u0c30 \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c02"
@@ -191,7 +192,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435 \u043c\u043e\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat al Ba\u1e29r al A\u1e29mar"
     ],
     "name:urd_x_preferred":[
@@ -280,9 +281,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"218,887",
     "statoids:area_mi":"84,513",
     "statoids:as_of_date":"2008-04-22",
@@ -306,7 +307,7 @@
         "gp:id":20069904,
         "hasc:id":"SD.RS",
         "iso:id":"SD-RS",
-        "qs:id":895511,
+        "qs_pg:id":895511,
         "wd:id":"Q310120"
     },
     "wof:country":"SD",
@@ -327,11 +328,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736310,
+    "wof:lastmodified":1566639137,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1396110,
     "wof:population_rank":12,

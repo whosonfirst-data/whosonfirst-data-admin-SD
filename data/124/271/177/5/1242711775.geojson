@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"28.38889,9.56052,28.42889,9.60052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u2019endachuar"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1242711775,
-    "wof:lastmodified":1537699467,
+    "wof:lastmodified":1566639709,
     "wof:name":"Nyendachuar",
     "wof:parent_id":1091711067,
     "wof:placetype":"locality",

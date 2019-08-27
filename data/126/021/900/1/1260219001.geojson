@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"26.06333,14.48,26.10333,14.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260219001,
-    "wof:lastmodified":1536799528,
+    "wof:lastmodified":1566639462,
     "wof:name":"Gungo Nair",
     "wof:parent_id":1091710427,
     "wof:placetype":"locality",

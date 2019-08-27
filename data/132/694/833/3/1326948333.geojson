@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.3454,12.7186,35.3854,12.7586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khashm al Ba\u0163\u0163a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326948333,
-    "wof:lastmodified":1537699678,
+    "wof:lastmodified":1566638975,
     "wof:name":"Khashm al Batta",
     "wof:parent_id":1091709177,
     "wof:placetype":"locality",

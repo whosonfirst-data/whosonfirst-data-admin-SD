@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.69667,17.11333,34.73667,17.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dibeikir",
         "Dubaykir"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310334401,
-    "wof:lastmodified":1537699526,
+    "wof:lastmodified":1566639534,
     "wof:name":"Dubaykir",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

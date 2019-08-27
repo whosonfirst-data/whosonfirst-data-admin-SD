@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.69667,12.93,30.73667,12.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Kurnuk",
         "Al Kurnuk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259412267,
-    "wof:lastmodified":1537699567,
+    "wof:lastmodified":1566639754,
     "wof:name":"Al Kurnuk",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

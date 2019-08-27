@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.395724,
     "lbl:longitude":34.032235,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.576725,
     "mps:longitude":34.064526,
     "mz:hierarchy_label":1,
@@ -287,7 +288,7 @@
         "\u0ba8\u0bc0\u0bb2 \u0ba8\u0bc8\u0bb2\u0bcd"
     ],
     "name:tam_x_variant":[
-        "\u0baa\u0bcd\u0bb3\u0bc2  \u0ba8\u0bbf\u0bb2"
+        "\u0baa\u0bcd\u0bb3\u0bc2 \u0ba8\u0bbf\u0bb2"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c32\u0c42 \u0c28\u0c48\u0c32\u0c4d"
@@ -304,7 +305,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439 \u041d\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat an N\u012bl al Azraq"
     ],
     "name:urd_x_preferred":[
@@ -408,9 +409,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"45,844",
     "statoids:area_mi":"17,700",
     "statoids:as_of_date":"2008-04-22",
@@ -436,7 +437,7 @@
         "gp:id":20069913,
         "hasc:id":"SD.BN",
         "iso:id":"SD-NB",
-        "qs:id":331987,
+        "qs_pg:id":331987,
         "unlc:id":"SD-NB",
         "wd:id":"Q309489"
     },
@@ -458,11 +459,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736311,
+    "wof:lastmodified":1566639139,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":832112,
     "wof:population_rank":11,

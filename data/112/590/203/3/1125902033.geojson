@@ -9,17 +9,20 @@
     "geom:bbox":"26.68759,13.60169,26.68759,13.60169",
     "geom:latitude":13.60169,
     "geom:longitude":26.68759,
-    "gn:gn_country":"SD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10979,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
     "gn:population":10979,
     "iso:country":"SD",
+    "lbl:bbox":"26.66759,13.58169,26.70759,13.62169",
     "lbl:latitude":13.60169,
     "lbl:longitude":26.68759,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Um Kaddada"
     ],
     "qs_pg:aaroncc":"SD",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":124351,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125902033,
-    "wof:lastmodified":1509399476,
+    "wof:lastmodified":1566639644,
     "wof:name":"Umm Kaddadah",
     "wof:parent_id":1091709005,
     "wof:placetype":"locality",

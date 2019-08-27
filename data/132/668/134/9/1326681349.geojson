@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.0816,14.5133,33.1216,14.5533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Abu \u0162ile\u1e29"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326681349,
-    "wof:lastmodified":1537699643,
+    "wof:lastmodified":1566638990,
     "wof:name":"Abu Tileh",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

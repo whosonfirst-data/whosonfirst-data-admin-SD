@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.9176,15.2638,32.9576,15.3038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u1e29as Kurtang",
         "Al Mahas Kutranj"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243274447,
-    "wof:lastmodified":1537699480,
+    "wof:lastmodified":1566639726,
     "wof:name":"Al Mahas Kutranj",
     "wof:parent_id":1091708425,
     "wof:placetype":"locality",

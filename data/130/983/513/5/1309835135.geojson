@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.46496,12.69285,22.50496,12.73285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolongei"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309835135,
-    "wof:lastmodified":1537699488,
+    "wof:lastmodified":1566639610,
     "wof:name":"Kolongei",
     "wof:parent_id":1091706945,
     "wof:placetype":"locality",

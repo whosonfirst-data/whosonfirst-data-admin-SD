@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":12.642087,
     "lbl:longitude":25.232528,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Darfur",
     "meso:diss_me":"NiteagaSouth Darfur",
     "meso:gadm_admin":"Nyala",
@@ -26,12 +28,13 @@
     "mps:longitude":25.232528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Shearia",
         "Nyala"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1091710501,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1566639606,
     "wof:name":"Niteaga",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

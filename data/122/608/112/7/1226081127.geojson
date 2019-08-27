@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.788,12.8242,32.828,12.8642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0162\u0101bat \u2019Abu ad Dakh\u012bra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226081127,
-    "wof:lastmodified":1537699615,
+    "wof:lastmodified":1566639883,
     "wof:name":"Tabat 'Abu ad Dakhira",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

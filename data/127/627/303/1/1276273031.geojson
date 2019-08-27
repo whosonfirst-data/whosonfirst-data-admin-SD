@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.5424,14.4828,32.5824,14.5228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Khirwi \u2018Al Qadima"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276273031,
-    "wof:lastmodified":1537699620,
+    "wof:lastmodified":1566639261,
     "wof:name":"Al Khirwi `Al Qadima",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

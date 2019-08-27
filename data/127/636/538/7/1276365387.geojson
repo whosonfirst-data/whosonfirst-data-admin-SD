@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.1512,16.6038,33.1912,16.6438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hobagi",
         "El Hobagi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276365387,
-    "wof:lastmodified":1537699506,
+    "wof:lastmodified":1566639316,
     "wof:name":"El Hobagi",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

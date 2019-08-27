@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.483975,
     "lbl:longitude":25.666718,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"East Darfur",
     "meso:diss_me":"SheiriaEast Darfur",
     "meso:gadm_admin":"Nyala",
@@ -32,6 +34,7 @@
     "mps:longitude":25.666718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sheiria"
     ],
@@ -40,9 +43,9 @@
         "Nyala"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091708563,
-    "wof:lastmodified":1553717946,
+    "wof:lastmodified":1566639586,
     "wof:name":"Sheiria",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

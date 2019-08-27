@@ -11,10 +11,14 @@
     "geom:longitude":30.3797,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":13188,
+    "gn:population":13188,
     "iso:country":"SD",
+    "lbl:bbox":"30.3597,10.61246,30.3997,10.65246",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0644\u0648\u062f\u064a"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u043e\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Talawd\u012b"
     ],
     "name:urd_x_preferred":[
@@ -148,7 +152,7 @@
     "wof:concordances":{
         "gn:id":366487,
         "gp:id":1436319,
-        "qs:id":124359,
+        "qs_pg:id":124359,
         "wd:id":"Q2390680",
         "wk:page":"Talodi"
     },
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":890441671,
-    "wof:lastmodified":1563365187,
+    "wof:lastmodified":1566639639,
     "wof:name":"Talodi",
     "wof:parent_id":1091705521,
     "wof:placetype":"locality",

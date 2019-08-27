@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":14.954001,
     "lbl:longitude":23.007351,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North Darfur",
     "meso:diss_me":"El TinaNorth Darfur",
     "meso:gadm_admin":"Kutum",
@@ -26,11 +28,12 @@
     "mps:longitude":23.007351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Kutum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1091710383,
-    "wof:lastmodified":1536614986,
+    "wof:lastmodified":1566639603,
     "wof:name":"El Tina",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

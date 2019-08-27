@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"24.48,14.26333,24.52,14.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0438\u044f"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1309940913,
-    "wof:lastmodified":1564158671,
+    "wof:lastmodified":1566639621,
     "wof:name":"Turiya",
     "wof:parent_id":1091707521,
     "wof:placetype":"locality",

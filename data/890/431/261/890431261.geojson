@@ -11,11 +11,15 @@
     "geom:longitude":33.90812,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":19141,
+    "gn:population":19141,
     "iso:country":"SD",
+    "lbl:bbox":"33.88812,18.24196,33.92812,18.28196",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Al Bauga"
     ],
     "qs:name":"El Bauga",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":379630,
         "gp:id":1432059,
-        "qs:id":274966
+        "qs_pg:id":274966
     },
     "wof:country":"SD",
     "wof:created":1469051884,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431261,
-    "wof:lastmodified":1505343523,
+    "wof:lastmodified":1566639641,
     "wof:name":"El Bauga",
     "wof:parent_id":1091709863,
     "wof:placetype":"locality",

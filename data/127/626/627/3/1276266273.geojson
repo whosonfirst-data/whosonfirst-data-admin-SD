@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"25.06333,10.26333,25.10333,10.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hugeir al Kiazi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276266273,
-    "wof:lastmodified":1537699506,
+    "wof:lastmodified":1566639250,
     "wof:name":"Hugeir el Kiazi",
     "wof:parent_id":1091706467,
     "wof:placetype":"locality",

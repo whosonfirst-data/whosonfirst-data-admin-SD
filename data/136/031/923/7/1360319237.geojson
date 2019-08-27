@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.54667,18.58,30.58667,18.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khandaq",
         "El Khandaq",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360319237,
-    "wof:lastmodified":1537699570,
+    "wof:lastmodified":1566639547,
     "wof:name":"Al Khandaq",
     "wof:parent_id":1091705739,
     "wof:placetype":"locality",

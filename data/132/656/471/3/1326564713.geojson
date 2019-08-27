@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.4845,16.7094,33.5245,16.7494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326564713,
-    "wof:lastmodified":1536937903,
+    "wof:lastmodified":1566638969,
     "wof:name":"Hillat el Qoz",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

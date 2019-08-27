@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.1155,16.5706,33.1555,16.6106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Tabaqat"
     ],
@@ -32,8 +36,7 @@
         "\u0422\u0430\u0431\u0430\u043a\u0430\u0442"
     ],
     "name:und_x_variant":[
-        "El Foqara",
-        "Tabaqat"
+        "El Foqara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243002121,
-    "wof:lastmodified":1564158697,
+    "wof:lastmodified":1566639648,
     "wof:name":"Tabaqat",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

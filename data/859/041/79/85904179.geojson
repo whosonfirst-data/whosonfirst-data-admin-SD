@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23722160.207883,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.519633,15.59623,32.519633,15.59623",
     "geom:latitude":15.59623,
     "geom:longitude":32.519633,
     "gn:id":"",
     "iso:country":"SD",
+    "lbl:bbox":"32.514633,15.59123,32.524633,15.60123",
     "lbl:latitude":15.59623,
     "lbl:longitude":32.519633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.600663,
     "mps:longitude":32.511819,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Friendship Hall"
-    ],
-    "name:unk_x_variant":[
         "Friendship Hall"
     ],
     "qs:gn_adm0_cc":"SD",
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":184,
     "wof:belongsto":[
+        85676889,
         102191573,
         85632751,
-        1091707383,
-        85676889
+        1091707383
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644829,
-        "qs:id":424982,
         "qs_pg:id":424982
     },
     "wof:country":"SD",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936197,
+    "wof:lastmodified":1566639133,
     "wof:name":"Friendship Hall",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

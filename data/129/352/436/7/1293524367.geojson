@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"36.1084,16.0243,36.1484,16.0643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28illat Tamant\u0101shar \u2018\u012as\u00e1 al \u1e28aqq",
         "Hillat Tamant\u0101shar \u012asa al H\u0101q"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293524367,
-    "wof:lastmodified":1537699605,
+    "wof:lastmodified":1566639159,
     "wof:name":"Hillat Tamantashar Isa al Haq",
     "wof:parent_id":1091709303,
     "wof:placetype":"locality",

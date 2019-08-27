@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.2791,14.3736,33.3191,14.4136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u015ear\u0101ya Taman\u0163ashar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310343937,
-    "wof:lastmodified":1537699652,
+    "wof:lastmodified":1566639531,
     "wof:name":"Saraya Tamantashar",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

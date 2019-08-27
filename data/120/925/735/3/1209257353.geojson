@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.3704,14.2065,33.4104,14.2465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maqb\u016bl",
         "Wad Maqbul"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209257353,
-    "wof:lastmodified":1537699478,
+    "wof:lastmodified":1566639356,
     "wof:name":"Wad Maqbul",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

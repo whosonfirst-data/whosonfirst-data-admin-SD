@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.683716,
     "lbl:longitude":33.133159,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Al Gezira",
     "meso:diss_me":"El HasaheesaAl Gezira",
     "meso:gadm_admin":"North al Gazera",
@@ -32,6 +34,7 @@
     "mps:longitude":33.133159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "El Hasaheisa"
     ],
@@ -40,9 +43,9 @@
         "North al Gazera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091706349,
-    "wof:lastmodified":1553717942,
+    "wof:lastmodified":1566639584,
     "wof:name":"El Hasaheesa",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

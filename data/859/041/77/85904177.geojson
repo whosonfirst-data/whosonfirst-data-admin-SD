@@ -11,8 +11,10 @@
     "geom:longitude":32.537651,
     "gn:id":"",
     "iso:country":"SD",
+    "lbl:bbox":"32.532651,15.601689,32.542651,15.611689",
     "lbl:latitude":15.606689,
     "lbl:longitude":32.537651,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.618609,
     "mps:longitude":32.540253,
     "mz:hierarchy_label":0,
@@ -85,9 +87,6 @@
     "name:tgl_x_preferred":[
         "Unibersidad ng Khartoum"
     ],
-    "name:unk_x_variant":[
-        "University of Khartoum"
-    ],
     "name:zho_x_preferred":[
         "\u5580\u571f\u6728\u5927\u5b78"
     ],
@@ -116,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":1979,
     "wof:belongsto":[
         85676889,
@@ -127,7 +126,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644827,
-        "qs:id":1318399,
         "qs_pg:id":1318399,
         "wd:id":"Q656871"
     },
@@ -147,7 +145,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563364542,
+    "wof:lastmodified":1566639134,
     "wof:name":"University of Khartoum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

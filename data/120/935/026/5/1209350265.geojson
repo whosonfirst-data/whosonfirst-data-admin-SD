@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"29.6833,11.0391,29.7233,11.0791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Murt\u0101"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209350265,
-    "wof:lastmodified":1564158358,
+    "wof:lastmodified":1566639376,
     "wof:name":"Murta",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"26.42995,15.40396,26.46995,15.44396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bulgar"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259419225,
-    "wof:lastmodified":1564158839,
+    "wof:lastmodified":1566639756,
     "wof:name":"Bulgar",
     "wof:parent_id":1091705505,
     "wof:placetype":"locality",

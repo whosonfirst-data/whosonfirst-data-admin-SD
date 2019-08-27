@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"26.49667,10.98,26.53667,11.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gidel as San\u0163"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344190775,
-    "wof:lastmodified":1537699516,
+    "wof:lastmodified":1566639108,
     "wof:name":"Gidel es Sunt",
     "wof:parent_id":1091710883,
     "wof:placetype":"locality",

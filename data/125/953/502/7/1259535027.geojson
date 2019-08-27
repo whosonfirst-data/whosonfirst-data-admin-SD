@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.0158,14.4119,33.0558,14.4519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu D\u012bgn",
         "Ab\u016b Dhaqn",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259535027,
-    "wof:lastmodified":1537699599,
+    "wof:lastmodified":1566639739,
     "wof:name":"Aba Diqin",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.0232,16.5202,33.0632,16.5602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Gureif",
         "El Gureif",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259911087,
-    "wof:lastmodified":1537699577,
+    "wof:lastmodified":1566639744,
     "wof:name":"Geref Hamad Alla",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

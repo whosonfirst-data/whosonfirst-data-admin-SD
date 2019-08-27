@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.3447,13.3064,32.3847,13.3464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "As Sin\u0113\u0163"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226179151,
-    "wof:lastmodified":1537699663,
+    "wof:lastmodified":1566639802,
     "wof:name":"As Sinet",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.782855,
     "lbl:longitude":22.437156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Darfur",
     "meso:diss_me":"HabilaWest Darfur",
     "meso:gadm_admin":"Al Geneina",
@@ -32,6 +34,7 @@
     "mps:longitude":22.437156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Habiela"
     ],
@@ -43,9 +46,9 @@
         "\u06c1\u0627\u0628\u06cc\u0644\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1091706945,
-    "wof:lastmodified":1564158627,
+    "wof:lastmodified":1566639585,
     "wof:name":"Habila",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

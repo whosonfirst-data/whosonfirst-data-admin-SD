@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.669251,
     "lbl:longitude":24.3515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Darfur",
     "meso:diss_me":"Ed El FursanSouth Darfur",
     "meso:gadm_admin":"Id El Ghanem",
@@ -32,6 +34,7 @@
     "mps:longitude":24.3515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ed Al Fursan"
     ],
@@ -40,9 +43,9 @@
         "Id El Ghanem"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091707925,
-    "wof:lastmodified":1553717945,
+    "wof:lastmodified":1566639592,
     "wof:name":"Ed El Fursan",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

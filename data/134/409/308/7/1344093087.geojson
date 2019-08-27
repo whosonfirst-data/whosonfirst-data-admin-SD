@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.6409,17.0542,33.6809,17.0942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kumayr",
         "Kimeir",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344093087,
-    "wof:lastmodified":1537699485,
+    "wof:lastmodified":1566639062,
     "wof:name":"El Kimer",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

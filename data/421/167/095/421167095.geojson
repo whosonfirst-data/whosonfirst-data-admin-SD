@@ -10,10 +10,14 @@
     "geom:latitude":13.31667,
     "geom:longitude":33.88333,
     "iso:country":"SD",
+    "lbl:bbox":"33.86333,13.29667,33.90333,13.33667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Es Suki"
     ],
     "qs:gn_country":"SD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":378271,
         "gp:id":1430905,
-        "qs:id":124481
+        "qs_pg:id":124481
     },
     "wof:country":"SD",
     "wof:created":1459008719,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167095,
-    "wof:lastmodified":1505340583,
+    "wof:lastmodified":1566639633,
     "wof:name":"As Suki",
     "wof:parent_id":1091706637,
     "wof:placetype":"locality",

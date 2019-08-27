@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.64667,13.38,34.68667,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad el Guzuli",
         "\u2018Amara el Khalifa Wad el Guzuli",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309835453,
-    "wof:lastmodified":1537699557,
+    "wof:lastmodified":1566639608,
     "wof:name":"`Amarat al Khalifah",
     "wof:parent_id":1091709223,
     "wof:placetype":"locality",

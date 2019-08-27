@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.73,22.64667,35.77,22.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marsa Sha\u2018ab",
         "Mars\u00e1 Sha\u2018b"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209167277,
-    "wof:lastmodified":1537699477,
+    "wof:lastmodified":1566639395,
     "wof:name":"Marsa Sha`b",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

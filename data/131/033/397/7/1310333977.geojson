@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"26.79667,11.69667,26.83667,11.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naier",
         "En Nair",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310333977,
-    "wof:lastmodified":1537699555,
+    "wof:lastmodified":1566639534,
     "wof:name":"An Nair",
     "wof:parent_id":1091705605,
     "wof:placetype":"locality",

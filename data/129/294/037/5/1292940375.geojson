@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.11333,14.39667,31.15333,14.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umm Deimin",
         "Umm Deimein",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292940375,
-    "wof:lastmodified":1537699429,
+    "wof:lastmodified":1566639168,
     "wof:name":"Umm Daymayn",
     "wof:parent_id":1091709813,
     "wof:placetype":"locality",

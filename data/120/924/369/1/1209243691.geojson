@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.53,18.66333,30.57,18.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Suri"
     ],
@@ -56,8 +60,7 @@
         "Suri"
     ],
     "name:und_x_variant":[
-        "Sori",
-        "Suri"
+        "Sori"
     ],
     "name:vie_x_preferred":[
         "Suri"
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1209243691,
-    "wof:lastmodified":1564158317,
+    "wof:lastmodified":1566639347,
     "wof:name":"Suri",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

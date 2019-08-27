@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.39667,13.64667,32.43667,13.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Kurnuk Muhammad \u2018Isa",
         "Al Kurnuk Mu\u1e29ammad \u2018\u012as\u00e1"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293425691,
-    "wof:lastmodified":1537699567,
+    "wof:lastmodified":1566639221,
     "wof:name":"Al Kurnuk Muhammad `Isa",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

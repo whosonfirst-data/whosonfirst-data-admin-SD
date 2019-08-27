@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.64667,18.39667,33.68667,18.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sulaymaniyah"
     ],
@@ -167,7 +171,6 @@
         "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Suleimaniya",
         "Sulaym\u0101n\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1226278847,
-    "wof:lastmodified":1564158913,
+    "wof:lastmodified":1566639815,
     "wof:name":"Sulaymaniyah",
     "wof:parent_id":1091709863,
     "wof:placetype":"locality",

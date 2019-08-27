@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.6832,15.2371,35.7232,15.2771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryah 10",
         "Murshid",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259517093,
-    "wof:lastmodified":1537699471,
+    "wof:lastmodified":1566639778,
     "wof:name":"Qaryah `Asharah",
     "wof:parent_id":1091710227,
     "wof:placetype":"locality",

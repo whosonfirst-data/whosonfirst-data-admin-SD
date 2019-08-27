@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.5205,16.0291,32.5605,16.0691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esh Shihenab",
         "Hillat Wad Mahamod"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276603903,
-    "wof:lastmodified":1537699609,
+    "wof:lastmodified":1566639268,
     "wof:name":"Hillat Wad Mahamod",
     "wof:parent_id":1091708803,
     "wof:placetype":"locality",

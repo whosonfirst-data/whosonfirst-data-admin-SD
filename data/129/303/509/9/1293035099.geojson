@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.146,12.9091,31.186,12.9491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad A\u1e11 \u1e10\u00e0w"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293035099,
-    "wof:lastmodified":1537699664,
+    "wof:lastmodified":1566639204,
     "wof:name":"Wad Ad Daw",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

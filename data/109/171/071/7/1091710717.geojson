@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":19.189782,
     "lbl:longitude":37.204851,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Red Sea",
     "meso:diss_me":"SuakinRed Sea",
     "meso:gadm_admin":"Port Sudan",
@@ -26,6 +28,7 @@
     "mps:longitude":37.204851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0643\u0646"
     ],
@@ -93,7 +96,7 @@
         "\u8428\u74e6\u91d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1091710717,
-    "wof:lastmodified":1564158644,
+    "wof:lastmodified":1566639602,
     "wof:name":"Suakin",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.6407,16.8088,33.6807,16.8488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ebrik",
         "Ibrig",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260323561,
-    "wof:lastmodified":1537699608,
+    "wof:lastmodified":1566639473,
     "wof:name":"Hillat Qoz el Hag",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

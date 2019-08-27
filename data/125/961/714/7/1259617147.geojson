@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.44667,13.14667,30.48667,13.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kao"
     ],
@@ -50,8 +54,7 @@
         "Kao"
     ],
     "name:und_x_variant":[
-        "Kau",
-        "Kao"
+        "Kau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259617147,
-    "wof:lastmodified":1564158858,
+    "wof:lastmodified":1566639771,
     "wof:name":"Kao",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

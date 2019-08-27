@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.3499,14.771,32.3899,14.811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Aj J\u0101mr\u0101b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326760899,
-    "wof:lastmodified":1537699638,
+    "wof:lastmodified":1566639006,
     "wof:name":"Aj Jamrab",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

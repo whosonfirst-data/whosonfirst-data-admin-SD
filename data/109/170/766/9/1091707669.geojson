@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.303961,
     "lbl:longitude":34.857187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gedaref",
     "meso:diss_me":"Middle GedarefGedaref",
     "meso:gadm_admin":"Al Faw",
@@ -32,6 +34,7 @@
     "mps:longitude":34.857187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Central Al Gedarif"
     ],
@@ -39,9 +42,9 @@
         "Al Faw"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091707669,
-    "wof:lastmodified":1553717945,
+    "wof:lastmodified":1566639592,
     "wof:name":"Middle Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

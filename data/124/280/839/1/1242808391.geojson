@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.49722,11.19861,30.53722,11.23861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u0113ban",
         "Heib\u0101n",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242808391,
-    "wof:lastmodified":1537699507,
+    "wof:lastmodified":1566639664,
     "wof:name":"Hayban",
     "wof:parent_id":1091707969,
     "wof:placetype":"locality",

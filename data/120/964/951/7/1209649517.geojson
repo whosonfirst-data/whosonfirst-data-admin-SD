@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.3229,12.2817,34.3629,12.3217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Mireb\u012b\u2018a",
         "Marabba"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209649517,
-    "wof:lastmodified":1537699477,
+    "wof:lastmodified":1566639336,
     "wof:name":"Al Mirebi`a",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

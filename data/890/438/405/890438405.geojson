@@ -11,10 +11,14 @@
     "geom:longitude":32.18333,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":12108,
+    "gn:population":12108,
     "iso:country":"SD",
+    "lbl:bbox":"32.16333,12.33,32.20333,12.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Marabba"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":370510,
         "gp:id":1430800,
-        "qs:id":1026796,
+        "qs_pg:id":1026796,
         "wd:id":"Q6754534",
         "wk:page":"Marabba"
     },
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890438405,
-    "wof:lastmodified":1563365193,
+    "wof:lastmodified":1566639642,
     "wof:name":"Marabba",
     "wof:parent_id":1091708931,
     "wof:placetype":"locality",

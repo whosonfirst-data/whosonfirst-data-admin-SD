@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.423,15.25,32.463,15.29",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -34,7 +38,7 @@
         "gn:id":6991861
     },
     "wof:country":"SD",
-    "wof:geomhash":"12c666b37d42a3026ed440538ae7bb59",
+    "wof:geomhash":"07ec7419cb6176cf6e2b5908c03a18dd",
     "wof:hierarchy":[
         {
             "country_id":85632751,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209265269,
-    "wof:lastmodified":1536292554,
+    "wof:lastmodified":1566639403,
     "wof:name":"Hillat Ed al Had",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.443000000000005,
+    32.443,
     15.27,
-    32.443000000000005,
+    32.443,
     15.27
 ],
   "geometry": {"coordinates":[32.443,15.27],"type":"Point"}

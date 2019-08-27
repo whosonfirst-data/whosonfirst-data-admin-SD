@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.61333,13.63,33.65333,13.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hilmi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242809191,
-    "wof:lastmodified":1564158721,
+    "wof:lastmodified":1566639665,
     "wof:name":"Hilmi",
     "wof:parent_id":1091708257,
     "wof:placetype":"locality",

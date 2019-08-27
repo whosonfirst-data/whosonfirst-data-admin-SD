@@ -11,11 +11,15 @@
     "geom:longitude":32.3668,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":18321,
+    "gn:population":18321,
     "iso:country":"SD",
+    "lbl:bbox":"32.3468,14.8448,32.3868,14.8848",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "El Qeteina"
     ],
     "qs:name":"Al Qi\u0163ena",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":379014,
         "gp:id":1430574,
-        "qs:id":80280
+        "qs_pg:id":80280
     },
     "wof:country":"SD",
     "wof:created":1469052723,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450069,
-    "wof:lastmodified":1505343632,
+    "wof:lastmodified":1566639643,
     "wof:name":"Al Qi\u0163ena",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":14.0012,
     "geom:longitude":32.3116,
     "iso:country":"SD",
+    "lbl:bbox":"32.2916,13.9812,32.3316,14.0212",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -57,7 +60,7 @@
         "\u0a8f\u0aa1 \u0aa1\u0acd\u0aaf\u0ac1\u0a87\u0aae"
     ],
     "name:hin_x_preferred":[
-        "\u090f\u0921  \u0921\u094d\u092f\u0942\u090f\u092e"
+        "\u090f\u0921 \u0921\u094d\u092f\u0942\u090f\u092e"
     ],
     "name:ind_x_preferred":[
         "Ed Dueim"
@@ -114,7 +117,7 @@
         "Ed Dueim"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0b9f\u0bcd  \u0b9f\u0bc1\u0baf\u0bbf\u0bae\u0bcd"
+        "\u0b8e\u0b9f\u0bcd \u0b9f\u0bc1\u0baf\u0bbf\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c21\u0c4d \u0c21\u0c4d\u0c2f\u0c42\u0c2f\u0c3f\u0c2e\u0c4d"
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434-\u0414\u0443\u0435\u0439\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dueim"
     ],
     "name:urd_x_preferred":[
@@ -260,7 +263,7 @@
     "wof:concordances":{
         "gn:id":380129,
         "gp:id":1430014,
-        "qs:id":124521,
+        "qs_pg:id":124521,
         "wd:id":"Q2501279",
         "wk:page":"Ed Dueim"
     },
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421171883,
-    "wof:lastmodified":1563365178,
+    "wof:lastmodified":1566639637,
     "wof:name":"Ad Duwem",
     "wof:parent_id":1091707399,
     "wof:placetype":"locality",

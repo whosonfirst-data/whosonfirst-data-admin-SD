@@ -10,8 +10,12 @@
     "geom:latitude":18.571409,
     "geom:longitude":31.85592,
     "iso:country":"SD",
+    "lbl:bbox":"31.83592,18.551409,31.87592,18.591409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645\u0629"
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1433414,
-        "qs:id":1116775,
+        "qs_pg:id":1116775,
         "wd:id":"Q1729372"
     },
     "wof:country":"SD",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421189757,
-    "wof:lastmodified":1563365173,
+    "wof:lastmodified":1566639635,
     "wof:name":"Karima",
     "wof:parent_id":1091710471,
     "wof:placetype":"locality",

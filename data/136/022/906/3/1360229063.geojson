@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"36.19667,21.29667,36.23667,21.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0644\u0627\u0644\u0629"
     ],
@@ -128,7 +132,6 @@
         "\u0421\u0430\u043b\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Salala",
         "Sal\u0101lah"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1360229063,
-    "wof:lastmodified":1564158573,
+    "wof:lastmodified":1566639543,
     "wof:name":"Salalah",
     "wof:parent_id":1091710919,
     "wof:placetype":"locality",

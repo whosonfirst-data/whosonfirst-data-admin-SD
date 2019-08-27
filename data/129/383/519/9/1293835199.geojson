@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.9868,14.5466,33.0268,14.5866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fureigib",
         "Fureigab",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293835199,
-    "wof:lastmodified":1537699519,
+    "wof:lastmodified":1566639176,
     "wof:name":"Al Ferejab Rajab",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",
