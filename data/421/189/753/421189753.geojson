@@ -10,6 +10,9 @@
     "geom:latitude":19.170302,
     "geom:longitude":30.472126,
     "iso:country":"SD",
+    "lbl:bbox":"30.452126,19.150302,30.492126,19.190302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -284,7 +287,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1431895,
-        "qs:id":1116709,
+        "qs_pg:id":1116709,
         "wd:id":"Q821321"
     },
     "wof:country":"SD",
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":421189753,
-    "wof:lastmodified":1563365172,
+    "wof:lastmodified":1566639634,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

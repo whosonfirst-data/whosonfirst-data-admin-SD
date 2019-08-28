@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.478413,
     "lbl:longitude":29.782769,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.519085,
     "mps:longitude":29.806434,
     "mz:hierarchy_label":1,
@@ -169,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0448\u0442\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Iql\u012bm ash Sham\u0101l\u012b"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"348,765",
     "statoids:area_mi":"134,659",
     "statoids:as_of_date":"2008-04-22",
@@ -285,7 +286,7 @@
         "gp:id":20069999,
         "hasc:id":"SD.NO",
         "iso:id":"SD-NO",
-        "qs:id":1087202,
+        "qs_pg:id":1087202,
         "unlc:id":"SD-NO",
         "wd:id":"Q310118"
     },
@@ -307,11 +308,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736309,
+    "wof:lastmodified":1566639134,
     "wof:name":"Northern",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":699065,
     "wof:population_rank":11,

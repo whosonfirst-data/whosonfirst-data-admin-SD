@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.52546,12.07499,22.56546,12.11499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koringa",
         "Korenga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226377469,
-    "wof:lastmodified":1537699487,
+    "wof:lastmodified":1566639875,
     "wof:name":"Korenga",
     "wof:parent_id":1091710149,
     "wof:placetype":"locality",

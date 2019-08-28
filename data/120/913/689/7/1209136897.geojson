@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.04667,13.71333,30.08667,13.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u064a\u0644\u0629 \u0622\u0644 \u0645\u0631\u0629"
     ],
@@ -35,8 +39,7 @@
         "\u0905\u0932 \u092e\u0941\u0930\u093e\u0939"
     ],
     "name:und_x_variant":[
-        "El Murra",
-        "Al Murrah"
+        "El Murra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209136897,
-    "wof:lastmodified":1564158334,
+    "wof:lastmodified":1566639357,
     "wof:name":"Al Murrah",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

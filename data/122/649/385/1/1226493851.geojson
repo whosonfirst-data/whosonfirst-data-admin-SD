@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.3593,13.9988,33.3993,14.0388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad el Mudauwi",
         "Wad al Mu\u1e11awwi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226493851,
-    "wof:lastmodified":1537699408,
+    "wof:lastmodified":1566639854,
     "wof:name":"Wad al Mudawwi",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

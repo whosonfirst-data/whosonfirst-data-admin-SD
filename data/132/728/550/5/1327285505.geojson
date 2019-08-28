@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.74667,14.13,33.78667,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Amarat en Nefeidiya",
         "\u2018Am\u0101rat an Nefeidiya"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327285505,
-    "wof:lastmodified":1537699557,
+    "wof:lastmodified":1566639032,
     "wof:name":"`Amarat an Nefeidiya",
     "wof:parent_id":1091708895,
     "wof:placetype":"locality",

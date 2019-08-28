@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.2846,14.0057,32.3246,14.0457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakht er Ruda",
         "Bakht ar Ru\u1e11\u0101"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209546987,
-    "wof:lastmodified":1537699539,
+    "wof:lastmodified":1566639327,
     "wof:name":"Bakht ar Ruda",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"36.01598,14.20472,36.05598,14.24472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad el Heleiwa",
         "Vad El' Kheleyva",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260320291,
-    "wof:lastmodified":1537699409,
+    "wof:lastmodified":1566639473,
     "wof:name":"Wad al Hulaywah",
     "wof:parent_id":1091709097,
     "wof:placetype":"locality",

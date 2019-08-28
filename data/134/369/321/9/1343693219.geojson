@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"28.73,9.79667,28.77,9.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Melemm",
         "Al Melemm",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343693219,
-    "wof:lastmodified":1537699565,
+    "wof:lastmodified":1566639103,
     "wof:name":"Al Malamm",
     "wof:parent_id":1091711067,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.664528,
     "lbl:longitude":26.12589,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"East Darfur",
     "meso:diss_me":"Ed DaeinEast Darfur",
     "meso:gadm_admin":"Al Deain",
@@ -32,6 +34,7 @@
     "mps:longitude":26.12589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0636\u0639\u064a\u0646"
     ],
@@ -75,9 +78,9 @@
         "\u675c\u827e\u56e0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1091706053,
-    "wof:lastmodified":1564158627,
+    "wof:lastmodified":1566639585,
     "wof:name":"Ed Daein",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

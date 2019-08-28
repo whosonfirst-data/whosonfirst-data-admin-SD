@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.56333,13.23,32.60333,13.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umm Katur",
         "Umm K\u0101f\u016br"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343592347,
-    "wof:lastmodified":1537699423,
+    "wof:lastmodified":1566639090,
     "wof:name":"Umm Kafur",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

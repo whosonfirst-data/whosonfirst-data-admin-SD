@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.1873,13.2837,32.2273,13.3237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226682509,
-    "wof:lastmodified":1536806282,
+    "wof:lastmodified":1566639828,
     "wof:name":"Um Sela",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

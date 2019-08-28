@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.374,14.9474,33.414,14.9874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "F\u0101t\u1e29a Aj Ja\u2018aliyyn"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293935029,
-    "wof:lastmodified":1537699641,
+    "wof:lastmodified":1566639219,
     "wof:name":"Fatha Aj Ja`aliyyn",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

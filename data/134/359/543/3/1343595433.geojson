@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.16333,13.66333,33.20333,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad Muheira",
         "Wad Muhayrah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343595433,
-    "wof:lastmodified":1537699402,
+    "wof:lastmodified":1566639090,
     "wof:name":"Wad Muhayrah",
     "wof:parent_id":1091708299,
     "wof:placetype":"locality",

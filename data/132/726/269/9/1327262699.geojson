@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.56333,14.18,35.60333,14.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rawashda",
         "Er Rawashda",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327262699,
-    "wof:lastmodified":1537699552,
+    "wof:lastmodified":1566639024,
     "wof:name":"Ar Rawashidah",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",

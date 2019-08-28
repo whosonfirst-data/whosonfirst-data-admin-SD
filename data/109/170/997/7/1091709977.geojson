@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":11.993384,
     "lbl:longitude":29.551438,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Kordofan",
     "meso:diss_me":"DillingSouth Kordofan",
     "meso:gadm_admin":"Dilling",
@@ -26,6 +28,7 @@
     "mps:longitude":29.551438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Dilling"
     ],
@@ -34,7 +37,7 @@
         "Dilling"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091709977,
-    "wof:lastmodified":1564158618,
+    "wof:lastmodified":1566639580,
     "wof:name":"Dilling",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

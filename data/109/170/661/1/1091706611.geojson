@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.218165,
     "lbl:longitude":34.201097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Blue Nile",
     "meso:diss_me":"El DamazineBlue Nile",
     "meso:gadm_admin":"Ad Damazin",
@@ -32,6 +34,7 @@
     "mps:longitude":34.201097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Eldamazin"
     ],
@@ -39,9 +42,9 @@
         "Ad Damazin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091706611,
-    "wof:lastmodified":1553717943,
+    "wof:lastmodified":1566639586,
     "wof:name":"El Damazine",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

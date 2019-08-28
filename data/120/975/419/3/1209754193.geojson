@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.6502,14.1995,32.6902,14.2395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu Hauwa",
         "Abu \u1e28awwa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209754193,
-    "wof:lastmodified":1537699598,
+    "wof:lastmodified":1566639409,
     "wof:name":"Abu Hawwa",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

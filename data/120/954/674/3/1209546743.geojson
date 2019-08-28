@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"25.08,14.39667,25.12,14.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -34,7 +38,7 @@
         "gn:id":367655
     },
     "wof:country":"SD",
-    "wof:geomhash":"ed7fade8b8ee708b23d9b8d5a0f1a549",
+    "wof:geomhash":"846167868ca9d4133698ea88b09d2dd5",
     "wof:hierarchy":[
         {
             "country_id":85632751,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209546743,
-    "wof:lastmodified":1536283820,
+    "wof:lastmodified":1566639325,
     "wof:name":"Sangerfut",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     25.1,
-    14.416670000000002,
+    14.41667,
     25.1,
-    14.416670000000002
+    14.41667
 ],
   "geometry": {"coordinates":[25.1,14.41667],"type":"Point"}
 }

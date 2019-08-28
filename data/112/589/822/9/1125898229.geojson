@@ -9,17 +9,20 @@
     "geom:bbox":"33.3565,16.7095,33.3565,16.7095",
     "geom:latitude":16.7095,
     "geom:longitude":33.3565,
-    "gn:gn_country":"SD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11366,
+    "gn:country":"SD",
+    "gn:fcode":"PPL",
     "gn:population":11366,
     "iso:country":"SD",
+    "lbl:bbox":"33.3365,16.6895,33.3765,16.7295",
     "lbl:latitude":16.7095,
     "lbl:longitude":33.3565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u1e6dammah"
     ],
     "qs_pg:aaroncc":"SD",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1026828,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125898229,
-    "wof:lastmodified":1509399246,
+    "wof:lastmodified":1566639644,
     "wof:name":"El Matama",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

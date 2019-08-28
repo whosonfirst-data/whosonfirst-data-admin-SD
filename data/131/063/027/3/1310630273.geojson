@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.3758,11.8736,30.4158,11.9136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tartar"
     ],
@@ -62,8 +66,7 @@
         "\u0422\u0430\u0440\u0442\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Terter",
-        "Tartar"
+        "Terter"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1310630273,
-    "wof:lastmodified":1564158532,
+    "wof:lastmodified":1566639511,
     "wof:name":"Tartar",
     "wof:parent_id":1091706919,
     "wof:placetype":"locality",

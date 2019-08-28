@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.89272,12.32802,22.93272,12.36802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fugora"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326760809,
-    "wof:lastmodified":1537699693,
+    "wof:lastmodified":1566639006,
     "wof:name":"Fugora",
     "wof:parent_id":1091709589,
     "wof:placetype":"locality",

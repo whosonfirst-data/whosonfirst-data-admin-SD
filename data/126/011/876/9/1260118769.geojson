@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.1114,14.8353,33.1514,14.8753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Awl\u0101d Y\u014dsif"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260118769,
-    "wof:lastmodified":1537699643,
+    "wof:lastmodified":1566639460,
     "wof:name":"Awlad Yosif",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

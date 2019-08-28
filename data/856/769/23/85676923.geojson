@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.129429,
     "lbl:longitude":30.866566,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.359126,
     "mps:longitude":30.094526,
     "mz:hierarchy_label":1,
@@ -124,7 +125,7 @@
         "Piet\u0173 Kordofanas"
     ],
     "name:mar_x_preferred":[
-        "\u0938\u093e\u090a\u0925  \u0915\u0949\u0930\u094d\u0921\u094b\u092b\u0945\u0928"
+        "\u0938\u093e\u090a\u0925 \u0915\u0949\u0930\u094d\u0921\u094b\u092b\u0945\u0928"
     ],
     "name:msa_x_preferred":[
         "South Kordofan"
@@ -166,7 +167,7 @@
         "Janub Kurdufan"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb\u0baa\u0bbe\u0ba9\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb\u0baa\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4b\u0c30\u0c4d\u0c21\u0c4b\u0c2b\u0c3e\u0c28\u0c4d"
@@ -180,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u041a\u043e\u0440\u0434\u043e\u0444\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat Jan\u016bb Kurduf\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -272,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"79,470",
     "statoids:area_mi":"30,684",
     "statoids:as_of_date":"2008-04-22",
@@ -300,7 +301,7 @@
         "gp:id":20069910,
         "hasc:id":"SD.SK",
         "iso:id":"SD-KS",
-        "qs:id":895514,
+        "qs_pg:id":895514,
         "unlc:id":"SD-KS",
         "wd:id":"Q465490"
     },
@@ -322,11 +323,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736310,
+    "wof:lastmodified":1566639136,
     "wof:name":"South Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1406404,
     "wof:population_rank":12,

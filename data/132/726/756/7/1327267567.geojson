@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.9244,15.0429,35.9644,15.0829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esh Sharafa",
         "Qaryah al Shar\u0101f\u0101"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327267567,
-    "wof:lastmodified":1537699522,
+    "wof:lastmodified":1566639025,
     "wof:name":"Qaryah al Sharafa",
     "wof:parent_id":1091707387,
     "wof:placetype":"locality",

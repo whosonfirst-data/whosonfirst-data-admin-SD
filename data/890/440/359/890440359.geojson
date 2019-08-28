@@ -11,8 +11,11 @@
     "geom:longitude":27.73333,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":19997,
+    "gn:population":19997,
     "iso:country":"SD",
+    "lbl:bbox":"27.71333,11.01333,27.75333,11.05333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -36,9 +39,6 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0443\u0433\u043b\u0430\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Muglad"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -148,7 +148,7 @@
     "wof:concordances":{
         "gn:id":379102,
         "gp:id":1430529,
-        "qs:id":124500,
+        "qs_pg:id":124500,
         "wd:id":"Q14624862"
     },
     "wof:country":"SD",
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":890440359,
-    "wof:lastmodified":1563365181,
+    "wof:lastmodified":1566639638,
     "wof:name":"Al Mijlad",
     "wof:parent_id":1091711157,
     "wof:placetype":"locality",

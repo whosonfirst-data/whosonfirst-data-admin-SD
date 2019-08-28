@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.46333,14.04667,30.50333,14.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0645\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209344851,
-    "wof:lastmodified":1564158376,
+    "wof:lastmodified":1566639389,
     "wof:name":"Nimr",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

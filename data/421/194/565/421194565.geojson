@@ -10,8 +10,12 @@
     "geom:latitude":19.102918,
     "geom:longitude":37.33208,
     "iso:country":"SD",
+    "lbl:bbox":"37.31208,19.082918,37.35208,19.122918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0643\u0646"
@@ -176,7 +180,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1436218,
-        "qs:id":1116816,
+        "qs_pg:id":1116816,
         "wd:id":"Q571215"
     },
     "wof:country":"SD",
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":421194565,
-    "wof:lastmodified":1563365169,
+    "wof:lastmodified":1566639633,
     "wof:name":"Suakin",
     "wof:parent_id":1091710717,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":33.1712,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":26233,
+    "gn:population":26233,
     "iso:country":"SD",
+    "lbl:bbox":"33.1512,14.0161,33.1912,14.0561",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Kenana"
     ],
     "qs:name":"Kin\u0101na",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":372386,
         "gp:id":1433631,
-        "qs:id":274928
+        "qs_pg:id":274928
     },
     "wof:country":"SD",
     "wof:created":1469051884,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431251,
-    "wof:lastmodified":1505343523,
+    "wof:lastmodified":1566639641,
     "wof:name":"Kin\u0101na",
     "wof:parent_id":1091708299,
     "wof:placetype":"locality",

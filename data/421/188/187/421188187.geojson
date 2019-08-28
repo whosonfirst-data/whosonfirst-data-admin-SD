@@ -10,6 +10,9 @@
     "geom:latitude":19.63333,
     "geom:longitude":30.41667,
     "iso:country":"SD",
+    "lbl:bbox":"30.39667,19.61333,30.43667,19.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kermah"
     ],
     "name:urd_x_preferred":[
@@ -256,7 +259,7 @@
     "wof:concordances":{
         "gn:id":372801,
         "gp:id":1433424,
-        "qs:id":1089841,
+        "qs_pg:id":1089841,
         "wd:id":"Q1107569",
         "wk:page":"Kerma"
     },
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421188187,
-    "wof:lastmodified":1563365175,
+    "wof:lastmodified":1566639636,
     "wof:name":"Karmah an Nuzul",
     "wof:parent_id":1091705689,
     "wof:placetype":"locality",

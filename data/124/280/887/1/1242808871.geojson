@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"28.01333,11.81333,28.05333,11.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ahmed Badu",
         "A\u1e29mad Badw"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242808871,
-    "wof:lastmodified":1537699587,
+    "wof:lastmodified":1566639662,
     "wof:name":"Ahmad Badw",
     "wof:parent_id":1091706565,
     "wof:placetype":"locality",

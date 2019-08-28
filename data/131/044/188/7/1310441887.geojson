@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.31333,12.14667,31.35333,12.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310441887,
-    "wof:lastmodified":1537007946,
+    "wof:lastmodified":1566639514,
     "wof:name":"Kuturi",
     "wof:parent_id":1091710069,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.7741,12.8047,31.8141,12.8447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Takk\u0101l Berty"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310339725,
-    "wof:lastmodified":1537699669,
+    "wof:lastmodified":1566639538,
     "wof:name":"Takkal Berty",
     "wof:parent_id":1091708727,
     "wof:placetype":"locality",

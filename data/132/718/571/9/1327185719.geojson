@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.3652,14.3191,33.4052,14.3591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qa\u015fab Barqu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327185719,
-    "wof:lastmodified":1537699652,
+    "wof:lastmodified":1566639041,
     "wof:name":"Qasab Barqu",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

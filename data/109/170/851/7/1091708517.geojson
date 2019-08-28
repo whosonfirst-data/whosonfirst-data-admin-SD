@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":12.198329,
     "lbl:longitude":23.847071,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Darfur",
     "meso:diss_me":"ShattaiSouth Darfur",
     "meso:gadm_admin":"Mukjar",
@@ -26,12 +28,13 @@
     "mps:longitude":23.847071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Kas",
         "Mukjar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1091708517,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1566639585,
     "wof:name":"Shattai",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

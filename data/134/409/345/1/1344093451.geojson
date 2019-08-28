@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.3414,13.25577,22.3814,13.29577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hegliga"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344093451,
-    "wof:lastmodified":1537699507,
+    "wof:lastmodified":1566639067,
     "wof:name":"Hegliga",
     "wof:parent_id":1091705485,
     "wof:placetype":"locality",

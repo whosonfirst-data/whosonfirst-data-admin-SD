@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.4521,11.4099,31.4921,11.4499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209849585,
-    "wof:lastmodified":1536389078,
+    "wof:lastmodified":1566639341,
     "wof:name":"Zireqa",
     "wof:parent_id":1091706897,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.2469,14.6042,33.2869,14.6442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qarya 26",
         "Qarya Sittah wa \u2018Ishr\u016bn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326668599,
-    "wof:lastmodified":1537699640,
+    "wof:lastmodified":1566638979,
     "wof:name":"Qarya Sittah wa `Ishrun",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

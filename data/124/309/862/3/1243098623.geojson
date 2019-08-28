@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.25282,12.75912,23.29282,12.79912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u064a"
     ],
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":1243098623,
-    "wof:lastmodified":1564158703,
+    "wof:lastmodified":1566639652,
     "wof:name":"Sari",
     "wof:parent_id":1091709375,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":11.27582,
     "lbl:longitude":25.190474,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Darfur",
     "meso:diss_me":"GereidaSouth Darfur",
     "meso:gadm_admin":"Nyala",
@@ -26,6 +28,7 @@
     "mps:longitude":25.190474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gereida"
     ],
@@ -40,7 +43,7 @@
         "\u0413\u0435\u0440\u0435\u0439\u0434\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1091706717,
-    "wof:lastmodified":1564158636,
+    "wof:lastmodified":1566639593,
     "wof:name":"Gereida",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

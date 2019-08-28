@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.2514,17.3745,34.2914,17.4145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243393993,
-    "wof:lastmodified":1536880595,
+    "wof:lastmodified":1566639657,
     "wof:name":"Goz al Haj",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

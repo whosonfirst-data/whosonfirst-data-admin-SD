@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.2429,11.2729,31.2829,11.3129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fa\u0163\u0101\u0163\u0101t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276796447,
-    "wof:lastmodified":1537699685,
+    "wof:lastmodified":1566639294,
     "wof:name":"Fatatat",
     "wof:parent_id":1091706897,
     "wof:placetype":"locality",

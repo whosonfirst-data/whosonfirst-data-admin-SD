@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":12.347473,
     "lbl:longitude":32.35859,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"White Nile",
     "meso:diss_me":"El SalamWhite Nile",
     "meso:gadm_admin":"Kosti",
@@ -26,11 +28,12 @@
     "mps:longitude":32.35859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Kosti"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1091708931,
-    "wof:lastmodified":1536614983,
+    "wof:lastmodified":1566639586,
     "wof:name":"El Salam",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

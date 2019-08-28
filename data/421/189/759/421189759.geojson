@@ -10,6 +10,9 @@
     "geom:latitude":15.445655,
     "geom:longitude":36.404571,
     "iso:country":"SD",
+    "lbl:bbox":"36.384571,15.425655,36.424571,15.465655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0441\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cassala"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0633\u0644\u0627"
     ],
@@ -294,9 +294,11 @@
     "wof:concordances":{
         "gn:id":372753,
         "gp:id":1433451,
-        "qs:id":1116785,
         "qs_pg:id":273777,
         "wd:id":"Q686813"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116785
     },
     "wof:country":"SD",
     "wof:created":1459009635,
@@ -311,7 +313,7 @@
         }
     ],
     "wof:id":421189759,
-    "wof:lastmodified":1563365174,
+    "wof:lastmodified":1566639635,
     "wof:name":"Kassala",
     "wof:parent_id":1091708105,
     "wof:placetype":"locality",

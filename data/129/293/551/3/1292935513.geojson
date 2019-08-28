@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.10154,12.71233,22.14154,12.75233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nejelati"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292935513,
-    "wof:lastmodified":1537699691,
+    "wof:lastmodified":1566639171,
     "wof:name":"Nejelati",
     "wof:parent_id":1091705349,
     "wof:placetype":"locality",

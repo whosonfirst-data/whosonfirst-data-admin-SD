@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.80662,13.36756,23.84662,13.40756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0423\u0434\u0443"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1343298093,
-    "wof:lastmodified":1564158026,
+    "wof:lastmodified":1566639123,
     "wof:name":"Udu",
     "wof:parent_id":1091708193,
     "wof:placetype":"locality",

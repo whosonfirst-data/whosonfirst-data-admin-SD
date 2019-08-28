@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":16.34997,
     "lbl:longitude":29.381307,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":16.34997,
     "mps:longitude":29.381307,
     "mz:hierarchy_label":1,
@@ -759,9 +761,7 @@
         "\u0421\u0443\u0434\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Republika Sudan"
-    ],
-    "name:unk_x_variant":[
+        "Republika Sudan",
         "Jumh\u016br\u012byat as S\u016bd\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -919,7 +919,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"249",
     "statoids:ds":"SUD",
@@ -961,7 +961,7 @@
         "marc:id":"sj",
         "mzb:id":"sudan",
         "nyt:id":"59436041936127918081",
-        "qs:id":80256,
+        "qs_pg:id":80256,
         "uncrt:id":"SUD",
         "wd:id":"Q1049",
         "wk:page":"Sudan",
@@ -985,7 +985,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736312,
+    "wof:lastmodified":1566639141,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

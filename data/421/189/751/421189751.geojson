@@ -10,8 +10,12 @@
     "geom:latitude":13.188223,
     "geom:longitude":30.217037,
     "iso:country":"SD",
+    "lbl:bbox":"30.197037,13.168223,30.237037,13.208223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0628\u064a\u0636"
@@ -160,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041e\u0431\u0435\u0439\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Ubeiyad"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +212,11 @@
     "wof:concordances":{
         "gn:id":379003,
         "gp:id":1430580,
-        "qs:id":1116662,
         "qs_pg:id":124499,
         "wd:id":"Q309475"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116662
     },
     "wof:country":"SD",
     "wof:created":1459009635,
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":421189751,
-    "wof:lastmodified":1563365173,
+    "wof:lastmodified":1566639635,
     "wof:name":"Al Ubayyid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":12.40988,
     "lbl:longitude":28.243883,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -83,8 +84,8 @@
         "\u897f\u79d1\u5c14\u591a\u51e1\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"111,373",
     "statoids:area_mi":"43,001",
     "statoids:as_of_date":"",
@@ -126,7 +127,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736324,
+    "wof:lastmodified":1566639478,
     "wof:name":"West Kordofan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

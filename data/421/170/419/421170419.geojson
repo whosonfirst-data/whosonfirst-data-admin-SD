@@ -10,8 +10,12 @@
     "geom:latitude":19.1059,
     "geom:longitude":37.3321,
     "iso:country":"SD",
+    "lbl:bbox":"37.3121,19.0859,37.3521,19.1259",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0643\u0646"
@@ -139,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0430\u043a\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Suakin"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0627\u06a9\u06cc\u0646"
     ],
@@ -184,7 +185,7 @@
     "wof:concordances":{
         "gn:id":367544,
         "gp:id":1435933,
-        "qs:id":1221012,
+        "qs_pg:id":1221012,
         "wd:id":"Q571215",
         "wk:page":"Suakin"
     },
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":421170419,
-    "wof:lastmodified":1563365178,
+    "wof:lastmodified":1566639637,
     "wof:name":"Sawakin",
     "wof:parent_id":1091710717,
     "wof:placetype":"locality",

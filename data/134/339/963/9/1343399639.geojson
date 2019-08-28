@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.3164,14.1841,33.3564,14.2241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al \u2018Aw\u0101mra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343399639,
-    "wof:lastmodified":1537699659,
+    "wof:lastmodified":1566639047,
     "wof:name":"Al `Awamra",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

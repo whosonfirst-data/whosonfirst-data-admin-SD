@@ -10,8 +10,12 @@
     "geom:latitude":14.044669,
     "geom:longitude":35.378723,
     "iso:country":"SD",
+    "lbl:bbox":"35.358723,14.024669,35.398723,14.064669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
@@ -177,7 +181,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1430549,
-        "qs:id":1116660,
+        "qs_pg:id":1116660,
         "wd:id":"Q311199"
     },
     "wof:country":"SD",
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":421189747,
-    "wof:lastmodified":1563365172,
+    "wof:lastmodified":1566639635,
     "wof:name":"Al Qadarif",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",

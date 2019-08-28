@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.3654,13.0655,32.4054,13.1055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Um Durm\u0101n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226473901,
-    "wof:lastmodified":1537699662,
+    "wof:lastmodified":1566639855,
     "wof:name":"Um Durman",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

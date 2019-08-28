@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.29667,20.78,30.33667,20.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sagiat el \u2018Abd",
         "Saqiat el \u2018Abd",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209746253,
-    "wof:lastmodified":1537699454,
+    "wof:lastmodified":1566639398,
     "wof:name":"Saqiyat al `Abd",
     "wof:parent_id":1091706973,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.33676,13.83931,22.37676,13.87931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shebet Ardu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260323119,
-    "wof:lastmodified":1537699447,
+    "wof:lastmodified":1566639474,
     "wof:name":"Shebet Ardu",
     "wof:parent_id":1091709547,
     "wof:placetype":"locality",

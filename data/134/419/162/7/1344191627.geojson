@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"24.98173,10.82522,25.02173,10.86522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u092c\u0930\u094b\u0926\u0940"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344191627,
-    "wof:lastmodified":1564158009,
+    "wof:lastmodified":1566639111,
     "wof:name":"Barodi",
     "wof:parent_id":1091711049,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.8069,12.6803,32.8469,12.7203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mabr\u016bka al \u1e28ass\u0101niyya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293914191,
-    "wof:lastmodified":1537699615,
+    "wof:lastmodified":1566639147,
     "wof:name":"Mabruka al Hassaniyya",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.8464,15.2911,32.8864,15.3311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Mas\u2018udiya",
         "Al Mas\u2018\u016bd\u012byah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226193061,
-    "wof:lastmodified":1537699564,
+    "wof:lastmodified":1566639807,
     "wof:name":"Al Msodiya",
     "wof:parent_id":1091708377,
     "wof:placetype":"locality",

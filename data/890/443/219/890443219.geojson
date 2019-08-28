@@ -11,11 +11,15 @@
     "geom:longitude":34.2186,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":9472,
+    "gn:population":9472,
     "iso:country":"SD",
+    "lbl:bbox":"34.1986,12.4286,34.2386,12.4686",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Galgani"
     ],
     "qs:name":"Jalqani",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":375192,
         "gp:id":1437202,
-        "qs:id":1026821
+        "qs_pg:id":1026821
     },
     "wof:country":"SD",
     "wof:created":1469052413,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890443219,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566639642,
     "wof:name":"Jalqani",
     "wof:parent_id":1091706611,
     "wof:placetype":"locality",

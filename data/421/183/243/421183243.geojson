@@ -10,8 +10,12 @@
     "geom:latitude":11.8659,
     "geom:longitude":34.3869,
     "iso:country":"SD",
+    "lbl:bbox":"34.3669,11.8459,34.4069,11.8859",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0635\u064a\u0631\u0635"
@@ -37,7 +41,7 @@
     "name:pol_x_preferred":[
         "Ar-Rusajris"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ru\u1e63\u00eare\u1e63"
     ],
     "qs:gn_country":"SD",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":378459,
         "gp:id":1430811,
-        "qs:id":969878,
+        "qs_pg:id":969878,
         "wd:id":"Q3055933",
         "wk:page":"Er Roseires"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421183243,
-    "wof:lastmodified":1563365178,
+    "wof:lastmodified":1566639637,
     "wof:name":"Ar Rusayris",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

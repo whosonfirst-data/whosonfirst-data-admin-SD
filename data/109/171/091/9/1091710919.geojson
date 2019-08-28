@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":20.244399,
     "lbl:longitude":34.566858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Red Sea",
     "meso:diss_me":"Jabiet Al MaadinRed Sea",
     "meso:gadm_admin":"Port Sudan",
@@ -26,11 +28,12 @@
     "mps:longitude":34.566858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Port Sudan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1091710919,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1566639602,
     "wof:name":"Jabiet Al Maadin",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

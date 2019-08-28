@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":11.199284,
     "lbl:longitude":30.549428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Kordofan",
     "meso:diss_me":"HeibanSouth Kordofan",
     "meso:gadm_admin":"Kadugli",
@@ -26,6 +28,7 @@
     "mps:longitude":30.549428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Heiban"
     ],
@@ -33,7 +36,7 @@
         "Kadugli"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1091707969,
-    "wof:lastmodified":1564158616,
+    "wof:lastmodified":1566639578,
     "wof:name":"Heiban",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

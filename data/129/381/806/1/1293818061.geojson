@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.257,14.9479,32.297,14.9879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293818061,
-    "wof:lastmodified":1536807318,
+    "wof:lastmodified":1566639233,
     "wof:name":"Al Qirawa",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

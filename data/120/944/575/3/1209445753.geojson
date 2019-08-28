@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.86333,13.91333,23.90333,13.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -34,7 +38,7 @@
         "gn:id":380056
     },
     "wof:country":"SD",
-    "wof:geomhash":"3d230bd46a23dcbf6f0bb354a38891f6",
+    "wof:geomhash":"4a53b7ea97cd00b6a22a78ab17158aa3",
     "wof:hierarchy":[
         {
             "country_id":85632751,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209445753,
-    "wof:lastmodified":1536286824,
+    "wof:lastmodified":1566639405,
     "wof:name":"Affia",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.88333,
-    13.933329999999998,
+    13.93333,
     23.88333,
-    13.933329999999998
+    13.93333
 ],
   "geometry": {"coordinates":[23.88333,13.93333],"type":"Point"}
 }

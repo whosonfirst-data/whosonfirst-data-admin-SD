@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.78,13.08,32.82,13.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khor \u2018Agol",
         "Khor \u2018Agwal",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193047735,
-    "wof:lastmodified":1537699491,
+    "wof:lastmodified":1566639427,
     "wof:name":"Khawr Agwal",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

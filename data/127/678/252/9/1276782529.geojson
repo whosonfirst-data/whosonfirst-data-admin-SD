@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"28.3925,9.46083,28.4325,9.50083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276782529,
-    "wof:lastmodified":1536673997,
+    "wof:lastmodified":1566639288,
     "wof:name":"Babanousa",
     "wof:parent_id":1091711067,
     "wof:placetype":"locality",

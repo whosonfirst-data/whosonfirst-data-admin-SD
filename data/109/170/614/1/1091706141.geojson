@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":17.189921,
     "lbl:longitude":34.667821,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"River Nile",
     "meso:diss_me":"Ed DamerRiver Nile",
     "meso:gadm_admin":"Shendi",
@@ -26,11 +28,12 @@
     "mps:longitude":34.667821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Shendi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1091706141,
-    "wof:lastmodified":1536614979,
+    "wof:lastmodified":1566639592,
     "wof:name":"Ed Damer",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.93,13.68,32.97,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bundug es Sa\u2018d",
         "Bunduq es Sa\u2018d",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327170201,
-    "wof:lastmodified":1537699533,
+    "wof:lastmodified":1566639030,
     "wof:name":"Bunduq as Sa`d",
     "wof:parent_id":1091708299,
     "wof:placetype":"locality",

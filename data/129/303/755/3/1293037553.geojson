@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"23.58,14.96333,23.62,15.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293037553,
-    "wof:lastmodified":1536939447,
+    "wof:lastmodified":1566639200,
     "wof:name":"Sibigga",
     "wof:parent_id":1091705507,
     "wof:placetype":"locality",

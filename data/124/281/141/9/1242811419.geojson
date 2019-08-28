@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.34667,15.01333,30.38667,15.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khor Gadein",
         "Khawr Gadein"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242811419,
-    "wof:lastmodified":1537699491,
+    "wof:lastmodified":1566639671,
     "wof:name":"Khawr Gadein",
     "wof:parent_id":1091709395,
     "wof:placetype":"locality",

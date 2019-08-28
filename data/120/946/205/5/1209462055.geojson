@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.66333,15.49667,32.70333,15.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Soba et Taiyib",
         "Sawb\u0101 a\u0163 \u0162ayyib"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209462055,
-    "wof:lastmodified":1537699454,
+    "wof:lastmodified":1566639343,
     "wof:name":"Sawba at Tayyib",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

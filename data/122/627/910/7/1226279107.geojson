@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.64131,14.08765,22.68131,14.12765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qawz Nginnu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226279107,
-    "wof:lastmodified":1537699464,
+    "wof:lastmodified":1566639817,
     "wof:name":"Qoz Nginnu",
     "wof:parent_id":1091707219,
     "wof:placetype":"locality",

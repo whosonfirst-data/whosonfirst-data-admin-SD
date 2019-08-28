@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.49667,15.02601,30.53667,15.06601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majr\u016br"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242809173,
-    "wof:lastmodified":1537699479,
+    "wof:lastmodified":1566639665,
     "wof:name":"Magrur",
     "wof:parent_id":1091709395,
     "wof:placetype":"locality",

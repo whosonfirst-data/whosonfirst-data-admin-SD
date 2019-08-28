@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.84667,10.99667,31.88667,11.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632751
@@ -34,7 +38,7 @@
         "gn:id":375057
     },
     "wof:country":"SD",
-    "wof:geomhash":"452444e66ce65adad3f76cd22961ab4a",
+    "wof:geomhash":"41f3fd8dbd069742cbb1d9c6cb81c6e7",
     "wof:hierarchy":[
         {
             "country_id":85632751,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209041621,
-    "wof:lastmodified":1536299528,
+    "wof:lastmodified":1566639382,
     "wof:name":"Gawadalia",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.866670000000006,
+    31.86667000000001,
     11.01667,
-    31.866670000000006,
+    31.86667000000001,
     11.01667
 ],
   "geometry": {"coordinates":[31.86667000000001,11.01667],"type":"Point"}

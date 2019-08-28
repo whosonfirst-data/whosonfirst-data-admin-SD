@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.56333,13.81333,32.60333,13.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esh Shuheita",
         "Ash Shu\u1e29ay\u0163ah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276158113,
-    "wof:lastmodified":1537699548,
+    "wof:lastmodified":1566639290,
     "wof:name":"Ash Shuhaytah",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.91306,17.03917,34.95306,17.07917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umm Handal",
         "Umm \u1e28anz\u0327al"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343497269,
-    "wof:lastmodified":1537699425,
+    "wof:lastmodified":1566639085,
     "wof:name":"Umm Hanzal",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

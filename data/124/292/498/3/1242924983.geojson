@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.7049,14.003,32.7449,14.043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al \u2018Az\u0101z\u0101b an N\u012bl"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242924983,
-    "wof:lastmodified":1537699657,
+    "wof:lastmodified":1566639673,
     "wof:name":"Al `Azazab an Nil",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.1118,14.6512,33.1518,14.6912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u015ear\u0101\u015f\u012br"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193185091,
-    "wof:lastmodified":1537699647,
+    "wof:lastmodified":1566639435,
     "wof:name":"Sarasir",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

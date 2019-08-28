@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.908527,
     "lbl:longitude":32.031623,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"White Nile",
     "meso:diss_me":"TendaltiWhite Nile",
     "meso:gadm_admin":"Kosti",
@@ -32,6 +34,7 @@
     "mps:longitude":32.031623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tandalti"
     ],
@@ -39,9 +42,9 @@
         "Kosti"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091708727,
-    "wof:lastmodified":1553717946,
+    "wof:lastmodified":1566639583,
     "wof:name":"Tendalti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

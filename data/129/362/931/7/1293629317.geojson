@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"36.7957,18.7307,36.8357,18.7707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Samat"
     ],
     "name:und_x_variant":[
-        "\u015eamad",
-        "Samat"
+        "\u015eamad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293629317,
-    "wof:lastmodified":1564158049,
+    "wof:lastmodified":1566639150,
     "wof:name":"Samat",
     "wof:parent_id":1091710685,
     "wof:placetype":"locality",

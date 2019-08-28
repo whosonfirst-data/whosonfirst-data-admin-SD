@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.1146,12.654,34.1546,12.694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243209293,
-    "wof:lastmodified":1536650219,
+    "wof:lastmodified":1566639725,
     "wof:name":"Tanqaru",
     "wof:parent_id":1091708651,
     "wof:placetype":"locality",

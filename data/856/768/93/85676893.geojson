@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.650933,
     "lbl:longitude":33.355902,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.716797,
     "mps:longitude":33.390154,
     "mz:hierarchy_label":1,
@@ -152,7 +153,7 @@
         "Al-Jazirah"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd  \u0b9c\u0bb8\u0bc0\u0bb0\u0bbe"
+        "\u0b85\u0bb2\u0bcd \u0b9c\u0bb8\u0bc0\u0bb0\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c1c\u0c1c\u0c40\u0c30\u0c3e"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0413\u0435\u0437\u0456\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat Al Jaz\u012bra"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"23,373",
     "statoids:area_mi":"9,024",
     "statoids:as_of_date":"2008-04-22",
@@ -284,7 +285,7 @@
         "gp:id":20069916,
         "hasc:id":"SD.GZ",
         "iso:id":"SD-GZ",
-        "qs:id":908820,
+        "qs_pg:id":908820,
         "wd:id":"Q309469"
     },
     "wof:country":"SD",
@@ -305,11 +306,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565736310,
+    "wof:lastmodified":1566639138,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3575280,
     "wof:population_rank":12,

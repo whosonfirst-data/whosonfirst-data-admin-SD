@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.2442,11.4064,30.2842,11.4464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327064041,
-    "wof:lastmodified":1536715150,
+    "wof:lastmodified":1566638944,
     "wof:name":"Kuk al Ledaya",
     "wof:parent_id":1091706919,
     "wof:placetype":"locality",

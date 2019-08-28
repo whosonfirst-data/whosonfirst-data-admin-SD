@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.5899,12.9278,34.6299,12.9678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nur el Galil",
         "N\u016br al Jal\u012bl",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360321727,
-    "wof:lastmodified":1537699468,
+    "wof:lastmodified":1566639567,
     "wof:name":"Nur Aj Jalil",
     "wof:parent_id":1091706215,
     "wof:placetype":"locality",

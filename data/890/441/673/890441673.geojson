@@ -11,10 +11,14 @@
     "geom:longitude":33.93333,
     "gn:country":"SD",
     "gn:fcode":"PPLA",
-    "gn:pop":44626,
+    "gn:population":44626,
     "iso:country":"SD",
+    "lbl:bbox":"33.91333,13.13,33.95333,13.17",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u0629"
     ],
@@ -114,9 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u0434\u0436\u0430"
     ],
-    "name:unk_x_variant":[
-        "Singa"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06af\u06be\u0627"
     ],
@@ -139,7 +140,7 @@
     "wof:concordances":{
         "gn:id":366847,
         "gp:id":1436189,
-        "qs:id":124360,
+        "qs_pg:id":124360,
         "wd:id":"Q130364",
         "wk:page":"Sennar"
     },
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":890441673,
-    "wof:lastmodified":1563365183,
+    "wof:lastmodified":1566639639,
     "wof:name":"Sinja",
     "wof:parent_id":1091708615,
     "wof:placetype":"locality",

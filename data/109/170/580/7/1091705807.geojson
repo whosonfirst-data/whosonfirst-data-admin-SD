@@ -12,6 +12,8 @@
     "iso:country":"SD",
     "lbl:latitude":11.218348,
     "lbl:longitude":27.646352,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Kordofan",
     "meso:diss_me":"BabanusaWest Kordofan",
     "meso:gadm_admin":"Abyei",
@@ -26,6 +28,7 @@
     "mps:longitude":27.646352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0646\u0648\u0633\u0629"
     ],
@@ -48,7 +51,7 @@
         "\u0411\u0430\u0431\u0430\u043d\u0443\u0441\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091705807,
-    "wof:lastmodified":1564158632,
+    "wof:lastmodified":1566639590,
     "wof:name":"Babanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.4488,14.0617,33.4888,14.1017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad el Mahi",
         "Wad al M\u0101\u1e29i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260131307,
-    "wof:lastmodified":1537699408,
+    "wof:lastmodified":1566639444,
     "wof:name":"Wad al Mahi",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

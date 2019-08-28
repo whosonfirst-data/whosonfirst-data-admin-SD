@@ -11,8 +11,11 @@
     "geom:longitude":33.95917,
     "gn:country":"SD",
     "gn:fcode":"PPLA",
-    "gn:pop":103941,
+    "gn:population":103941,
     "iso:country":"SD",
+    "lbl:bbox":"33.93917,17.57278,33.97917,17.61278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434-\u0414\u0430\u043c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Damar"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +200,7 @@
     "wof:concordances":{
         "gn:id":380173,
         "gp:id":1429985,
-        "qs:id":124531,
+        "qs_pg:id":124531,
         "wd:id":"Q311312",
         "wk:page":"Ad-Damir"
     },
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890439877,
-    "wof:lastmodified":1563365189,
+    "wof:lastmodified":1566639640,
     "wof:name":"Ed Damer",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

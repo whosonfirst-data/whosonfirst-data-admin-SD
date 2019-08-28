@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.908,14.775,32.948,14.815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mi\u2018ejna Mu\u015f\u0163afa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326572407,
-    "wof:lastmodified":1537699619,
+    "wof:lastmodified":1566638991,
     "wof:name":"Mi`ejna Mustafa",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

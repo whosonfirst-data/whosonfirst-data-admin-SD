@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.7085,12.9342,31.7485,12.9742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad Burr",
         "Wad Bur"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343988709,
-    "wof:lastmodified":1537699405,
+    "wof:lastmodified":1566639045,
     "wof:name":"Wad Bur",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

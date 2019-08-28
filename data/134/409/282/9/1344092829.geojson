@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.2319,12.8616,32.2719,12.9016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Arqud F\u0101yiq"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344092829,
-    "wof:lastmodified":1537699674,
+    "wof:lastmodified":1566639065,
     "wof:name":"Arqud Fayiq",
     "wof:parent_id":1091708727,
     "wof:placetype":"locality",

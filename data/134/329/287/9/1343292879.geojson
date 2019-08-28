@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.297,11.9677,34.337,12.0077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Q\u016bni"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343292879,
-    "wof:lastmodified":1537699685,
+    "wof:lastmodified":1566639118,
     "wof:name":"Quni",
     "wof:parent_id":1091706611,
     "wof:placetype":"locality",

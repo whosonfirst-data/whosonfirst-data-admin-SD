@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"22.84565,12.02043,22.88565,12.06043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dulmoinya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242713039,
-    "wof:lastmodified":1537699525,
+    "wof:lastmodified":1566639707,
     "wof:name":"Dulmoinya",
     "wof:parent_id":1091709589,
     "wof:placetype":"locality",

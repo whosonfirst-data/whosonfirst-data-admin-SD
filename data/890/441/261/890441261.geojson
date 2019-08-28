@@ -11,8 +11,11 @@
     "geom:longitude":25.34936,
     "gn:country":"SD",
     "gn:fcode":"PPLA",
-    "gn:pop":252609,
+    "gn:population":252609,
     "iso:country":"SD",
+    "lbl:bbox":"25.32936,13.60793,25.36936,13.64793",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0424\u0430\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tendelti"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":379555,
         "gp:id":1430323,
-        "qs:id":274960,
+        "qs_pg:id":274960,
         "wd:id":"Q311204",
         "wk:page":"Al-Fashir"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890441261,
-    "wof:lastmodified":1563365186,
+    "wof:lastmodified":1566639639,
     "wof:name":"El Fasher",
     "wof:parent_id":1091706361,
     "wof:placetype":"locality",

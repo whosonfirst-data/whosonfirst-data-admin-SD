@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.5175,12.7283,31.5575,12.7683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "As Sire\u1e29\u0101t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310037047,
-    "wof:lastmodified":1537699668,
+    "wof:lastmodified":1566639522,
     "wof:name":"As Sirehat",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

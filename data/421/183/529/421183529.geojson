@@ -10,8 +10,12 @@
     "geom:latitude":15.81667,
     "geom:longitude":36.13333,
     "iso:country":"SD",
+    "lbl:bbox":"36.11333,15.79667,36.15333,15.83667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"SD",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":378502,
         "gp:id":1430859,
-        "qs:id":1298371
+        "qs_pg:id":1298371
     },
     "wof:country":"SD",
     "wof:created":1459009372,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421183529,
-    "wof:lastmodified":1505340686,
+    "wof:lastmodified":1566639637,
     "wof:name":"Aroma",
     "wof:parent_id":1091709303,
     "wof:placetype":"locality",

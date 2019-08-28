@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.90948,18.13679,33.94948,18.17679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Kheiran",
         "Abu Kebeida & El Kheiran",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360315983,
-    "wof:lastmodified":1537699596,
+    "wof:lastmodified":1566639548,
     "wof:name":"Abu Kebeida & El Kheiran",
     "wof:parent_id":1091709863,
     "wof:placetype":"locality",

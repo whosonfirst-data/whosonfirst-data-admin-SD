@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.42389,15.1075,33.46389,15.1475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sukeirana",
         "Sukayr\u0101nah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326668583,
-    "wof:lastmodified":1537699442,
+    "wof:lastmodified":1566638981,
     "wof:name":"Sukayranah",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

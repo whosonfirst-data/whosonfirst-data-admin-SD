@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.0569,13.8157,32.0969,13.8557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Aj Jikhe\u015f\u0101t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259814719,
-    "wof:lastmodified":1537699631,
+    "wof:lastmodified":1566639789,
     "wof:name":"Aj Jikhesat",
     "wof:parent_id":1091707399,
     "wof:placetype":"locality",

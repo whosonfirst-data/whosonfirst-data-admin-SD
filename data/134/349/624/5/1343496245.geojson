@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"24.03148,12.94313,24.07148,12.98313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kulli"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343496245,
-    "wof:lastmodified":1564157975,
+    "wof:lastmodified":1566639084,
     "wof:name":"Kulli",
     "wof:parent_id":1091708215,
     "wof:placetype":"locality",

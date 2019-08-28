@@ -10,10 +10,14 @@
     "geom:latitude":14.4619,
     "geom:longitude":32.2065,
     "iso:country":"SD",
+    "lbl:bbox":"32.1865,14.4419,32.2265,14.4819",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wad az Z\u0101ki"
     ],
     "qs:gn_country":"SD",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":364216,
         "gp:id":1517360,
-        "qs:id":124341
+        "qs_pg:id":124341
     },
     "wof:country":"SD",
     "wof:created":1459009910,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421197343,
-    "wof:lastmodified":1505340750,
+    "wof:lastmodified":1566639636,
     "wof:name":"Wad ez Zaki",
     "wof:parent_id":1091706319,
     "wof:placetype":"locality",

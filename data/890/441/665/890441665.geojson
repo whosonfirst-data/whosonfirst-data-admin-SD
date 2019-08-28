@@ -11,10 +11,14 @@
     "geom:longitude":36.2032,
     "gn:country":"SD",
     "gn:fcode":"PPL",
-    "gn:pop":11950,
+    "gn:population":11950,
     "iso:country":"SD",
+    "lbl:bbox":"36.1832,16.1325,36.2232,16.1725",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Wagar"
     ],
@@ -225,7 +229,7 @@
     "name:tur_x_preferred":[
         "Wagar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wagga"
     ],
     "name:vec_x_preferred":[
@@ -268,7 +272,7 @@
     "wof:concordances":{
         "gn:id":364027,
         "gp:id":1517088,
-        "qs:id":124339,
+        "qs_pg:id":124339,
         "wd:id":"Q18395991",
         "wk:page":"Wagar"
     },
@@ -285,7 +289,7 @@
         }
     ],
     "wof:id":890441665,
-    "wof:lastmodified":1563365188,
+    "wof:lastmodified":1566639640,
     "wof:name":"Wagar",
     "wof:parent_id":1091709303,
     "wof:placetype":"locality",

@@ -10,10 +10,13 @@
     "geom:latitude":15.6075,
     "geom:longitude":32.56389,
     "iso:country":"SD",
+    "lbl:bbox":"32.55889,15.6025,32.56889,15.6125",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burri el Mahas"
     ],
     "qs:gn_country":"SD",
@@ -36,16 +39,16 @@
     "qs:woe_id":1431566,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676889,
         102191573,
         85632751,
-        1091707383,
-        85676889
+        1091707383
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":377044,
         "gp:id":1431566,
-        "qs:id":419464
+        "qs_pg:id":419464
     },
     "wof:country":"SD",
     "wof:created":1459009759,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421193071,
-    "wof:lastmodified":1531858709,
+    "wof:lastmodified":1566639633,
     "wof:name":"Burr\u012b al Mah\u0327as",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

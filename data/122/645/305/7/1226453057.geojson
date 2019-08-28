@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.695,15.2396,32.735,15.2796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Habiba",
         "\u1e28ab\u012bbah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226453057,
-    "wof:lastmodified":1537699514,
+    "wof:lastmodified":1566639808,
     "wof:name":"Al Hideba",
     "wof:parent_id":1091708377,
     "wof:placetype":"locality",

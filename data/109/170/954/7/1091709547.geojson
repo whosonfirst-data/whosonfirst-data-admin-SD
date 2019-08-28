@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.829027,
     "lbl:longitude":22.417792,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Darfur",
     "meso:diss_me":"SirbaWest Darfur",
     "meso:gadm_admin":"Al Geneina",
@@ -32,6 +34,7 @@
     "mps:longitude":22.417792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sirba"
     ],
@@ -40,9 +43,9 @@
         "Al Geneina"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091709547,
-    "wof:lastmodified":1553717947,
+    "wof:lastmodified":1566639575,
     "wof:name":"Sirba",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"29.71333,13.31333,29.75333,13.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qereiwid",
         "Quraywid"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310240765,
-    "wof:lastmodified":1537699462,
+    "wof:lastmodified":1566639478,
     "wof:name":"Quraywid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

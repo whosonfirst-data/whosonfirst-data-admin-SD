@@ -11,10 +11,14 @@
     "geom:longitude":32.73999,
     "gn:country":"SD",
     "gn:fcode":"PPLA",
-    "gn:pop":135281,
+    "gn:population":135281,
     "iso:country":"SD",
+    "lbl:bbox":"32.71999,13.16087,32.75999,13.20087",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u0628\u0643"
     ],
@@ -126,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0431\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rabaq"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":368277,
         "gp:id":1435631,
-        "qs:id":124372,
+        "qs_pg:id":124372,
         "wd:id":"Q1004008",
         "wk:page":"Rabak"
     },
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":890441677,
-    "wof:lastmodified":1563365187,
+    "wof:lastmodified":1566639639,
     "wof:name":"Rabak",
     "wof:parent_id":1091707753,
     "wof:placetype":"locality",

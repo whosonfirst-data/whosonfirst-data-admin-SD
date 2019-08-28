@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"31.61773,10.96396,31.65773,11.00396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193053209,
-    "wof:lastmodified":1536364547,
+    "wof:lastmodified":1566639430,
     "wof:name":"Maghani",
     "wof:parent_id":1091706897,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"30.1772,10.9947,30.2172,11.0347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226177119,
-    "wof:lastmodified":1537031115,
+    "wof:lastmodified":1566639806,
     "wof:name":"Nana Bejyu",
     "wof:parent_id":1091708963,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.385504,
     "lbl:longitude":23.072335,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Central Darfur",
     "meso:diss_me":"Wadi SalihCentral Darfur",
     "meso:gadm_admin":"Mukjar",
@@ -32,6 +34,7 @@
     "mps:longitude":23.072335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wadi Salih"
     ],
@@ -46,9 +49,9 @@
         "\u0412\u0430\u0434\u0438-\u0421\u0430\u043b\u0438\u0445"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1091709589,
-    "wof:lastmodified":1564158633,
+    "wof:lastmodified":1566639591,
     "wof:name":"Wadi Salih",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"32.9724,14.682,33.0124,14.722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Mi\u2018ejna Ali Kh\u014djali"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193215663,
-    "wof:lastmodified":1537699620,
+    "wof:lastmodified":1566639442,
     "wof:name":"Al Mi'ejna Ali Khojali",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"34.0476,12.8395,34.0876,12.8795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mabr\u016bka"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343298505,
-    "wof:lastmodified":1537699676,
+    "wof:lastmodified":1566639120,
     "wof:name":"Mabruka",
     "wof:parent_id":1091706637,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"33.69667,14.39667,33.73667,14.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Awadiya",
         "\u2018Awa\u1e11\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343612983,
-    "wof:lastmodified":1537699542,
+    "wof:lastmodified":1566639087,
     "wof:name":"`Awadiyah",
     "wof:parent_id":1091708895,
     "wof:placetype":"locality",

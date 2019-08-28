@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Khartoum",
     "iso:country":"SD",
+    "lbl:bbox":"35.5188,15.7819,35.5588,15.8219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaryah Tham\u0101n\u012byah wa Tham\u0101n\u016bn"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243103637,
-    "wof:lastmodified":1537699634,
+    "wof:lastmodified":1566639734,
     "wof:name":"Qaryah Thamaniyah wa Thamanun",
     "wof:parent_id":1091710227,
     "wof:placetype":"locality",
