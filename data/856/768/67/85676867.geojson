@@ -311,6 +311,9 @@
         "wd:id":"Q310120"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e64d06de23defcaadb9a88949deb1e0f",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639137,
+    "wof:lastmodified":1582318329,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

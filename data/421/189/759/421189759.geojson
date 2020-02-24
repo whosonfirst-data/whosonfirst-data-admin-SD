@@ -279,6 +279,7 @@
     "qs:woe_id":1433451,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:latitude":15.45,
@@ -302,6 +303,10 @@
     },
     "wof:country":"SD",
     "wof:created":1459009635,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5858229293d64da74ea42aeb20f4d940",
     "wof:hierarchy":[
         {
@@ -313,7 +318,7 @@
         }
     ],
     "wof:id":421189759,
-    "wof:lastmodified":1566639635,
+    "wof:lastmodified":1582318342,
     "wof:name":"Kassala",
     "wof:parent_id":1091708105,
     "wof:placetype":"locality",

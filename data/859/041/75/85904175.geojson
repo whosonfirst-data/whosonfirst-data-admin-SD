@@ -65,6 +65,9 @@
         "gp:id":10644826
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47e9689060e096ce855bd4d7a90ae4ea",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566639133,
+    "wof:lastmodified":1582318327,
     "wof:name":"Khartoum Airport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

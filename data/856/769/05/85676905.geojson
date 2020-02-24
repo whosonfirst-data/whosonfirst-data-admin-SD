@@ -291,6 +291,9 @@
         "wd:id":"Q310118"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62d56a81acd18b429080b4bd7b9fc252",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639134,
+    "wof:lastmodified":1582318328,
     "wof:name":"Northern",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -306,6 +306,9 @@
         "wd:id":"Q465490"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2da4083f8448df79d0791d4115f8accc",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639136,
+    "wof:lastmodified":1582318329,
     "wof:name":"South Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -292,6 +292,9 @@
     },
     "wof:country":"SD",
     "wof:created":1459009635,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4400235a195fee959d4b6ba04b94961d",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421189753,
-    "wof:lastmodified":1566639634,
+    "wof:lastmodified":1582318342,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

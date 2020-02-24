@@ -228,6 +228,9 @@
         "wd:id":"Q838778"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59ec477a917edaa9bc7024673a6063b5",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639140,
+    "wof:lastmodified":1582318331,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

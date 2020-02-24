@@ -113,6 +113,9 @@
         "wd:id":"Q4703088"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cfe17d127bb23b0b63693e9a60d70a6",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566639134,
+    "wof:lastmodified":1582318328,
     "wof:name":"Al Qawz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

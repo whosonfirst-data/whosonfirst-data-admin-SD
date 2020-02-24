@@ -580,6 +580,9 @@
     },
     "wof:country":"SD",
     "wof:created":1469052333,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"1fd00e72293b4074882cdafcb2fead71",
     "wof:hierarchy":[
         {
@@ -591,7 +594,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1566639639,
+    "wof:lastmodified":1582318342,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,
     "wof:placetype":"locality",

@@ -420,6 +420,9 @@
         "wd:id":"Q311371"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c95dcb7af1b71a0a186a1cfbb603be5",
     "wof:hierarchy":[
         {
@@ -437,7 +440,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639135,
+    "wof:lastmodified":1582318329,
     "wof:name":"White Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
