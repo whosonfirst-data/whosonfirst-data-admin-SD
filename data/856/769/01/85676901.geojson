@@ -295,6 +295,9 @@
         "wd:id":"Q849297"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af0fe649cc45d3d98d2d153549f4a560",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639136,
+    "wof:lastmodified":1582318329,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

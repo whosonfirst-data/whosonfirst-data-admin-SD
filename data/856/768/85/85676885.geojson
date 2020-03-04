@@ -204,6 +204,9 @@
         "wd:id":"Q4116493"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d5a5eb0df9175a24b7d88f0f303cd77",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639140,
+    "wof:lastmodified":1582318331,
     "wof:name":"Central Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

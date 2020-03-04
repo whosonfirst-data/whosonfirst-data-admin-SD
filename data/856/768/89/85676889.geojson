@@ -562,6 +562,9 @@
         "wd:id":"Q310385"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36d420aa838da981ac37d54e5ebe5d92",
     "wof:hierarchy":[
         {
@@ -579,7 +582,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639138,
+    "wof:lastmodified":1582318330,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

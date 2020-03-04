@@ -82,6 +82,9 @@
         "qs_pg:id":895509
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e31e898da5fe00fb43dd654648089ff",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639138,
+    "wof:lastmodified":1582318330,
     "wof:name":"Eastern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

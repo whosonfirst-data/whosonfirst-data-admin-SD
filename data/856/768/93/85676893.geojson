@@ -289,6 +289,9 @@
         "wd:id":"Q309469"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c151b2982e68a8de3e20fcbe285a9e3",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639138,
+    "wof:lastmodified":1582318330,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

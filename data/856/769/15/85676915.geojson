@@ -285,6 +285,9 @@
         "wd:id":"Q865534"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13b4cc642e45bb73a4bfb9a0976ca108",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639136,
+    "wof:lastmodified":1582318329,
     "wof:name":"Sennar",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

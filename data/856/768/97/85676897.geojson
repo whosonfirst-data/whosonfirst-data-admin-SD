@@ -287,6 +287,9 @@
         "wd:id":"Q309478"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c778be8b60cc59cefa27fdff34057dde",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639139,
+    "wof:lastmodified":1582318331,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

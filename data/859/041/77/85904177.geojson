@@ -130,6 +130,10 @@
         "wd:id":"Q656871"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d02dc4738881b768c78ee8d46e5d210a",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566639134,
+    "wof:lastmodified":1582318327,
     "wof:name":"University of Khartoum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

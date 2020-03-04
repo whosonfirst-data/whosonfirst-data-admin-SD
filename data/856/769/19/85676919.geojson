@@ -300,6 +300,9 @@
         "wd:id":"Q688306"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ea2083c56e1a6ea97ae95b9634932f1",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639135,
+    "wof:lastmodified":1582318328,
     "wof:name":"North Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

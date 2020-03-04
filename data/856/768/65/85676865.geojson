@@ -442,6 +442,9 @@
         "wd:id":"Q309489"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"111a461c877f2b76b8be36aadd73312e",
     "wof:hierarchy":[
         {
@@ -459,7 +462,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639139,
+    "wof:lastmodified":1582318331,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

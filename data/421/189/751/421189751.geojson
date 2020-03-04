@@ -220,6 +220,9 @@
     },
     "wof:country":"SD",
     "wof:created":1459009635,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b4b1c02dc8e94ccfbaf97d68381f1e1",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421189751,
-    "wof:lastmodified":1566639635,
+    "wof:lastmodified":1582318342,
     "wof:name":"Al Ubayyid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",
