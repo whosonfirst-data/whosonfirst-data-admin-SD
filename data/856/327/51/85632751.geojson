@@ -947,9 +947,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Sudan",
-        "digitalenvoy:country_code":[
-            736
-        ],
+        "digitalenvoy:country_code":736,
         "fb:id":"en.sudan",
         "fifa:id":"SUD",
         "fips:code":"SU",
@@ -992,7 +990,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1583529220,
+    "wof:lastmodified":1583797428,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
