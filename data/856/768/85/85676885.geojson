@@ -9,7 +9,6 @@
     "geom:bbox":"22.555232,10.6896368935,24.7112736067,13.5572741991",
     "geom:latitude":12.326471,
     "geom:longitude":23.359358,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Central Darfur State"
@@ -176,7 +175,6 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -224,7 +222,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318331,
+    "wof:lastmodified":1603245719,
     "wof:name":"Central Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

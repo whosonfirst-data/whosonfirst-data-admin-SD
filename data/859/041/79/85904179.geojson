@@ -9,7 +9,6 @@
     "geom:bbox":"32.519633,15.59623,32.519633,15.59623",
     "geom:latitude":15.59623,
     "geom:longitude":32.519633,
-    "gn:id":"",
     "iso:country":"SD",
     "lbl:bbox":"32.514633,15.59123,32.524633,15.60123",
     "lbl:latitude":15.59623,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85904179,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318327,
+    "wof:lastmodified":1603245715,
     "wof:name":"Friendship Hall",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"31.6989669237,15.1786597733,34.3767701587,16.6297465327",
     "geom:latitude":15.8526,
     "geom:longitude":32.84052,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Khartoum State"
@@ -582,7 +581,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318330,
+    "wof:lastmodified":1603245718,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

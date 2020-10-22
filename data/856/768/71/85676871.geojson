@@ -9,7 +9,6 @@
     "geom:bbox":"23.0515193026,9.655377,25.9284086242,13.1176643275",
     "geom:latitude":11.305404,
     "geom:longitude":24.50242,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Southern Darfur State"
@@ -248,7 +247,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318331,
+    "wof:lastmodified":1603245719,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

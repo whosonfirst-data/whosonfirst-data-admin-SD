@@ -9,7 +9,6 @@
     "geom:bbox":"29.214413945,9.7118405,32.46973,12.7465219512",
     "geom:latitude":11.291508,
     "geom:longitude":30.835543,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "South Kordufan State"
@@ -326,7 +325,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245716,
     "wof:name":"South Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

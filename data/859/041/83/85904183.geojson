@@ -9,7 +9,6 @@
     "geom:bbox":"32.56862,15.604616,32.56862,15.604616",
     "geom:latitude":15.604616,
     "geom:longitude":32.56862,
-    "gn:id":"",
     "iso:country":"SD",
     "lbl:bbox":"32.56362,15.599616,32.57362,15.609616",
     "lbl:latitude":15.604616,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85904183,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318327,
+    "wof:lastmodified":1603245715,
     "wof:name":"Ministry of Education",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

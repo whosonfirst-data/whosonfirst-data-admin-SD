@@ -9,7 +9,6 @@
     "geom:bbox":"32.351211348,13.5628928882,34.29492228,15.4610920662",
     "geom:latitude":14.59524,
     "geom:longitude":33.277354,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Gezira State"
@@ -309,7 +308,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318330,
+    "wof:lastmodified":1603245718,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

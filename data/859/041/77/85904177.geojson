@@ -9,7 +9,6 @@
     "geom:bbox":"32.537651,15.606689,32.537651,15.606689",
     "geom:latitude":15.606689,
     "geom:longitude":32.537651,
-    "gn:id":"",
     "iso:country":"SD",
     "lbl:bbox":"32.532651,15.601689,32.542651,15.611689",
     "lbl:latitude":15.606689,
@@ -146,10 +145,7 @@
         }
     ],
     "wof:id":85904177,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318327,
+    "wof:lastmodified":1603245715,
     "wof:name":"University of Khartoum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

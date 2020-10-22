@@ -9,7 +9,6 @@
     "geom:bbox":"33.5677924285,12.65653,36.552578259,15.7572349945",
     "geom:latitude":14.114088,
     "geom:longitude":35.11419,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Gedarif State"
@@ -307,7 +306,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318331,
+    "wof:lastmodified":1603245719,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

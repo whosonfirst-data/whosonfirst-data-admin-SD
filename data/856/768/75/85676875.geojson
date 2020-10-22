@@ -9,7 +9,6 @@
     "geom:bbox":"25.2850483244,9.488887,27.882780938,12.9638846588",
     "geom:latitude":10.975501,
     "geom:longitude":26.465561,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Eastern Darfur State"
@@ -56,7 +55,6 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -102,7 +100,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318330,
+    "wof:lastmodified":1603245718,
     "wof:name":"Eastern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

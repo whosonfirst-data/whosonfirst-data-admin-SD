@@ -9,7 +9,6 @@
     "geom:bbox":"33.136397,9.499999,35.082756,12.5622874404",
     "geom:latitude":11.303332,
     "geom:longitude":34.128361,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Blue Nile State"
@@ -462,7 +461,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318331,
+    "wof:lastmodified":1603245718,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"25.0,16.5148386737,32.6540254627,22.224918",
     "geom:latitude":19.560661,
     "geom:longitude":29.326212,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Northern State"
@@ -311,7 +310,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318328,
+    "wof:lastmodified":1603245715,
     "wof:name":"Northern",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

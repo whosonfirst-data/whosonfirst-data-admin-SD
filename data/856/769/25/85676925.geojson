@@ -9,7 +9,6 @@
     "geom:bbox":"26.9587985941,12.2371032553,32.3561278672,16.53643399",
     "geom:latitude":14.837098,
     "geom:longitude":29.751364,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "North Kordufan State"
@@ -313,7 +312,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245717,
     "wof:name":"North Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

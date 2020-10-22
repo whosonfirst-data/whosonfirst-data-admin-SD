@@ -9,7 +9,6 @@
     "geom:bbox":"33.2656561916,17.0046413286,38.5813410522,23.148269679",
     "geom:latitude":19.85454,
     "geom:longitude":35.692622,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Red Sea State"
@@ -331,7 +330,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245717,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

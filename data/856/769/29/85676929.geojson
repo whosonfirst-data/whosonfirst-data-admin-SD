@@ -9,7 +9,6 @@
     "geom:bbox":"34.2089380586,14.2060101893,37.0305245,17.2084416483",
     "geom:latitude":15.817488,
     "geom:longitude":35.807736,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Kassala State"
@@ -302,7 +301,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318328,
+    "wof:lastmodified":1603245715,
     "wof:name":"Kassala",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

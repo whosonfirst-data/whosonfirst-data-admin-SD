@@ -9,7 +9,6 @@
     "geom:bbox":"32.911095578,11.7497679499,35.6923210898,14.1094807861",
     "geom:latitude":12.910526,
     "geom:longitude":34.04505,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Sennar State"
@@ -305,7 +304,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245717,
     "wof:name":"Sennar",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"22.769607471,11.7489505948,27.5464403323,20.0265340067",
     "geom:latitude":16.218959,
     "geom:longitude":25.551868,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "North Darfur State"
@@ -320,7 +319,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318328,
+    "wof:lastmodified":1603245716,
     "wof:name":"North Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

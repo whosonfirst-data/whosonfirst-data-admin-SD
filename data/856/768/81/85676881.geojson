@@ -9,7 +9,6 @@
     "geom:bbox":"21.814939,12.030722,23.2452503591,14.9865253018",
     "geom:latitude":13.523658,
     "geom:longitude":22.616428,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "Western Darfur State"
@@ -239,7 +238,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318330,
+    "wof:lastmodified":1603245718,
     "wof:name":"Western Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

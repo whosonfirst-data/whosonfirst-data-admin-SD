@@ -9,7 +9,6 @@
     "geom:bbox":"31.8866626537,15.9829475497,35.6948366149,22.0000041473",
     "geom:latitude":18.366409,
     "geom:longitude":33.455958,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "River Nile State"
@@ -315,7 +314,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245716,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"31.5290858514,11.95105,33.2482781849,15.2279336665",
     "geom:latitude":13.364356,
     "geom:longitude":32.317856,
-    "gn:id":"",
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
         "White Nile State"
@@ -440,7 +439,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1582318329,
+    "wof:lastmodified":1603245716,
     "wof:name":"White Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

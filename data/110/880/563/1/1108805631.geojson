@@ -85,7 +85,6 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population_date":"",
     "statoids:area_km":"111,373",
     "statoids:area_mi":"43,001",
     "statoids:as_of_date":"",
@@ -127,7 +126,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639478,
+    "wof:lastmodified":1603245726,
     "wof:name":"West Kordofan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
