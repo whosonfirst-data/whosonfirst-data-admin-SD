@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226081967,
-    "wof:lastmodified":1566639881,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769133,
     "wof:name":"Farahein",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

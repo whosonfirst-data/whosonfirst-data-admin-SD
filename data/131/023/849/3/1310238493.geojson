@@ -101,7 +101,15 @@
         }
     ],
     "wof:id":1310238493,
-    "wof:lastmodified":1566639484,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769024,
     "wof:name":"Nurri",
     "wof:parent_id":1091710471,
     "wof:placetype":"locality",

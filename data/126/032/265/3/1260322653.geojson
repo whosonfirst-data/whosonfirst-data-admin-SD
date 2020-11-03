@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1260322653,
-    "wof:lastmodified":1566639474,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769020,
     "wof:name":"Miref`ib",
     "wof:parent_id":1091706897,
     "wof:placetype":"locality",

@@ -292,7 +292,15 @@
         }
     ],
     "wof:id":1141908839,
-    "wof:lastmodified":1566639894,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769136,
     "wof:name":"Atbara",
     "wof:parent_id":1091709911,
     "wof:placetype":"locality",

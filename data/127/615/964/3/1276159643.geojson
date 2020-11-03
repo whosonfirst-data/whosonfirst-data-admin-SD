@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276159643,
-    "wof:lastmodified":1566639289,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768975,
     "wof:name":"Ab Deinar",
     "wof:parent_id":1091708963,
     "wof:placetype":"locality",

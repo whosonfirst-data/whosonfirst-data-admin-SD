@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226276131,
-    "wof:lastmodified":1566639814,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769118,
     "wof:name":"Ash Shaykh Hajju",
     "wof:parent_id":1091708299,
     "wof:placetype":"locality",

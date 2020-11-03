@@ -183,7 +183,15 @@
         }
     ],
     "wof:id":890431247,
-    "wof:lastmodified":1566639641,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769076,
     "wof:name":"Tok\u0101r",
     "wof:parent_id":1091708733,
     "wof:placetype":"locality",

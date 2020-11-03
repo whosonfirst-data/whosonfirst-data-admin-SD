@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1360021791,
-    "wof:lastmodified":1566639572,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769052,
     "wof:name":"Digiru",
     "wof:parent_id":1091707997,
     "wof:placetype":"locality",

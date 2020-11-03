@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1225895843,
-    "wof:lastmodified":1566639841,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769124,
     "wof:name":"Babanusa",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

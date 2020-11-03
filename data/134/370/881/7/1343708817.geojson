@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343708817,
-    "wof:lastmodified":1566639077,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768910,
     "wof:name":"Hillat el Hassanya",
     "wof:parent_id":1091710789,
     "wof:placetype":"locality",

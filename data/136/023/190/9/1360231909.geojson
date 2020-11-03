@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1360231909,
-    "wof:lastmodified":1566639539,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769041,
     "wof:name":"Ad Delatia",
     "wof:parent_id":1091708425,
     "wof:placetype":"locality",

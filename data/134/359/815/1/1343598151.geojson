@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343598151,
-    "wof:lastmodified":1566639093,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768915,
     "wof:name":"Aj Jalaleib",
     "wof:parent_id":1091708963,
     "wof:placetype":"locality",

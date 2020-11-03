@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293920021,
-    "wof:lastmodified":1566639200,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768946,
     "wof:name":"Baqis",
     "wof:parent_id":1091709635,
     "wof:placetype":"locality",

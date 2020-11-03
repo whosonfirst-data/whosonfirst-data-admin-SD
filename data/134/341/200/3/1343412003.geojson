@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343412003,
-    "wof:lastmodified":1566639075,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768910,
     "wof:name":"Abu Halima",
     "wof:parent_id":1091707361,
     "wof:placetype":"locality",

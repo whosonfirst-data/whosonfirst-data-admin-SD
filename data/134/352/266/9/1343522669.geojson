@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343522669,
-    "wof:lastmodified":1566639059,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768904,
     "wof:name":"Qawz Nusayr",
     "wof:parent_id":1091708853,
     "wof:placetype":"locality",

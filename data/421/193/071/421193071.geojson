@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":421193071,
-    "wof:lastmodified":1566639633,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769074,
     "wof:name":"Burr\u012b al Mah\u0327as",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

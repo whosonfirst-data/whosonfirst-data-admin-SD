@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243103709,
-    "wof:lastmodified":1566639735,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769099,
     "wof:name":"Futaha",
     "wof:parent_id":1091705641,
     "wof:placetype":"locality",

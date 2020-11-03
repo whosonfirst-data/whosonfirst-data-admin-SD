@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1310535305,
-    "wof:lastmodified":1566639502,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769029,
     "wof:name":"Qaryah Sab`ah wa `Ishrun",
     "wof:parent_id":1091710227,
     "wof:placetype":"locality",

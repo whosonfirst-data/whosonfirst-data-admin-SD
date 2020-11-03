@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1260317611,
-    "wof:lastmodified":1566639449,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769011,
     "wof:name":"Halgarma",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

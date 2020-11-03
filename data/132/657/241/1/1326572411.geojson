@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1326572411,
-    "wof:lastmodified":1566638991,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768882,
     "wof:name":"As Sayyal Ad Dakhakhin",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293043693,
-    "wof:lastmodified":1566639208,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768948,
     "wof:name":"`Abd Al Majid",
     "wof:parent_id":1091706349,
     "wof:placetype":"locality",

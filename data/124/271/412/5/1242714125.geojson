@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":1242714125,
-    "wof:lastmodified":1566639706,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769091,
     "wof:name":"Komora",
     "wof:parent_id":1091709379,
     "wof:placetype":"locality",

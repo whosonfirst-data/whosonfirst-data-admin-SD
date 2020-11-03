@@ -214,7 +214,15 @@
         }
     ],
     "wof:id":1326881665,
-    "wof:lastmodified":1566638965,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768873,
     "wof:name":"Hashish",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

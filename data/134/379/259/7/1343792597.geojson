@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343792597,
-    "wof:lastmodified":1566639070,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768908,
     "wof:name":"Wad Ganofa",
     "wof:parent_id":1091709955,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1209851619,
-    "wof:lastmodified":1566639350,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768990,
     "wof:name":"Zayd",
     "wof:parent_id":1091707969,
     "wof:placetype":"locality",

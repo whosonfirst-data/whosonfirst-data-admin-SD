@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326864907,
-    "wof:lastmodified":1566638960,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768872,
     "wof:name":"El Hilela",
     "wof:parent_id":1091707319,
     "wof:placetype":"locality",

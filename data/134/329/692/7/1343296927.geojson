@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343296927,
-    "wof:lastmodified":1566639121,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768924,
     "wof:name":"`Arab Hajj",
     "wof:parent_id":1091705739,
     "wof:placetype":"locality",

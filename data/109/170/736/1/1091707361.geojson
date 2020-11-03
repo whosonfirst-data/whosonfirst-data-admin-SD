@@ -166,7 +166,15 @@
         }
     ],
     "wof:id":1091707361,
-    "wof:lastmodified":1566639580,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769055,
     "wof:name":"Khartoum North",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

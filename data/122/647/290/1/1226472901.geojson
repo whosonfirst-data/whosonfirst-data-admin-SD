@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226472901,
-    "wof:lastmodified":1566639859,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769128,
     "wof:name":"Qurdud al `Arraniyah",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

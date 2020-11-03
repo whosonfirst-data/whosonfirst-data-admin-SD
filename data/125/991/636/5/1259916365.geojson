@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1259916365,
-    "wof:lastmodified":1566639747,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769101,
     "wof:name":"Limemat Hamdan",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

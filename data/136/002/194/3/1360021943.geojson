@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360021943,
-    "wof:lastmodified":1566639568,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769051,
     "wof:name":"Umm Erig",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

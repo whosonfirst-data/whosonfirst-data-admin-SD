@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310552097,
-    "wof:lastmodified":1566639507,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769031,
     "wof:name":"Hillat Karari",
     "wof:parent_id":1091708803,
     "wof:placetype":"locality",

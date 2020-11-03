@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310141919,
-    "wof:lastmodified":1566639493,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769027,
     "wof:name":"Umm Hawsh",
     "wof:parent_id":1091706673,
     "wof:placetype":"locality",

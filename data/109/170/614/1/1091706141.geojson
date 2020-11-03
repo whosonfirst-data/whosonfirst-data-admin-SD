@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1091706141,
-    "wof:lastmodified":1566639592,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769061,
     "wof:name":"Ed Damer",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

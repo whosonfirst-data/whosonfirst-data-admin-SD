@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343888785,
-    "wof:lastmodified":1566639132,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768928,
     "wof:name":"Muqalladat",
     "wof:parent_id":1091709813,
     "wof:placetype":"locality",

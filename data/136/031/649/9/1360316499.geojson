@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360316499,
-    "wof:lastmodified":1566639549,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769044,
     "wof:name":"Ebbei",
     "wof:parent_id":1091705507,
     "wof:placetype":"locality",

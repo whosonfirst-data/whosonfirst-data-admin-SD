@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226373133,
-    "wof:lastmodified":1566639875,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769132,
     "wof:name":"Umm Sulay`ah",
     "wof:parent_id":1091707249,
     "wof:placetype":"locality",

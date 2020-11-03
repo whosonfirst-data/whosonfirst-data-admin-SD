@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226472545,
-    "wof:lastmodified":1566639859,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769128,
     "wof:name":"Hillat al Qiblab",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

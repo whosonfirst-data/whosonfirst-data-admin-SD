@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293817433,
-    "wof:lastmodified":1566639233,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768957,
     "wof:name":"Karkawi",
     "wof:parent_id":1091708727,
     "wof:placetype":"locality",

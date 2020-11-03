@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1276712445,
-    "wof:lastmodified":1566639283,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768974,
     "wof:name":"Ruhaymab",
     "wof:parent_id":1091706877,
     "wof:placetype":"locality",

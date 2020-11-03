@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343395655,
-    "wof:lastmodified":1566639051,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768902,
     "wof:name":"Al Haraz",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

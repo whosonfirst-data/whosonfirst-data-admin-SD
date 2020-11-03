@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326560695,
-    "wof:lastmodified":1566638975,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768877,
     "wof:name":"La`ota",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293524367,
-    "wof:lastmodified":1566639159,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768933,
     "wof:name":"Hillat Tamantashar Isa al Haq",
     "wof:parent_id":1091709303,
     "wof:placetype":"locality",

@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1309834941,
-    "wof:lastmodified":1566639609,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769068,
     "wof:name":"Sharafa ash Shafi`",
     "wof:parent_id":1091710099,
     "wof:placetype":"locality",

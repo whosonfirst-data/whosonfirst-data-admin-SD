@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1326967175,
-    "wof:lastmodified":1566639021,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768892,
     "wof:name":"Taha",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",

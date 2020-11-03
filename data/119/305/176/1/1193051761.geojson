@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193051761,
-    "wof:lastmodified":1566639431,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769005,
     "wof:name":"Taurei",
     "wof:parent_id":1091710367,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326581049,
-    "wof:lastmodified":1566638976,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768877,
     "wof:name":"Wad Esheib",
     "wof:parent_id":1091706829,
     "wof:placetype":"locality",

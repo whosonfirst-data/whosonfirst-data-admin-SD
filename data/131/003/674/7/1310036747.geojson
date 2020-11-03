@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310036747,
-    "wof:lastmodified":1566639521,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769035,
     "wof:name":"Ash Shigil",
     "wof:parent_id":1091706141,
     "wof:placetype":"locality",

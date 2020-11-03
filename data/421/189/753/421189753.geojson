@@ -306,7 +306,15 @@
         }
     ],
     "wof:id":421189753,
-    "wof:lastmodified":1582318342,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769075,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

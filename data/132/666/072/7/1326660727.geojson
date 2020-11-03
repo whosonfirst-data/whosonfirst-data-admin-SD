@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1326660727,
-    "wof:lastmodified":1566638983,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768880,
     "wof:name":"Golabai",
     "wof:parent_id":1091705507,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276922985,
-    "wof:lastmodified":1566639277,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768972,
     "wof:name":"Al Baqer al Wrrani",
     "wof:parent_id":1091708377,
     "wof:placetype":"locality",

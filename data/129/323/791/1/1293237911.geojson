@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293237911,
-    "wof:lastmodified":1566639177,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768939,
     "wof:name":"`Abd Allah Bashir",
     "wof:parent_id":1091708337,
     "wof:placetype":"locality",

@@ -115,7 +115,15 @@
         }
     ],
     "wof:id":1327462689,
-    "wof:lastmodified":1566638996,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768884,
     "wof:name":"Moro",
     "wof:parent_id":1091708963,
     "wof:placetype":"locality",

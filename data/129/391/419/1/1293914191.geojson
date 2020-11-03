@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293914191,
-    "wof:lastmodified":1566639147,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768930,
     "wof:name":"Mabruka al Hassaniyya",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

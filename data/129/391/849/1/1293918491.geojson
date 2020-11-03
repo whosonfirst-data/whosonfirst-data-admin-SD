@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293918491,
-    "wof:lastmodified":1566639147,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768930,
     "wof:name":"Qaryah al Darqawiy",
     "wof:parent_id":1091706097,
     "wof:placetype":"locality",

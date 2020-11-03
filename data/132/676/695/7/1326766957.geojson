@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326766957,
-    "wof:lastmodified":1566639003,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768886,
     "wof:name":"Umm Fa's",
     "wof:parent_id":1091708727,
     "wof:placetype":"locality",

@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1310042019,
-    "wof:lastmodified":1566639527,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769037,
     "wof:name":"Burbur",
     "wof:parent_id":1091709223,
     "wof:placetype":"locality",

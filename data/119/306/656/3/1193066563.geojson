@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1193066563,
-    "wof:lastmodified":1566639422,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769003,
     "wof:name":"Ar Ragal",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

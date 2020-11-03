@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1343692333,
-    "wof:lastmodified":1566639099,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768917,
     "wof:name":"Qaryah Ithnan",
     "wof:parent_id":1091710227,
     "wof:placetype":"locality",

@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1226278673,
-    "wof:lastmodified":1566639812,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769117,
     "wof:name":"Keinyo",
     "wof:parent_id":1091710149,
     "wof:placetype":"locality",

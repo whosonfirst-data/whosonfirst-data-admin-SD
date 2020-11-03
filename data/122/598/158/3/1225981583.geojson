@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1225981583,
-    "wof:lastmodified":1566639851,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769126,
     "wof:name":"Tuwayr",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

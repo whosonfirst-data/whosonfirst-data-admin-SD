@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1242811663,
-    "wof:lastmodified":1566639667,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769083,
     "wof:name":"Az Zumah",
     "wof:parent_id":1091710471,
     "wof:placetype":"locality",

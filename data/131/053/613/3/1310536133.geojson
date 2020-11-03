@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1310536133,
-    "wof:lastmodified":1566639504,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769030,
     "wof:name":"Al `Amara",
     "wof:parent_id":1091707399,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225881049,
-    "wof:lastmodified":1566639838,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769123,
     "wof:name":"Sanq at",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

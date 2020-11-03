@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1192960995,
-    "wof:lastmodified":1566639431,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769006,
     "wof:name":"`Abd ar Rahman",
     "wof:parent_id":1091707779,
     "wof:placetype":"locality",

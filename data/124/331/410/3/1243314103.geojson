@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1243314103,
-    "wof:lastmodified":1566639653,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769079,
     "wof:name":"Farig Wlad al lamin Wad al `Ajab",
     "wof:parent_id":1091708425,
     "wof:placetype":"locality",

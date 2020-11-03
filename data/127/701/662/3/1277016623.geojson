@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1277016623,
-    "wof:lastmodified":1566639245,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768961,
     "wof:name":"'Afrush Tobak",
     "wof:parent_id":1091706215,
     "wof:placetype":"locality",

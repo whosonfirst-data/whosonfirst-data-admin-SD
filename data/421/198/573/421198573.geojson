@@ -107,7 +107,15 @@
         }
     ],
     "wof:id":421198573,
-    "wof:lastmodified":1566639636,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769075,
     "wof:name":"Kurmuk",
     "wof:parent_id":1091705503,
     "wof:placetype":"locality",

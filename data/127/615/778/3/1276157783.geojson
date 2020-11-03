@@ -68,7 +68,15 @@
         }
     ],
     "wof:id":1276157783,
-    "wof:lastmodified":1566639291,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768976,
     "wof:name":"Aj Jabalen",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

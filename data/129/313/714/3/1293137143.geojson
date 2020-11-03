@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293137143,
-    "wof:lastmodified":1566639194,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768944,
     "wof:name":"Umm Saffaia",
     "wof:parent_id":1091705233,
     "wof:placetype":"locality",

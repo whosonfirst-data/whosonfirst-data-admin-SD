@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243505877,
-    "wof:lastmodified":1566639696,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769089,
     "wof:name":"Umm Tartara",
     "wof:parent_id":1091708895,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343622669,
-    "wof:lastmodified":1566639043,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768899,
     "wof:name":"As Samra'",
     "wof:parent_id":1091708853,
     "wof:placetype":"locality",

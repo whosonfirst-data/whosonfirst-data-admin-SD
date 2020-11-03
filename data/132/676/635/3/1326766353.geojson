@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326766353,
-    "wof:lastmodified":1566639003,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768886,
     "wof:name":"Mushu",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

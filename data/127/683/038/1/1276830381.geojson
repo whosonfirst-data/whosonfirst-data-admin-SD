@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276830381,
-    "wof:lastmodified":1566639297,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768979,
     "wof:name":"Abu Dawm",
     "wof:parent_id":1091708803,
     "wof:placetype":"locality",

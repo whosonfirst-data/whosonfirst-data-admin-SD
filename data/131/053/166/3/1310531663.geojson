@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1310531663,
-    "wof:lastmodified":1566639499,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769028,
     "wof:name":"Barbit",
     "wof:parent_id":1091707815,
     "wof:placetype":"locality",

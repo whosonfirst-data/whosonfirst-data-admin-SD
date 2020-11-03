@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243123705,
-    "wof:lastmodified":1566639687,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769087,
     "wof:name":"Madbaghat aj Jazira",
     "wof:parent_id":1091706877,
     "wof:placetype":"locality",

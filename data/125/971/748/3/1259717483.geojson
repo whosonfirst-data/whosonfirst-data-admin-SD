@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259717483,
-    "wof:lastmodified":1566639764,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769106,
     "wof:name":"Um Shadar",
     "wof:parent_id":1091708931,
     "wof:placetype":"locality",

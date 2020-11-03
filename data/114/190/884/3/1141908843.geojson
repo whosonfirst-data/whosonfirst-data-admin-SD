@@ -273,8 +273,8 @@
     "wof:belongsto":[
         102191573,
         85632751,
-        1091707431,
-        85676909
+        85676909,
+        1091707431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -295,7 +295,15 @@
         }
     ],
     "wof:id":1141908843,
-    "wof:lastmodified":1587163114,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769136,
     "wof:name":"Kosti",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

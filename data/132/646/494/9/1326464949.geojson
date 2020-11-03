@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326464949,
-    "wof:lastmodified":1566639014,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768889,
     "wof:name":"Joku",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

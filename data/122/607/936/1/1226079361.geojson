@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226079361,
-    "wof:lastmodified":1566639885,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769134,
     "wof:name":"Totognei",
     "wof:parent_id":1091705349,
     "wof:placetype":"locality",

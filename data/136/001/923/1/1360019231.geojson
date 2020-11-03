@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360019231,
-    "wof:lastmodified":1566639552,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603769045,
     "wof:name":"Umm Sheifa",
     "wof:parent_id":1091709399,
     "wof:placetype":"locality",

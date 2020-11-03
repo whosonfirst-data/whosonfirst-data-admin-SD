@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327365137,
-    "wof:lastmodified":1566638955,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768870,
     "wof:name":"Umm Zawjah",
     "wof:parent_id":1091706897,
     "wof:placetype":"locality",

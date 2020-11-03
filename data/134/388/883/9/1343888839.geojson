@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1343888839,
-    "wof:lastmodified":1566639132,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768928,
     "wof:name":"Dambo",
     "wof:parent_id":1091705739,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344191453,
-    "wof:lastmodified":1566639109,
+    "wof:lang_x_official":[
+        "ara",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "eng"
+    ],
+    "wof:lastmodified":1603768921,
     "wof:name":"Abu Sari",
     "wof:parent_id":1091705881,
     "wof:placetype":"locality",
