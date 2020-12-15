@@ -604,6 +604,9 @@
         "wd:id":"Q1963",
         "wk:page":"Khartoum"
     },
+    "wof:coterminous":[
+        1091707383
+    ],
     "wof:country":"SD",
     "wof:created":1469052333,
     "wof:geom_alt":[
@@ -620,7 +623,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1607390900,
+    "wof:lastmodified":1608007111,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,
     "wof:placetype":"locality",
