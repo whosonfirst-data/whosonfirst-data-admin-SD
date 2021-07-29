@@ -43,6 +43,9 @@
         "South Darfur",
         "East Darfur"
     ],
+    "name:fra_x_preferred":[
+        "East Darfur"
+    ],
     "qs:a0":"Sudan",
     "qs:a0_lc":"SD",
     "qs:a1":"Eastern Darfur",
@@ -105,7 +108,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1627522755,
     "wof:name":"Eastern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
