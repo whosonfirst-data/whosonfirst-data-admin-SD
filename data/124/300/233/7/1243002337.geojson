@@ -41,6 +41,12 @@
     "name:deu_x_preferred":[
         "Taraba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Taraba"
+    ],
     "name:nld_x_preferred":[
         "Taraba"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1243002337,
-    "wof:lastmodified":1566639647,
+    "wof:lastmodified":1636495590,
     "wof:name":"Taraba",
     "wof:parent_id":1091710547,
     "wof:placetype":"locality",

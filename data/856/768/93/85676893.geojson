@@ -86,6 +86,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0932 \u091c\u091c\u093c\u0940\u0930\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Gezira"
+    ],
     "name:ind_x_preferred":[
         "Al Jazirah"
     ],
@@ -309,7 +312,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1636495579,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

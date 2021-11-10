@@ -93,6 +93,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u0926\u093e\u0930\u094d\u092b\u0941\u0930"
     ],
+    "name:hun_x_preferred":[
+        "\u00c9szak-Darfur"
+    ],
     "name:ind_x_preferred":[
         "Darfur Utara"
     ],
@@ -319,7 +322,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1636495577,
     "wof:name":"North Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

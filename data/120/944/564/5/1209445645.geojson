@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Buta"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Buta"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209445645,
-    "wof:lastmodified":1566639406,
+    "wof:lastmodified":1636495584,
     "wof:name":"Buta",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

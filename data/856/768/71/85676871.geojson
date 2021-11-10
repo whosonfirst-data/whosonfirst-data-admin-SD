@@ -83,8 +83,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0aa1\u0abe\u0ab0\u0acd\u0aab\u0ac1\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05e4\u05d5\u05e8 \u05d4\u05d3\u05e8\u05d5\u05de\u05d9\u05ea"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0926\u093e\u0930\u092b\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9l-Darfur"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0534\u0561\u0580\u0586\u0578\u0582\u0580"
@@ -250,7 +256,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896041,
+    "wof:lastmodified":1636495580,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

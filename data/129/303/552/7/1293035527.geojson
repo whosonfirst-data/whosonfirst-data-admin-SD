@@ -35,20 +35,74 @@
     "name:azb_x_preferred":[
         "\u0627\u0645 \u0631\u0648\u0627\u0628\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09ae\u09ae \u09b0\u09c1\u0993\u09df\u09be\u09ac\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Umm Ruwaba"
+    ],
+    "name:deu_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bc \u03a1\u03bf\u03c5\u03bc\u03c0\u03ac\u03b2\u03b1"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645 \u0631\u0648\u0627\u0628\u0647"
     ],
+    "name:fra_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05de\u05df \u05e8\u05d5\u05d5\u05d0\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u092e \u0930\u0935\u093e\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:ind_x_preferred":[
+        "Umm Ruwaba"
+    ],
     "name:ita_x_preferred":[
         "Umm Ruwaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3046\u30fc\u3093\u30eb\u30ef\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c \ub8e8\uc640\ubc14"
     ],
     "name:pol_x_preferred":[
         "Umm Ruwaba"
     ],
+    "name:por_x_preferred":[
+        "Umm Ruwaba"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043c\u043c-\u0420\u0443\u0432\u0430\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:swe_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:tur_x_preferred":[
+        "Umm Ruwaba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043c\u043c-\u0420\u0443\u0432\u0430\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u0631\u0648\u0627\u0628\u0627"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u59c6\u9c81\u74e6\u5df4"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u59c6\u9b6f\u74e6\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +127,7 @@
         }
     ],
     "wof:id":1293035527,
-    "wof:lastmodified":1566639204,
+    "wof:lastmodified":1636495581,
     "wof:name":"Umm Ruwaba",
     "wof:parent_id":1091707219,
     "wof:placetype":"locality",

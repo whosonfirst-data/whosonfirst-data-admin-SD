@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Mubi"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d1\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Mubi"
+    ],
     "name:pol_x_preferred":[
         "Mubi"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1226084603,
-    "wof:lastmodified":1566639882,
+    "wof:lastmodified":1636495592,
     "wof:name":"Mubi",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

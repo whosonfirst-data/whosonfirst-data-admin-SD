@@ -56,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0aa1\u0ac1\u0a95\u0acd\u0ab2\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d3\u05d5\u05d2\u05dc\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0926\u0941\u0915\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kadugli"
     ],
     "name:ind_x_preferred":[
         "Kaduqli"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":421189743,
-    "wof:lastmodified":1566639635,
+    "wof:lastmodified":1636495588,
     "wof:name":"Kadugli",
     "wof:parent_id":1091710321,
     "wof:placetype":"locality",

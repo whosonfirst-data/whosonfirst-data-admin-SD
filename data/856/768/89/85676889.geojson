@@ -198,6 +198,9 @@
         "Khartoum"
     ],
     "name:hun_x_preferred":[
+        "Khartoum"
+    ],
+    "name:hun_x_variant":[
         "Kart\u00fam"
     ],
     "name:hye_x_preferred":[
@@ -582,7 +585,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1636495579,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

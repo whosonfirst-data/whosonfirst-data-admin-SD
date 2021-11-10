@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Safi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e4\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Safi"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1326660861,
-    "wof:lastmodified":1566638983,
+    "wof:lastmodified":1636495575,
     "wof:name":"Safi",
     "wof:parent_id":1091708975,
     "wof:placetype":"locality",

@@ -61,8 +61,14 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0a82\u0aa1\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e0\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u0947\u0902\u0921\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Shendi"
     ],
     "name:ind_x_preferred":[
         "Shendi"
@@ -267,7 +273,7 @@
         }
     ],
     "wof:id":890440167,
-    "wof:lastmodified":1566639637,
+    "wof:lastmodified":1636495589,
     "wof:name":"Shendi",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

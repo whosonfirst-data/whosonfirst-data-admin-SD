@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "Ar Riy\u0101d"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09bf\u09df\u09be\u09a7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226376489,
-    "wof:lastmodified":1566639877,
+    "wof:lastmodified":1636495591,
     "wof:name":"Ar Riyad",
     "wof:parent_id":1091706611,
     "wof:placetype":"locality",

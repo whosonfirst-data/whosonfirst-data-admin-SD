@@ -47,6 +47,12 @@
     "name:fin_x_preferred":[
         "Xuddur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d3\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Hudur"
+    ],
     "name:ita_x_preferred":[
         "Oddur"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1243485667,
-    "wof:lastmodified":1566639681,
+    "wof:lastmodified":1636495590,
     "wof:name":"Hudur",
     "wof:parent_id":1091709399,
     "wof:placetype":"locality",

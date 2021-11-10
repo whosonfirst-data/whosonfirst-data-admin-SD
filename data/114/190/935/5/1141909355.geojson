@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"36.3900162341,15.45997235,36.3900162341,15.45997235",
+    "geom:bbox":"36.390016,15.459972,36.390016,15.459972",
     "geom:latitude":15.459972,
     "geom:longitude":36.390016,
     "iso:country":"SD",
@@ -76,6 +76,9 @@
         "\u0915\u0938\u093e\u0932\u093e"
     ],
     "name:hun_x_preferred":[
+        "Kassala"
+    ],
+    "name:hun_x_variant":[
         "Kaszala"
     ],
     "name:ind_x_preferred":[
@@ -267,7 +270,7 @@
     },
     "wof:country":"SD",
     "wof:created":1499131068,
-    "wof:geomhash":"847bfef0135cabb4c50239aa7b090643",
+    "wof:geomhash":"4bceee783eca5cc5a66bfb9da1e5eff9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":1141909355,
-    "wof:lastmodified":1566639894,
+    "wof:lastmodified":1636495592,
     "wof:name":"Kassala",
     "wof:parent_id":1091708105,
     "wof:placetype":"locality",
@@ -288,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.39001623408257,
-    15.45997235001312,
-    36.39001623408257,
-    15.45997235001312
+    36.390016,
+    15.459972,
+    36.390016,
+    15.459972
 ],
-  "geometry": {"coordinates":[36.39001623408257,15.45997235001312],"type":"Point"}
+  "geometry": {"coordinates":[36.390016,15.459972],"type":"Point"}
 }

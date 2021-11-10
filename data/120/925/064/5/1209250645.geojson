@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Salamat"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d0\u05de\u05d0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Salamat"
+    ],
     "name:ita_x_preferred":[
         "Salamat"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1209250645,
-    "wof:lastmodified":1566639355,
+    "wof:lastmodified":1636495583,
     "wof:name":"Salamat",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

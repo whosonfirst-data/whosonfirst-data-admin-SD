@@ -90,8 +90,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0ab0 \u0aa8\u0abe\u0a87\u0ab2"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d4\u05e8 \u05d4\u05e0\u05d9\u05dc\u05d5\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u0940\u0932 \u0928\u0926\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "River Nile"
     ],
     "name:ind_x_preferred":[
         "Sungai Nil"
@@ -316,7 +322,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1636495577,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

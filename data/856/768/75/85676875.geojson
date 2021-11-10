@@ -46,6 +46,12 @@
     "name:fra_x_preferred":[
         "East Darfur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05e4\u05d5\u05e8 \u05d4\u05de\u05d6\u05e8\u05d7\u05d9\u05ea"
+    ],
+    "name:hun_x_preferred":[
+        "Kelet-D\u00e1rf\u00far"
+    ],
     "qs:a0":"Sudan",
     "qs:a0_lc":"SD",
     "qs:a1":"Eastern Darfur",
@@ -108,7 +114,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1627522755,
+    "wof:lastmodified":1636495579,
     "wof:name":"Eastern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

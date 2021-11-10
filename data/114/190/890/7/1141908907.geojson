@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.7999979235,11.3333508493,27.7999979235,11.3333508493",
+    "geom:bbox":"27.799998,11.333351,27.799998,11.333351",
     "geom:latitude":11.333351,
     "geom:longitude":27.799998,
     "iso:country":"SD",
@@ -24,11 +24,44 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u0628\u0646\u0648\u0633\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09ac\u09be\u09a8\u09c1\u09b8\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Babanusa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0\u03ac\u03bd\u03bf\u03c5\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Babanusa"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0628\u0646\u0648\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Babanusa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d1\u05e0\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u092c\u093e\u0928\u0941\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Babanusa"
+    ],
+    "name:ind_x_preferred":[
+        "Babanusa"
+    ],
+    "name:ita_x_preferred":[
+        "Babanusa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d0\u30cc\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ubc14\ub204\uc0ac"
     ],
     "name:nld_x_preferred":[
         "Babanusa"
@@ -36,11 +69,29 @@
     "name:pol_x_preferred":[
         "Babanusa"
     ],
+    "name:por_x_preferred":[
+        "Babanusa"
+    ],
     "name:ron_x_preferred":[
         "Babanusa"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0431\u0430\u043d\u0443\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Babanusa"
+    ],
+    "name:swe_x_preferred":[
+        "Babanusa"
+    ],
+    "name:tur_x_preferred":[
+        "Babanusa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u043d\u0443\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u0646\u0648\u0633\u0627"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -151,7 +202,7 @@
     },
     "wof:country":"SD",
     "wof:created":1499130996,
-    "wof:geomhash":"7083a75fe44d1f73613d52e967c98a4c",
+    "wof:geomhash":"35b24281327643cbcba09405ac5ce19e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -169,7 +220,7 @@
         }
     ],
     "wof:id":1141908907,
-    "wof:lastmodified":1566639895,
+    "wof:lastmodified":1636495593,
     "wof:name":"Babanusa",
     "wof:parent_id":1091705807,
     "wof:placetype":"locality",
@@ -179,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.79999792350134,
-    11.33335084934572,
-    27.79999792350134,
-    11.33335084934572
+    27.799998,
+    11.333351,
+    27.799998,
+    11.333351
 ],
-  "geometry": {"coordinates":[27.79999792350134,11.33335084934572],"type":"Point"}
+  "geometry": {"coordinates":[27.799998,11.333351],"type":"Point"}
 }

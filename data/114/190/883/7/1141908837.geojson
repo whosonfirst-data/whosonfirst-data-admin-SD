@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.3800003649,14.0399815053,35.3800003649,14.0399815053",
+    "geom:bbox":"35.38,14.039982,35.38,14.039982",
     "geom:latitude":14.039982,
     "geom:longitude":35.38,
     "iso:country":"SD",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Gedaref"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
     "ne:ADM0_A3":"SDN",
@@ -124,7 +127,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1499130982,
-    "wof:geomhash":"c0f4525d34b75e007c1d5e59bc1257d5",
+    "wof:geomhash":"df073da17314528a649d21794d457193",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1141908837,
-    "wof:lastmodified":1566639895,
+    "wof:lastmodified":1636495592,
     "wof:name":"Gedaref",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.38000036493781,
-    14.03998150528088,
-    35.38000036493781,
-    14.03998150528088
+    35.38,
+    14.039982,
+    35.38,
+    14.039982
 ],
-  "geometry": {"coordinates":[35.38000036493781,14.03998150528088],"type":"Point"}
+  "geometry": {"coordinates":[35.38,14.039982],"type":"Point"}
 }

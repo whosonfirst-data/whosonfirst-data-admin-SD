@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0631"
     ],
+    "name:hun_x_preferred":[
+        "Al-Khawr"
+    ],
     "name:nld_x_preferred":[
         "Al Khawr"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243106087,
-    "wof:lastmodified":1566639737,
+    "wof:lastmodified":1636495590,
     "wof:name":"Al Khawr",
     "wof:parent_id":1091708695,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.2166979561,13.1832896107,30.2166979561,13.1832896107",
+    "geom:bbox":"30.216698,13.18329,30.216698,13.18329",
     "geom:latitude":13.18329,
     "geom:longitude":30.216698,
     "iso:country":"SD",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0913\u092c\u0947\u0926"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
     "ne:ADM0_A3":"SDN",
@@ -124,7 +127,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1499131039,
-    "wof:geomhash":"f5550576fe99daabee32e1b2f60c1b53",
+    "wof:geomhash":"b74feda8fb56c63e70c9810de9552ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1141909185,
-    "wof:lastmodified":1566639895,
+    "wof:lastmodified":1636495593,
     "wof:name":"El Obeid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.21669795606306,
-    13.18328961074621,
-    30.21669795606306,
-    13.18328961074621
+    30.216698,
+    13.18329,
+    30.216698,
+    13.18329
 ],
-  "geometry": {"coordinates":[30.21669795606306,13.18328961074621],"type":"Point"}
+  "geometry": {"coordinates":[30.216698,13.18329],"type":"Point"}
 }

@@ -81,8 +81,14 @@
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a95\u0abe\u0aa6\u0abe\u0ab0\u0ac0\u0aab"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05b6\u05d3\u05d0\u05e8\u05d9\u05e3"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0932 \u0915\u093e\u0926\u0930\u0940\u092b"
+    ],
+    "name:hun_x_preferred":[
+        "Gedarif"
     ],
     "name:ind_x_preferred":[
         "Al Qadarif"
@@ -307,7 +313,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896041,
+    "wof:lastmodified":1636495580,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

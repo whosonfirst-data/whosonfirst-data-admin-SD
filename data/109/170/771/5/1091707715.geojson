@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Al-Qadarif"
     ],
+    "name:hun_x_preferred":[
+        "Gedaref"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1091707715,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1636495586,
     "wof:name":"Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

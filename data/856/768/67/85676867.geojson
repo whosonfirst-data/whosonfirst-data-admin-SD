@@ -99,6 +99,9 @@
     "name:hin_x_preferred":[
         "\u0932\u093e\u0932 \u0938\u093e\u0917\u0930"
     ],
+    "name:hun_x_preferred":[
+        "V\u00f6r\u00f6s-tenger"
+    ],
     "name:ind_x_preferred":[
         "Laut Merah"
     ],
@@ -331,7 +334,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1614896040,
+    "wof:lastmodified":1636495578,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

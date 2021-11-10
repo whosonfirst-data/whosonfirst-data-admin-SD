@@ -86,6 +86,9 @@
     "name:hrv_x_preferred":[
         "Tauranga"
     ],
+    "name:hun_x_preferred":[
+        "Tauranga"
+    ],
     "name:ido_x_preferred":[
         "Tauranga"
     ],
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":1209251737,
-    "wof:lastmodified":1566639355,
+    "wof:lastmodified":1636495583,
     "wof:name":"Tauranga",
     "wof:parent_id":85632751,
     "wof:placetype":"locality",

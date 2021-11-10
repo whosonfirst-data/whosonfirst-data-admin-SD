@@ -78,6 +78,9 @@
         "\u0915\u0938\u093e\u0932\u093e"
     ],
     "name:hun_x_preferred":[
+        "Kassala"
+    ],
+    "name:hun_x_variant":[
         "Kaszala"
     ],
     "name:ind_x_preferred":[
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":421189759,
-    "wof:lastmodified":1582318342,
+    "wof:lastmodified":1636495588,
     "wof:name":"Kassala",
     "wof:parent_id":1091708105,
     "wof:placetype":"locality",
