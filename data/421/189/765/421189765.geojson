@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.4747735,12.901636,23.4747735,12.901636",
+    "geom:bbox":"23.474774,12.901636,23.474774,12.901636",
     "geom:latitude":12.901636,
     "geom:longitude":23.474774,
     "iso:country":"SD",
@@ -19,6 +19,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0627\u0644\u0646\u062c\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u0644\u0646\u062c\u0649"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09bf\u099e\u09cd\u099c\u09c7\u0987"
@@ -49,6 +52,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0ab2\u0abf\u0a82\u0a97\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05dc\u05d9\u05e0\u05d2\u05d9\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093f\u0932\u0947\u0928\u094d\u0917\u0947"
@@ -107,6 +113,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e25\u0e34\u0e19\u0e40\u0e01\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e25\u0e34\u0e19\u0e0d\u0e31\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Zalingei"
     ],
@@ -119,8 +128,14 @@
     "name:vie_x_preferred":[
         "Zalingei"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d6\u10d0\u10da\u10d8\u10dc\u10d2\u10d4\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u624e\u6797\u76d6"
+    ],
+    "name:zul_x_preferred":[
+        "Zalingei"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -156,7 +171,7 @@
     },
     "wof:country":"SD",
     "wof:created":1459009635,
-    "wof:geomhash":"5fe24be5205c3bd08fa26e25245e4628",
+    "wof:geomhash":"54b9d40db6f4b1b534fd35f9808c7c16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -167,7 +182,7 @@
         }
     ],
     "wof:id":421189765,
-    "wof:lastmodified":1566639634,
+    "wof:lastmodified":1690862913,
     "wof:name":"Zalingei",
     "wof:parent_id":1091709375,
     "wof:placetype":"locality",
@@ -177,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.4747735,
+    23.474774,
     12.901636,
-    23.4747735,
+    23.474774,
     12.901636
 ],
-  "geometry": {"coordinates":[23.4747735,12.901636],"type":"Point"}
+  "geometry": {"coordinates":[23.474774,12.901636],"type":"Point"}
 }

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0635\u064a\u0631\u0635"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0635\u064a\u0631\u0635"
+    ],
+    "name:ast_x_preferred":[
+        "Er Roseires"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0635\u06cc\u0631\u0635"
     ],
@@ -41,8 +47,17 @@
     "name:pol_x_preferred":[
         "Ar-Rusajris"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440-\u0420\u043e\u0441\u0435\u0439\u0440\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Ru\u1e63\u00eare\u1e63"
+    ],
+    "name:vie_x_preferred":[
+        "Er Roseires"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u8d5b\u96f7\u65af"
     ],
     "qs:gn_country":"SD",
     "qs:gn_fcode":"PPL",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":421183243,
-    "wof:lastmodified":1566639637,
+    "wof:lastmodified":1690862916,
     "wof:name":"Ar Rusayris",
     "wof:parent_id":1091706509,
     "wof:placetype":"locality",

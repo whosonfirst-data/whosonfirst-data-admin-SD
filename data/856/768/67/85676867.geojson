@@ -102,6 +102,9 @@
     "name:hun_x_preferred":[
         "V\u00f6r\u00f6s-tenger"
     ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0561\u0580\u0574\u056b\u0580 \u053e\u0578\u057e"
+    ],
     "name:ind_x_preferred":[
         "Laut Merah"
     ],
@@ -189,6 +192,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e41\u0e14\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e25\u0e1a\u0e30\u0e2b\u0e4c\u0e23\u0e38\u0e25\u0e2d\u0e30\u0e2b\u0e4c\u0e21\u0e31\u0e23"
+    ],
     "name:tur_x_preferred":[
         "K\u0131z\u0131l Deniz Eyaleti"
     ],
@@ -209,6 +215,12 @@
     ],
     "name:zho_x_preferred":[
         "\u7d05\u6d77\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u7d05\u6d77\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Red Sea"
     ],
     "ne:abbrev":"R. Sea",
     "ne:adm0_a3":"SDN",
@@ -334,7 +346,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495578,
+    "wof:lastmodified":1690862903,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

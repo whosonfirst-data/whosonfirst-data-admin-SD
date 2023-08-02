@@ -140,6 +140,9 @@
     "name:est_x_preferred":[
         "Hartum"
     ],
+    "name:est_x_variant":[
+        "Hartumi provints"
+    ],
     "name:eus_x_preferred":[
         "Khartum"
     ],
@@ -160,6 +163,9 @@
     ],
     "name:fra_x_preferred":[
         "Khartoum"
+    ],
+    "name:frr_x_preferred":[
+        "Chartuum"
     ],
     "name:fry_x_preferred":[
         "Kart\u00fbm"
@@ -204,6 +210,9 @@
         "Kart\u00fam"
     ],
     "name:hye_x_preferred":[
+        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
+    ],
+    "name:hyw_x_preferred":[
         "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
     ],
     "name:ido_x_preferred":[
@@ -300,6 +309,9 @@
     "name:nno_x_preferred":[
         "Khartoum"
     ],
+    "name:nno_x_variant":[
+        "Delstaten Khartoum"
+    ],
     "name:nob_x_preferred":[
         "Khartoum"
     ],
@@ -394,6 +406,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e17\u0e39\u0e21"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e04\u0e32\u0e23\u0e4c\u0e17\u0e39\u0e21"
+    ],
     "name:tur_x_preferred":[
         "Hartum"
     ],
@@ -450,10 +465,14 @@
     ],
     "name:zho_x_variant":[
         "\u5580\u58eb\u7a46",
-        "\u5580\u571f\u7a46\u7701"
+        "\u5580\u571f\u7a46\u7701",
+        "\u5580\u571f\u7a46\u5dde"
     ],
     "name:zho_yue_x_preferred":[
         "\u5580\u571f\u7a46"
+    ],
+    "name:zul_x_preferred":[
+        "Khartoum"
     ],
     "ne:abbrev":"Khart.",
     "ne:adm0_a3":"SDN",
@@ -585,7 +604,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495579,
+    "wof:lastmodified":1690862904,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

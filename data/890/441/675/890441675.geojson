@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0631\u0648\u0627\u0628\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u0631\u0648\u0627\u0628\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Umm Ruwaba"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645 \u0631\u0648\u0627\u0628\u0647"
     ],
@@ -97,11 +103,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0645 \u0631\u0648\u0627\u0628\u0627"
     ],
+    "name:vie_x_preferred":[
+        "Umm Ruwaba"
+    ],
     "name:zho_cn_x_preferred":[
         "\u4e4c\u59c6\u9c81\u74e6\u5df4"
     ],
     "name:zho_tw_x_preferred":[
         "\u70cf\u59c6\u9b6f\u74e6\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Umm Ruwaba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":890441675,
-    "wof:lastmodified":1636495589,
+    "wof:lastmodified":1690862918,
     "wof:name":"Umm Ruwaba",
     "wof:parent_id":1091708961,
     "wof:placetype":"locality",

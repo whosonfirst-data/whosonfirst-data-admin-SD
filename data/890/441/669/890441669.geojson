@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u062f\u0644\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0646\u062f\u0644\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Tandalti"
+    ],
     "name:ceb_x_preferred":[
         "Tandalt\u012b"
     ],
     "name:eng_x_preferred":[
         "Tandalti"
+    ],
+    "name:fra_x_preferred":[
+        "Tendelti"
     ],
     "name:nld_x_preferred":[
         "Tandalti"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890441669,
-    "wof:lastmodified":1566639639,
+    "wof:lastmodified":1690862920,
     "wof:name":"Tandalt\u012b",
     "wof:parent_id":1091708727,
     "wof:placetype":"locality",

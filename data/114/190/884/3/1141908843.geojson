@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0633\u062a\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0633\u062a\u06cc"
     ],
@@ -84,6 +87,9 @@
     "name:jpn_x_preferred":[
         "\u30af\u30fc\u30b9\u30c6\u30a3\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u30b3\u30b9\u30c6\u30a3\u30fc"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb8\u0ccd\u0c9f\u0cbf"
     ],
@@ -133,7 +139,7 @@
         "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf"
     ],
     "name:tam_x_variant":[
-        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf"
+        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf "
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c38\u0c4d\u0c24\u0c3f"
@@ -164,6 +170,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u65af\u63d0"
+    ],
+    "name:zul_x_preferred":[
+        "Kosti"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -298,7 +307,7 @@
         }
     ],
     "wof:id":1141908843,
-    "wof:lastmodified":1636495592,
+    "wof:lastmodified":1690862926,
     "wof:name":"Kosti",
     "wof:parent_id":1091707431,
     "wof:placetype":"locality",

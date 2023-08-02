@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0628\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0628\u0643"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ac\u09be\u0995"
     ],
@@ -124,6 +127,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e1a\u0e31\u0e04"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e23\u0e32\u0e30\u0e1a\u0e31\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Rabak"
     ],
@@ -142,8 +148,14 @@
     "name:war_x_preferred":[
         "Rabak"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d0\u10d1\u10d0\u10d9\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5df4\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Rabak"
     ],
     "qs:name":"Rabak",
     "qs:photos_9r":0,
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":890441677,
-    "wof:lastmodified":1566639639,
+    "wof:lastmodified":1690862920,
     "wof:name":"Rabak",
     "wof:parent_id":1091707753,
     "wof:placetype":"locality",

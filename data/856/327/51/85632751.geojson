@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0443\u0434\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Sudan"
     ],
@@ -46,8 +49,14 @@
     "name:amh_x_preferred":[
         "\u1231\u12f3\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Sudan"
+    ],
     "name:ang_x_preferred":[
         "Sudan"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u0942\u0921\u093e\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
@@ -63,6 +72,9 @@
     "name:arg_x_preferred":[
         "Sud\u00e1n"
     ],
+    "name:arq_x_preferred":[
+        "\u0633\u0648\u062f\u0627\u0646"
+    ],
     "name:ary_x_preferred":[
         "\u0633\u0648\u062f\u0627\u0646"
     ],
@@ -71,6 +83,9 @@
     ],
     "name:ast_x_preferred":[
         "Sud\u00e1n"
+    ],
+    "name:avk_x_preferred":[
+        "Sudana"
     ],
     "name:aym_x_preferred":[
         "Sudan"
@@ -110,6 +125,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0938\u0942\u0921\u093e\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Sudan"
     ],
     "name:bjn_x_preferred":[
         "Sudan"
@@ -173,6 +191,9 @@
     ],
     "name:cym_x_variant":[
         "Y Swdan",
+        "Sudan"
+    ],
+    "name:dag_x_preferred":[
         "Sudan"
     ],
     "name:dan_x_preferred":[
@@ -264,6 +285,9 @@
     "name:ful_x_preferred":[
         "Sudaan"
     ],
+    "name:ful_x_variant":[
+        "Sudan"
+    ],
     "name:gag_x_preferred":[
         "Sudan"
     ],
@@ -291,6 +315,9 @@
     "name:gom_x_preferred":[
         "\u0938\u0941\u0926\u093e\u0928"
     ],
+    "name:gpe_x_preferred":[
+        "Sudan"
+    ],
     "name:grn_x_preferred":[
         "Sudano"
     ],
@@ -299,6 +326,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0aa6\u0abe\u0aa8"
+    ],
+    "name:gur_x_preferred":[
+        "Sudan"
     ],
     "name:hak_x_preferred":[
         "Sudan"
@@ -335,6 +365,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u0564\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0578\u0582\u057f\u0561\u0576"
     ],
     "name:ibo_x_preferred":[
         "Sudan"
@@ -408,6 +441,9 @@
     "name:kbp_x_preferred":[
         "Sudaan\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Sudan"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17ca\u17bc\u178a\u1784\u17cb"
     ],
@@ -469,6 +505,9 @@
     "name:lit_x_preferred":[
         "Sudanas"
     ],
+    "name:lld_x_preferred":[
+        "Sudan"
+    ],
     "name:lmo_x_preferred":[
         "Sudan"
     ],
@@ -484,6 +523,9 @@
     "name:lzh_x_preferred":[
         "\u8607\u4e39"
     ],
+    "name:mad_x_preferred":[
+        "Sudan"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u0942\u0921\u093e\u0928"
     ],
@@ -496,6 +538,15 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0926\u093e\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0443\u0434\u0430\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Sudan"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
     ],
@@ -507,6 +558,9 @@
     ],
     "name:mlt_x_preferred":[
         "Sudan"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe8\uabd7\uabe5\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
@@ -679,11 +733,17 @@
     "name:sgs_x_preferred":[
         "Sudans"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1030\u1087\u1010\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd6\u0da9\u0dcf\u0db1\u0dba"
     ],
     "name:sin_x_variant":[
         "\u0dc3\u0dd4\u0da9\u0dcf\u0db1\u0dba"
+    ],
+    "name:skr_x_preferred":[
+        "\u0633\u0648\u0688\u0627\u0646"
     ],
     "name:slk_x_preferred":[
         "Sud\u00e1n"
@@ -694,8 +754,14 @@
     "name:sme_x_preferred":[
         "Sudan"
     ],
+    "name:smn_x_preferred":[
+        "Sudan"
+    ],
     "name:smo_x_preferred":[
         "Sudan"
+    ],
+    "name:sms_x_preferred":[
+        "Sudaan"
     ],
     "name:sna_x_preferred":[
         "Sudan"
@@ -778,8 +844,14 @@
     "name:tir_x_preferred":[
         "\u1231\u12f3\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Sutan"
+    ],
     "name:ton_x_preferred":[
         "S\u016bteni"
+    ],
+    "name:trv_x_preferred":[
+        "Sudan"
     ],
     "name:tso_x_preferred":[
         "Sudan"
@@ -787,7 +859,13 @@
     "name:tuk_x_preferred":[
         "Sudan"
     ],
+    "name:tum_x_preferred":[
+        "Sudan"
+    ],
     "name:tur_x_preferred":[
+        "Sudan"
+    ],
+    "name:twi_x_preferred":[
         "Sudan"
     ],
     "name:udm_x_preferred":[
@@ -821,6 +899,9 @@
     "name:vie_x_variant":[
         "Xu-\u0111\u0103ng",
         "Xu\u0111\u0103ng (Sudan)"
+    ],
+    "name:vls_x_preferred":[
+        "Soedan"
     ],
     "name:vol_x_preferred":[
         "Sud\u00e4n"
@@ -1107,7 +1188,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1618362158,
+    "wof:lastmodified":1690862907,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

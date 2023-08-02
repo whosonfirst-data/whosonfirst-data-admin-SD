@@ -53,6 +53,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09b2 \u09a8\u09a6"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c0\u09b2\u09a8\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043a\u0430 \u041d\u0438\u043b"
     ],
@@ -71,6 +74,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u039d\u03b5\u03af\u03bb\u03bf\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b1\u03c4\u03af\u03b4\u03b9\u03bf \u03c4\u03bf\u03c5 \u039d\u03b5\u03af\u03bb\u03bf\u03c5 \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Nahr an Nil"
     ],
@@ -81,11 +87,17 @@
     "name:epo_x_preferred":[
         "\u015ctato Nilo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f \u0646\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "River Nile"
     ],
     "name:fra_x_preferred":[
         "Nil"
+    ],
+    "name:frr_x_preferred":[
+        "Niil Struum"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0ab0 \u0aa8\u0abe\u0a87\u0ab2"
@@ -98,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "River Nile"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0565\u0572\u0578\u057d \u0563\u0565\u057f"
     ],
     "name:ind_x_preferred":[
         "Sungai Nil"
@@ -174,8 +189,14 @@
     "name:tel_x_preferred":[
         "\u0c30\u0c3f\u0c35\u0c30\u0c4d \u0c28\u0c48\u0c32\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0430\u04b3\u0440-\u0430\u043d-\u041d\u0438\u043b"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e44\u0e19\u0e25\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e19\u0e30\u0e2e\u0e4c\u0e23\u0e38\u0e19\u0e19\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Nil Nehri Eyaleti"
@@ -197,6 +218,12 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u7f85\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u7f57\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "River Nile"
     ],
     "ne:abbrev":"R. Nile",
     "ne:adm0_a3":"SDN",
@@ -322,7 +349,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495577,
+    "wof:lastmodified":1690862902,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

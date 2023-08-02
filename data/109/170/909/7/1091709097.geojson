@@ -43,13 +43,17 @@
     ],
     "name:eng_x_variant":[
         "Seteet",
-        "Al Fushqa"
+        "Al Fushqa",
+        "Seteet District"
     ],
     "name:fra_x_preferred":[
         "Wadi Halfa"
     ],
     "name:por_x_preferred":[
         "Seteet"
+    ],
+    "name:zul_x_preferred":[
+        "Seteet District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1091709097,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1690862910,
     "wof:name":"Wad El Helew",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

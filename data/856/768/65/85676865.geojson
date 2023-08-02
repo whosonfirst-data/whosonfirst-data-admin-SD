@@ -58,6 +58,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b2\u09c1 \u09a8\u09c0\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09a8-\u09a8\u09c0\u09b2 \u0986\u09b2-\u0986\u099c\u09b0\u09be\u0995"
+    ],
     "name:bos_x_preferred":[
         "Plavi Nil"
     ],
@@ -128,11 +131,17 @@
     "name:fra_x_preferred":[
         "Nil Bleu"
     ],
+    "name:frr_x_preferred":[
+        "Bl\u00e4 Niil"
+    ],
     "name:fry_x_preferred":[
         "Blauwe Nyl"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0ac1 \u0aa8\u0abe\u0a87\u0ab2"
+    ],
+    "name:hau_x_preferred":[
+        "Blue Nile"
     ],
     "name:hbs_x_preferred":[
         "Plavi Nil"
@@ -157,6 +166,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u057a\u0578\u0582\u0575\u057f \u0546\u0565\u0572\u0578\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0561\u057a\u0578\u0575\u057f \u0576\u0565\u0572\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Nil Biru"
@@ -299,6 +311,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e25\u0e39\u0e19\u0e32\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e19\u0e19\u0e35\u0e25\u0e38\u0e25\u0e2d\u0e31\u0e0b\u0e23\u0e47\u0e2d\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Mavi Nil"
     ],
@@ -333,10 +348,14 @@
         "\u9752\u5c3c\u7f57\u6cb3"
     ],
     "name:zho_x_variant":[
-        "\u9752\u5c3c\u7f57\u7701"
+        "\u9752\u5c3c\u7f57\u7701",
+        "\u9752\u5c3c\u7f57\u5dde"
     ],
     "name:zho_yue_x_preferred":[
         "\u85cd\u5c3c\u7f85\u6cb3"
+    ],
+    "name:zul_x_preferred":[
+        "Blue Nile"
     ],
     "ne:abbrev":"B. Nile",
     "ne:adm0_a3":"SDN",
@@ -465,7 +484,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495580,
+    "wof:lastmodified":1690862905,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u0642\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u0645\u0629 \u0627\u0644\u0628\u0644\u062f"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0646\u0642\u0644\u0647"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043d\u0433\u043e\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0430\u043d\u0433\u043e\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u0999\u09cd\u0997\u09b2\u09be"
@@ -65,8 +71,14 @@
     "name:fra_x_preferred":[
         "Dongola"
     ],
+    "name:gle_x_preferred":[
+        "Dongola"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a82\u0a97\u0acb\u0ab2\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05de\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0926\u094b\u0901\u0917\u094b\u0932\u093e"
@@ -143,6 +155,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e48\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e38\u0e19\u0e01\u0e38\u0e25\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Dongola"
     ],
@@ -158,8 +173,14 @@
     "name:war_x_preferred":[
         "Dongola"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d2\u10dd\u10da\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u68df\u53e4\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Dongola"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -306,7 +327,7 @@
         }
     ],
     "wof:id":421189753,
-    "wof:lastmodified":1582318342,
+    "wof:lastmodified":1690862913,
     "wof:name":"Dongola",
     "wof:parent_id":1091705759,
     "wof:placetype":"locality",

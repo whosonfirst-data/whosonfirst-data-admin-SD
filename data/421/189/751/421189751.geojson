@@ -23,8 +23,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0623\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u064a\u0636"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Ubayyid"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0627\u0628\u06cc\u0636"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-Ubeyd"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b2-\u0989\u09ac\u09be\u0987\u0988\u09a6"
@@ -68,6 +77,9 @@
     "name:fra_x_preferred":[
         "El Obeid"
     ],
+    "name:gle_x_preferred":[
+        "Al-Ubayyid"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2-\u0a89\u0aac\u0abe\u0aaf\u0abf\u0aa6"
     ],
@@ -77,8 +89,14 @@
     "name:hin_x_preferred":[
         "Al-\u0909\u092c\u092f\u094d\u092f\u0940\u0926"
     ],
+    "name:hin_x_variant":[
+        "\u0905\u0932 \u0913\u092c\u0947\u0926"
+    ],
     "name:hun_x_preferred":[
         "El-Obeid"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0555\u0562\u0565\u0575\u0564"
     ],
     "name:ind_x_preferred":[
         "Al-Ubayyid"
@@ -155,6 +173,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25 \u0e42\u0e2d\u0e40\u0e1a\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e2d\u0e31\u0e1a\u0e22\u0e31\u0e0e"
+    ],
     "name:tur_x_preferred":[
         "El-Ubeyd"
     ],
@@ -170,14 +191,23 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0627\u0628\u06cc\u0636"
     ],
+    "name:vec_x_preferred":[
+        "Al-Ubayyid"
+    ],
     "name:vie_x_preferred":[
         "Al-Ubayyid"
     ],
     "name:war_x_preferred":[
         "Al-Ubayyid"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10da-\u10dd\u10d1\u10d4\u10d8\u10d3\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u6b27\u62dc\u4f0a\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "El-Obeid"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -234,7 +264,7 @@
         }
     ],
     "wof:id":421189751,
-    "wof:lastmodified":1582318342,
+    "wof:lastmodified":1690862914,
     "wof:name":"Al Ubayyid",
     "wof:parent_id":1091710639,
     "wof:placetype":"locality",

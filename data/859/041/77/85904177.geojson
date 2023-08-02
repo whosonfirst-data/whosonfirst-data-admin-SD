@@ -51,8 +51,17 @@
     "name:eng_x_preferred":[
         "University of Khartoum"
     ],
+    "name:eus_x_preferred":[
+        "Khartumgo Unibertsitatea"
+    ],
+    "name:fin_x_preferred":[
+        "Khartumin yliopisto"
+    ],
     "name:fra_x_preferred":[
         "Universit\u00e9 de Khartoum"
+    ],
+    "name:gle_x_preferred":[
+        "Ollscoil Khartoum"
     ],
     "name:hbs_x_preferred":[
         "University of Khartoum"
@@ -60,11 +69,17 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05d7'\u05e8\u05d8\u05d5\u05dd"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574\u056b \u0570\u0561\u0574\u0561\u056c\u057d\u0561\u0580\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Universitas Khartoum"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30eb\u30c4\u30fc\u30e0\u5927\u5b66"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub974\ud23c \ub300\ud559\uad50"
     ],
     "name:lat_x_preferred":[
         "Universitas Khartumensis"
@@ -84,8 +99,17 @@
     "name:swe_x_preferred":[
         "Khartoums universitet"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u0448\u0433\u043e\u04b3\u0438 \u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
     "name:tgl_x_preferred":[
         "Unibersidad ng Khartoum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u0443\u043c\u0441\u044c\u043a\u0438\u0439 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u06c1 \u062e\u0631\u0637\u0648\u0645"
     ],
     "name:zho_x_preferred":[
         "\u5580\u571f\u6728\u5927\u5b78"
@@ -149,7 +173,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582318327,
+    "wof:lastmodified":1690862900,
     "wof:name":"University of Khartoum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
