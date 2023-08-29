@@ -33,7 +33,11 @@
         "\u062c\u0646\u0648\u0628 \u062f\u0627\u0631\u0641\u0648\u0631"
     ],
     "name:ara_x_variant":[
-        "\u00a0\u0648\u0644\u0627\u064a\u0629 \u062c\u0646\u0648\u0628 \u062f\u0627\u0631\u0641\u0648\u0631"
+        "\u00a0\u0648\u0644\u0627\u064a\u0629 \u062c\u0646\u0648\u0628 \u062f\u0627\u0631\u0641\u0648\u0631",
+        "\u0648\u0644\u0627\u064a\u0629 \u062c\u0646\u0648\u0628 \u062f\u0627\u0631\u0641\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062c\u0646\u0648\u0628 \u062f\u0627\u0631\u0641\u0648\u0631"
     ],
     "name:azb_x_preferred":[
         "\u06af\u0648\u0646\u0626\u06cc \u062f\u0627\u0631\u0641\u0648\u0631"
@@ -71,6 +75,9 @@
     "name:eng_x_variant":[
         "South Darfur"
     ],
+    "name:epo_x_preferred":[
+        "Suda Darfuro"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0631\u0641\u0648\u0631 \u062c\u0646\u0648\u0628\u06cc"
     ],
@@ -79,6 +86,9 @@
     ],
     "name:fra_x_preferred":[
         "Darfour du Sud"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcd Daarfuur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0aa1\u0abe\u0ab0\u0acd\u0aab\u0ac1\u0ab0"
@@ -94,6 +104,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0534\u0561\u0580\u0586\u0578\u0582\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u0582\u0561\u0575\u056b\u0576 \u054f\u0561\u0580\u0586\u0578\u0582\u0580"
     ],
     "name:ind_x_preferred":[
         "Darfur Selatan"
@@ -170,6 +183,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e32\u0e17\u0e4c \u0e14\u0e32\u0e23\u0e4c\u0e1f\u0e39\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e0d\u0e30\u0e19\u0e39\u0e1a\u0e14\u0e32\u0e23\u0e1f\u0e39\u0e23"
+    ],
     "name:tur_x_preferred":[
         "G\u00fcney Darfur Eyaleti"
     ],
@@ -190,6 +206,9 @@
     ],
     "name:zho_x_variant":[
         "\u5357\u8fbe\u5c14\u5bcc\u5c14\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "South Darfur"
     ],
     "qs:a0":"Sudan",
     "qs:a0_lc":"SD",
@@ -256,7 +275,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495580,
+    "wof:lastmodified":1690862906,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

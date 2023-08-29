@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0643\u0633\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0633\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kassala"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0633\u0644\u0627"
     ],
@@ -68,6 +74,9 @@
     "name:fra_x_preferred":[
         "Kassala"
     ],
+    "name:gle_x_preferred":[
+        "Kassala"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0ab2\u0abe"
     ],
@@ -82,6 +91,9 @@
     ],
     "name:hun_x_variant":[
         "Kaszala"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u0561\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Kassala"
@@ -152,6 +164,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e0b\u0e32\u0e25\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e31\u0e2a\u0e0b\u0e30\u0e25\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Kassala"
     ],
@@ -161,14 +176,23 @@
     "name:urd_x_preferred":[
         "\u06a9\u0633\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Cassala"
+    ],
     "name:vie_x_preferred":[
         "Kassala"
     ],
     "name:war_x_preferred":[
         "Kassala"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10d0\u10da\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u85a9\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Kassala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -321,7 +345,7 @@
         }
     ],
     "wof:id":421189759,
-    "wof:lastmodified":1636495588,
+    "wof:lastmodified":1690862914,
     "wof:name":"Kassala",
     "wof:parent_id":1091708105,
     "wof:placetype":"locality",

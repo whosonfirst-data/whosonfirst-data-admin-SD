@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0637\u0628\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0637\u0628\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Atbarah"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0637\u0628\u0631\u0647"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "Atbara"
+    ],
+    "name:gle_x_preferred":[
+        "Atbarah"
     ],
     "name:glg_x_preferred":[
         "Atbara"
@@ -153,6 +162,9 @@
     "name:urd_x_preferred":[
         "\u0639\u0637\u0628\u0631\u06c1"
     ],
+    "name:vec_x_preferred":[
+        "Atbara"
+    ],
     "name:vie_x_preferred":[
         "S\u00f4ng Atbara"
     ],
@@ -161,6 +173,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u7279\u5df4\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Atbara"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -295,7 +310,7 @@
         }
     ],
     "wof:id":1141908839,
-    "wof:lastmodified":1636495592,
+    "wof:lastmodified":1690862926,
     "wof:name":"Atbara",
     "wof:parent_id":1091709911,
     "wof:placetype":"locality",

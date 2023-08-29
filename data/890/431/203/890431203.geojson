@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0648\u062f \u0645\u062f\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u062f \u0645\u062f\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Wad Madani"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u0434-\u041c\u0435\u0434\u0430\u043d\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09be\u09a6 \u09ae\u09be\u09a6\u09be\u09a8\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Wad Madan\u012b"
     ],
     "name:ceb_x_preferred":[
         "Wad Medani"
@@ -66,6 +78,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0aa1 \u0aae\u0aa6\u0aa8\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05d3 \u05de\u05d3\u05d0\u05e0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0926 \u092e\u0926\u093e\u0928\u0940"
@@ -136,6 +151,9 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e32\u0e14\u0e40\u0e21\u0e14\u0e32\u0e19\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e27\u0e31\u0e14\u0e21\u0e30\u0e14\u0e30\u0e19\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Vad Medeni"
     ],
@@ -154,8 +172,14 @@
     "name:war_x_preferred":[
         "Wad Madani"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10d0\u10d3-\u10db\u10d4\u10d3\u10d0\u10dc\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u74e6\u5fb7\u8fc8\u8fbe\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Wad Madani"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sudan",
@@ -284,7 +308,7 @@
         }
     ],
     "wof:id":890431203,
-    "wof:lastmodified":1566639641,
+    "wof:lastmodified":1690862922,
     "wof:name":"Wad Medani",
     "wof:parent_id":1091706877,
     "wof:placetype":"locality",

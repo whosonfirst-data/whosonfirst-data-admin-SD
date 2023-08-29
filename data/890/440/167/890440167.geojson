@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0646\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0646\u062f\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0646\u062f\u06cc"
     ],
@@ -146,6 +149,9 @@
         "\u0634\u0646\u062f\u06cc"
     ],
     "name:vie_x_preferred":[
+        "Shendi"
+    ],
+    "name:zul_x_preferred":[
         "Shendi"
     ],
     "ne:ADM0CAP":0.0,
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":890440167,
-    "wof:lastmodified":1636495589,
+    "wof:lastmodified":1690862917,
     "wof:name":"Shendi",
     "wof:parent_id":1091710595,
     "wof:placetype":"locality",

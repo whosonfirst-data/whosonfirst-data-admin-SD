@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "Bara"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "B\u0101ra"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890431255,
-    "wof:lastmodified":1566639642,
+    "wof:lastmodified":1690862923,
     "wof:name":"B\u0101rah",
     "wof:parent_id":1091709813,
     "wof:placetype":"locality",

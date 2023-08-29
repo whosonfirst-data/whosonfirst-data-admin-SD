@@ -36,6 +36,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0636\u0627\u0631\u0641",
         "\u00a0\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0636\u0627\u0631\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
@@ -69,6 +72,9 @@
         "Gedarif",
         "Al Qadarif"
     ],
+    "name:epo_x_preferred":[
+        "Gedaref"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
@@ -77,6 +83,9 @@
     ],
     "name:fra_x_preferred":[
         "Al Qadarif"
+    ],
+    "name:frr_x_preferred":[
+        "Al-Qadaarif"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a95\u0abe\u0aa6\u0abe\u0ab0\u0ac0\u0aab"
@@ -89,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Gedarif"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056c \u0554\u0561\u057f\u0561\u0580\u056b\u0586"
     ],
     "name:ind_x_preferred":[
         "Al Qadarif"
@@ -168,6 +180,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e04\u0e32\u0e14\u0e32\u0e23\u0e34\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e25\u0e40\u0e01\u0e32\u0e30\u0e0e\u0e2d\u0e23\u0e34\u0e1f"
+    ],
     "name:tur_x_preferred":[
         "El Kadarif Eyaleti"
     ],
@@ -188,6 +203,12 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u8fbe\u91cc\u592b\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u8fbe\u91cc\u592b\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Al Qadarif"
     ],
     "ne:abbrev":"Ged.",
     "ne:adm0_a3":"SDN",
@@ -313,7 +334,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495580,
+    "wof:lastmodified":1690862905,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

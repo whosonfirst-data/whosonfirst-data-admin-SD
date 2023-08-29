@@ -39,6 +39,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
     ],
+    "name:arg_x_preferred":[
+        "Khartum"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u062e\u0631\u0637\u0648\u0645"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
     ],
@@ -48,11 +54,20 @@
     "name:ast_x_variant":[
         "\u1e24artum"
     ],
+    "name:avk_x_preferred":[
+        "Khartoum"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
     ],
     "name:aze_x_preferred":[
         "Xartum"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
+    "name:ban_x_preferred":[
+        "Khartoum"
     ],
     "name:bcl_x_preferred":[
         "Khartoum"
@@ -162,6 +177,9 @@
     "name:fry_x_preferred":[
         "Kart\u00fbm"
     ],
+    "name:ful_x_preferred":[
+        "Khartoum"
+    ],
     "name:gla_x_preferred":[
         "Khartoum"
     ],
@@ -219,6 +237,9 @@
     "name:ile_x_preferred":[
         "Cartum"
     ],
+    "name:ina_x_preferred":[
+        "Khartum"
+    ],
     "name:ind_x_preferred":[
         "Khartoum"
     ],
@@ -245,6 +266,9 @@
     ],
     "name:kbp_x_preferred":[
         "Kaartum"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17b6\u1791\u17bc\u1798"
     ],
     "name:kir_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
@@ -282,10 +306,16 @@
     "name:mar_x_preferred":[
         "\u0916\u093e\u0930\u094d\u091f\u0942\u092e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043c"
     ],
     "name:mlg_x_preferred":[
+        "Khartoum"
+    ],
+    "name:mlt_x_preferred":[
         "Khartoum"
     ],
     "name:mon_x_preferred":[
@@ -300,11 +330,17 @@
     "name:mya_x_preferred":[
         "\u1001\u102b\u1010\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:mzn_x_preferred":[
+        "\u062e\u0631\u0637\u0648\u0645"
+    ],
     "name:nah_x_preferred":[
         "Cartun"
     ],
     "name:nan_x_preferred":[
         "Khartoum"
+    ],
+    "name:nav_x_preferred":[
+        "Ahidiil\u00edinii"
     ],
     "name:nds_x_preferred":[
         "Khartum"
@@ -326,6 +362,9 @@
     ],
     "name:oci_x_preferred":[
         "Khartom"
+    ],
+    "name:olo_x_preferred":[
+        "Hartum"
     ],
     "name:orm_x_preferred":[
         "Kaartum"
@@ -357,6 +396,9 @@
     "name:pus_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
     ],
+    "name:que_x_preferred":[
+        "Khartum"
+    ],
     "name:ron_x_preferred":[
         "Khartoum"
     ],
@@ -381,6 +423,9 @@
     "name:slv_x_preferred":[
         "Kartum"
     ],
+    "name:smn_x_preferred":[
+        "Khartum"
+    ],
     "name:sna_x_preferred":[
         "Khartoum"
     ],
@@ -392,6 +437,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kartum"
+    ],
+    "name:srd_x_preferred":[
+        "Khartum"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043c"
@@ -485,6 +533,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5580\u571f\u7a46"
+    ],
+    "name:zul_x_preferred":[
+        "Khartoum"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Sudan",
@@ -627,7 +678,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1636495589,
+    "wof:lastmodified":1690862919,
     "wof:megacity":1,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,

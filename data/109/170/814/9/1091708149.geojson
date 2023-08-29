@@ -43,13 +43,17 @@
     ],
     "name:eng_x_variant":[
         "Seteet",
-        "Al Fushqa"
+        "Al Fushqa",
+        "Seteet District"
     ],
     "name:fra_x_preferred":[
         "Kassala Rural"
     ],
     "name:por_x_preferred":[
         "Seteet"
+    ],
+    "name:zul_x_preferred":[
+        "Seteet District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1091708149,
-    "wof:lastmodified":1627522757,
+    "wof:lastmodified":1690862911,
     "wof:name":"Rural Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Al Qadarif"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0642\u0636\u0627\u0631\u0641"
     ],
@@ -134,6 +140,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e01\u0e32\u0e14\u0e32\u0e23\u0e34\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e40\u0e01\u0e32\u0e30\u0e0e\u0e2d\u0e23\u0e34\u0e1f"
+    ],
     "name:tur_x_preferred":[
         "El Gadarif"
     ],
@@ -149,8 +158,14 @@
     "name:war_x_preferred":[
         "Al Qadarif"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10da-\u10e7\u10d0\u10d3\u10d0\u10e0\u10d8\u10e4\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u52a0\u8fbe\u91cc\u592b"
+    ],
+    "name:zul_x_preferred":[
+        "El-Gadarif"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -197,7 +212,7 @@
         }
     ],
     "wof:id":421189747,
-    "wof:lastmodified":1566639635,
+    "wof:lastmodified":1690862914,
     "wof:name":"Al Qadarif",
     "wof:parent_id":1091707669,
     "wof:placetype":"locality",

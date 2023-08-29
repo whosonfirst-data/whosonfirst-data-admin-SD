@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0648\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b0\u0993\u09af\u09bc\u09c7"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Merowe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Merowe"
@@ -122,6 +128,12 @@
         "\u0645\u0631\u0648\u0648\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Merowe"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea6\u7f57\u7ef4"
+    ],
+    "name:zul_x_preferred":[
         "Merowe"
     ],
     "ne:ADM0CAP":0.0,
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":890443217,
-    "wof:lastmodified":1566639642,
+    "wof:lastmodified":1690862923,
     "wof:name":"Maraw\u012b",
     "wof:parent_id":1091710471,
     "wof:placetype":"locality",
