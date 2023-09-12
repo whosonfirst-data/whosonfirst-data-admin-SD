@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253923,
-    "geom:area_square_m":3038372494.546497,
+    "geom:area_square_m":3038372049.49545,
     "geom:bbox":"31.573415,14.251879,32.261317,14.969149",
     "geom:latitude":14.602628,
     "geom:longitude":31.926931,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Umm Ramtta County"
+        "Um Rimta District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.57744,
     "lbl:longitude":31.955533,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880127,
-    "wof:geomhash":"fb67d2fbf08b04962af526dff7cb4c1b",
+    "wof:geomhash":"28ae6ba7f3696e93a3e6110f5c0e1e74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091709051,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Umm Ramtta",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

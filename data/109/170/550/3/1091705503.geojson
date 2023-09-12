@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.79414,
-    "geom:area_square_m":9654160649.781895,
+    "geom:area_square_m":9654160042.135796,
     "geom:bbox":"33.524373,9.499999,34.618993,11.292769",
     "geom:latitude":10.526038,
     "geom:longitude":34.112953,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Kurmuk County"
+        "Elkurmuk District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":10.485379,
     "lbl:longitude":34.021854,
@@ -65,10 +65,12 @@
         85676865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SD.BN.EK"
+    },
     "wof:country":"SD",
     "wof:created":1473879955,
-    "wof:geomhash":"a18741efb2aac5983bebeaba8774e456",
+    "wof:geomhash":"bbc4c8f9cc687efcf0c5cac07b1af90a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1091705503,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"El Kurmuk",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

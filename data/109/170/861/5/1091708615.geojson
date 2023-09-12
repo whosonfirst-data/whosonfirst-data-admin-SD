@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142675,
-    "geom:area_square_m":1718018657.336308,
+    "geom:area_square_m":1718018657.336488,
     "geom:bbox":"33.5450818739,12.8561949661,33.9712652072,13.395831866",
     "geom:latitude":13.138214,
     "geom:longitude":33.74107,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Singa County"
+        "Sinja District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.141908,
     "lbl:longitude":33.766451,
@@ -90,7 +90,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880103,
-    "wof:geomhash":"fdb3d5dfa003095a327583e4c39342b3",
+    "wof:geomhash":"998a88fbeff14dcab843cd5e4cb1fed1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1091708615,
-    "wof:lastmodified":1566639584,
+    "wof:lastmodified":1694492395,
     "wof:name":"Singa",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

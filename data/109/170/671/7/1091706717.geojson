@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243851,
-    "geom:area_square_m":2957356990.048513,
+    "geom:area_square_m":2957356990.048493,
     "geom:bbox":"24.8491677149,10.9577101432,25.5503873031,11.5673323945",
     "geom:latitude":11.246679,
     "geom:longitude":25.195812,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Gereida District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.27582,
     "lbl:longitude":25.190474,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Gereida"
+    ],
+    "name:eng_x_preferred":[
         "Gereida"
     ],
     "name:eng_x_variant":[
@@ -55,7 +64,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880012,
-    "wof:geomhash":"c7e1b48fd5b95c4f25eadd12b6da8ebf",
+    "wof:geomhash":"769143298a4578e9859186d6083767a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1091706717,
-    "wof:lastmodified":1566639593,
+    "wof:lastmodified":1694492395,
     "wof:name":"Gereida",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512865,
-    "geom:area_square_m":6177909118.319258,
+    "geom:area_square_m":6177908829.700934,
     "geom:bbox":"23.185131,12.521964,23.889071,13.557274",
     "geom:latitude":13.046639,
     "geom:longitude":23.537529,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Zalingei County"
+        "Zalingei District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.045533,
     "lbl:longitude":23.544148,
@@ -87,7 +87,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880138,
-    "wof:geomhash":"7ff501ec93e3a119ae8817f0e25f007b",
+    "wof:geomhash":"28b398040fa21ca62b5dbeb3be18b812",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1091709375,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492794,
     "wof:name":"Zalingei",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

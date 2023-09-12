@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":157.355791,
-    "geom:area_square_m":1855601452927.07666,
+    "geom:area_square_m":1866062201521.377441,
     "geom:bbox":"21.814939,9.347221,38.842945,23.188805",
     "geom:latitude":16.10401,
     "geom:longitude":30.047675,
@@ -14,6 +14,9 @@
     "iso:country":"SD",
     "itu:country_code":[
         "249"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SD"
@@ -1115,7 +1118,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"249",
     "statoids:ds":"SUD",
     "statoids:fifa":"SUD",
@@ -1172,7 +1176,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"977cee6b36128e9f0558b2bbceaf51ef",
+    "wof:geomhash":"6fd3fdf23838a6317ecc38aef0059e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1188,12 +1192,12 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862907,
+    "wof:lastmodified":1694492142,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":35000000,
-    "wof:population_rank":15,
+    "wof:population":42813238,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sd",
     "wof:shortcode":"SD",
     "wof:superseded_by":[],

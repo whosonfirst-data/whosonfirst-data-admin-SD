@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072461,
-    "geom:area_square_m":879223607.741826,
+    "geom:area_square_m":879223661.912467,
     "geom:bbox":"24.508815,10.956823,24.927688,11.240185",
     "geom:latitude":11.104036,
     "geom:longitude":24.727064,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Tullus County"
+        "Tullus District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.109101,
     "lbl:longitude":24.772938,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880114,
-    "wof:geomhash":"b50084966ce7eaf004a6677c809303ad",
+    "wof:geomhash":"f0b847a7341f050b790aac27d3473450",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708779,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Tullus",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

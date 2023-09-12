@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.573996,
-    "geom:area_square_m":6880280477.998427,
+    "geom:area_square_m":6880281124.051503,
     "geom:bbox":"32.351211,13.562893,33.256278,14.793623",
     "geom:latitude":14.211683,
     "geom:longitude":32.799369,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Manageel County"
+        "El Managil District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.220077,
     "lbl:longitude":32.792461,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880067,
-    "wof:geomhash":"3fb9510a7ebabd59a7997c4fdcdbb198",
+    "wof:geomhash":"6571059a879447fb6e35ea5483c88df9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091707779,
-    "wof:lastmodified":1627522756,
+    "wof:lastmodified":1694492792,
     "wof:name":"El Manageel",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

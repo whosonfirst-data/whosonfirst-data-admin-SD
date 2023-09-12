@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199214,
-    "geom:area_square_m":2373560087.812206,
+    "geom:area_square_m":2373560178.737635,
     "geom:bbox":"35.287555,15.124448,35.785642,15.898252",
     "geom:latitude":15.513749,
     "geom:longitude":35.515597,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Halfa El Jadeeda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.502126,
     "lbl:longitude":35.498656,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Halfa El Jadeeda"
+    ],
     "name:eng_x_variant":[
         "Nahr Atbara"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880174,
-    "wof:geomhash":"7da5e2664d680f566c0fbbd57ceec24e",
+    "wof:geomhash":"1c3fdde2be0011947209ec874e74c14c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091710227,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Halfa El Jadeeda",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

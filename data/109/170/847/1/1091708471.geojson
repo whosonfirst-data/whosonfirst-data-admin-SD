@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26325,
-    "geom:area_square_m":3186795105.06713,
+    "geom:area_square_m":3186795126.738967,
     "geom:bbox":"23.711667,11.333615,24.204537,12.150891",
     "geom:latitude":11.759628,
     "geom:longitude":23.942168,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Kubum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.766609,
     "lbl:longitude":23.912911,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kubum"
+    ],
     "name:eng_x_variant":[
         "Edd al Fursan",
         "Id El Ghanem"
@@ -47,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880099,
-    "wof:geomhash":"64946f04d29843c40dd57b9fb148151e",
+    "wof:geomhash":"b30b819a08473ca4e3ba8ffc1380956e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091708471,
-    "wof:lastmodified":1628266670,
+    "wof:lastmodified":1694492858,
     "wof:name":"Kubum",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

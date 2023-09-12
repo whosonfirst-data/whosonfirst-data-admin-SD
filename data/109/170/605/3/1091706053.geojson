@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42218,
-    "geom:area_square_m":5112434182.904443,
+    "geom:area_square_m":5112434182.904263,
     "geom:bbox":"25.549837992,11.248083537,26.6983876309,12.2143557307",
     "geom:latitude":11.667599,
     "geom:longitude":26.078431,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Ed Daein County"
+        "Ed Daein District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.664528,
     "lbl:longitude":26.12589,
@@ -102,7 +102,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879980,
-    "wof:geomhash":"c4468dcba54c766d8bf1c4bd42a1b5fd",
+    "wof:geomhash":"e384129cda1223591b6b14fa88c7deb7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1091706053,
-    "wof:lastmodified":1566639585,
+    "wof:lastmodified":1694492395,
     "wof:name":"Ed Daein",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

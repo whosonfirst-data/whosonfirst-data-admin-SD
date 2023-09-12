@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.634843,
-    "geom:area_square_m":7673485494.208838,
+    "geom:area_square_m":7673485546.984648,
     "geom:bbox":"31.026246,11.705031,32.152916,12.645903",
     "geom:latitude":12.169548,
     "geom:longitude":31.519829,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Abassiya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.161968,
     "lbl:longitude":31.509263,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Abassiya"
+    ],
     "name:eng_x_variant":[
         "Rashad"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880169,
-    "wof:geomhash":"2f78e9ff6d9af2e07ec95be86c61dd96",
+    "wof:geomhash":"05abf1bf82f3b33a509cbd55a203d914",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091710069,
-    "wof:lastmodified":1628266646,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Abassiya",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

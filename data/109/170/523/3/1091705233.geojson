@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.4171,
-    "geom:area_square_m":51284365929.851517,
+    "geom:area_square_m":51284365534.425194,
     "geom:bbox":"32.257402,18.401918,34.031968,22.000004",
     "geom:latitude":20.098176,
     "geom:longitude":32.998153,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Abu Hamed County"
+        "Abu Hamed District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":20.088375,
     "lbl:longitude":32.981461,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879945,
-    "wof:geomhash":"ba82b8d6ba9b3b2bf13f54b43d7505e5",
+    "wof:geomhash":"2e1e95f6e56f8d1c6dcc621bc744bfd0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091705233,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1694492789,
     "wof:name":"Abu Hamed",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

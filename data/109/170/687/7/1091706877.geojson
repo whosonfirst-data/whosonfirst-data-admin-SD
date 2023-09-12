@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048594,
-    "geom:area_square_m":582174199.305577,
+    "geom:area_square_m":582173778.723326,
     "geom:bbox":"33.435753,14.072302,33.77537,14.585501",
     "geom:latitude":14.332425,
     "geom:longitude":33.608554,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Greater Wad Madani County"
+        "Wad Madni Alk Obra District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.404992,
     "lbl:longitude":33.577651,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880018,
-    "wof:geomhash":"c1afcca3c5cc70222e545f8705da90e9",
+    "wof:geomhash":"60789bd15d5633656ef74c75892c6237",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091706877,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Greater Wad Madani",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384594,
-    "geom:area_square_m":4672056823.219411,
+    "geom:area_square_m":4672056608.93574,
     "geom:bbox":"25.106441,10.372796,25.928409,11.165172",
     "geom:latitude":10.75192,
     "geom:longitude":25.527978,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sunta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.750398,
     "lbl:longitude":25.520258,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sunta"
+    ],
     "name:eng_x_variant":[
         "Buram"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880108,
-    "wof:geomhash":"a09b407348e63d5e97be34da829fa1b1",
+    "wof:geomhash":"1a209444a8b55c7f1f4786d9122b3345",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091708723,
-    "wof:lastmodified":1628266721,
+    "wof:lastmodified":1694492887,
     "wof:name":"Sunta",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

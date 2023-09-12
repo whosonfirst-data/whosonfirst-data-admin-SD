@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404072,
-    "geom:area_square_m":4899732147.807272,
+    "geom:area_square_m":4899732256.574885,
     "geom:bbox":"28.638432,10.996578,29.479589,11.63641",
     "geom:latitude":11.2894,
     "geom:longitude":29.05751,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Lagawa County"
+        "Lagawa District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.273707,
     "lbl:longitude":29.065503,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880053,
-    "wof:geomhash":"f982c9149bd74fa1306ad7f2328b1925",
+    "wof:geomhash":"ceddce29b5fe10360fa7673030fa979d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091707523,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Lagawa",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

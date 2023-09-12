@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.933839,
-    "geom:area_square_m":82669628048.266129,
+    "geom:area_square_m":82669626691.153946,
     "geom:bbox":"26.958799,13.814945,30.916409,16.532475",
     "geom:latitude":15.357693,
     "geom:longitude":28.494295,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Sodari County"
+        "Sodri District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.263646,
     "lbl:longitude":28.296441,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880124,
-    "wof:geomhash":"ca312ba5d3d7b7a06ea8ded709f10167",
+    "wof:geomhash":"8661ec88bb962be5f86b0579b0ecaa55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708975,
-    "wof:lastmodified":1627522759,
+    "wof:lastmodified":1694492793,
     "wof:name":"Sodari",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

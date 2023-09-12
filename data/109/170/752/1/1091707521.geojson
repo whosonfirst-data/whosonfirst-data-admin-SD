@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.173751,
-    "geom:area_square_m":14050098411.826155,
+    "geom:area_square_m":14050098561.05916,
     "geom:bbox":"23.949778,13.799228,25.286206,15.191665",
     "geom:latitude":14.515816,
     "geom:longitude":24.700585,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Kutum County"
+        "Kutum District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.451037,
     "lbl:longitude":24.713278,
@@ -93,7 +93,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880052,
-    "wof:geomhash":"b31faa8c77d453523a8487c639733eaa",
+    "wof:geomhash":"f9fb0d120c4bfee33ba285ff092acd47",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1091707521,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Kutum",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

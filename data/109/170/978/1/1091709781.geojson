@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663967,
-    "geom:area_square_m":8040388104.245803,
+    "geom:area_square_m":8040388296.543328,
     "geom:bbox":"33.136397,10.943881,34.220185,12.22522",
     "geom:latitude":11.666553,
     "geom:longitude":33.641518,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Al Tadamon County"
+        "Al Tdamon District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.719051,
     "lbl:longitude":33.649763,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880158,
-    "wof:geomhash":"50eca42ecc995e2d599df4dcbb06d831",
+    "wof:geomhash":"b5a392af98f3dbe8e3167ec9b974aa34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091709781,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"Al Tadamon",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

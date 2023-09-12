@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231447,
-    "geom:area_square_m":2784429571.190506,
+    "geom:area_square_m":2784429505.105195,
     "geom:bbox":"22.072613,12.953997,22.596194,13.797675",
     "geom:latitude":13.359364,
     "geom:longitude":22.350977,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Geneina County"
+        "El Geneina District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.51824,
     "lbl:longitude":22.368789,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879953,
-    "wof:geomhash":"a3aff5abe6fe2de79279b794acb1d3ca",
+    "wof:geomhash":"78225a9f57dcb02dd8847a70672d51cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091705485,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"El Geneina",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

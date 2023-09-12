@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272011,
-    "geom:area_square_m":3266909442.577104,
+    "geom:area_square_m":3266909609.851128,
     "geom:bbox":"33.559724,13.377799,34.314622,14.109481",
     "geom:latitude":13.761195,
     "geom:longitude":33.85781,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Eastern Sennar County"
+        "East Sinnar District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.783858,
     "lbl:longitude":33.852045,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880091,
-    "wof:geomhash":"235d33020feb5b68a008db607a8e4caf",
+    "wof:geomhash":"080def8c125dd5196ddf4f0228da5aed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708257,
-    "wof:lastmodified":1627522755,
+    "wof:lastmodified":1694492791,
     "wof:name":"Eastern Sennar",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

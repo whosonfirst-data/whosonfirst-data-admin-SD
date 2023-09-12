@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.715356,
-    "geom:area_square_m":8640027749.583054,
+    "geom:area_square_m":8640028557.914276,
     "geom:bbox":"31.676046,11.95105,32.809116,13.010813",
     "geom:latitude":12.372106,
     "geom:longitude":32.312881,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Salam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.347473,
     "lbl:longitude":32.35859,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Salam"
+    ],
     "name:eng_x_variant":[
         "Kosti"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880119,
-    "wof:geomhash":"657f51281e290e064be2eb97f54fd76e",
+    "wof:geomhash":"00794f0b2d2020b0d8fd0f871b55353b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091708931,
-    "wof:lastmodified":1628266647,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Salam",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

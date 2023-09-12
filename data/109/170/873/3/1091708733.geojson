@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.126258,
-    "geom:area_square_m":13239019906.808023,
+    "geom:area_square_m":13239020465.772888,
     "geom:bbox":"36.868914,17.040167,38.116222,19.094899",
     "geom:latitude":18.06885,
     "geom:longitude":37.38088,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Tokar County"
+        "Toker District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":18.334606,
     "lbl:longitude":37.442361,
@@ -117,7 +117,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880112,
-    "wof:geomhash":"1a04a61adcd062bff0c1019a27090352",
+    "wof:geomhash":"e6da032cfbc9dd4a7049aeff64ee9820",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1091708733,
-    "wof:lastmodified":1636495586,
+    "wof:lastmodified":1694492925,
     "wof:name":"Tokar",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

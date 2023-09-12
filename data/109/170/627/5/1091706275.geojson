@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.258006,
-    "geom:area_square_m":15020447927.137875,
+    "geom:area_square_m":15020446898.780493,
     "geom:bbox":"33.567792,14.286236,35.398543,15.757235",
     "geom:latitude":15.066858,
     "geom:longitude":34.492326,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Butana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.073888,
     "lbl:longitude":34.492276,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Butana"
+    ],
     "name:eng_x_variant":[
         "Al Faw"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473879988,
-    "wof:geomhash":"2953dc46e213c9a5a3fef5d6ee278879",
+    "wof:geomhash":"97fbe70e90f8e1abb477630e4eae2aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091706275,
-    "wof:lastmodified":1628266646,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Butana",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

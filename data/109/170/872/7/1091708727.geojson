@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364191,
-    "geom:area_square_m":4388418421.523734,
+    "geom:area_square_m":4388417640.249988,
     "geom:bbox":"31.669569,12.578155,32.382912,13.654351",
     "geom:latitude":12.967105,
     "geom:longitude":32.026235,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Tendalti County"
+        "Tandalti District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.908527,
     "lbl:longitude":32.031623,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880111,
-    "wof:geomhash":"2f5dc744923708af85fcd701b60301de",
+    "wof:geomhash":"4dec112d12687b9cf25a47056203ac00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708727,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Tendalti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

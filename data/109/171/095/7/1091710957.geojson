@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.987661,
-    "geom:area_square_m":23151242549.685894,
+    "geom:area_square_m":23151241872.085644,
     "geom:bbox":"35.08283,18.630901,37.268749,20.450557",
     "geom:latitude":19.613551,
     "geom:longitude":36.192837,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Qaneb District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.692266,
     "lbl:longitude":36.118257,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Qaneb"
+    ],
     "name:eng_x_variant":[
         "Port Sudan"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880201,
-    "wof:geomhash":"58a93bba0993f954d7059214a436eed7",
+    "wof:geomhash":"38e023ea2981a56de6730adf178170aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091710957,
-    "wof:lastmodified":1628266646,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Qaneb",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.739888,
-    "geom:area_square_m":8708270109.877522,
+    "geom:area_square_m":8708269702.421156,
     "geom:bbox":"32.188884,17.511499,34.132715,18.266836",
     "geom:latitude":17.852861,
     "geom:longitude":32.91411,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Atbara County"
+        "Atbara District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":17.878346,
     "lbl:longitude":32.766913,
@@ -171,7 +171,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880163,
-    "wof:geomhash":"228e8fa5a568ca4a9b3413be04a2e224",
+    "wof:geomhash":"3f2760328926f73ac20b86ae7dc04a73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -181,7 +181,7 @@
         }
     ],
     "wof:id":1091709911,
-    "wof:lastmodified":1636495585,
+    "wof:lastmodified":1694492925,
     "wof:name":"Atbara",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

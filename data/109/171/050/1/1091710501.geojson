@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234601,
-    "geom:area_square_m":2830741732.786657,
+    "geom:area_square_m":2830742023.90419,
     "geom:bbox":"25.02079,12.20245,25.465038,12.972504",
     "geom:latitude":12.623928,
     "geom:longitude":25.258949,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Niteaga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.642087,
     "lbl:longitude":25.232528,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Niteaga"
+    ],
     "name:eng_x_variant":[
         "Shearia",
         "Nyala"
@@ -49,7 +58,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880185,
-    "wof:geomhash":"843746c449a74063cd2ae0cbeaee9123",
+    "wof:geomhash":"782c156fce202ba48c5203ebc980ac05",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091710501,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694492869,
     "wof:name":"Niteaga",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

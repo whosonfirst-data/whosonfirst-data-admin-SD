@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484617,
-    "geom:area_square_m":5802044511.341031,
+    "geom:area_square_m":5802044254.607955,
     "geom:bbox":"32.025085,13.571051,32.751012,15.227934",
     "geom:latitude":14.472686,
     "geom:longitude":32.36826,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Gutaina County"
+        "El Geteina District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.006962,
     "lbl:longitude":32.373646,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879991,
-    "wof:geomhash":"38758f5508812124705cfec8320fb558",
+    "wof:geomhash":"1ba0f29253c09a34a6cb4a4202f685c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091706319,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"El Gutaina",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

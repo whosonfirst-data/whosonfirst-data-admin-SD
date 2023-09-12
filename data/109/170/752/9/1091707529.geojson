@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134406,
-    "geom:area_square_m":1621735972.773285,
+    "geom:area_square_m":1621736332.954632,
     "geom:bbox":"24.746644,12.387305,25.194462,12.972504",
     "geom:latitude":12.62957,
     "geom:longitude":24.937092,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Marshang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.61496,
     "lbl:longitude":24.884517,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Marshang"
+    ],
     "name:eng_x_variant":[
         "Nyala"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880055,
-    "wof:geomhash":"679780b573e923dda5c50d722d54e5a7",
+    "wof:geomhash":"80100d797a2b38932e21038d9cb4daf0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091707529,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Marshang",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

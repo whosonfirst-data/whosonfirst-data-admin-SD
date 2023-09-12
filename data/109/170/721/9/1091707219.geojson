@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30097,
-    "geom:area_square_m":3610380027.068545,
+    "geom:area_square_m":3610380400.345831,
     "geom:bbox":"22.378224,13.717956,23.24525,14.332173",
     "geom:latitude":14.039104,
     "geom:longitude":22.832987,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Jebel Moon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.015286,
     "lbl:longitude":22.869292,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jebel Moon"
+    ],
     "name:eng_x_variant":[
         "Kulbus",
         "Al Geneina"
@@ -49,7 +58,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880034,
-    "wof:geomhash":"5676ac8647a3ffc5cd89d88d2e18071b",
+    "wof:geomhash":"86d7b5e969f1839a71a1f7f224c3a8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091707219,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jebel Moon",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

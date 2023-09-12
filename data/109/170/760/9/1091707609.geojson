@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01038,
-    "geom:area_square_m":125489597.644681,
+    "geom:area_square_m":125489791.052765,
     "geom:bbox":"24.813775,12.063409,24.933972,12.177376",
     "geom:latitude":12.115482,
     "geom:longitude":24.877746,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Nyala North District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.113024,
     "lbl:longitude":24.876602,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nyala North"
+    ],
     "name:eng_x_variant":[
         "Nyala"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880058,
-    "wof:geomhash":"93173f39131c6ad50e95fdefed14089c",
+    "wof:geomhash":"16eeefe1477c8df48ea363b4ae7d8299",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091707609,
-    "wof:lastmodified":1628266693,
+    "wof:lastmodified":1694492870,
     "wof:name":"Nyala North",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

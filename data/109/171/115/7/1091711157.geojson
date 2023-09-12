@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.283999,
-    "geom:area_square_m":15612662760.210047,
+    "geom:area_square_m":15612663121.103502,
     "geom:bbox":"27.370486,9.688218,29.5375,11.070092",
     "geom:latitude":10.462596,
     "geom:longitude":28.283961,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Abyei - Muglad County"
+        "Ab Yei District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":10.579737,
     "lbl:longitude":28.283752,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880209,
-    "wof:geomhash":"3de17144e29fe56413e14cd5d2b203ba",
+    "wof:geomhash":"932135896486842801d42f8bd4fd545b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1091711157,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1694492790,
     "wof:name":"Abyei - Muglad",
     "wof:parent_id":-1,
     "wof:placetype":"county",

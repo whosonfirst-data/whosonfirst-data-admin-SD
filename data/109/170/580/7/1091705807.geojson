@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.349139,
-    "geom:area_square_m":4235467394.893888,
+    "geom:area_square_m":4235467195.64147,
     "geom:bbox":"27.246715,10.808522,28.478291,11.486648",
     "geom:latitude":11.164299,
     "geom:longitude":27.707024,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Babanusa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.218348,
     "lbl:longitude":27.646352,
     "lbl:max_zoom":10.0,
@@ -43,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bc\u03c0\u03ac\u03bd\u03bf\u03c5\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Babanusa"
     ],
     "name:eng_x_variant":[
         "Abyei"
@@ -113,7 +122,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473879971,
-    "wof:geomhash":"7ce960e80bb35df211245c20bcd3dcdd",
+    "wof:geomhash":"89378cddf8f5c22de1734ecb3a29f84e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1091705807,
-    "wof:lastmodified":1636495587,
+    "wof:lastmodified":1694492925,
     "wof:name":"Babanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

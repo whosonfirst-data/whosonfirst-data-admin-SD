@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.701602,
-    "geom:area_square_m":8403803532.073591,
+    "geom:area_square_m":8403803230.82996,
     "geom:bbox":"25.208085,13.889968,26.406343,14.756973",
     "geom:latitude":14.374248,
     "geom:longitude":25.720737,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Mellit County"
+        "Mellit District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.345403,
     "lbl:longitude":25.649629,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880182,
-    "wof:geomhash":"88c119367de2f24b59652085fee96dbd",
+    "wof:geomhash":"091d22a8f97337f3a8bf515a1847692a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091710427,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492793,
     "wof:name":"Mellit",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

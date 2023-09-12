@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143982,
-    "geom:area_square_m":1735276655.275617,
+    "geom:area_square_m":1735276098.067329,
     "geom:bbox":"24.375107,12.663397,24.855071,13.117664",
     "geom:latitude":12.921564,
     "geom:longitude":24.592514,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Sharg Jabel Marra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.927144,
     "lbl:longitude":24.597098,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sharg Jabel Marra"
+    ],
     "name:eng_x_variant":[
         "Nyala"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880094,
-    "wof:geomhash":"ed677e39ab935b71964ac15dc0669622",
+    "wof:geomhash":"4165c9b692e35e3e8d2b2cd2cb8c5644",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091708337,
-    "wof:lastmodified":1628266714,
+    "wof:lastmodified":1694492883,
     "wof:name":"Sharg Jabel Marra",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

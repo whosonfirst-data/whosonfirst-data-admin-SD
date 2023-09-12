@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.540707,
-    "geom:area_square_m":6532120080.335344,
+    "geom:area_square_m":6532120484.179916,
     "geom:bbox":"22.555232,11.645206,23.787714,12.676028",
     "geom:latitude":12.311925,
     "geom:longitude":23.063057,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Wadi Salih County"
+        "Wadi Salih District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.385504,
     "lbl:longitude":23.072335,
@@ -76,7 +76,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880151,
-    "wof:geomhash":"2921246b0034fced18a08cb5b531bc09",
+    "wof:geomhash":"ba0978972023ae55ce0762289607c33e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1091709589,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492794,
     "wof:name":"Wadi Salih",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

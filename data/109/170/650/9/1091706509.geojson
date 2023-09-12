@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.66268,
-    "geom:area_square_m":8017941833.055728,
+    "geom:area_square_m":8017941291.32151,
     "geom:bbox":"34.232355,11.23854,35.082756,12.562287",
     "geom:latitude":11.899591,
     "geom:longitude":34.669942,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Roseires County"
+        "Elrosieris District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.85726,
     "lbl:longitude":34.661955,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880002,
-    "wof:geomhash":"bef08e402825e32092eb2c6b61e8bd42",
+    "wof:geomhash":"2f9a863ff0fc300d26fcf3c07c09f03b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091706509,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"El Roseires",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

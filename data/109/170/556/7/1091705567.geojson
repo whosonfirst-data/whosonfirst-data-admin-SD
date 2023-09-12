@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368582,
-    "geom:area_square_m":4470397303.378472,
+    "geom:area_square_m":4470397193.058277,
     "geom:bbox":"22.752528,10.689637,23.507417,11.716488",
     "geom:latitude":11.222199,
     "geom:longitude":23.117271,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Umm Dukhun County"
+        "Um Dukhun District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.196599,
     "lbl:longitude":23.205179,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879962,
-    "wof:geomhash":"f95f7905bcb3010864fe0693e7ee964e",
+    "wof:geomhash":"3ce819101a58ec80440be2736f607f93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091705567,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Umm Dukhun",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

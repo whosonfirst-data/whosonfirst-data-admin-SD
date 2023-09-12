@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.865398,
-    "geom:area_square_m":10544942533.668354,
+    "geom:area_square_m":10544941068.039391,
     "geom:bbox":"27.817559,9.347221,29.009689,10.170874",
     "geom:latitude":9.789653,
     "geom:longitude":28.4102,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Abyei PCA Area County"
+        "Abyei District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":9.758361,
     "lbl:longitude":28.410206,
@@ -73,7 +73,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880206,
-    "wof:geomhash":"bcbf989d0a3cfcd96119ed7e93697350",
+    "wof:geomhash":"af69d02729ed1efff9bcfbde928d5db7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091711067,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1694492790,
     "wof:name":"Abyei PCA Area",
     "wof:parent_id":-1,
     "wof:placetype":"county",

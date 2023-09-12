@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.282454,
-    "geom:area_square_m":51049200216.203392,
+    "geom:area_square_m":51049199835.606079,
     "geom:bbox":"29.44977,14.212665,32.356128,16.536434",
     "geom:latitude":15.402959,
     "geom:longitude":30.908602,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Jebrat El Sheikh County"
+        "Gabrat Elshiekh District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.460721,
     "lbl:longitude":30.936259,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880143,
-    "wof:geomhash":"9878f1e210db95540bac60e538269954",
+    "wof:geomhash":"368c80adc3b54c102b1c56e674d502a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091709395,
-    "wof:lastmodified":1627522757,
+    "wof:lastmodified":1694492792,
     "wof:name":"Jebrat El Sheikh",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

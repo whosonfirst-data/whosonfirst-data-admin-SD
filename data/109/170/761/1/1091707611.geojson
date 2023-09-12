@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008052,
-    "geom:area_square_m":97370874.953058,
+    "geom:area_square_m":97370874.953061,
     "geom:bbox":"24.8137746359,11.9767342453,24.9409492325,12.0767692081",
     "geom:latitude":12.03302,
     "geom:longitude":24.875492,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Nyala County"
+        "Nyala District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.026123,
     "lbl:longitude":24.870344,
@@ -180,7 +180,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880059,
-    "wof:geomhash":"f722c933f2ed011a75f220c8def794f8",
+    "wof:geomhash":"ca1401dce575e144b3be072091e7849c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1091707611,
-    "wof:lastmodified":1566639592,
+    "wof:lastmodified":1694492395,
     "wof:name":"Nyala",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

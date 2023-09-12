@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182107,
-    "geom:area_square_m":2196728592.448685,
+    "geom:area_square_m":2196728528.133095,
     "geom:bbox":"22.169317,12.36061,22.691306,12.984656",
     "geom:latitude":12.696184,
     "geom:longitude":22.458888,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Habila County"
+        "Habiela District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.782855,
     "lbl:longitude":22.437156,
@@ -73,7 +73,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880023,
-    "wof:geomhash":"36e7ebc111fd681463679e986b61a35b",
+    "wof:geomhash":"f9ff871f12128564568791f742a35944",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1091706945,
-    "wof:lastmodified":1627522757,
+    "wof:lastmodified":1694492792,
     "wof:name":"Habila",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

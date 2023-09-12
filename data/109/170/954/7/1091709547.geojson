@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166306,
-    "geom:area_square_m":1996886951.398598,
+    "geom:area_square_m":1996887342.519081,
     "geom:bbox":"22.091111,13.613625,22.746558,14.041003",
     "geom:latitude":13.818045,
     "geom:longitude":22.444317,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Sirba County"
+        "Sirba District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.829027,
     "lbl:longitude":22.417792,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880150,
-    "wof:geomhash":"0aa71ceac9dd01a68214b22673c9cc8c",
+    "wof:geomhash":"9ad53d0d400f9f55799c8ec144f0e78a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091709547,
-    "wof:lastmodified":1627522759,
+    "wof:lastmodified":1694492793,
     "wof:name":"Sirba",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

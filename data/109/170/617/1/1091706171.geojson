@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206748,
-    "geom:area_square_m":2483617848.996506,
+    "geom:area_square_m":2483618847.589027,
     "geom:bbox":"34.122059,13.377791,34.867338,14.040551",
     "geom:latitude":13.711798,
     "geom:longitude":34.547359,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Al Mafaza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.744127,
     "lbl:longitude":34.584067,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Mafaza"
+    ],
     "name:eng_x_variant":[
         "Al Rahd"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473879985,
-    "wof:geomhash":"781c4efb9609967d85f7759b35ddbb4c",
+    "wof:geomhash":"561fefefcee62e0019f62036e8e59bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091706171,
-    "wof:lastmodified":1628266617,
+    "wof:lastmodified":1694492825,
     "wof:name":"Al Mafaza",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

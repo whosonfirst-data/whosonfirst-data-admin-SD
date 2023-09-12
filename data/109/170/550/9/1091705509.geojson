@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271657,
-    "geom:area_square_m":3252196032.763624,
+    "geom:area_square_m":3252195588.092578,
     "geom:bbox":"22.383323,14.12446,23.215709,14.986525",
     "geom:latitude":14.492077,
     "geom:longitude":22.777124,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Kulbus County"
+        "Kulbus District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.491066,
     "lbl:longitude":22.646391,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879959,
-    "wof:geomhash":"4ee8965382c182ea163be016aa5f46e4",
+    "wof:geomhash":"7e0c96ff4938804ddfdf6dd898877729",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091705509,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Kulbus",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

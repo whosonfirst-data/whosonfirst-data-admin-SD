@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198508,
-    "geom:area_square_m":2410257311.633259,
+    "geom:area_square_m":2410257204.680131,
     "geom:bbox":"29.837108,10.583329,30.509517,11.116531",
     "geom:latitude":10.905045,
     "geom:longitude":30.177891,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Umm Durein District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.892006,
     "lbl:longitude":30.200851,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Umm Durein"
+    ],
     "name:eng_x_variant":[
         "Kadugli"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880122,
-    "wof:geomhash":"830f56351710c6cb38caf0105c5e0f37",
+    "wof:geomhash":"d6edcac868145810b746990ff8f725b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091708963,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694492891,
     "wof:name":"Umm Durein",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.246309,
-    "geom:area_square_m":129610359068.166382,
+    "geom:area_square_m":129610359068.165131,
     "geom:bbox":"25.0,20.47,32.4191232223,22.224918",
     "geom:latitude":21.242568,
     "geom:longitude":28.698678,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Halfa County"
+        "Halfa District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":21.23907,
     "lbl:longitude":28.703548,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880024,
-    "wof:geomhash":"ef7bcdc9f37959c62b035da299fa4f20",
+    "wof:geomhash":"66286bafcf9266970ef2217036568f82",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091706973,
-    "wof:lastmodified":1566639595,
+    "wof:lastmodified":1694492396,
     "wof:name":"Halfa",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

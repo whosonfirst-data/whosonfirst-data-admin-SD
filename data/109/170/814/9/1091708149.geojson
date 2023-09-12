@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3165,
-    "geom:area_square_m":3777256158.259264,
+    "geom:area_square_m":3777256325.260376,
     "geom:bbox":"35.979061,14.624127,36.691956,15.708757",
     "geom:latitude":15.164688,
     "geom:longitude":36.365965,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Rural Kassala County"
+        "Kassala Rural District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.992557,
     "lbl:longitude":36.272065,
@@ -81,7 +81,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880087,
-    "wof:geomhash":"b364cae483b6ae0acb7ab1c4c6817a78",
+    "wof:geomhash":"f651d4f3aaa5ad983bdb02e03c15020f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1091708149,
-    "wof:lastmodified":1690862911,
+    "wof:lastmodified":1694492792,
     "wof:name":"Rural Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

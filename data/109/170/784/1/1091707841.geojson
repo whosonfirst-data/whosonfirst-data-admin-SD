@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.531007,
-    "geom:area_square_m":6427308485.734194,
+    "geom:area_square_m":6427307954.439651,
     "geom:bbox":"23.016103,11.178846,23.756626,12.364938",
     "geom:latitude":11.794494,
     "geom:longitude":23.45904,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Mukjar County"
+        "Mukjar District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.798734,
     "lbl:longitude":23.429096,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880070,
-    "wof:geomhash":"37a33c2cded17799559cd317162702d4",
+    "wof:geomhash":"1cdbb7d96ac1dfaf689873eff58a8560",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091707841,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Mukjar",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

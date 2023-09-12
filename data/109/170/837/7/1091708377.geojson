@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154493,
-    "geom:area_square_m":1844127205.170293,
+    "geom:area_square_m":1844127117.085205,
     "geom:bbox":"32.630209,14.877482,33.235727,15.414032",
     "geom:latitude":15.128622,
     "geom:longitude":32.941547,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Kamleen County"
+        "El Kamlin District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.091241,
     "lbl:longitude":33.01717,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880096,
-    "wof:geomhash":"088f33e234173d2e835f93dad7eca8b9",
+    "wof:geomhash":"b97ccffbf7bea61a280f9651ea79da37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708377,
-    "wof:lastmodified":1627522755,
+    "wof:lastmodified":1694492791,
     "wof:name":"El Kamleen",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

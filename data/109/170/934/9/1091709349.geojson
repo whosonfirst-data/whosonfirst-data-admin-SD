@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.334074,
-    "geom:area_square_m":4044515276.696916,
+    "geom:area_square_m":4044515488.040305,
     "geom:bbox":"25.287472,11.127917,25.885485,12.093863",
     "geom:latitude":11.735814,
     "geom:longitude":25.548387,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Yassin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.783213,
     "lbl:longitude":25.552911,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yassin"
+    ],
     "name:eng_x_variant":[
         "Nyala"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880137,
-    "wof:geomhash":"8b73790d13b2ae21a9d541eb4a9f568c",
+    "wof:geomhash":"ca0f4fbfd25e7761da6c2e49a1f320ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091709349,
-    "wof:lastmodified":1628266747,
+    "wof:lastmodified":1694492895,
     "wof:name":"Yassin",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.702259,
-    "geom:area_square_m":8414429705.099366,
+    "geom:area_square_m":8414430287.000857,
     "geom:bbox":"35.285721,13.451425,36.552578,14.958792",
     "geom:latitude":14.297935,
     "geom:longitude":35.902258,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Fashaga County"
+        "El Fashaga District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.689336,
     "lbl:longitude":35.64096,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879952,
-    "wof:geomhash":"508bf701fbef1141c47a6312d07d0d18",
+    "wof:geomhash":"87a04ca51188c004681d25f2f0b57df5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091705443,
-    "wof:lastmodified":1627522755,
+    "wof:lastmodified":1694492791,
     "wof:name":"El Fashaga",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

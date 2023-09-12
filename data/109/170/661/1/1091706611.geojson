@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152182,
-    "geom:area_square_m":1840123397.937157,
+    "geom:area_square_m":1840123294.770783,
     "geom:bbox":"34.028326,11.651894,34.38801,12.460345",
     "geom:latitude":12.073494,
     "geom:longitude":34.233791,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Damazine County"
+        "Eldamazin District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.218165,
     "lbl:longitude":34.201097,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880008,
-    "wof:geomhash":"28df641e6ba4bbb708d0c28e8d9e9b84",
+    "wof:geomhash":"a8c5423e14ed190aa5a75bff2e201a31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091706611,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1694492790,
     "wof:name":"El Damazine",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

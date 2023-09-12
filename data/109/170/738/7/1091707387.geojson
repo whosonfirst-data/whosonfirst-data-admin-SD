@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410508,
-    "geom:area_square_m":4898965000.105783,
+    "geom:area_square_m":4898964858.045679,
     "geom:bbox":"34.691233,14.906398,35.992619,15.495722",
     "geom:latitude":15.176241,
     "geom:longitude":35.320955,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Khashm Ghirba County"
+        "Setit District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.170425,
     "lbl:longitude":35.266699,
@@ -81,7 +81,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880046,
-    "wof:geomhash":"d5331c2a6b45732250e940959070e692",
+    "wof:geomhash":"a21b55149247e798228d6fa8dddb5491",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1091707387,
-    "wof:lastmodified":1690862910,
+    "wof:lastmodified":1694492792,
     "wof:name":"Khashm Ghirba",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

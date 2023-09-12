@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.209981,
-    "geom:area_square_m":36799540837.225311,
+    "geom:area_square_m":36799540837.225288,
     "geom:bbox":"33.2656561916,21.0119210812,36.9420624562,23.148269679",
     "geom:latitude":22.003553,
     "geom:longitude":35.133794,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Halayeb County"
+        "Halayib District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":22.259509,
     "lbl:longitude":35.314352,
@@ -110,7 +110,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880146,
-    "wof:geomhash":"64d4d74e7654b88220e06e445dac0cd5",
+    "wof:geomhash":"62012c8e25cb0e6e6ae4835031809383",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1091709471,
-    "wof:lastmodified":1566639589,
+    "wof:lastmodified":1694492395,
     "wof:name":"Halayeb",
     "wof:parent_id":-1,
     "wof:placetype":"county",

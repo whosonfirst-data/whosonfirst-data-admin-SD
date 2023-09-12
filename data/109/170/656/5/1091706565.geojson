@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.807648,
-    "geom:area_square_m":9782204302.438986,
+    "geom:area_square_m":9782205868.617643,
     "geom:bbox":"27.718139,10.878618,29.000572,12.516962",
     "geom:latitude":11.610763,
     "geom:longitude":28.388325,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Salam County"
+        "El Salam District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.523163,
     "lbl:longitude":28.325518,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880005,
-    "wof:geomhash":"4b5a93c475b3817d1e0110246b34c0c7",
+    "wof:geomhash":"06d5b71f6500eb63d0437777c22dc06e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1091706565,
-    "wof:lastmodified":1627522756,
+    "wof:lastmodified":1694492791,
     "wof:name":"El Salam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

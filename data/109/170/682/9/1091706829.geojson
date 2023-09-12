@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.557685,
-    "geom:area_square_m":6660233700.719213,
+    "geom:area_square_m":6660234107.864171,
     "geom:bbox":"33.028485,14.560605,34.189876,15.461092",
     "geom:latitude":15.02038,
     "geom:longitude":33.60821,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Eastern El Gezira County"
+        "El Gezira East District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.015325,
     "lbl:longitude":33.608237,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880017,
-    "wof:geomhash":"fb637c965f71745ba28affd8669bf7d9",
+    "wof:geomhash":"9caef84c6d74b1ea2b358187c3a4d5fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091706829,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"Eastern El Gezira",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

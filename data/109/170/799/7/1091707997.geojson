@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.406052,
-    "geom:area_square_m":4901602997.320486,
+    "geom:area_square_m":4901602959.788093,
     "geom:bbox":"23.777987,12.050978,24.468661,12.989621",
     "geom:latitude":12.51338,
     "geom:longitude":24.177472,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Kass County"
+        "Kass District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.560737,
     "lbl:longitude":24.170881,
@@ -73,7 +73,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880077,
-    "wof:geomhash":"bf435de803b7ead51b41df929d7334cb",
+    "wof:geomhash":"53a12694ab825a33adc2786cc71689a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1091707997,
-    "wof:lastmodified":1627522757,
+    "wof:lastmodified":1694492792,
     "wof:name":"Kass",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

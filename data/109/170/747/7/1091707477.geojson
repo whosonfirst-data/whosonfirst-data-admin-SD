@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484432,
-    "geom:area_square_m":5828624490.037896,
+    "geom:area_square_m":5828624139.21987,
     "geom:bbox":"22.488059,12.790718,23.224393,13.795615",
     "geom:latitude":13.331654,
     "geom:longitude":22.820981,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Kreinik County"
+        "Kirenik District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.378722,
     "lbl:longitude":22.813981,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880051,
-    "wof:geomhash":"c5e4dedb1def15e7a035dc91acee89c5",
+    "wof:geomhash":"fbf760a18948e066b4f436c29bf7cc73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091707477,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Kreinik",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340893,
-    "geom:area_square_m":4080461231.521875,
+    "geom:area_square_m":4080461566.080394,
     "geom:bbox":"35.853515,14.20601,36.560394,14.985475",
     "geom:latitude":14.525339,
     "geom:longitude":36.164681,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Wad El Helew County"
+        "Wad El Hilaiw District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.517563,
     "lbl:longitude":36.157922,
@@ -81,7 +81,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880128,
-    "wof:geomhash":"92506d4af4889db55a73a8546946ea02",
+    "wof:geomhash":"e33b1f17b2f8b3dc19a4190d2ea34b63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1091709097,
-    "wof:lastmodified":1690862910,
+    "wof:lastmodified":1694492793,
     "wof:name":"Wad El Helew",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41331,
-    "geom:area_square_m":5005280207.773391,
+    "geom:area_square_m":5005280023.086578,
     "geom:bbox":"24.34649,11.179267,25.300816,12.452017",
     "geom:latitude":11.651385,
     "geom:longitude":24.750666,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Salam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.404501,
     "lbl:longitude":24.750594,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Salam"
+    ],
     "name:eng_x_variant":[
         "Nyala",
         "Id El Ghanem"
@@ -49,7 +58,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880037,
-    "wof:geomhash":"0ae669ca74855d590dbd5e4106327891",
+    "wof:geomhash":"3a61860c57b0be79c8b8df52a4b8f8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091707279,
-    "wof:lastmodified":1628266647,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Salam",
     "wof:parent_id":85676871,
     "wof:placetype":"county",
