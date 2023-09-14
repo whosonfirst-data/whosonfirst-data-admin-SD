@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.914892,
-    "geom:area_square_m":22975598140.800587,
+    "geom:area_square_m":22975598140.800327,
     "geom:bbox":"28.8679024237,13.3196457164,31.8417519492,14.5820511821",
     "geom:latitude":13.988133,
     "geom:longitude":30.29893,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Bara County"
+        "Bara District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.047882,
     "lbl:longitude":30.029392,
@@ -142,7 +142,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880160,
-    "wof:geomhash":"4d2497c6cdd1324734c9847fbad41a86",
+    "wof:geomhash":"820f57c4e9fe16f7dce36b6fad5fd318",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1091709813,
-    "wof:lastmodified":1566639600,
+    "wof:lastmodified":1694492396,
     "wof:name":"Bara",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

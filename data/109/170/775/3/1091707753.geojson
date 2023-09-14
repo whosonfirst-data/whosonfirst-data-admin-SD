@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141371,
-    "geom:area_square_m":1700455213.024933,
+    "geom:area_square_m":1700455213.02486,
     "geom:bbox":"32.5613153509,13.1502793106,32.9713430978,13.7133620751",
     "geom:latitude":13.404704,
     "geom:longitude":32.782704,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Rabak County"
+        "Rabak District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.397569,
     "lbl:longitude":32.782724,
@@ -123,7 +123,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880065,
-    "wof:geomhash":"312491edf19620a994414380734c31f4",
+    "wof:geomhash":"3746ec4f22e6705fe22c80b303cde6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1091707753,
-    "wof:lastmodified":1566639598,
+    "wof:lastmodified":1694492396,
     "wof:name":"Rabak",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

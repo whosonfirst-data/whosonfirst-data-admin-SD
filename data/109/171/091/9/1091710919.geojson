@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.919836,
-    "geom:area_square_m":80127994655.816315,
+    "geom:area_square_m":80127995262.297958,
     "geom:bbox":"33.274016,18.879016,37.318748,22.002667",
     "geom:latitude":20.52371,
     "geom:longitude":35.208793,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Jabiet Al Maadin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.244399,
     "lbl:longitude":34.566858,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jabiet Al Maadin"
+    ],
     "name:eng_x_variant":[
         "Port Sudan"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880200,
-    "wof:geomhash":"38c1e4d4164a8e75958268c50e04e49e",
+    "wof:geomhash":"d02f40b976dd78229ee32279467cb29c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091710919,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492850,
     "wof:name":"Jabiet Al Maadin",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

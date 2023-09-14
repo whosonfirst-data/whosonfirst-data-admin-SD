@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339362,
-    "geom:area_square_m":4109266630.398973,
+    "geom:area_square_m":4109266745.279088,
     "geom:bbox":"24.058541,11.320307,24.68096,12.107679",
     "geom:latitude":11.686823,
     "geom:longitude":24.345589,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Ed El Fursan County"
+        "Ed Al Fursan District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.669251,
     "lbl:longitude":24.3515,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880072,
-    "wof:geomhash":"9e5254600c6b6a820f2fa723c3d876f2",
+    "wof:geomhash":"4fcb6093340089492ade8ddbfa710994",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091707925,
-    "wof:lastmodified":1627522755,
+    "wof:lastmodified":1694492791,
     "wof:name":"Ed El Fursan",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

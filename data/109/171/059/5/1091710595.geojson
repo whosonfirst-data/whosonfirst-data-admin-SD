@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.991477,
-    "geom:area_square_m":11758954625.26465,
+    "geom:area_square_m":11758954637.449108,
     "geom:bbox":"32.693612,15.982948,34.399516,17.055477",
     "geom:latitude":16.432293,
     "geom:longitude":33.688111,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Shendi County"
+        "Shendi District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":16.425285,
     "lbl:longitude":33.83021,
@@ -117,7 +117,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880188,
-    "wof:geomhash":"d465aaffd2a4792420c442444ba1e5a4",
+    "wof:geomhash":"b7da1601177a2f0be6d05821d9851899",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1091710595,
-    "wof:lastmodified":1636495587,
+    "wof:lastmodified":1694492925,
     "wof:name":"Shendi",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

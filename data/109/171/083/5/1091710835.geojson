@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.949555,
-    "geom:area_square_m":11430352592.638552,
+    "geom:area_square_m":11430351837.017931,
     "geom:bbox":"27.129006,12.491262,28.371883,14.121444",
     "geom:latitude":13.211517,
     "geom:longitude":27.716671,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Wad Banda County"
+        "Wad Banda District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.982404,
     "lbl:longitude":27.655372,
@@ -86,7 +86,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880197,
-    "wof:geomhash":"dbcb98743077b052fcea42e1f60eef4b",
+    "wof:geomhash":"a05467b4f63cc610b8ff1e532adfac42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1091710835,
-    "wof:lastmodified":1690862912,
+    "wof:lastmodified":1694492794,
     "wof:name":"Wad Banda",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

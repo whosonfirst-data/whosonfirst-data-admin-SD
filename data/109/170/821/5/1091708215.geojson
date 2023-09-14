@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211733,
-    "geom:area_square_m":2550432843.326971,
+    "geom:area_square_m":2550432302.546814,
     "geom:bbox":"23.788212,12.8058,24.328507,13.389223",
     "geom:latitude":13.055565,
     "geom:longitude":24.021794,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Nertiti County"
+        "Nertiti District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.043476,
     "lbl:longitude":24.026931,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880090,
-    "wof:geomhash":"8aadac561c56fb3376f54052f1535bfe",
+    "wof:geomhash":"89c2087305dc22b93056e08a86f0255e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091708215,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492792,
     "wof:name":"Nertiti",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.885903,
-    "geom:area_square_m":22706671332.691093,
+    "geom:area_square_m":22706670695.970188,
     "geom:bbox":"30.321259,12.237103,32.035477,14.103302",
     "geom:latitude":13.158675,
     "geom:longitude":31.072859,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Um Rawaba County"
+        "Um Rwaba District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":13.140201,
     "lbl:longitude":31.056513,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880121,
-    "wof:geomhash":"7d93670f7a1508e0fe98d59e7a65fe60",
+    "wof:geomhash":"3302caaafa77782b0b8635e483b0d7e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708961,
-    "wof:lastmodified":1627522760,
+    "wof:lastmodified":1694492793,
     "wof:name":"Um Rawaba",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227431,
-    "geom:area_square_m":2740944750.175242,
+    "geom:area_square_m":2740944329.255451,
     "geom:bbox":"33.68156,12.458241,34.450117,13.532764",
     "geom:latitude":12.925356,
     "geom:longitude":34.138433,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Souki County"
+        "Alsoky District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.93085,
     "lbl:longitude":34.138517,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880009,
-    "wof:geomhash":"afb274c27ac9f3419f0095b2bab1624c",
+    "wof:geomhash":"16b66d64b8195438e235c70067189026",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091706637,
-    "wof:lastmodified":1627522756,
+    "wof:lastmodified":1694492791,
     "wof:name":"El Souki",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

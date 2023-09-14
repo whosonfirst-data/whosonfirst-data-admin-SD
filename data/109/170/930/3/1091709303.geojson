@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.664938,
-    "geom:area_square_m":7887279645.216936,
+    "geom:area_square_m":7887281168.018649,
     "geom:bbox":"35.661753,15.45601,36.381273,17.208442",
     "geom:latitude":16.401925,
     "geom:longitude":36.01192,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "North Delta County"
+        "North Aldalta District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":16.386869,
     "lbl:longitude":35.98737,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880135,
-    "wof:geomhash":"89065e15a1e9768bb8aafa5b0a36c3e9",
+    "wof:geomhash":"92e8a4c3e5d14e7bc294a63dc68fc718",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091709303,
-    "wof:lastmodified":1627522759,
+    "wof:lastmodified":1694492793,
     "wof:name":"North Delta",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

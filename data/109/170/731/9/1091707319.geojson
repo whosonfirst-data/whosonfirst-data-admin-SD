@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.789369,
-    "geom:area_square_m":9347617615.075558,
+    "geom:area_square_m":9347618112.681263,
     "geom:bbox":"31.886663,16.332547,33.7191,17.060439",
     "geom:latitude":16.727816,
     "geom:longitude":32.710408,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "El Matammah County"
+        "El Matama District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":16.674218,
     "lbl:longitude":32.545188,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880040,
-    "wof:geomhash":"bca7c0f55cecd1f78ee1b79f5d9a7d9e",
+    "wof:geomhash":"198e87b98089176d2dbc731313d25c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091707319,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"El Matammah",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

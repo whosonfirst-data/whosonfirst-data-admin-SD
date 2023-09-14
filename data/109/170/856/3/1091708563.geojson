@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.442297,
-    "geom:area_square_m":5340870246.790694,
+    "geom:area_square_m":5340869988.881711,
     "geom:bbox":"25.285048,11.983776,26.088664,12.963885",
     "geom:latitude":12.428903,
     "geom:longitude":25.672814,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Sheiria County"
+        "Sheiria District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":12.483975,
     "lbl:longitude":25.666718,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880102,
-    "wof:geomhash":"6d313a97126d5a39654c0151d4dcc7cc",
+    "wof:geomhash":"da56998119066bb4b94b619e3c263ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091708563,
-    "wof:lastmodified":1627522759,
+    "wof:lastmodified":1694492793,
     "wof:name":"Sheiria",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

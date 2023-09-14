@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.891122,
-    "geom:area_square_m":10757168577.427544,
+    "geom:area_square_m":10757168789.997578,
     "geom:bbox":"25.889333,11.996534,27.187803,12.989767",
     "geom:latitude":12.510442,
     "geom:longitude":26.58831,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Taweisha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.517603,
     "lbl:longitude":26.58827,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Taweisha"
+    ],
     "name:eng_x_variant":[
         "Um Kadada"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880011,
-    "wof:geomhash":"cf13562447bde648baa236b8f1df16ba",
+    "wof:geomhash":"bd3daa78a9f8015cdcea4c1637f59e22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091706673,
-    "wof:lastmodified":1628266647,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Taweisha",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

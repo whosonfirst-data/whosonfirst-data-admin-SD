@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.860185,
-    "geom:area_square_m":33570586554.034431,
+    "geom:area_square_m":33570586554.033733,
     "geom:bbox":"33.8779816277,17.0046413286,37.1628180262,19.2115556052",
     "geom:latitude":18.333663,
     "geom:longitude":35.573403,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Haya County"
+        "Ha Yia District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":18.272814,
     "lbl:longitude":35.30052,
@@ -96,7 +96,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880029,
-    "wof:geomhash":"b91b9de99635415c92d4339ed602fb57",
+    "wof:geomhash":"c17f297c9328629a7d27050b2003ca6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1091707095,
-    "wof:lastmodified":1566639579,
+    "wof:lastmodified":1694492395,
     "wof:name":"Haya",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

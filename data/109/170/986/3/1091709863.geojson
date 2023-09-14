@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.149453,
-    "geom:area_square_m":13506004141.442745,
+    "geom:area_square_m":13506004410.696123,
     "geom:bbox":"32.404364,17.705614,34.834687,18.625445",
     "geom:latitude":18.149093,
     "geom:longitude":33.736772,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Barbar County"
+        "Berber District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":18.128788,
     "lbl:longitude":33.819382,
@@ -82,7 +82,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880161,
-    "wof:geomhash":"ef78f7dafa1f9deca2e2c97e5b43fc25",
+    "wof:geomhash":"410275f716d7e2cb3d3da0766b2385b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1091709863,
-    "wof:lastmodified":1627522754,
+    "wof:lastmodified":1694492791,
     "wof:name":"Barbar",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

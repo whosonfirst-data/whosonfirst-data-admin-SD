@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138401,
-    "geom:area_square_m":1650883252.111285,
+    "geom:area_square_m":1650883171.788094,
     "geom:bbox":"35.770672,15.021199,36.381804,15.458775",
     "geom:latitude":15.276168,
     "geom:longitude":36.058139,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Western Kassala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.249515,
     "lbl:longitude":36.028049,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Western Kassala"
+    ],
     "name:eng_x_variant":[
         "Nahr Atbara"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880134,
-    "wof:geomhash":"1352b1db549f141a859f228ce774f112",
+    "wof:geomhash":"d6c9e7f923596257b34ff248c4025045",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091709269,
-    "wof:lastmodified":1628266744,
+    "wof:lastmodified":1694492893,
     "wof:name":"Western Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

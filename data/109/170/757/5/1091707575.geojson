@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299472,
-    "geom:area_square_m":3621998485.095789,
+    "geom:area_square_m":3621998490.810772,
     "geom:bbox":"24.66423,11.672451,25.311125,12.40912",
     "geom:latitude":12.006879,
     "geom:longitude":25.055796,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Bielel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.893321,
     "lbl:longitude":25.088065,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bielel"
+    ],
     "name:eng_x_variant":[
         "Nyala"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880056,
-    "wof:geomhash":"c9cfe373342557e8c0f2667847c8c8f4",
+    "wof:geomhash":"d36a5da00ee8b034381fa95489c53b27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091707575,
-    "wof:lastmodified":1628266629,
+    "wof:lastmodified":1694492832,
     "wof:name":"Bielel",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

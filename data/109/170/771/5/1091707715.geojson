@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178979,
-    "geom:area_square_m":2147411130.984307,
+    "geom:area_square_m":2147411160.245642,
     "geom:bbox":"34.808942,13.720178,35.337205,14.218452",
     "geom:latitude":13.994637,
     "geom:longitude":35.036046,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Gedaref District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.004318,
     "lbl:longitude":35.014664,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gedaref"
+    ],
     "name:eng_x_variant":[
         "Al Gadaref"
     ],
@@ -51,7 +60,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880064,
-    "wof:geomhash":"3f6f4a9b9a556bcaa44d6b5592e7ccf4",
+    "wof:geomhash":"53732e0c1fec7150bb399d01d752fe3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1091707715,
-    "wof:lastmodified":1636495586,
+    "wof:lastmodified":1694492925,
     "wof:name":"Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

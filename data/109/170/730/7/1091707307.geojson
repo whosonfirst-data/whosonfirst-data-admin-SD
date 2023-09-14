@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294735,
-    "geom:area_square_m":3578062640.784813,
+    "geom:area_square_m":3578062302.453522,
     "geom:bbox":"24.035978,10.356673,24.552325,11.360411",
     "geom:latitude":10.951024,
     "geom:longitude":24.265565,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Katayla District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.946615,
     "lbl:longitude":24.269488,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Katayla"
+    ],
     "name:eng_x_variant":[
         "Edd al Fursan",
         "Id El Ghanem"
@@ -47,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880038,
-    "wof:geomhash":"4f61dbae1c6c5beca2a7e632f735421c",
+    "wof:geomhash":"b1b80e7ffb323a180729241f1d4e06e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091707307,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694492853,
     "wof:name":"Katayla",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

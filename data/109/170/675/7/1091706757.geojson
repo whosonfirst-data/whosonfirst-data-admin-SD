@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306587,
-    "geom:area_square_m":3715764384.379224,
+    "geom:area_square_m":3715764051.819834,
     "geom:bbox":"26.710571,11.065953,27.290722,11.792007",
     "geom:latitude":11.433377,
     "geom:longitude":27.024205,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Adila County"
+        "Adiela District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.431512,
     "lbl:longitude":27.018685,
@@ -94,7 +94,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880014,
-    "wof:geomhash":"fa96a4551edf15ce681fedc4fef57924",
+    "wof:geomhash":"08e78174072199612b4eb52573293c52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1091706757,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1694492790,
     "wof:name":"Adila",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

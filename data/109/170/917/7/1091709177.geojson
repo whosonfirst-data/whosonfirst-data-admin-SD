@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.455736,
-    "geom:area_square_m":5481188317.273591,
+    "geom:area_square_m":5481187918.146107,
     "geom:bbox":"35.023332,12.716065,35.833113,13.983613",
     "geom:latitude":13.424191,
     "geom:longitude":35.42944,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Western El Galabat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.735274,
     "lbl:longitude":35.39601,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Western El Galabat"
+    ],
     "name:eng_x_variant":[
         "Al Galabat"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880131,
-    "wof:geomhash":"0c756b304c6d8d6b6d38f68907901774",
+    "wof:geomhash":"4a101ac09ee24f22e43db118dcc12ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091709177,
-    "wof:lastmodified":1628266744,
+    "wof:lastmodified":1694492893,
     "wof:name":"Western El Galabat",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

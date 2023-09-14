@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.70421,
-    "geom:area_square_m":8481899403.889074,
+    "geom:area_square_m":8481899914.655764,
     "geom:bbox":"29.523002,12.428593,30.527445,13.616299",
     "geom:latitude":13.073457,
     "geom:longitude":30.063415,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Shiekan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.084761,
     "lbl:longitude":30.053871,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Shiekan"
+    ],
     "name:eng_x_variant":[
         "Sheikan",
         "Bara"
@@ -49,7 +58,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880189,
-    "wof:geomhash":"4978da0434945993c3001ab9e2937365",
+    "wof:geomhash":"fd608b29635cf3392bc6e3725f4bb3d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091710639,
-    "wof:lastmodified":1628266715,
+    "wof:lastmodified":1694492883,
     "wof:name":"Shiekan",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

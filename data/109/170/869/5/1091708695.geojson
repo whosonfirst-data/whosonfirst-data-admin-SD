@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270827,
-    "geom:area_square_m":3247235687.965892,
+    "geom:area_square_m":3247235444.58403,
     "geom:bbox":"33.066999,13.581859,33.684762,14.598326",
     "geom:latitude":14.147014,
     "geom:longitude":33.420855,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Southern El Gezira County"
+        "South Al Jazeera District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":14.159417,
     "lbl:longitude":33.451217,
@@ -70,7 +70,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880106,
-    "wof:geomhash":"2e00fce4149270db3888f7661fb05b03",
+    "wof:geomhash":"f6aeb76159b2e275fe25818d2b9aa62b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1091708695,
-    "wof:lastmodified":1627522753,
+    "wof:lastmodified":1694492790,
     "wof:name":"Southern El Gezira",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

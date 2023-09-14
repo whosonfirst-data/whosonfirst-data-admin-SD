@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212891,
-    "geom:area_square_m":2586607548.715941,
+    "geom:area_square_m":2586607817.51866,
     "geom:bbox":"24.739934,10.332984,25.385646,11.009103",
     "geom:latitude":10.705754,
     "geom:longitude":25.085179,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Buram County"
+        "Buram District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":10.729514,
     "lbl:longitude":25.090096,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880204,
-    "wof:geomhash":"420ecd8980c6632c5a8ffc38eb69b24a",
+    "wof:geomhash":"e0213ade3db15aa9faf447c716a3180f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091711049,
-    "wof:lastmodified":1627522754,
+    "wof:lastmodified":1694492791,
     "wof:name":"Buram",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

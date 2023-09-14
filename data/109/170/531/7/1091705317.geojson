@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285254,
-    "geom:area_square_m":3437134120.326113,
+    "geom:area_square_m":3437134307.832471,
     "geom:bbox":"35.583786,12.65653,36.221428,13.31648",
     "geom:latitude":12.976536,
     "geom:longitude":35.923685,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Basonda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.99018,
     "lbl:longitude":35.923634,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Basonda"
+    ],
     "name:eng_x_variant":[
         "Al Galabat"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879948,
-    "wof:geomhash":"055706bc9030e01b46ae9c600c1a5a04",
+    "wof:geomhash":"1bc508b90720721a7aaade0985ed0963",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091705317,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492828,
     "wof:name":"Basonda",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

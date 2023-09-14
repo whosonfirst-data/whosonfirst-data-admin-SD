@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.296895,
-    "geom:area_square_m":3526609219.197772,
+    "geom:area_square_m":3526609416.392059,
     "geom:bbox":"31.698967,15.604439,32.461133,16.629747",
     "geom:latitude":16.129235,
     "geom:longitude":32.069273,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Umm Badda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.411264,
     "lbl:longitude":31.916212,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Umm Badda"
+    ],
     "name:eng_x_variant":[
         "Karary"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880195,
-    "wof:geomhash":"2f28c4ab4c2f21376011ad62c3e17529",
+    "wof:geomhash":"147d9f041f1d257d05be9a3dac9ecbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091710789,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694492891,
     "wof:name":"Umm Badda",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

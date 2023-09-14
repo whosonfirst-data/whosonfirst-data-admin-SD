@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.797947,
-    "geom:area_square_m":9497402585.46611,
+    "geom:area_square_m":9497401027.881714,
     "geom:bbox":"32.578361,15.218601,34.37677,16.168744",
     "geom:latitude":15.725679,
     "geom:longitude":33.381101,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Sharq El Nile County"
+        "Shrg Alneel District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":15.719189,
     "lbl:longitude":33.292617,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880097,
-    "wof:geomhash":"d009298a37b1e146a78e02934444ac87",
+    "wof:geomhash":"01420eed63b0a6fc7fb5202ee75d2546",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091708425,
-    "wof:lastmodified":1627522759,
+    "wof:lastmodified":1694492793,
     "wof:name":"Sharq El Nile",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

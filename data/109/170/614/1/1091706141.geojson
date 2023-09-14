@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.090935,
-    "geom:area_square_m":36522987680.172516,
+    "geom:area_square_m":36522987068.826744,
     "geom:bbox":"32.148835,16.302521,35.694837,17.969288",
     "geom:latitude":17.134245,
     "geom:longitude":34.251392,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Ed Damer District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.189921,
     "lbl:longitude":34.667821,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ed Damer"
+    ],
     "name:eng_x_variant":[
         "Shendi"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473879983,
-    "wof:geomhash":"8c045e0152dacb2301ba4454444e8d64",
+    "wof:geomhash":"9fb6ec65b2273ae08f2c94128bd52427",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091706141,
-    "wof:lastmodified":1628266646,
+    "wof:lastmodified":1694492842,
     "wof:name":"Ed Damer",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053957,
-    "geom:area_square_m":628966413.519428,
+    "geom:area_square_m":628966413.519189,
     "geom:bbox":"37.1092671289,19.2492646669,37.335361481,19.6848249287",
     "geom:latitude":19.487,
     "geom:longitude":37.210539,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Port Sudan County"
+        "Port Sudan District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":19.47966,
     "lbl:longitude":37.199371,
@@ -195,7 +195,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880149,
-    "wof:geomhash":"5fea6a4ba7c723ab13b20b3bd67c31e3",
+    "wof:geomhash":"cb47a722beb16d455e4bdc8f04fb3714",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1091709521,
-    "wof:lastmodified":1566639581,
+    "wof:lastmodified":1694492395,
     "wof:name":"Port Sudan",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

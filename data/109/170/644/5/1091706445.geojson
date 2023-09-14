@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24608,
-    "geom:area_square_m":2988845275.772816,
+    "geom:area_square_m":2988845528.857503,
     "geom:bbox":"25.617988,10.141338,26.072888,11.232574",
     "geom:latitude":10.804444,
     "geom:longitude":25.904998,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "El Ferdous District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.838968,
     "lbl:longitude":25.889466,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Ferdous"
+    ],
     "name:eng_x_variant":[
         "Al Deain"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473879998,
-    "wof:geomhash":"70cd31f6a13fb33a45e7d6aaecb3601d",
+    "wof:geomhash":"70b91b786511e50ddd6da03fa2535300",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091706445,
-    "wof:lastmodified":1628266646,
+    "wof:lastmodified":1694492843,
     "wof:name":"El Ferdous",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.592635,
-    "geom:area_square_m":7189976824.819729,
+    "geom:area_square_m":7189976837.927874,
     "geom:bbox":"33.246094,10.632986,34.384354,11.681459",
     "geom:latitude":11.137259,
     "geom:longitude":33.806938,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Bau County"
+        "Bau District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":11.156782,
     "lbl:longitude":33.750829,
@@ -102,7 +102,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880153,
-    "wof:geomhash":"049f849f9fe8b0fe332b8ab6ac3827b1",
+    "wof:geomhash":"be46406e912e7ca516ac56e44306e706",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1091709635,
-    "wof:lastmodified":1627522754,
+    "wof:lastmodified":1694492791,
     "wof:name":"Bau",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

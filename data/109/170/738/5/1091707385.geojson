@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.964801,
-    "geom:area_square_m":11472260856.851799,
+    "geom:area_square_m":11472261354.990191,
     "geom:bbox":"34.208938,15.350961,35.785146,16.363923",
     "geom:latitude":15.920301,
     "geom:longitude":34.909592,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Seteet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.90549,
     "lbl:longitude":34.89455,
     "lbl:max_zoom":10.0,
@@ -62,7 +68,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880044,
-    "wof:geomhash":"0d70240752231b88d88149f2ddf3ea54",
+    "wof:geomhash":"98293624a3a850a7de4a3fc9807374ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091707385,
-    "wof:lastmodified":1690862910,
+    "wof:lastmodified":1694492793,
     "wof:name":"Atbara River",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218773,
-    "geom:area_square_m":2650040348.847078,
+    "geom:area_square_m":2650040424.223163,
     "geom:bbox":"26.351874,11.252778,26.827645,11.874988",
     "geom:latitude":11.586208,
     "geom:longitude":26.573377,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Abu Karinka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.588345,
     "lbl:longitude":26.577894,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Abu Karinka"
+    ],
     "name:eng_x_variant":[
         "Adayala",
         "Al Deain"
@@ -47,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473879964,
-    "wof:geomhash":"4c7370eee4aa19e4766ccc42098c8d5e",
+    "wof:geomhash":"98f60292ddbc93e5fe42cd8745d665f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091705605,
-    "wof:lastmodified":1628266614,
+    "wof:lastmodified":1694492824,
     "wof:name":"Abu Karinka",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

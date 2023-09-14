@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346444,
-    "geom:area_square_m":4183864993.933717,
+    "geom:area_square_m":4183864896.550671,
     "geom:bbox":"29.503311,12.145374,30.585004,12.746522",
     "geom:latitude":12.402284,
     "geom:longitude":30.004611,
     "iso:country":"SD",
+    "label:eng_x_preferred_longname":[
+        "Al Qoz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.403375,
     "lbl:longitude":29.861551,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Qoz"
+    ],
     "name:eng_x_variant":[
         "Delling",
         "Dilling"
@@ -47,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"SD",
     "wof:created":1473880154,
-    "wof:geomhash":"71c151c60aba21d053b5fce3fd9e6bef",
+    "wof:geomhash":"8aa6e422b4c6c9305d9887cbb39087c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091709677,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Al Qoz",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

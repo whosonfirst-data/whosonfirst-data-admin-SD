@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.503709,
-    "geom:area_square_m":17649517687.173737,
+    "geom:area_square_m":17649519050.751709,
     "geom:bbox":"31.302125,17.126626,32.654025,19.600718",
     "geom:latitude":18.330106,
     "geom:longitude":31.966759,
     "iso:country":"SD",
     "label:eng_x_preferred_longname":[
-        "Merawi County"
+        "Marwai District"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "district"
     ],
     "lbl:latitude":18.374497,
     "lbl:longitude":31.90012,
@@ -69,7 +69,7 @@
     },
     "wof:country":"SD",
     "wof:created":1473880183,
-    "wof:geomhash":"eb1eb06812b21492f4e77988defec8a1",
+    "wof:geomhash":"a059617c917ff47a4f7aa668989c30c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091710471,
-    "wof:lastmodified":1627522758,
+    "wof:lastmodified":1694492793,
     "wof:name":"Merawi",
     "wof:parent_id":85676905,
     "wof:placetype":"county",
