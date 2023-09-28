@@ -1155,6 +1155,7 @@
         "gp:id":23424952,
         "hasc:id":"SD",
         "ioc:id":"SUD",
+        "iso:code":"SD",
         "itu:id":"SDN",
         "loc:id":"n79022301",
         "m49:code":"729",
@@ -1168,6 +1169,7 @@
         "wk:page":"Sudan",
         "wmo:id":"SU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:country_alpha3":"SDN",
     "wof:geom_alt":[
@@ -1192,7 +1194,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1694639595,
+    "wof:lastmodified":1695881256,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
