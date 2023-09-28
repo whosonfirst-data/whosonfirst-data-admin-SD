@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879976,
     "wof:geomhash":"bb6dc0baf602a4b77aaa3235cb57af6b",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091705923,
-    "wof:lastmodified":1694492826,
+    "wof:lastmodified":1695886249,
     "wof:name":"Alwehda",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

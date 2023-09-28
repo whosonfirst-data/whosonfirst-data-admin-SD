@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880035,
     "wof:geomhash":"bc8d460b8e4571519205c03ac67ab799",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707249,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"Kalimendo",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.EF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879995,
     "wof:geomhash":"b798e13696647c874a42cb3b796e164a",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706361,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"El Fasher",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

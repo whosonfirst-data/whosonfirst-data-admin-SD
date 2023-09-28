@@ -163,6 +163,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880093,
     "wof:geomhash":"cbb82af97d63b87a345f1f14a39744fd",
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1091708299,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Sennar",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

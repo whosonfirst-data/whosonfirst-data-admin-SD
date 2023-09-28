@@ -100,6 +100,7 @@
     "wof:concordances":{
         "hasc:id":"SD.BN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880153,
     "wof:geomhash":"be46406e912e7ca516ac56e44306e706",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091709635,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886465,
     "wof:name":"Bau",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

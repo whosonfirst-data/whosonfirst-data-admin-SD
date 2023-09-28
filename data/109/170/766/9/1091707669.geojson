@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880062,
     "wof:geomhash":"ee57d5c5879b59b69e3e2400cd884ba4",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707669,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Middle Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

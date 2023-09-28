@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880127,
     "wof:geomhash":"28ae6ba7f3696e93a3e6110f5c0e1e74",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709051,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Umm Ramtta",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

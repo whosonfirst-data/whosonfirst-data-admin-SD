@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880097,
     "wof:geomhash":"01420eed63b0a6fc7fb5202ee75d2546",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708425,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"Sharq El Nile",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

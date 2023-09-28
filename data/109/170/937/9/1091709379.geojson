@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880142,
     "wof:geomhash":"e0edb853e91b1dab6beac5e42c84deb5",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091709379,
-    "wof:lastmodified":1694492890,
+    "wof:lastmodified":1695886415,
     "wof:name":"Um Buru",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

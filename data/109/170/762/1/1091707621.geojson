@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.QN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880061,
     "wof:geomhash":"2e5b03343abee32c38cf6b68d2406eba",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707621,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"Qala El Nahal",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879956,
     "wof:geomhash":"67751da4c562b1877b156a44eb1e9fc1",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705505,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"El Malha",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

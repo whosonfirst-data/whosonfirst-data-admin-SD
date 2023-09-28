@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879948,
     "wof:geomhash":"1bc508b90720721a7aaade0985ed0963",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091705317,
-    "wof:lastmodified":1694492828,
+    "wof:lastmodified":1695886255,
     "wof:name":"Basonda",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

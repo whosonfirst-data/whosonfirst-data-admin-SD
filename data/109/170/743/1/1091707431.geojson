@@ -82,6 +82,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880049,
     "wof:geomhash":"519164435db45b5a4de422e366877c6b",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1091707431,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Kosti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

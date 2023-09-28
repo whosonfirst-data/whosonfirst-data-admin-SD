@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880028,
     "wof:geomhash":"2b300fe0585b70d83ce9978d45e72321",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707053,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"Hamashkoreib",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

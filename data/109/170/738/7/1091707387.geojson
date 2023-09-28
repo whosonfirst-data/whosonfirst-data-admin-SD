@@ -79,6 +79,7 @@
         "hasc:id":"SD.KA.SE",
         "wd:id":"Q10370728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880046,
     "wof:geomhash":"a21b55149247e798228d6fa8dddb5491",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091707387,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Khashm Ghirba",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880023,
     "wof:geomhash":"f9ff871f12128564568791f742a35944",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091706945,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"Habila",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

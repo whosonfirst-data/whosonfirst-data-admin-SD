@@ -185,6 +185,7 @@
         "hasc:id":"SD.KS.TA",
         "wd:id":"Q2390680"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879961,
     "wof:geomhash":"540ae202fedc29b6012a8946851a7583",
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":1091705521,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Talodi",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

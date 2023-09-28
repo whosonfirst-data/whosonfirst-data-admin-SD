@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.EF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880072,
     "wof:geomhash":"4fcb6093340089492ade8ddbfa710994",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091707925,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"Ed El Fursan",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

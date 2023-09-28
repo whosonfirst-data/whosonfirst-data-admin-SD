@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880051,
     "wof:geomhash":"fbf760a18948e066b4f436c29bf7cc73",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707477,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Kreinik",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

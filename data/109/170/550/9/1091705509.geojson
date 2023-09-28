@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879959,
     "wof:geomhash":"7e0c96ff4938804ddfdf6dd898877729",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091705509,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Kulbus",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880124,
     "wof:geomhash":"8661ec88bb962be5f86b0579b0ecaa55",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708975,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"Sodari",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

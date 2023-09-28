@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RN.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879945,
     "wof:geomhash":"2e1e95f6e56f8d1c6dcc621bc744bfd0",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705233,
-    "wof:lastmodified":1694492789,
+    "wof:lastmodified":1695886462,
     "wof:name":"Abu Hamed",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

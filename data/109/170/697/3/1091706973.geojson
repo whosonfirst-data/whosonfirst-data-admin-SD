@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880024,
     "wof:geomhash":"66286bafcf9266970ef2217036568f82",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706973,
-    "wof:lastmodified":1694492396,
+    "wof:lastmodified":1695886319,
     "wof:name":"Halfa",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

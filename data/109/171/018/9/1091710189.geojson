@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880173,
     "wof:geomhash":"d790a5779e3e32db1e41dd825c2ff0da",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710189,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"Azum",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

@@ -121,6 +121,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880065,
     "wof:geomhash":"3746ec4f22e6705fe22c80b303cde6d9",
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1091707753,
-    "wof:lastmodified":1694492396,
+    "wof:lastmodified":1695886319,
     "wof:name":"Rabak",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

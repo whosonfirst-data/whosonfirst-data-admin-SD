@@ -79,6 +79,7 @@
         "hasc:id":"SD.KA.WH",
         "wd:id":"Q10370728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880128,
     "wof:geomhash":"e33b1f17b2f8b3dc19a4190d2ea34b63",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091709097,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Wad El Helew",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

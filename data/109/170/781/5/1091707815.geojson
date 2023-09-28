@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.EJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880068,
     "wof:geomhash":"16dad08f054c24d45f4e365d6a24c267",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707815,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Jabalian",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

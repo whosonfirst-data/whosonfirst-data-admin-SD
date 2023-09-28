@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880055,
     "wof:geomhash":"80100d797a2b38932e21038d9cb4daf0",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091707529,
-    "wof:lastmodified":1694492865,
+    "wof:lastmodified":1695886346,
     "wof:name":"Marshang",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

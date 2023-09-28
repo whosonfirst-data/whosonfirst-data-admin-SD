@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880140,
     "wof:geomhash":"897799de1ec1276f1b93c80a081ae1ef",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709377,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886463,
     "wof:name":"Al Daba",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

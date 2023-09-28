@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880183,
     "wof:geomhash":"a059617c917ff47a4f7aa668989c30c8",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710471,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886470,
     "wof:name":"Merawi",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

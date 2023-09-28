@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880006,
     "wof:geomhash":"444097a85d33e87f1427e24b45622c23",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706583,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886462,
     "wof:name":"Abu Zabad",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

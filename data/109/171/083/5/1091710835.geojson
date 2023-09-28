@@ -84,6 +84,7 @@
         "hasc:id":"SD.KN.WB",
         "wd:id":"Q10289400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880197,
     "wof:geomhash":"a05467b4f63cc610b8ff1e532adfac42",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091710835,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886473,
     "wof:name":"Wad Banda",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

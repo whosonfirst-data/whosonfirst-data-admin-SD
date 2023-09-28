@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880108,
     "wof:geomhash":"1a209444a8b55c7f1f4786d9122b3345",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091708723,
-    "wof:lastmodified":1694492887,
+    "wof:lastmodified":1695886406,
     "wof:name":"Sunta",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

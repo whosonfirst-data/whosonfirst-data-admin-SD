@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879982,
     "wof:geomhash":"3018e913942b13d890d90774760f8937",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706097,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"Aroma",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

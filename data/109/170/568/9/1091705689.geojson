@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879967,
     "wof:geomhash":"e72da5f01edfbec07a0ba002349ceafa",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091705689,
-    "wof:lastmodified":1694492825,
+    "wof:lastmodified":1695886248,
     "wof:name":"Alborgag",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.EE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880017,
     "wof:geomhash":"9caef84c6d74b1ea2b358187c3a4d5fd",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091706829,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"Eastern El Gezira",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

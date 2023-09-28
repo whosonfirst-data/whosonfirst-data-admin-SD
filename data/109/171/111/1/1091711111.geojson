@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880208,
     "wof:geomhash":"7de4791681654f7618f11021201852af",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091711111,
-    "wof:lastmodified":1694492853,
+    "wof:lastmodified":1695886314,
     "wof:name":"Keilak",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880167,
     "wof:geomhash":"3497409593b1c6a4ad6059ff3d1d69cb",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091710023,
-    "wof:lastmodified":1694492843,
+    "wof:lastmodified":1695886287,
     "wof:name":"Eastern El Galabat",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

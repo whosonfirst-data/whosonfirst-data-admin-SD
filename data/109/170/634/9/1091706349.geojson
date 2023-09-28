@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.EH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879994,
     "wof:geomhash":"0566d784b9377c2ccd4f82b241bea2e4",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091706349,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"El Hasaheesa",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

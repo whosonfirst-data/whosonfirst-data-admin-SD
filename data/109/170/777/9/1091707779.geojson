@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880067,
     "wof:geomhash":"6571059a879447fb6e35ea5483c88df9",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091707779,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"El Manageel",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

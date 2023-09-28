@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879958,
     "wof:geomhash":"e3debe77f68da3973325ef8a3d452dab",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091705507,
-    "wof:lastmodified":1694492856,
+    "wof:lastmodified":1695886320,
     "wof:name":"Kornoi",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

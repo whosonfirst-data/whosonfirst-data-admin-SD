@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880209,
     "wof:geomhash":"932135896486842801d42f8bd4fd545b",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091711157,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886463,
     "wof:name":"Abyei - Muglad",
     "wof:parent_id":-1,
     "wof:placetype":"county",

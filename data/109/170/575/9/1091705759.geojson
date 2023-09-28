@@ -157,6 +157,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879970,
     "wof:geomhash":"271acd4d3106fc40c02cc0ba6d88e9b9",
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":1091705759,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Dongola",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

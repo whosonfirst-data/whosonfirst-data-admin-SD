@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880191,
     "wof:geomhash":"22ba5a72161ab48eda5346c08ef198ea",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710685,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Sinkat",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

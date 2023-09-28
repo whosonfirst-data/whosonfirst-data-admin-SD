@@ -108,6 +108,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880146,
     "wof:geomhash":"62012c8e25cb0e6e6ae4835031809383",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091709471,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Halayeb",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.BN.TD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880158,
     "wof:geomhash":"b5a392af98f3dbe8e3167ec9b974aa34",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709781,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"Al Tadamon",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

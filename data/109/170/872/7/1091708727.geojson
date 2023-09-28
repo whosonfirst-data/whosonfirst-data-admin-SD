@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880111,
     "wof:geomhash":"4dec112d12687b9cf25a47056203ac00",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708727,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Tendalti",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

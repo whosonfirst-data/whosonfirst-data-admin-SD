@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880088,
     "wof:geomhash":"d70142b56ad7d902ea8770b10b1a20cc",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708193,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"Saraf Omra",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

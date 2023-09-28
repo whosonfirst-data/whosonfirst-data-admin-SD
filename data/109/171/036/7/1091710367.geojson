@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880179,
     "wof:geomhash":"8e174d4eec76e3e6f297c4433a2c9dc2",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710367,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Kebkabiya",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

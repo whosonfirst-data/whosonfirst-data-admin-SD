@@ -115,6 +115,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880192,
     "wof:geomhash":"584243a4722a37cb7d9506810747e9bb",
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1091710717,
-    "wof:lastmodified":1694492396,
+    "wof:lastmodified":1695886319,
     "wof:name":"Suakin",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

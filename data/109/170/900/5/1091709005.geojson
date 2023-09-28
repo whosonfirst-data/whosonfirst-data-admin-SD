@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.UK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880126,
     "wof:geomhash":"9570485d602c93cedfd55ed827079745",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709005,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Umm Keddada",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

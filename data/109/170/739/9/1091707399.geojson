@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880047,
     "wof:geomhash":"35974db9ade33f1cb6bb272a915abca9",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707399,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Douiem",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"SS.WR.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880206,
     "wof:geomhash":"af69d02729ed1efff9bcfbde928d5db7",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091711067,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886463,
     "wof:name":"Abyei PCA Area",
     "wof:parent_id":-1,
     "wof:placetype":"county",

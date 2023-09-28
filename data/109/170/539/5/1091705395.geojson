@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879951,
     "wof:geomhash":"af6c9eb966eaa75b88154bf66c3d4145",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091705395,
-    "wof:lastmodified":1694492833,
+    "wof:lastmodified":1695886267,
     "wof:name":"Bindisi",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

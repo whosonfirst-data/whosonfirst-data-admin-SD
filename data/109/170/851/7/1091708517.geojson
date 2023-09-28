@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880101,
     "wof:geomhash":"52225df66fa1566ed9eb5dff9e603a23",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091708517,
-    "wof:lastmodified":1694492883,
+    "wof:lastmodified":1695886397,
     "wof:name":"Shattai",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

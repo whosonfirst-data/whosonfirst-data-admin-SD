@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.EK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880096,
     "wof:geomhash":"b97ccffbf7bea61a280f9651ea79da37",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708377,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Kamleen",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

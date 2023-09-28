@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.GC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880064,
     "wof:geomhash":"53732e0c1fec7150bb399d01d752fe3a",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1091707715,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Gedaref",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

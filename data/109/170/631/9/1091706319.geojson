@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WN.EG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879991,
     "wof:geomhash":"1ba0f29253c09a34a6cb4a4202f685c9",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706319,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"El Gutaina",
     "wof:parent_id":85676909,
     "wof:placetype":"county",

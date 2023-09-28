@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880091,
     "wof:geomhash":"080def8c125dd5196ddf4f0228da5aed",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708257,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"Eastern Sennar",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880102,
     "wof:geomhash":"da56998119066bb4b94b619e3c263ef7",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091708563,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"Sheiria",
     "wof:parent_id":85676875,
     "wof:placetype":"county",
