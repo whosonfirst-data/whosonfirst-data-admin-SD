@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.45835,
-    "geom:area_square_m":114472789180.640503,
+    "geom:area_square_m":114472789180.641342,
     "geom:bbox":"27.0681959704,9.347221,29.9422873531,14.1214438162",
     "geom:latitude":11.760898,
     "geom:longitude":28.41415,
@@ -106,11 +106,13 @@
     "wof:concordances":{
         "fips:code":"SU62",
         "hasc:id":"SD.WK",
+        "iso:code":"SD-GK",
         "iso:id":"SD-GK"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:created":1485561904,
-    "wof:geomhash":"abc6c7f2c7df4b600230197318e97106",
+    "wof:geomhash":"7135f903b3c63ddae321dc8d069fdb80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +129,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566639478,
+    "wof:lastmodified":1695884326,
     "wof:name":"West Kordofan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
