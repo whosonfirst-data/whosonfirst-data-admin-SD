@@ -85,6 +85,7 @@
         "hasc:id":"SD.KN.GB",
         "wd:id":"Q10289400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880015,
     "wof:geomhash":"49725a19c44b313c9bf48469c4aa6aca",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1091706783,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"Ghubaysh",
     "wof:parent_id":-1,
     "wof:placetype":"county",

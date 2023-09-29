@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880201,
     "wof:geomhash":"38e023ea2981a56de6730adf178170aa",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091710957,
-    "wof:lastmodified":1694492843,
+    "wof:lastmodified":1695886288,
     "wof:name":"El Qaneb",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

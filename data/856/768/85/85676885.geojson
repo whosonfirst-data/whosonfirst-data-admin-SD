@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.746367,
-    "geom:area_square_m":33173982565.924046,
+    "geom:area_square_m":33173981750.223953,
     "geom:bbox":"22.555232,10.689637,24.711274,13.557274",
     "geom:latitude":12.326471,
     "geom:longitude":23.359358,
@@ -230,15 +230,17 @@
         "fips:code":"SU61",
         "gp:id":20069894,
         "hasc:id":"SD.CD",
+        "iso:code":"SD-DC",
         "iso:id":"SD-DC",
         "qs_pg:id":895510,
         "wd:id":"Q4116493"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"085572a4fa8b072b5c5bd56005c74588",
+    "wof:geomhash":"f3296f7b00675eb4aedcb1c763fb663f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -255,7 +257,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862906,
+    "wof:lastmodified":1695884800,
     "wof:name":"Central Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

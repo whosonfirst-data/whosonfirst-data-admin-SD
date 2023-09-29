@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880056,
     "wof:geomhash":"d36a5da00ee8b034381fa95489c53b27",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091707575,
-    "wof:lastmodified":1694492832,
+    "wof:lastmodified":1695886263,
     "wof:name":"Bielel",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

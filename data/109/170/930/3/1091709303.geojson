@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880135,
     "wof:geomhash":"92e8a4c3e5d14e7bc294a63dc68fc718",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709303,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886471,
     "wof:name":"North Delta",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

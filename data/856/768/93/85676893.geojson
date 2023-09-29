@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.285144,
-    "geom:area_square_m":27343689310.620754,
+    "geom:area_square_m":27343689130.703407,
     "geom:bbox":"32.351211,13.562893,34.294922,15.461092",
     "geom:latitude":14.59524,
     "geom:longitude":33.277354,
@@ -308,15 +308,17 @@
         "gn:id":408648,
         "gp:id":20069916,
         "hasc:id":"SD.GZ",
+        "iso:code":"SD-GZ",
         "iso:id":"SD-GZ",
         "qs_pg:id":908820,
         "wd:id":"Q309469"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8effdd9f4dfb589b1d3f8c7eb41ff15c",
+    "wof:geomhash":"f017ffe2c6b8652e3842e39ce48f912a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862904,
+    "wof:lastmodified":1695884799,
     "wof:name":"Gezira",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

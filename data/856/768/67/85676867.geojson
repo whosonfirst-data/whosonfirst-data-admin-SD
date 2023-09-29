@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.700813,
-    "geom:area_square_m":217417459065.074158,
+    "geom:area_square_m":217417455387.343079,
     "geom:bbox":"33.265656,17.004641,38.581341,23.14827",
     "geom:latitude":19.85454,
     "geom:longitude":35.692622,
@@ -321,15 +321,17 @@
         "gn:id":408646,
         "gp:id":20069904,
         "hasc:id":"SD.RS",
+        "iso:code":"SD-RS",
         "iso:id":"SD-RS",
         "qs_pg:id":895511,
         "wd:id":"Q310120"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25c1ac8d8ac864e1948835e9a8551fd3",
+    "wof:geomhash":"da7e7f7e2b6f19a6104d62fbc7ead15c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862903,
+    "wof:lastmodified":1695884798,
     "wof:name":"Red Sea",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

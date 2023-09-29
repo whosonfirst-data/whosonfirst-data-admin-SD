@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.EG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879953,
     "wof:geomhash":"78225a9f57dcb02dd8847a70672d51cd",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705485,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886463,
     "wof:name":"El Geneina",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

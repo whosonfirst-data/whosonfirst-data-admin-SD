@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880094,
     "wof:geomhash":"4165c9b692e35e3e8d2b2cd2cb8c5644",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091708337,
-    "wof:lastmodified":1694492883,
+    "wof:lastmodified":1695886397,
     "wof:name":"Sharg Jabel Marra",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

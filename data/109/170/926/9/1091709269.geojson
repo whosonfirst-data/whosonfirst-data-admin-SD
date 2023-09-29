@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.NB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880134,
     "wof:geomhash":"d6c9e7f923596257b34ff248c4025045",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091709269,
-    "wof:lastmodified":1694492893,
+    "wof:lastmodified":1695886422,
     "wof:name":"Western Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

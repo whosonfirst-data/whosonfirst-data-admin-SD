@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.WO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880018,
     "wof:geomhash":"60789bd15d5633656ef74c75892c6237",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091706877,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Greater Wad Madani",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

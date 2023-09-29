@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880090,
     "wof:geomhash":"89c2087305dc22b93056e08a86f0255e",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091708215,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Nertiti",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

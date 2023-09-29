@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880170,
     "wof:geomhash":"a1623afd432c5549c4c726a1ed1da019",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710099,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"El Dali",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

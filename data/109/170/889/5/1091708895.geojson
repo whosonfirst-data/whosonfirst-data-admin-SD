@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.UA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880118,
     "wof:geomhash":"15d9cdceb9ff7664d53805d3ebe260aa",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091708895,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Um El Qura",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

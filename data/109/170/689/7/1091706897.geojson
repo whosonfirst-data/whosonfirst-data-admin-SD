@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.AJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880020,
     "wof:geomhash":"3a0da881a206709151350ef395554a98",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706897,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886462,
     "wof:name":"Abu Jubaiha",
     "wof:parent_id":85676923,
     "wof:placetype":"county",

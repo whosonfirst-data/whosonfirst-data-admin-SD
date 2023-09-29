@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879974,
     "wof:geomhash":"dc11a81bfeee6c5afa0cb0d601ea286e",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705881,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886465,
     "wof:name":"Dalgo",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

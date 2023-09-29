@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880200,
     "wof:geomhash":"d02f40b976dd78229ee32279467cb29c",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091710919,
-    "wof:lastmodified":1694492850,
+    "wof:lastmodified":1695886306,
     "wof:name":"Jabiet Al Maadin",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

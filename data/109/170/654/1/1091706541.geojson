@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.EN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880003,
     "wof:geomhash":"121ec8a102b394152cb67c28a7515dc9",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706541,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Nehoud",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

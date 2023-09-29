@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880032,
     "wof:geomhash":"173748b136d601c71bca038888ff0dcb",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707171,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"El Sireaf",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

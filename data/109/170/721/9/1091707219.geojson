@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880034,
     "wof:geomhash":"86d7b5e969f1839a71a1f7f224c3a8c1",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091707219,
-    "wof:lastmodified":1694492852,
+    "wof:lastmodified":1695886310,
     "wof:name":"Jebel Moon",
     "wof:parent_id":85676881,
     "wof:placetype":"county",

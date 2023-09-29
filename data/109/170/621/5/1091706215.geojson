@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.ED"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879986,
     "wof:geomhash":"008a71514249dcfda9e578c4e9e2e069",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706215,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886465,
     "wof:name":"El Dindir",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

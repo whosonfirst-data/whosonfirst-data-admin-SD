@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GZ.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880106,
     "wof:geomhash":"f6aeb76159b2e275fe25818d2b9aa62b",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091708695,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"Southern El Gezira",
     "wof:parent_id":85676893,
     "wof:placetype":"county",

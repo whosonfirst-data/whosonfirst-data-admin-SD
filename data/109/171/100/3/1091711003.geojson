@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880203,
     "wof:geomhash":"85fdf2bbdf36e6c110256cd6f06bfd71",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091711003,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886464,
     "wof:name":"Agig",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

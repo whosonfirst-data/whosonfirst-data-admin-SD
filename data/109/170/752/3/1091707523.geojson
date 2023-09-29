@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880053,
     "wof:geomhash":"ceddce29b5fe10360fa7673030fa979d",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707523,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Lagawa",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

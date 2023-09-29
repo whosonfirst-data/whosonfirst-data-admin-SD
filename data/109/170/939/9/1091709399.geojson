@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.BN.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880145,
     "wof:geomhash":"8f069c9cade4bffab05266cb5539b7be",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709399,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"Geissan",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

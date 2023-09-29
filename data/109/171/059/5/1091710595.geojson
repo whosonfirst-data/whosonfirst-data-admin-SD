@@ -115,6 +115,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RN.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880188,
     "wof:geomhash":"b7da1601177a2f0be6d05821d9851899",
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1091710595,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Shendi",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

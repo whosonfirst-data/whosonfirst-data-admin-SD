@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.NO.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879968,
     "wof:geomhash":"01123c74c00365f61e85d81acd305698",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705739,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886463,
     "wof:name":"Algolid",
     "wof:parent_id":85676905,
     "wof:placetype":"county",

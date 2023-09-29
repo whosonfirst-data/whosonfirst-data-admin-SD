@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.436395,
-    "geom:area_square_m":53847935966.946167,
+    "geom:area_square_m":53847935367.632553,
     "geom:bbox":"25.285048,9.488887,27.882781,12.963885",
     "geom:latitude":10.975501,
     "geom:longitude":26.465561,
@@ -90,14 +90,16 @@
         "fips:code":"SU60",
         "gp:id":20069893,
         "hasc:id":"SD.ED",
+        "iso:code":"SD-DE",
         "iso:id":"SD-DE",
         "qs_pg:id":895509
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"542a0c938224b352ea0495aa70023f15",
+    "wof:geomhash":"664499f7d58c8e18418cdf6472e7542c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +116,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1636495579,
+    "wof:lastmodified":1695884799,
     "wof:name":"Eastern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

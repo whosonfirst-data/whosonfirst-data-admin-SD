@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.144691,
-    "geom:area_square_m":38128183940.236526,
+    "geom:area_square_m":38128183134.501244,
     "geom:bbox":"33.136397,9.499999,35.082756,12.562287",
     "geom:latitude":11.303332,
     "geom:longitude":34.128361,
@@ -458,16 +458,18 @@
         "gn:id":408654,
         "gp:id":20069913,
         "hasc:id":"SD.BN",
+        "iso:code":"SD-NB",
         "iso:id":"SD-NB",
         "qs_pg:id":331987,
         "unlc:id":"SD-NB",
         "wd:id":"Q309489"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"588c27279f25c39ae5a9dd2bb87635a2",
+    "wof:geomhash":"4400fc27bd2a19c80ab6bdf2cfe34c85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -484,7 +486,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862905,
+    "wof:lastmodified":1695884800,
     "wof:name":"Blue Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

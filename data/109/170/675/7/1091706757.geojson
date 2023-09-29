@@ -92,6 +92,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880014,
     "wof:geomhash":"08e78174072199612b4eb52573293c52",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091706757,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886462,
     "wof:name":"Adila",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

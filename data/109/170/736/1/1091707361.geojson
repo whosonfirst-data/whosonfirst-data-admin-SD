@@ -154,6 +154,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KH.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880042,
     "wof:geomhash":"b2b1d83525a4585f83a56d6a74741aa9",
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1091707361,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Khartoum North",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

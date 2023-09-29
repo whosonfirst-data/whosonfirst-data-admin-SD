@@ -169,6 +169,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RN.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880163,
     "wof:geomhash":"3f2760328926f73ac20b86ae7dc04a73",
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1091709911,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Atbara",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

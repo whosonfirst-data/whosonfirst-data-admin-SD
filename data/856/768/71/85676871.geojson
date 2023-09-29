@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.866989,
-    "geom:area_square_m":71130446706.872971,
+    "geom:area_square_m":71130444251.034302,
     "geom:bbox":"23.051519,9.655377,25.928409,13.117664",
     "geom:latitude":11.305404,
     "geom:longitude":24.50242,
@@ -250,15 +250,17 @@
         "fips:code":"SU49",
         "gp:id":20069893,
         "hasc:id":"SD.SF",
+        "iso:code":"SD-DS",
         "iso:id":"SD-DS",
         "qs_pg:id":895509,
         "wd:id":"Q838778"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce63d83c4b9bbde4c75a7f944cbf059e",
+    "wof:geomhash":"92fca2adad499a76e22497498540137d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -275,7 +277,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862906,
+    "wof:lastmodified":1695884800,
     "wof:name":"Southern Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

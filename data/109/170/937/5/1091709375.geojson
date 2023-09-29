@@ -85,6 +85,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880138,
     "wof:geomhash":"28b398040fa21ca62b5dbeb3be18b812",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091709375,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886473,
     "wof:name":"Zalingei",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

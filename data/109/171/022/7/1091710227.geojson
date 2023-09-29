@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.NB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880174,
     "wof:geomhash":"1c3fdde2be0011947209ec874e74c14c",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091710227,
-    "wof:lastmodified":1694492848,
+    "wof:lastmodified":1695886300,
     "wof:name":"Halfa El Jadeeda",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

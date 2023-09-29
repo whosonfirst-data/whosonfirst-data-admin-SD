@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880143,
     "wof:geomhash":"368c80adc3b54c102b1c56e674d502a5",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709395,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Jebrat El Sheikh",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

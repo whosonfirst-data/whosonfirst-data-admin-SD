@@ -193,6 +193,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880149,
     "wof:geomhash":"cb47a722beb16d455e4bdc8f04fb3714",
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1091709521,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Port Sudan",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

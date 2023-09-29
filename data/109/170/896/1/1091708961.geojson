@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880121,
     "wof:geomhash":"3302caaafa77782b0b8635e483b0d7e7",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708961,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Um Rawaba",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

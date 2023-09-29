@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.WS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880151,
     "wof:geomhash":"ba0978972023ae55ce0762289607c33e",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091709589,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886473,
     "wof:name":"Wadi Salih",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

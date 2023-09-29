@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.268581,
-    "geom:area_square_m":39393220974.332611,
+    "geom:area_square_m":39393221761.120163,
     "geom:bbox":"32.911096,11.749768,35.692321,14.109481",
     "geom:latitude":12.910526,
     "geom:longitude":34.04505,
@@ -309,16 +309,18 @@
         "gn:id":408669,
         "gp:id":20069915,
         "hasc:id":"SD.SI",
+        "iso:code":"SD-SI",
         "iso:id":"SD-SI",
         "qs_pg:id":908819,
         "unlc:id":"SD-SI",
         "wd:id":"Q865534"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"223c571c805f5cfbe5584cba5cf7b7b3",
+    "wof:geomhash":"700fc844e96097e5bc9ba048a094c8a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -335,7 +337,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862903,
+    "wof:lastmodified":1695884799,
     "wof:name":"Sennar",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

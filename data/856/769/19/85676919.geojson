@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.74298,
-    "geom:area_square_m":317297419741.96875,
+    "geom:area_square_m":317297420738.458191,
     "geom:bbox":"22.769607,11.748951,27.54644,20.026534",
     "geom:latitude":16.218959,
     "geom:longitude":25.551868,
@@ -322,16 +322,18 @@
         "gn:id":408666,
         "gp:id":20069895,
         "hasc:id":"SD.ND",
+        "iso:code":"SD-DN",
         "iso:id":"SD-DN",
         "qs_pg:id":1084682,
         "unlc:id":"SD-DN",
         "wd:id":"Q688306"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"970272fa956380e65d40beea2f4a19ec",
+    "wof:geomhash":"4a1c347e83911a0698cc05a3c463d9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -348,7 +350,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862901,
+    "wof:lastmodified":1695884798,
     "wof:name":"North Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

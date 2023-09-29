@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.UD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879962,
     "wof:geomhash":"3ce819101a58ec80440be2736f607f93",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705567,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Umm Dukhun",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

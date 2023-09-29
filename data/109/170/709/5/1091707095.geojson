@@ -94,6 +94,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RS.HY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880029,
     "wof:geomhash":"c17f297c9328629a7d27050b2003ca6a",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1091707095,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Haya",
     "wof:parent_id":85676867,
     "wof:placetype":"county",

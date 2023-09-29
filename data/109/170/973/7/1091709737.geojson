@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880157,
     "wof:geomhash":"c6e86ececf4c5a3e2fb799e492c49f46",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091709737,
-    "wof:lastmodified":1694492825,
+    "wof:lastmodified":1695886248,
     "wof:name":"Al Sunut",
     "wof:parent_id":1108805631,
     "wof:placetype":"county",

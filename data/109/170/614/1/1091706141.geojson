@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RN.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879983,
     "wof:geomhash":"9fb6ec65b2273ae08f2c94128bd52427",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091706141,
-    "wof:lastmodified":1694492842,
+    "wof:lastmodified":1695886287,
     "wof:name":"Ed Damer",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

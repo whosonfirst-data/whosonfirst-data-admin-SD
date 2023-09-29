@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879997,
     "wof:geomhash":"4e5f0bf47a55440ac346f11a37dd9e3c",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091706397,
-    "wof:lastmodified":1694492843,
+    "wof:lastmodified":1695886287,
     "wof:name":"El Kuma",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

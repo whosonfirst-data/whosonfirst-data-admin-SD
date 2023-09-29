@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879946,
     "wof:geomhash":"fd77147d8c4faa10a7e5556dea596f32",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091705275,
-    "wof:lastmodified":1694492790,
+    "wof:lastmodified":1695886465,
     "wof:name":"Bahr El Arab",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

@@ -66,6 +66,7 @@
         "hasc:id":"SD.KA.NB",
         "wd:id":"Q10370728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880044,
     "wof:geomhash":"98293624a3a850a7de4a3fc9807374ac",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091707385,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886470,
     "wof:name":"Atbara River",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

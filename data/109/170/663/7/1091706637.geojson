@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880009,
     "wof:geomhash":"16b66d64b8195438e235c70067189026",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091706637,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Souki",
     "wof:parent_id":85676915,
     "wof:placetype":"county",

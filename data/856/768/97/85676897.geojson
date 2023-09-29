@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.794518,
-    "geom:area_square_m":57490631037.611847,
+    "geom:area_square_m":57490630995.808815,
     "geom:bbox":"33.567792,12.65653,36.552578,15.757235",
     "geom:latitude":14.114088,
     "geom:longitude":35.11419,
@@ -309,15 +309,17 @@
         "gn:id":408649,
         "gp:id":20069906,
         "hasc:id":"SD.GD",
+        "iso:code":"SD-GD",
         "iso:id":"SD-GD",
         "qs_pg:id":895513,
         "wd:id":"Q309478"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d99b3459256817dff707bc3f2cbf1b2",
+    "wof:geomhash":"c0fa12851c982731d7fb33c18b88addc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -334,7 +336,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862905,
+    "wof:lastmodified":1695884800,
     "wof:name":"Gedarif",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

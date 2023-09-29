@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":31.383281,
-    "geom:area_square_m":365523437710.700073,
+    "geom:area_square_m":365523439544.653137,
     "geom:bbox":"25.0,16.514839,32.654025,22.224918",
     "geom:latitude":19.560661,
     "geom:longitude":29.326212,
@@ -321,16 +321,18 @@
         "gn:id":378389,
         "gp:id":20069999,
         "hasc:id":"SD.NO",
+        "iso:code":"SD-NO",
         "iso:id":"SD-NO",
         "qs_pg:id":1087202,
         "unlc:id":"SD-NO",
         "wd:id":"Q310118"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae5845846cfbb36ba3689efd5b96e404",
+    "wof:geomhash":"a9991e71bfa624d4db16ce1d04629489",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -347,7 +349,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862901,
+    "wof:lastmodified":1695884798,
     "wof:name":"Northern",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

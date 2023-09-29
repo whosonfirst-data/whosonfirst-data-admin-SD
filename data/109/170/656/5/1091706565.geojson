@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KS.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880005,
     "wof:geomhash":"06d5b71f6500eb63d0437777c22dc06e",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091706565,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886467,
     "wof:name":"El Salam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

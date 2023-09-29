@@ -160,6 +160,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KA.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880080,
     "wof:geomhash":"30e33f60bb87cd7841ee82a0d11c6c59",
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":1091708105,
-    "wof:lastmodified":1694492925,
+    "wof:lastmodified":1695886658,
     "wof:name":"Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

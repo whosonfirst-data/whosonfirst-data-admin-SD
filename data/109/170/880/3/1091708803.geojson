@@ -106,6 +106,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KH.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880115,
     "wof:geomhash":"2bd373c47ad7dd2044bea3fd9c80a038",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091708803,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Karari",
     "wof:parent_id":85676889,
     "wof:placetype":"county",

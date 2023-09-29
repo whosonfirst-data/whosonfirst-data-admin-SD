@@ -91,6 +91,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880052,
     "wof:geomhash":"f9fb0d120c4bfee33ba285ff092acd47",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1091707521,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Kutum",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

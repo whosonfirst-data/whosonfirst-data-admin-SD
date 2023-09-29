@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.178222,
-    "geom:area_square_m":131128200101.686493,
+    "geom:area_square_m":131128199466.499741,
     "geom:bbox":"31.886663,15.982948,35.694837,22.000004",
     "geom:latitude":18.366409,
     "geom:longitude":33.455958,
@@ -324,15 +324,17 @@
         "gn:id":408664,
         "gp:id":20069903,
         "hasc:id":"SD.RN",
+        "iso:code":"SD-NR",
         "iso:id":"SD-NR",
         "qs_pg:id":1084683,
         "wd:id":"Q849297"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d60704ec2b6ee7e798eac4d6672d63c",
+    "wof:geomhash":"e76626da56e1ad4b86dda50779255c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -349,7 +351,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862902,
+    "wof:lastmodified":1695884798,
     "wof:name":"River Nile",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

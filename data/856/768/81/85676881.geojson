@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.857961,
-    "geom:area_square_m":22335707844.387745,
+    "geom:area_square_m":22335708559.408543,
     "geom:bbox":"21.814939,12.030722,23.24525,14.986525",
     "geom:latitude":13.523658,
     "geom:longitude":22.616428,
@@ -250,15 +250,17 @@
         "fips:code":"SU47",
         "gp:id":20069894,
         "hasc:id":"SD.WF",
+        "iso:code":"SD-DW",
         "iso:id":"SD-DW",
         "qs_pg:id":895510,
         "wd:id":"Q846331"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59f3abd404c2b0aad9c17382348ee8c4",
+    "wof:geomhash":"84ac38b156d6c51d0a8f53abe18b163b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -275,7 +277,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862905,
+    "wof:lastmodified":1695884799,
     "wof:name":"Western Darfur",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880185,
     "wof:geomhash":"782c156fce202ba48c5203ebc980ac05",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091710501,
-    "wof:lastmodified":1694492869,
+    "wof:lastmodified":1695886360,
     "wof:name":"Niteaga",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

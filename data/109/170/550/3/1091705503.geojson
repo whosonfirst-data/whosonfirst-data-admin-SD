@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SD.BN.EK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473879955,
     "wof:geomhash":"bbc4c8f9cc687efcf0c5cac07b1af90a",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091705503,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1696023154,
     "wof:name":"El Kurmuk",
     "wof:parent_id":85676865,
     "wof:placetype":"county",

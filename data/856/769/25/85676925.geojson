@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.721298,
-    "geom:area_square_m":187882997141.850494,
+    "geom:area_square_m":187882995303.297546,
     "geom:bbox":"26.958799,12.237103,32.356128,16.536434",
     "geom:latitude":14.837098,
     "geom:longitude":29.751364,
@@ -311,16 +311,18 @@
         "gn:id":408667,
         "gp:id":20069912,
         "hasc:id":"SD.NK",
+        "iso:code":"SD-KN",
         "iso:id":"SD-KN",
         "qs_pg:id":1084684,
         "unlc:id":"SD-KN",
         "wd:id":"Q864093"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a670f57eb07b687f277448fa9e8cabd1",
+    "wof:geomhash":"b7697a95b3fb55e8db52408a69baf4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690862903,
+    "wof:lastmodified":1695884799,
     "wof:name":"North Kordufan",
     "wof:parent_id":85632751,
     "wof:placetype":"region",

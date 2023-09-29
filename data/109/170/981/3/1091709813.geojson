@@ -140,6 +140,7 @@
     "wof:concordances":{
         "hasc:id":"SD.KN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880160,
     "wof:geomhash":"820f57c4e9fe16f7dce36b6fad5fd318",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1091709813,
-    "wof:lastmodified":1694492396,
+    "wof:lastmodified":1695886319,
     "wof:name":"Bara",
     "wof:parent_id":85676925,
     "wof:placetype":"county",

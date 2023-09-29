@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880114,
     "wof:geomhash":"f0b847a7341f050b790aac27d3473450",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091708779,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886472,
     "wof:name":"Tullus",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

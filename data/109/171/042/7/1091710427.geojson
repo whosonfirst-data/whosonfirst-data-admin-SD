@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.ND.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880182,
     "wof:geomhash":"091d22a8f97337f3a8bf515a1847692a",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091710427,
-    "wof:lastmodified":1694492793,
+    "wof:lastmodified":1695886470,
     "wof:name":"Mellit",
     "wof:parent_id":85676919,
     "wof:placetype":"county",

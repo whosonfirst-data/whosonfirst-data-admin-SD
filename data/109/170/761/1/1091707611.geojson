@@ -178,6 +178,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880059,
     "wof:geomhash":"ca1401dce575e144b3be072091e7849c",
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1091707611,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886319,
     "wof:name":"Nyala",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.GD.ER"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880133,
     "wof:geomhash":"ef1fffa220ca3e5fdf3b7e14a9c69d9f",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091709223,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886468,
     "wof:name":"El Rahad",
     "wof:parent_id":85676897,
     "wof:placetype":"county",

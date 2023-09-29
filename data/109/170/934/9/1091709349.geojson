@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880137,
     "wof:geomhash":"ca0f4fbfd25e7761da6c2e49a1f320ea",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091709349,
-    "wof:lastmodified":1694492895,
+    "wof:lastmodified":1695886427,
     "wof:name":"Yassin",
     "wof:parent_id":85676875,
     "wof:placetype":"county",

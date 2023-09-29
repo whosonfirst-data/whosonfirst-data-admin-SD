@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880000,
     "wof:geomhash":"9efe2f778fb7653cc92e27ad39ff57e5",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091706467,
-    "wof:lastmodified":1694492843,
+    "wof:lastmodified":1695886288,
     "wof:name":"El Radoom",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

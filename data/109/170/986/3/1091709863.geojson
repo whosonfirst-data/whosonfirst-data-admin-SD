@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"SD.RN.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880161,
     "wof:geomhash":"410275f716d7e2cb3d3da0766b2385b2",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1091709863,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886465,
     "wof:name":"Barbar",
     "wof:parent_id":85676901,
     "wof:placetype":"county",

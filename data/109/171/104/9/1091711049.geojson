@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SD.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880204,
     "wof:geomhash":"e0213ade3db15aa9faf447c716a3180f",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091711049,
-    "wof:lastmodified":1694492791,
+    "wof:lastmodified":1695886466,
     "wof:name":"Buram",
     "wof:parent_id":85676871,
     "wof:placetype":"county",

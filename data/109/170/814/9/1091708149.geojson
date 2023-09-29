@@ -79,6 +79,7 @@
         "hasc:id":"SD.KA.KR",
         "wd:id":"Q10370728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880087,
     "wof:geomhash":"f651d4f3aaa5ad983bdb02e03c15020f",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091708149,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886469,
     "wof:name":"Rural Kassala",
     "wof:parent_id":85676929,
     "wof:placetype":"county",

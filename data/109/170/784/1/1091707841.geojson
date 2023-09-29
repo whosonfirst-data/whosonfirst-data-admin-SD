@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SD.WD.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880070,
     "wof:geomhash":"1cdbb7d96ac1dfaf689873eff58a8560",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091707841,
-    "wof:lastmodified":1694492792,
+    "wof:lastmodified":1695886470,
     "wof:name":"Mukjar",
     "wof:parent_id":85676885,
     "wof:placetype":"county",

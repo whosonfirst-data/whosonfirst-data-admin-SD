@@ -88,6 +88,7 @@
     "wof:concordances":{
         "hasc:id":"SD.SI.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SD",
     "wof:created":1473880103,
     "wof:geomhash":"998a88fbeff14dcab843cd5e4cb1fed1",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091708615,
-    "wof:lastmodified":1694492395,
+    "wof:lastmodified":1695886318,
     "wof:name":"Singa",
     "wof:parent_id":85676915,
     "wof:placetype":"county",
