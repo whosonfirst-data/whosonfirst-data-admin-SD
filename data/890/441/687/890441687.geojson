@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.014443,
     "geom:area_square_m":172052761.308203,
     "geom:bbox":"32.479054,15.479931,32.679791,15.635769",
@@ -19,7 +21,7 @@
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Khartoum"
@@ -678,7 +680,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1690862919,
+    "wof:lastmodified":1706240656,
     "wof:megacity":1,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,
@@ -686,7 +688,9 @@
     "wof:population":6527500,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421189761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
